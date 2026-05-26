@@ -207,6 +207,22 @@ h1 {
     color: #ffffff;
 }
 
+.disclaimer {
+    margin-top: 32px;
+    padding: 14px 16px;
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--status-paused);
+    border-radius: 8px;
+    background: var(--bg-alt);
+    color: var(--fg-muted);
+    font-size: 12.5px;
+    line-height: 1.55;
+}
+.disclaimer p { margin: 0; }
+.disclaimer strong { color: var(--fg); }
+.disclaimer a { color: var(--accent); text-decoration: none; }
+.disclaimer a:hover { text-decoration: underline; }
+
 @media (max-width: 520px) {
     .podcast-art { width: 56px; height: 56px; }
     .podcast-title { font-size: 15px; }
