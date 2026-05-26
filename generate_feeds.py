@@ -11,7 +11,7 @@ from common.psapi import get_podcast_metadata, get_episode_manifest, get_podcast
 podgen_agent = f"nrk-pod-feeder v{get_version()} (with help from python-podgen)"
 podcasts_cfg_file = "podcasts.json"
 filter_teasers = True
-web_url = "https://sindrel.github.io/nrk-pod-feeds"
+web_url = "https://olen.github.io/nrk-pod-feeds"
 
 # Season titles that carry no useful information (calendar buckets, "Sesong N",
 # generic catch-alls) and should not be prepended to episode titles.
