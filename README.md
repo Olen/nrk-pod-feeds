@@ -13,12 +13,10 @@ This project re-packages publicly available podcast episodes from NRK's
 PSAPI as RSS feeds for **personal, non-commercial use only**. It is not
 affiliated with or endorsed by NRK.
 
-- Audio content, artwork, descriptions and other metadata exposed through
-  these feeds remain the copyright of NRK and any third-party rights
-  holders. See NRK's full terms:
-  <https://www.nrk.no/etikk/opphavsrett-pa-nrk.no-1.2843522>.
-- API access follows the restrictions documented at
-  <https://psapi.nrk.no/documentation/>.
+Audio content, artwork, descriptions and other metadata exposed through
+these feeds remain the copyright of NRK and any third-party rights
+holders. See NRK's full terms:
+<https://www.nrk.no/etikk/opphavsrett-pa-nrk.no-1.2843522>.
 
 Do not redistribute the generated feeds publicly or use them commercially.
 

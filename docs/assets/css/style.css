@@ -208,7 +208,7 @@ h1 {
 }
 
 .disclaimer {
-    margin-top: 32px;
+    margin: 0 0 20px;
     padding: 14px 16px;
     border: 1px solid var(--border);
     border-left: 3px solid var(--status-paused);
