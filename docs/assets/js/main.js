@@ -65,6 +65,7 @@ function buildPodcastRow(feed, feed_url, info_url) {
 
     var row = el("li", { cls: "podcast-row " + status.cls });
     row.dataset.name = name.toUpperCase();
+    row.dataset.status = status.cls;
 
     // Artwork
     if (feed.image) {
@@ -140,13 +141,32 @@ function listFeeds() {
         frag.appendChild(buildPodcastRow(feed, feed_url, info_url));
     });
     list.replaceChildren(frag);
+
+    wireFilters();
+    applyFilters();
 }
 
-function searchFeeds() {
-    var filter = document.getElementById("searchInput").value.toUpperCase();
-    var rows = document.querySelectorAll("#feeds_list .podcast-row");
-    rows.forEach(function (row) {
-        var hay = row.dataset.name || "";
-        row.style.display = hay.indexOf(filter) > -1 ? "" : "none";
+function wireFilters() {
+    document.getElementById("searchInput").addEventListener("input", applyFilters);
+    document.querySelectorAll("#legend .legend-item").forEach(function (btn) {
+        btn.addEventListener("click", function () {
+            var on = btn.getAttribute("aria-pressed") !== "false";
+            btn.setAttribute("aria-pressed", on ? "false" : "true");
+            applyFilters();
+        });
+    });
+}
+
+function applyFilters() {
+    var query = (document.getElementById("searchInput").value || "").toUpperCase();
+    var enabledStatuses = {};
+    document.querySelectorAll("#legend .legend-item").forEach(function (btn) {
+        enabledStatuses[btn.dataset.filter] = btn.getAttribute("aria-pressed") !== "false";
+    });
+
+    document.querySelectorAll("#feeds_list .podcast-row").forEach(function (row) {
+        var matchesQuery = (row.dataset.name || "").indexOf(query) > -1;
+        var matchesStatus = enabledStatuses[row.dataset.status] !== false;
+        row.style.display = matchesQuery && matchesStatus ? "" : "none";
     });
 }
