@@ -67,9 +67,15 @@ def update_podcasts_config(configured, discovered):
 
         logging.debug(f"Episodes found: {len(episodes)}")
 
+        series = metadata.get('series', {})
+        titles = series.get('titles', {})
+        square_images = series.get('squareImage') or []
         new_feed = {
             "id": podcast['seriesId'],
             "title": f"{title_prefix}{podcast['title']}",
+            "name": titles.get('title') or podcast['title'],
+            "description": titles.get('subtitle') or '',
+            "image": (square_images[0]['url'] + '.jpg') if square_images else '',
             "season": None,
             "enabled": active['active']
         }
@@ -93,6 +99,15 @@ def update_podcasts_config(configured, discovered):
             changes.append(f"Added podcast '{podcast['title']}' (`{podcast['seriesId']}`)")
             configured.append(new_feed)
             added_c+=1
+            continue
+
+        # Backfill name/description/image silently when a previous run wrote
+        # an entry without them — no changelog noise for cosmetic data.
+        if exists and 'image' not in configured[exists_i]:
+            for k in ('ignore', 'hidden', 'episodes'):
+                if k in configured[exists_i]:
+                    new_feed[k] = configured[exists_i][k]
+            configured[exists_i] = new_feed
 
     logging.info(f"Added {added_c} new podcast feed(s), {updated_c} existing feed(s) were updated")
     return configured, changes

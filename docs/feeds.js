@@ -18,6 +18,9 @@ const feeds = [
   {
     "id": "abels_taarn",
     "title": "De 10 siste fra Abels tårn",
+    "name": "Abels tårn",
+    "description": "Forum for funfacts, hard forskning og bedrevitenskap ",
+    "image": "https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgAWnNV90L24s5bzyOaudbVw.jpg",
     "season": null,
     "enabled": true
   },
@@ -56,18 +59,27 @@ const feeds = [
   {
     "id": "baade_erlend_og_steinar_",
     "title": "De 10 siste fra Både Erlend og Steinar ",
+    "name": "Både Erlend og Steinar ",
+    "description": "En tenketank for folk med lav intelligens.",
+    "image": "https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVgVFteP96jsawr20gUhn3UEA.jpg",
     "season": null,
     "enabled": true
   },
   {
     "id": "bakrommet",
     "title": "De 10 siste fra Bakrommet",
+    "name": "Bakrommet",
+    "description": "Norge skal til VM og våre eksperter prepper deg med alt du bør vite om spillerne, formen og motstanderne - både før og under mesterskapet.",
+    "image": "https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gKMM_8zGRme6av-I4R0j25A.jpg",
     "season": null,
     "enabled": true
   },
   {
     "id": "baksnakk",
     "title": "De 10 siste fra Baksnakk",
+    "name": "Baksnakk",
+    "description": "Zara, Milie og Sofie ler og gråter sammen i studio hver uke.\nNoen ganger prater de om viktige ting, mens andre ganger prater de om litt mindre viktige ting.\n\nRis eller ros? Send det til oss i NRK Radio!",
+    "image": "https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQvHCPqHQXTjK5FqHTlKuD0w.jpg",
     "season": null,
     "enabled": true
   },
@@ -82,6 +94,9 @@ const feeds = [
   {
     "id": "bibelen",
     "title": "De 10 siste fra Bibelen",
+    "name": "Bibelen",
+    "description": "Intriger, sex og brodermord – undere, undergang og oppstandelse. Ingen bok har påvirket vår verden mer enn Bibelen. Men vet du hva som står i den? Are Sende Osen forteller. \n\n",
+    "image": "https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQ-UL0nNNKKblUjSMabQ15yw.jpg",
     "season": null,
     "enabled": false
   },
@@ -104,6 +119,9 @@ const feeds = [
   {
     "id": "binnabnna_ujujju",
     "title": "De 10 siste fra Binnabánnaš & Ujujju",
+    "name": "Binnabánnaš & Ujujju",
+    "description": "Binnabánnaš og Ujujju er to artige små skruer som alltid er nysgjerrige på nye ting.",
+    "image": "https://gfx.nrk.no/FtAD_t9saqQ0scxa1Qp6JQ_188X_d-brdGVnu2DIfvbQ.jpg",
     "season": null,
     "enabled": false
   },
@@ -118,12 +136,18 @@ const feeds = [
   {
     "id": "blaatur",
     "title": "De 10 siste fra Blåtur",
+    "name": "Blåtur",
+    "description": "En ukentlig flukt fra hverdagen! Sketsjer, hyss og spik med Christian Mikkelsen, Olav Svarstad Haugland og Emil Berntsen.",
+    "image": "https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8gpCYp-ObZYemTidxTht-BBA.jpg",
     "season": null,
     "enabled": true
   },
   {
     "id": "bok_i_p2",
     "title": "De 10 siste fra Åpen bok",
+    "name": "Åpen bok",
+    "description": "Møt aktuelle forfattere, hør dem fortelle om den nye boken sin, forfatterskapet og hvordan bøkene blir til. Ny episode hver fredag!",
+    "image": "https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYwg5AH_CksIikoU2ADJ-kDUg.jpg",
     "season": null,
     "enabled": true
   },
@@ -178,12 +202,18 @@ const feeds = [
   {
     "id": "dagsnytt_atten",
     "title": "De 10 siste fra Dagsnytt 18",
+    "name": "Dagsnytt 18",
+    "description": "Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Anne Katrine Førli.",
+    "image": "https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwq1SaZc_Wg7kXEP_t6DBasw.jpg",
     "season": null,
     "enabled": true
   },
   {
     "id": "debatten",
     "title": "De 10 siste fra Debatten",
+    "name": "Debatten",
+    "description": "Hør sendingen med programlederne Åsa Vartdal og Espen Aas, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. ",
+    "image": "https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgW6cdk9xfhWoJPhChAaml_A.jpg",
     "season": null,
     "enabled": true
   },
@@ -198,6 +228,9 @@ const feeds = [
   {
     "id": "desken_brenner",
     "title": "De 10 siste fra Desken brenner",
+    "name": "Desken brenner",
+    "description": "Alt kan skje og ingen er trygge når fire komikere oppsummerer uka!",
+    "image": "https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQcOyrUQAiswfpyCjSU-Th2Q.jpg",
     "season": null,
     "enabled": true
   },
@@ -212,6 +245,9 @@ const feeds = [
   {
     "id": "din_venn_nora",
     "title": "De 10 siste fra Din venn, Nora",
+    "name": "Din venn, Nora",
+    "description": "Nok en hektisk uke for komiker Nora Svenningsen. Her er hennes verbale dagbok, hvor du er med på å fargelegge sidene. ",
+    "image": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JABApeP1Y3oH65kDwuHMWYOg.jpg",
     "season": null,
     "enabled": true
   },
@@ -242,6 +278,9 @@ const feeds = [
   {
     "id": "drivkraft",
     "title": "De 10 siste fra Drivkraft",
+    "name": "Drivkraft",
+    "description": "Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. ",
+    "image": "https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAp2QUB47AMci5g4y9UH5BSA.jpg",
     "season": null,
     "enabled": true
   },
@@ -263,7 +302,10 @@ const feeds = [
   },
   {
     "id": "ekko_-_et_aktuelt_samfunnsprogram",
-    "title": "De 10 siste fra Ekko - samfunnspodden",
+    "title": "De 10 siste fra Ekko",
+    "name": "Ekko",
+    "description": "Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. \n\n\n",
+    "image": "https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3Qkq1KRWr1NX9_3UtaBXQz1Q.jpg",
     "season": null,
     "enabled": true
   },
@@ -276,6 +318,9 @@ const feeds = [
   {
     "id": "eventyrerne",
     "title": "De 10 siste fra Eventyrerne: Jakten på spektralsteinene",
+    "name": "Eventyrerne: Jakten på spektralsteinene",
+    "description": "Tre drevne underholdere kaster seg ut i et eventyr skapt av spillmester Aslak Maurstad. Hvor langt vil fantasi, kløkt og terninger ta dem?",
+    "image": "https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQMe12hr-iQ1uw743LLOE14Q.jpg",
     "season": null,
     "enabled": false
   },
@@ -361,6 +406,9 @@ const feeds = [
   {
     "id": "fredagspanelet",
     "title": "De 10 siste fra Fredagspanelet",
+    "name": "Fredagspanelet",
+    "description": "Vi oppsummerer kulturuka hver fredag, med faste, friske og freidige paneldeltakere.",
+    "image": "https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQX0hX8vL6jPdxPf-acKktAg.jpg",
     "season": null,
     "enabled": true
   },
@@ -391,6 +439,9 @@ const feeds = [
   {
     "id": "gamle_greier",
     "title": "De 10 siste fra Gamle greier",
+    "name": "Gamle greier",
+    "description": "Livsfarlig spionasje, grufulle drap og ulykkelig kjærlighet – Nasjonalbiblioteket dykker ned i noen av fortidas uforglemmelige skjebner.  ",
+    "image": "https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwfp1mOKKgiiJW2WISsraCVQ.jpg",
     "season": null,
     "enabled": false
   },
@@ -453,12 +504,18 @@ const feeds = [
   {
     "id": "haevvi",
     "title": "De 10 siste fra Hævvi",
+    "name": "Hævvi",
+    "description": "Jonna jïh Nelly lægan goh göökte bööremes voelpetje guaktah åvtefeestesne.\nDah guaktah juekiejægan guktie jieledh goh noere saemie NRK:n voestes podkaste åarjelsaemiengielesne.",
+    "image": "https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQtPEczU3raUu3FTo1ras-UQ.jpg",
     "season": null,
     "enabled": false
   },
   {
     "id": "hallo_bablo",
     "title": "De 10 siste fra Hallo Bablo",
+    "name": "Hallo Bablo",
+    "description": "Bli med gjengen i Bablo på nye gøyale sprell! På dette biblioteket kan man bable, tulle og gjøre alt som er rart.",
+    "image": "https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwzhkgZYH4VC11qPpfxlloNw.jpg",
     "season": null,
     "enabled": false
   },
@@ -481,6 +538,9 @@ const feeds = [
   {
     "id": "hele_historien",
     "title": "De 10 siste fra Hele historien",
+    "name": "Hele historien",
+    "description": "Sterke historier fra norsk virkelighet. Fortalt av de som opplevde dem. Dokumentarer om hendelser som har gjort inntrykk.",
+    "image": "https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwcVmADfwGq0tbeWeecSLORw.jpg",
     "season": null,
     "enabled": true
   },
@@ -495,6 +555,9 @@ const feeds = [
   {
     "id": "historiske_kjendiser",
     "title": "De 10 siste fra Historiske kjendiser",
+    "name": "Historiske kjendiser",
+    "description": "Idealister, genier og maktgale gærninger; Alexandra Gjerpen vekker historiens største personer til live igjen.",
+    "image": "https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqAysbXP4OOjvmFfCXLwIIGNg.jpg",
     "season": null,
     "enabled": true
   },
@@ -517,6 +580,9 @@ const feeds = [
   {
     "id": "hvem_skjoet_balder",
     "title": "De 10 siste fra Hvem skjøt Balder?",
+    "name": "Hvem skjøt Balder?",
+    "description": "Den peneste og snilleste guden i Åsgard er drept. Journalisten Eva Strande blir sendt til gudenes verden for å etterforske saken. ",
+    "image": "https://gfx.nrk.no/k9PMYG7M3FE06kOaOed-uwk_5H9Q2JWbQaT5HL4tMrQw.jpg",
     "season": null,
     "enabled": false
   },
@@ -579,6 +645,9 @@ const feeds = [
   {
     "id": "julestemning",
     "title": "De 10 siste fra Julestemning med Live og Ronny",
+    "name": "Julestemning med Live og Ronny",
+    "description": "Live Nelvik og Ronny Brede Aase har ulikt forhold til jul, men elsker å møtes i julekottet for en deilig og underholdende koselomme i den kanskje mest stressende tiden på året.",
+    "image": "https://gfx.nrk.no/34b1KUmJc5aYifefuP1PLgXhaWkf7I_BrF95YPf6PyGA.jpg",
     "season": null,
     "enabled": false
   },
@@ -593,6 +662,9 @@ const feeds = [
   {
     "id": "juorre",
     "title": "De 10 siste fra Juorre",
+    "name": "Juorre",
+    "description": "Risstinin li tjielgga vuojno masi ájggu. Le gus A4-iellem buoremus viessomvuohke, jali ij la huoman nav buorre gåk gullu? Se i NRK TV.",
+    "image": "https://gfx.nrk.no/aH3TL2yGw09vT1w8uDJAxQArgFZdqaSpMc2n-SN6SKwQ.jpg",
     "season": null,
     "enabled": true
   },
@@ -631,6 +703,9 @@ const feeds = [
   {
     "id": "kjapt_oppdatert",
     "title": "De 10 siste fra Kjapt oppdatert",
+    "name": "Kjapt oppdatert",
+    "description": "Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.",
+    "image": "https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwPq-8xQKN0mXG1l3t8x44HA.jpg",
     "season": null,
     "enabled": true
   },
@@ -685,12 +760,18 @@ const feeds = [
   {
     "id": "kommentert",
     "title": "De 10 siste fra Kommentert",
+    "name": "Kommentert",
+    "description": "De store sakene fra nyhetsbildet forklart av Tone Sofie Aglen, Cecilie Langum Becker og Lars Nehru Sand. Programleder er Eivind Waage.",
+    "image": "https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQPPO0FPkuikikr0SZzAXrGg.jpg",
     "season": null,
     "enabled": true
   },
   {
     "id": "kompass",
     "title": "De 10 siste fra Kompass",
+    "name": "Kompass",
+    "description": "Pål Plassen utforskar trua, livssynet og verdiane vi navigerer etter i samfunnet.",
+    "image": "https://gfx.nrk.no/oRq5i_gA9ar2PEwFR5tG1Q8bhlezjUrmCu1qGi1vMgSw.jpg",
     "season": null,
     "enabled": true
   },
@@ -737,12 +818,18 @@ const feeds = [
   {
     "id": "krimrommet",
     "title": "De 10 siste fra Krimrommet",
+    "name": "Krimrommet",
+    "description": "Bak overskriftene skjuler det seg detaljer vi vanligvis ikke får vite. Dennis og Valentina gjør et dypdykk i aktuelle krimsaker.",
+    "image": "https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSwBX1Bi9_9ZW9LMdeUJKXX2A.jpg",
     "season": null,
     "enabled": true
   },
   {
     "id": "kringkastingsorkestret_",
     "title": "De 10 siste fra Kringkastingsorkestret ",
+    "name": "Kringkastingsorkestret ",
+    "description": "Kork gir deg musikk for alle stemninger og anledninger.",
+    "image": "https://gfx.nrk.no/bUxGv0Sq_Vx0torVqM5tBQ5Rf_EaqOj4iTCVOAsJQaBg.jpg",
     "season": null,
     "enabled": false
   },
@@ -773,6 +860,9 @@ const feeds = [
   {
     "id": "kveldstanker",
     "title": "De 10 siste fra Kveldstanker",
+    "name": "Kveldstanker",
+    "description": "Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.",
+    "image": "https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgdUzhJwvT8l8xdy1x65rreA.jpg",
     "season": null,
     "enabled": true
   },
@@ -795,18 +885,27 @@ const feeds = [
   {
     "id": "leseklubben",
     "title": "De 10 siste fra Leseklubben",
+    "name": "Leseklubben",
+    "description": "Les med oss! Lydbok, leseoppskrift fra uke til uke og morsomme diskusjoner med gjester. \n\n",
+    "image": "https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELADvG3fDiPcFsHyGh3nJVwrg.jpg",
     "season": null,
     "enabled": true
   },
   {
     "id": "lev_vel",
     "title": "De 10 siste fra Lev vel",
+    "name": "Lev vel",
+    "description": "Hva kan du gjøre for å leve litt smartere? Linnéa Myhre guider deg gjennom jungelen av helse- og livsstilsråd, med kunnskapsrike gjester.",
+    "image": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q3g8ugafPZ9CVvGi9HsSaSQ.jpg",
     "season": null,
     "enabled": true
   },
   {
     "id": "lindmo_og_co",
     "title": "De 10 siste fra Lindmo og Co",
+    "name": "Lindmo og Co",
+    "description": "Din ukentlige dose vesentlig vrøvl. Med Anne Lindmo, Halvor Haugen og Rune Norum Engelsøy.",
+    "image": "https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgGxaH3ab4EM-kiJS8qKstFA.jpg",
     "season": null,
     "enabled": true
   },
@@ -821,6 +920,9 @@ const feeds = [
   {
     "id": "loerdagsraadet",
     "title": "De 10 siste fra Lørdagsrådet",
+    "name": "Lørdagsrådet",
+    "description": "Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.",
+    "image": "https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6glsj7BkFQH9mjBOVc4N01pw.jpg",
     "season": null,
     "enabled": true
   },
@@ -867,12 +969,18 @@ const feeds = [
   {
     "id": "markus_else",
     "title": "De 10 siste fra Markus & Else",
+    "name": "Markus & Else",
+    "description": "Ung mann møter gift kvinne i trangt rom og håper på det beste.\n",
+    "image": "https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAEVS1PXhibINhhYrEgQo0HQ.jpg",
     "season": null,
     "enabled": false
   },
   {
     "id": "markus_og_wolfgang_snakker_klassisk",
     "title": "De 10 siste fra Markus og Wolfgang snakker klassisk",
+    "name": "Markus og Wolfgang snakker klassisk",
+    "description": "Du vil aldri høre musikk på samme måte igjen. Markus Neby og Wolfgang Plagge utforsker hvorfor musikk låter som den gjør. ",
+    "image": "https://gfx.nrk.no/R2rpLPGsUUtSzc_BbiD52wFihr6BOww4MXX3Tr3MQKIA.jpg",
     "season": null,
     "enabled": false
   },
@@ -886,7 +994,10 @@ const feeds = [
   },
   {
     "id": "med_all_respekt",
-    "title": "De 10 siste fra Med All Respekt",
+    "title": "De 10 siste fra Med all respekt",
+    "name": "Med all respekt",
+    "description": "Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.",
+    "image": "https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEg1VWTRa_0tZIUmd5I26Q0qA.jpg",
     "season": null,
     "enabled": true
   },
@@ -949,6 +1060,9 @@ const feeds = [
   {
     "id": "misforstaa_meg_rett",
     "title": "De 10 siste fra Misforstå meg rett",
+    "name": "Misforstå meg rett",
+    "description": "Komikerne Martha Leivestad og Galvan Mehidi gjør sitt beste for å ta sterke meninger på alvor. Litt på alvor, i hvert fall.",
+    "image": "https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygvC2jVWVmVBqsE0MXWtVdgg.jpg",
     "season": null,
     "enabled": false
   },
@@ -987,12 +1101,18 @@ const feeds = [
   {
     "id": "musikk_fra_nrk_super",
     "title": "De 10 siste fra Musikk fra NRK Super",
+    "name": "Musikk fra NRK Super",
+    "description": "Hør NRK Super sine beste sanger!",
+    "image": "https://gfx.nrk.no/MVL3ZhlYtM7CuXQ_giFXmAKUlkSRJgr1Jmbz0Rj0KQ3Q.jpg",
     "season": null,
     "enabled": false
   },
   {
     "id": "musikkhistorier",
     "title": "De 10 siste fra Musikkhistorier",
+    "name": "Musikkhistorier",
+    "description": "Hør historiene bak musikken og artistene du elsker.",
+    "image": "https://gfx.nrk.no/LJiZ3Tf30RzgEzvmJs8OWgy4zbATI2ziqVD4k8OOenWQ.jpg",
     "season": null,
     "enabled": true
   },
@@ -1039,12 +1159,18 @@ const feeds = [
   {
     "id": "nittiatten",
     "title": "De 10 siste fra Nittiatten",
+    "name": "Nittiatten",
+    "description": "En humorpodkast med tromsøgutta Franky og Mo om å drømme stort – og tryne på veien.",
+    "image": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POAHkBu02Bd81JZiTL4iaJpcw.jpg",
     "season": null,
     "enabled": true
   },
   {
     "id": "noedsamtaler",
     "title": "De 10 siste fra Nødsamtaler",
+    "name": "Nødsamtaler",
+    "description": "Pulserende lyddrama fra innsiden av en AMK-sentral. \n",
+    "image": "https://gfx.nrk.no/0MSWD7b9o0xYmKjC7QG70gVwO8ng-3b_k5MezUB6i-DQ.jpg",
     "season": null,
     "enabled": false
   },
@@ -1059,6 +1185,9 @@ const feeds = [
   {
     "id": "norsken_svensken_og_dansken",
     "title": "De 10 siste fra Norsken, svensken og dansken",
+    "name": "Norsken, svensken og dansken",
+    "description": "Svensken Åsa Linderborg, dansken Hassan Preisler og norsken Hilde Sandvik gir deg pan-skandinavisk familieterapi hver lørdag.",
+    "image": "https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAkblk2YiB-DRzJ-y-xo1ZQQ.jpg",
     "season": null,
     "enabled": true
   },
@@ -1119,6 +1248,9 @@ const feeds = [
   {
     "id": "oppdatert",
     "title": "De 10 siste fra Oppdatert",
+    "name": "Oppdatert",
+    "description": "Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Nye episoder på hverdager.",
+    "image": "https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7Lgg_EKJ0xxWPpSmHsdu37sfw.jpg",
     "season": null,
     "enabled": true
   },
@@ -1140,7 +1272,10 @@ const feeds = [
   },
   {
     "id": "p3morgen",
-    "title": "De 10 siste fra P3morgen",
+    "title": "De 10 siste fra P3morgen for B-mennesker",
+    "name": "P3morgen for B-mennesker",
+    "description": "Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.",
+    "image": "https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQgfZ3is7pSZ6oQ5Nz53FHew.jpg",
     "season": null,
     "enabled": true
   },
@@ -1169,6 +1304,9 @@ const feeds = [
   {
     "id": "politisk_kvarter",
     "title": "De 10 siste fra Politisk kvarter",
+    "name": "Politisk kvarter",
+    "description": "Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. \n",
+    "image": "https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AF6HS86WlEctR-3he47nZKg.jpg",
     "season": null,
     "enabled": true
   },
@@ -1223,6 +1361,9 @@ const feeds = [
   {
     "id": "radiodokumentaren",
     "title": "De 10 siste fra Historier fra virkeligheten",
+    "name": "Historier fra virkeligheten",
+    "description": "Her samles podkastdokumentarer fra NRK. Journalistikk og lydopplevelser om mennesker og samfunn. Historier fra virkeligheten bygger videre på podkasten Radiodok.",
+    "image": "https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8QnRUX5sno2oEqScCBrSwoUA.jpg",
     "season": null,
     "enabled": true
   },
@@ -1333,6 +1474,9 @@ const feeds = [
   {
     "id": "seriesnakk",
     "title": "De 10 siste fra Seriesnakk",
+    "name": "Seriesnakk",
+    "description": "Podkasten for deg som bare må ha litt mer av seriene du har sett i NRK TV. ",
+    "image": "https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5A06jLW7lH3QqxNwJnD5jFtw.jpg",
     "season": null,
     "enabled": true
   },
@@ -1347,6 +1491,9 @@ const feeds = [
   {
     "id": "siesta",
     "title": "De 10 siste fra Siesta",
+    "name": "Siesta",
+    "description": "Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.",
+    "image": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQn-dElcK9EJx5-0MGV3ZKJA.jpg",
     "season": null,
     "enabled": true
   },
@@ -1369,6 +1516,9 @@ const feeds = [
   {
     "id": "skiklubben",
     "title": "De 10 siste fra Skiklubben",
+    "name": "Skiklubben",
+    "description": "I sommerhalvåret legger vi bort skiene og tar på oss løpeskoene,  rulleskiene eller  setter oss på sykkelen. Anders Aukland, Silje Nordnes og Sindre Reinholt motiverer deg i til å komme i form og nå dine mål uansett hvilket nivå du er på.",
+    "image": "https://gfx.nrk.no/wiCIYwjL9AY91NkrQrx8CgBPyIhdMPLt6WSDzhGS9bmA.jpg",
     "season": null,
     "enabled": true
   },
@@ -1407,6 +1557,9 @@ const feeds = [
   {
     "id": "sommer_i_p2",
     "title": "De 10 siste fra Sommer i P2",
+    "name": "Sommer i P2",
+    "description": "Utvalgte gjester forteller personlige historier. Trykk \"Gå til radioversjon\" for å høre episodene med musikk.",
+    "image": "https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9NgbvSlEzwOjLrR5E1br6U6gg.jpg",
     "season": null,
     "enabled": false
   },
@@ -1429,18 +1582,27 @@ const feeds = [
   {
     "id": "spoer_for_en_venn",
     "title": "De 10 siste fra Spør for en venn",
+    "name": "Spør for en venn",
+    "description": "Din ukentlige dose sex, kropp og følelser! Lydia, Tamanna, Jesper og lege Mari tester trender og gir svar – enten du spør for deg selv eller en venn.",
+    "image": "https://gfx.nrk.no/4-8Naikv05eMzyik0j5ObQO-q8g1mEGHJw6AQ_WPt-ew.jpg",
     "season": null,
     "enabled": false
   },
   {
     "id": "sportsdesken_brenner",
     "title": "De 10 siste fra Sportsdesken brenner",
+    "name": "Sportsdesken brenner",
+    "description": "En gjeng komikere gir deg det morsomste fra sportens verden akkurat nå.",
+    "image": "https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hwmk8zGmPZXV9ZcY-lrmV2kw.jpg",
     "season": null,
     "enabled": true
   },
   {
     "id": "spraakteigen",
     "title": "De 10 siste fra Språksnakk",
+    "name": "Språksnakk",
+    "description": "Absolutt alt du kan undre deg over om språk! Lydia Gieselmann spør, ekspertene svarer. Send dine spørsmål og tilbakemeldinger i appen eller til snakk@nrk.no.",
+    "image": "https://gfx.nrk.no/b9bKez1OlAfKkJDldbfx9AGwq5D0VS42eXzhPj2eTZMw.jpg",
     "season": null,
     "enabled": true
   },
@@ -1479,6 +1641,9 @@ const feeds = [
   {
     "id": "strid",
     "title": "De 10 siste fra Strid – de norske borgerkrigene",
+    "name": "Strid – de norske borgerkrigene",
+    "description": "Partyprinser, gærninger og kranglefanter – kongeslekta er full av sinnssyke historier! Med Aslak Sira Myhre og Ole-Albert Rønning Nordby. ",
+    "image": "https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAGCOZ5YXvq62p9Ba4KqQtAw.jpg",
     "season": null,
     "enabled": false
   },
@@ -1595,6 +1760,9 @@ const feeds = [
   {
     "id": "traesh",
     "title": "De 10 siste fra Træsh",
+    "name": "Træsh",
+    "description": "Ingrid Moholt Waaler tar deg med gjennom jungelen av deilig, søplete popkultur.",
+    "image": "https://gfx.nrk.no/nRje9HKnrW4EvTsx1QJ90gQCOiODH60y9hfIVXYhzGRQ.jpg",
     "season": null,
     "enabled": false
   },
@@ -1617,6 +1785,9 @@ const feeds = [
   {
     "id": "trygdekontoret",
     "title": "De 10 siste fra Trygdekontoret",
+    "name": "Trygdekontoret",
+    "description": "Thomas Seltzer med gjester gir deg kvalifisert synsing og ren kvasi-idioti som gjør deg opplyst og forvirret.  \n",
+    "image": "https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwIHYdPcYirs3UOD1YzyetjQ.jpg",
     "season": null,
     "enabled": true
   },
@@ -1631,6 +1802,9 @@ const feeds = [
   {
     "id": "tyrann",
     "title": "De 10 siste fra Tyrann",
+    "name": "Tyrann",
+    "description": "Noen mennesker har rett og slett gjort verden til et dårligere sted. Morderiske, korrupte og maktsyke ledere med helt vanvittige historier. Nye Tyranner blir publisert hver måned.\n\nTyrann er en versjonering av den danske podkasten med samme navn.  ",
+    "image": "https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Amy1jNhc0GuJNnxik0lcmkg.jpg",
     "season": null,
     "enabled": true
   },
@@ -1645,6 +1819,9 @@ const feeds = [
   {
     "id": "ukeslutt",
     "title": "De 10 siste fra Ukeslutt",
+    "name": "Ukeslutt",
+    "description": "Ukeslutt er nyhetsavdelingens lørdagsmagasin. Her får du et skråblikk på nyhetsuka, med friske reportasjer og aktuelle gjester.",
+    "image": "https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwgkKPF_q7FNo2j_s6Ky-VoQ.jpg",
     "season": null,
     "enabled": true
   },
@@ -1675,6 +1852,9 @@ const feeds = [
   {
     "id": "utro_haap_og_kjaerlighet",
     "title": "De 10 siste fra Utro, håp og kjærlighet",
+    "name": "Utro, håp og kjærlighet",
+    "description": "Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.",
+    "image": "https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAALCQctlhmsJiTNFpFaD-XUg.jpg",
     "season": null,
     "enabled": true
   },
@@ -1694,7 +1874,10 @@ const feeds = [
   },
   {
     "id": "verden_paa_loerdag",
-    "title": "De 10 siste fra Urix på lørdag",
+    "title": "De 10 siste fra Urix",
+    "name": "Urix",
+    "description": "Bli med ut i verden. Hør historiene og få forklaringene fra Norges største utenriksredaksjon.\n",
+    "image": "https://gfx.nrk.no/VrUfyeq5_4iucMYKTPh1SwQE_ccwq0t_6FtXXCmBuwag.jpg",
     "season": null,
     "enabled": true
   },
@@ -1717,6 +1900,9 @@ const feeds = [
   {
     "id": "verdiboersen",
     "title": "De 10 siste fra Verdibørsen",
+    "name": "Verdibørsen",
+    "description": "For folk  som liker å vite litt mer",
+    "image": "https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgcK2Yt-K_V458E7rdDsVfWw.jpg",
     "season": null,
     "enabled": true
   },
@@ -1739,6 +1925,9 @@ const feeds = [
   {
     "id": "vittig",
     "title": "De 10 siste fra Vittig",
+    "name": "Vittig",
+    "description": "To tøysekopper byr på ukas vittigste saker. Med komiker Maria Stavang og hennes helt vanlige, dødelige bestevenn – Ingrid Mikkelsen. ",
+    "image": "https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAP0gAgLgk8ioUDYQ9yK42Ag.jpg",
     "season": null,
     "enabled": false
   },

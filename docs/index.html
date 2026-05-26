@@ -1,34 +1,29 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="no">
     <head>
-        <title>Open NRK Podcast RSS feeds</title>
+        <title>NRK Podcast RSS feeds</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width,initial-scale=1" />
         <meta name="description" content="A selection of podcasts from NRK as RSS feeds, with the latest episodes. Unofficial, for personal use. Et utvalg podkaster fra NRK i RSS-format, med de siste episodene. Uoffisiell, for privat bruk." />
-        <meta http-equiv="Content-Security-Policy" content="default-src 'self' 'unsafe-inline'";>
+        <meta http-equiv="Content-Security-Policy" content="default-src 'self' 'unsafe-inline'; img-src https://gfx.nrk.no data:;">
         <link href="assets/css/style.css" rel="stylesheet">
     </head>
 
     <body onload="listFeeds()">
         <h1>NRK Podcast RSS feeds</h1>
-        <h4><a href="https://github.com/Olen/nrk-pod-feeds"><div class="gh_link">https://github.com/Olen/nrk-pod-feeds</div></a></h4>
-        <h5>
-          <table>
-            <tr>
-              <th><font color="#338500"><sup>⬈</sup></font> Aktiv</th>
-              <th><font color="#eb8904"><sup>⬊</sup></font> Inaktiv</th>
-              <th><font color="#333"><sup>⬊</sup></font> Over et år siden siste episode</th>
-            </tr>
-          </table> 
-        </h5>
+        <a class="gh_link" href="https://github.com/Olen/nrk-pod-feeds">https://github.com/Olen/nrk-pod-feeds</a>
 
-        <input type="text" id="searchInput" onkeyup="searchFeeds()" placeholder="Søk..." size="50">
+        <div class="legend">
+            <span class="legend-item status-active"   title="Ny episode publisert de siste 30 dagene."><span class="status-dot">▶</span> Aktiv</span>
+            <span class="legend-item status-paused"   title="Ingen nye episoder de siste 30 dagene."><span class="status-dot">⏸</span> Pauset</span>
+            <span class="legend-item status-obsolete" title="Ingen nye episoder på over et år."><span class="status-dot">⏹</span> Inaktiv (over et år)</span>
+        </div>
 
-        <ul id="feeds_ul">
-          <div id="feeds_list"></div>
-        </ul>
+        <input type="text" id="searchInput" onkeyup="searchFeeds()" placeholder="Søk etter podkast...">
+
+        <ul id="feeds_list"></ul>
 
         <script type="text/javascript" src="feeds.js"></script>
         <script type="text/javascript" src="assets/js/main.js"></script>
     </body>
-</html> 
+</html>
