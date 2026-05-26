@@ -1,5 +1,19 @@
 # Podcast Discovery Changelog  
 ### 2026-05-26  
+- Updated podcast 'Abels tårn' (`abels_taarn`)  
+- Updated podcast 'Hele historien' (`hele_historien`)  
+- Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
+- Updated podcast 'Kringkastingsorkestret ' (`kringkastingsorkestret_`)  
+- Updated podcast 'Leseklubben' (`leseklubben`)  
+- Updated podcast 'Markus og Wolfgang snakker klassisk' (`markus_og_wolfgang_snakker_klassisk`)  
+- Updated podcast 'Musikk fra NRK Super' (`musikk_fra_nrk_super`)  
+- Updated podcast 'Musikkhistorier' (`musikkhistorier`)  
+- Updated podcast 'Nødsamtaler' (`noedsamtaler`)  
+- Updated podcast 'Seriesnakk' (`seriesnakk`)  
+- Updated podcast 'Tyrann' (`tyrann`)  
+- Updated podcast 'Verdibørsen' (`verdiboersen`)  
+- Updated podcast 'Åpen bok' (`bok_i_p2`)  
+### 2026-05-26  
 - Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 ### 2026-05-25  
 - Updated podcast 'Kringkastingsorkestret ' (`kringkastingsorkestret_`)  

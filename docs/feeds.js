@@ -18,8 +18,8 @@ const feeds = [
   {
     "id": "abels_taarn",
     "title": "De 10 siste fra Abels tårn",
-    "season": "LATEST_SEASON",
-    "enabled": false
+    "season": null,
+    "enabled": true
   },
   {
     "id": "andakten",
@@ -124,7 +124,7 @@ const feeds = [
   {
     "id": "bok_i_p2",
     "title": "De 10 siste fra Åpen bok",
-    "season": "LATEST_SEASON",
+    "season": null,
     "enabled": true
   },
   {
@@ -481,7 +481,7 @@ const feeds = [
   {
     "id": "hele_historien",
     "title": "De 10 siste fra Hele historien",
-    "season": "LATEST_SEASON",
+    "season": null,
     "enabled": true
   },
   {
@@ -743,7 +743,7 @@ const feeds = [
   {
     "id": "kringkastingsorkestret_",
     "title": "De 10 siste fra Kringkastingsorkestret ",
-    "season": "LATEST_SEASON",
+    "season": null,
     "enabled": false
   },
   {
@@ -795,7 +795,7 @@ const feeds = [
   {
     "id": "leseklubben",
     "title": "De 10 siste fra Leseklubben",
-    "season": "LATEST_SEASON",
+    "season": null,
     "enabled": true
   },
   {
@@ -873,7 +873,7 @@ const feeds = [
   {
     "id": "markus_og_wolfgang_snakker_klassisk",
     "title": "De 10 siste fra Markus og Wolfgang snakker klassisk",
-    "season": "LATEST_SEASON",
+    "season": null,
     "enabled": false
   },
   {
@@ -987,13 +987,13 @@ const feeds = [
   {
     "id": "musikk_fra_nrk_super",
     "title": "De 10 siste fra Musikk fra NRK Super",
-    "season": "LATEST_SEASON",
+    "season": null,
     "enabled": false
   },
   {
     "id": "musikkhistorier",
     "title": "De 10 siste fra Musikkhistorier",
-    "season": "LATEST_SEASON",
+    "season": null,
     "enabled": true
   },
   {
@@ -1045,7 +1045,7 @@ const feeds = [
   {
     "id": "noedsamtaler",
     "title": "De 10 siste fra Nødsamtaler",
-    "season": "LATEST_SEASON",
+    "season": null,
     "enabled": false
   },
   {
@@ -1223,7 +1223,7 @@ const feeds = [
   {
     "id": "radiodokumentaren",
     "title": "De 10 siste fra Historier fra virkeligheten",
-    "season": "LATEST_SEASON",
+    "season": null,
     "enabled": true
   },
   {
@@ -1333,7 +1333,7 @@ const feeds = [
   {
     "id": "seriesnakk",
     "title": "De 10 siste fra Seriesnakk",
-    "season": "LATEST_SEASON",
+    "season": null,
     "enabled": true
   },
   {
@@ -1631,7 +1631,7 @@ const feeds = [
   {
     "id": "tyrann",
     "title": "De 10 siste fra Tyrann",
-    "season": "LATEST_SEASON",
+    "season": null,
     "enabled": true
   },
   {
@@ -1717,8 +1717,8 @@ const feeds = [
   {
     "id": "verdiboersen",
     "title": "De 10 siste fra Verdibørsen",
-    "season": "LATEST_SEASON",
-    "enabled": false
+    "season": null,
+    "enabled": true
   },
   {
     "id": "vg3",
