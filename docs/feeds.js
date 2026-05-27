@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Den omstridte Helseplattformen opprettholdes",
-      "date": "2026-05-26T19:00:00+02:00"
+      "title": "Møte mellom Støre og Macron",
+      "date": "2026-05-27T19:00:00+02:00"
     }
   },
   {
