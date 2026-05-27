@@ -1586,7 +1586,9 @@ const feeds = [
     "description": "Din ukentlige dose sex, kropp og følelser! Lydia, Tamanna, Jesper og lege Mari tester trender og gir svar – enten du spør for deg selv eller en venn.",
     "image": "https://gfx.nrk.no/4-8Naikv05eMzyik0j5ObQO-q8g1mEGHJw6AQ_WPt-ew.jpg",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "sportsdesken_brenner",
