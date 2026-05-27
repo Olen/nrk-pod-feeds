@@ -1,6 +1,8 @@
 import logging
+import os
 import re
 
+from defusedxml import ElementTree as ET
 from podgen import Podcast, Episode, Media
 from dateutil import parser
 from datetime import timedelta
@@ -163,6 +165,28 @@ def write_podcast_xml(feeds_dir, podcast_id, podcast):
     logging.info(f"Podcast XML successfully written to file: {output_path}\n---")
     return output_path
 
+def read_latest_episode(feeds_dir, podcast_id):
+    """Return {'title', 'date'} of the newest item in the on-disk feed, or None."""
+    path = f"{feeds_dir}/{podcast_id}.xml"
+    if not os.path.exists(path):
+        return None
+    try:
+        tree = ET.parse(path)
+        item = tree.find('channel/item')
+        if item is None:
+            return None
+        title_el = item.find('title')
+        date_el = item.find('pubDate')
+        if title_el is None or date_el is None:
+            return None
+        return {
+            "title": title_el.text,
+            "date": parser.parse(date_el.text).isoformat(),
+        }
+    except (ET.ParseError, ValueError, OSError) as e:
+        logging.debug(f"Could not read latest episode for {podcast_id}: {e}")
+        return None
+
 if __name__ == '__main__':
     init()
 
@@ -188,6 +212,15 @@ if __name__ == '__main__':
             continue
 
         write_podcast_xml(feeds_dir, podcast_id, podcast)
+
+    # Enrich feeds.js with each podcast's latest episode (read from disk so
+    # entries whose XML wasn't regenerated this run still get a value).
+    for p in podcasts:
+        if p.get("hidden"):
+            continue
+        latest = read_latest_episode(feeds_dir, p["id"])
+        if latest:
+            p["last_episode"] = latest
 
     write_feeds_file(feeds_file, podcasts)
     logging.info("Done")

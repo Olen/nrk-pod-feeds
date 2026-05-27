@@ -43,6 +43,30 @@ function statusFor(feed) {
     };
 }
 
+function relTime(dateStr) {
+    if (!dateStr) return "";
+    var d = new Date(dateStr);
+    if (isNaN(d)) return "";
+    var diffMs = Date.now() - d.getTime();
+    var rtf = new Intl.RelativeTimeFormat("no", { numeric: "auto" });
+    var diffMin = Math.round(diffMs / 6e4);
+    if (Math.abs(diffMin) < 60) return rtf.format(-diffMin, "minute");
+    var diffH = Math.round(diffMs / 36e5);
+    if (Math.abs(diffH) < 48) return rtf.format(-diffH, "hour");
+    var diffD = Math.round(diffH / 24);
+    if (Math.abs(diffD) < 30) return rtf.format(-diffD, "day");
+    var diffMo = Math.round(diffD / 30);
+    if (Math.abs(diffMo) < 12) return rtf.format(-diffMo, "month");
+    return rtf.format(-Math.round(diffMo / 12), "year");
+}
+
+function absDate(dateStr) {
+    if (!dateStr) return "";
+    var d = new Date(dateStr);
+    if (isNaN(d)) return "";
+    return d.toLocaleString("no", { dateStyle: "medium", timeStyle: "short" });
+}
+
 function el(tag, opts) {
     var node = document.createElement(tag);
     if (!opts) return node;
@@ -97,6 +121,22 @@ function buildPodcastRow(feed, feed_url, info_url) {
 
     if (description) {
         body.appendChild(el("p", { cls: "podcast-description", text: description }));
+    }
+
+    if (feed.last_episode && feed.last_episode.title) {
+        var latest = el("p", { cls: "podcast-latest" });
+        latest.appendChild(el("span", { cls: "latest-label", text: "Siste episode: " }));
+        latest.appendChild(el("span", { cls: "latest-title", text: feed.last_episode.title }));
+        if (feed.last_episode.date) {
+            latest.appendChild(document.createTextNode(" "));
+            latest.appendChild(el("time", {
+                cls: "latest-date",
+                text: relTime(feed.last_episode.date),
+                title: absDate(feed.last_episode.date),
+                attrs: { datetime: feed.last_episode.date },
+            }));
+        }
+        body.appendChild(latest);
     }
 
     var copyRow = el("div", { cls: "podcast-copy" });

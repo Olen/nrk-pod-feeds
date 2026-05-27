@@ -187,6 +187,24 @@ h1 {
     -webkit-box-orient: vertical;
 }
 
+.podcast-latest {
+    margin: 0;
+    font-size: 12.5px;
+    color: var(--fg-muted);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.podcast-latest .latest-label { color: var(--fg-muted); }
+.podcast-latest .latest-title { color: var(--fg); }
+.podcast-latest .latest-date {
+    color: var(--fg-muted);
+    cursor: help;
+    margin-left: 4px;
+    white-space: nowrap;
+}
+.podcast-latest .latest-date::before { content: "· "; }
+
 .podcast-copy {
     display: flex;
     gap: 6px;

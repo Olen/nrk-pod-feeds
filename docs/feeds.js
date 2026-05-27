@@ -22,7 +22,11 @@ const feeds = [
     "description": "Forum for funfacts, hard forskning og bedrevitenskap ",
     "image": "https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgAWnNV90L24s5bzyOaudbVw.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Forskningsfronten: Klærne dine kan gjenvinnes",
+      "date": "2026-05-27T06:00:00+02:00"
+    }
   },
   {
     "id": "andakten",
@@ -63,7 +67,11 @@ const feeds = [
     "description": "En tenketank for folk med lav intelligens.",
     "image": "https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVgVFteP96jsawr20gUhn3UEA.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Treet som forbilde",
+      "date": "2026-05-25T06:00:00+02:00"
+    }
   },
   {
     "id": "bakrommet",
@@ -72,7 +80,11 @@ const feeds = [
     "description": "Norge skal til VM og våre eksperter prepper deg med alt du bør vite om spillerne, formen og motstanderne - både før og under mesterskapet.",
     "image": "https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gKMM_8zGRme6av-I4R0j25A.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Nylands gigatabbe og Englands stjernevraking",
+      "date": "2026-05-25T13:27:00+02:00"
+    }
   },
   {
     "id": "baksnakk",
@@ -81,7 +93,11 @@ const feeds = [
     "description": "Zara, Milie og Sofie ler og gråter sammen i studio hver uke.\nNoen ganger prater de om viktige ting, mens andre ganger prater de om litt mindre viktige ting.\n\nRis eller ros? Send det til oss i NRK Radio!",
     "image": "https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQvHCPqHQXTjK5FqHTlKuD0w.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Milies nye stil, kroppshår og «er det utroskap?»-lek",
+      "date": "2026-05-26T06:00:00+02:00"
+    }
   },
   {
     "id": "berrum_beyer_snakker_om_greier",
@@ -98,7 +114,11 @@ const feeds = [
     "description": "Intriger, sex og brodermord – undere, undergang og oppstandelse. Ingen bok har påvirket vår verden mer enn Bibelen. Men vet du hva som står i den? Are Sende Osen forteller. \n\n",
     "image": "https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQ-UL0nNNKKblUjSMabQ15yw.jpg",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "last_episode": {
+      "title": "Jona i fisken (30:40)",
+      "date": "2026-03-04T06:01:00+01:00"
+    }
   },
   {
     "id": "billis_og_bollos",
@@ -123,7 +143,11 @@ const feeds = [
     "description": "Binnabánnaš og Ujujju er to artige små skruer som alltid er nysgjerrige på nye ting.",
     "image": "https://gfx.nrk.no/FtAD_t9saqQ0scxa1Qp6JQ_188X_d-brdGVnu2DIfvbQ.jpg",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "last_episode": {
+      "title": "Beaivváš máhccá - Sola kommer",
+      "date": "2025-08-25T06:00:00+02:00"
+    }
   },
   {
     "id": "bjoernen_lyver",
@@ -140,7 +164,11 @@ const feeds = [
     "description": "En ukentlig flukt fra hverdagen! Sketsjer, hyss og spik med Christian Mikkelsen, Olav Svarstad Haugland og Emil Berntsen.",
     "image": "https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8gpCYp-ObZYemTidxTht-BBA.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "En truende telefon fra nord",
+      "date": "2026-05-26T06:00:00+02:00"
+    }
   },
   {
     "id": "bok_i_p2",
@@ -149,7 +177,11 @@ const feeds = [
     "description": "Møt aktuelle forfattere, hør dem fortelle om den nye boken sin, forfatterskapet og hvordan bøkene blir til. Ny episode hver fredag!",
     "image": "https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYwg5AH_CksIikoU2ADJ-kDUg.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Stian Hjelvin Andersen: Må alt være perfekt?",
+      "date": "2026-05-22T06:00:00+02:00"
+    }
   },
   {
     "id": "brannbamsen_bjoernis",
@@ -206,7 +238,11 @@ const feeds = [
     "description": "Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Anne Katrine Førli.",
     "image": "https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwq1SaZc_Wg7kXEP_t6DBasw.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Den omstridte Helseplattformen opprettholdes",
+      "date": "2026-05-26T19:00:00+02:00"
+    }
   },
   {
     "id": "debatten",
@@ -215,7 +251,11 @@ const feeds = [
     "description": "Hør sendingen med programlederne Åsa Vartdal og Espen Aas, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. ",
     "image": "https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgW6cdk9xfhWoJPhChAaml_A.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Ettåringer i barnehagen",
+      "date": "2026-05-26T22:45:00+02:00"
+    }
   },
   {
     "id": "delfi_og_dolfy",
@@ -232,7 +272,11 @@ const feeds = [
     "description": "Alt kan skje og ingen er trygge når fire komikere oppsummerer uka!",
     "image": "https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQcOyrUQAiswfpyCjSU-Th2Q.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Livets harde barnehage",
+      "date": "2026-05-22T06:00:00+02:00"
+    }
   },
   {
     "id": "dilemmaklemma",
@@ -249,7 +293,11 @@ const feeds = [
     "description": "Nok en hektisk uke for komiker Nora Svenningsen. Her er hennes verbale dagbok, hvor du er med på å fargelegge sidene. ",
     "image": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JABApeP1Y3oH65kDwuHMWYOg.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Vestkantens mørke bakside",
+      "date": "2026-05-21T06:00:00+02:00"
+    }
   },
   {
     "id": "ding_dong_du_er_doed",
@@ -282,7 +330,11 @@ const feeds = [
     "description": "Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. ",
     "image": "https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAp2QUB47AMci5g4y9UH5BSA.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Niels Christian Geelmuyden",
+      "date": "2026-05-21T13:35:00+02:00"
+    }
   },
   {
     "id": "eallima_mohkit",
@@ -307,13 +359,21 @@ const feeds = [
     "description": "Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. \n\n\n",
     "image": "https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3Qkq1KRWr1NX9_3UtaBXQz1Q.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Bistand er også beredskap",
+      "date": "2026-05-27T12:35:00+02:00"
+    }
   },
   {
     "id": "etikketaten",
     "title": "De 10 siste fra Etikketaten",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Viktig info: Gå til radioversjon for å høyre nye episoder!",
+      "date": "2025-06-04T06:00:00+02:00"
+    }
   },
   {
     "id": "eventyrerne",
@@ -322,7 +382,11 @@ const feeds = [
     "description": "Tre drevne underholdere kaster seg ut i et eventyr skapt av spillmester Aslak Maurstad. Hvor langt vil fantasi, kløkt og terninger ta dem?",
     "image": "https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQMe12hr-iQ1uw743LLOE14Q.jpg",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "last_episode": {
+      "title": "Oppgjørets time (18:18)",
+      "date": "2026-01-29T06:01:00+01:00"
+    }
   },
   {
     "id": "eventyret_om_vazelina_bilopphoeggers",
@@ -393,7 +457,11 @@ const feeds = [
     "title": "De 10 siste fra Filmpolitiets podkast",
     "season": null,
     "enabled": true,
-    "ignore": true
+    "ignore": true,
+    "last_episode": {
+      "title": "«Affeksjonsverdi»: – Det kiler på de rette stedene (4:4)",
+      "date": "2026-03-13T06:00:00+01:00"
+    }
   },
   {
     "id": "forstaa_norge",
@@ -410,7 +478,11 @@ const feeds = [
     "description": "Vi oppsummerer kulturuka hver fredag, med faste, friske og freidige paneldeltakere.",
     "image": "https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQX0hX8vL6jPdxPf-acKktAg.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "VM-uttak, ragebait og russ",
+      "date": "2026-05-22T08:30:00+02:00"
+    }
   },
   {
     "id": "friminutt_med_herman_og_mikkel",
@@ -443,7 +515,11 @@ const feeds = [
     "description": "Livsfarlig spionasje, grufulle drap og ulykkelig kjærlighet – Nasjonalbiblioteket dykker ned i noen av fortidas uforglemmelige skjebner.  ",
     "image": "https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwfp1mOKKgiiJW2WISsraCVQ.jpg",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "last_episode": {
+      "title": "Radiopiratene",
+      "date": "2025-08-07T06:00:00+02:00"
+    }
   },
   {
     "id": "gfestallan_lisain",
@@ -508,7 +584,11 @@ const feeds = [
     "description": "Jonna jïh Nelly lægan goh göökte bööremes voelpetje guaktah åvtefeestesne.\nDah guaktah juekiejægan guktie jieledh goh noere saemie NRK:n voestes podkaste åarjelsaemiengielesne.",
     "image": "https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQtPEczU3raUu3FTo1ras-UQ.jpg",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "last_episode": {
+      "title": "Åemie Hævvi",
+      "date": "2025-09-16T06:00:00+02:00"
+    }
   },
   {
     "id": "hallo_bablo",
@@ -517,7 +597,11 @@ const feeds = [
     "description": "Bli med gjengen i Bablo på nye gøyale sprell! På dette biblioteket kan man bable, tulle og gjøre alt som er rart.",
     "image": "https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwzhkgZYH4VC11qPpfxlloNw.jpg",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "last_episode": {
+      "title": "Lotte leker død",
+      "date": "2026-03-27T06:01:00+01:00"
+    }
   },
   {
     "id": "hei_nabo",
@@ -542,7 +626,11 @@ const feeds = [
     "description": "Sterke historier fra norsk virkelighet. Fortalt av de som opplevde dem. Dokumentarer om hendelser som har gjort inntrykk.",
     "image": "https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwcVmADfwGq0tbeWeecSLORw.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Smakebit: Dødsbakterien",
+      "date": "2026-05-15T13:00:00+02:00"
+    }
   },
   {
     "id": "herreavdelingen",
@@ -559,7 +647,11 @@ const feeds = [
     "description": "Idealister, genier og maktgale gærninger; Alexandra Gjerpen vekker historiens største personer til live igjen.",
     "image": "https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqAysbXP4OOjvmFfCXLwIIGNg.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Gianni Versace – visjonær designer",
+      "date": "2026-05-27T06:00:00+02:00"
+    }
   },
   {
     "id": "hoera",
@@ -584,7 +676,11 @@ const feeds = [
     "description": "Den peneste og snilleste guden i Åsgard er drept. Journalisten Eva Strande blir sendt til gudenes verden for å etterforske saken. ",
     "image": "https://gfx.nrk.no/k9PMYG7M3FE06kOaOed-uwk_5H9Q2JWbQaT5HL4tMrQw.jpg",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "last_episode": {
+      "title": "En morder (7:7)",
+      "date": "2026-03-27T06:06:00+01:00"
+    }
   },
   {
     "id": "hvordan_moettes_dere_",
@@ -649,7 +745,11 @@ const feeds = [
     "description": "Live Nelvik og Ronny Brede Aase har ulikt forhold til jul, men elsker å møtes i julekottet for en deilig og underholdende koselomme i den kanskje mest stressende tiden på året.",
     "image": "https://gfx.nrk.no/34b1KUmJc5aYifefuP1PLgXhaWkf7I_BrF95YPf6PyGA.jpg",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "last_episode": {
+      "title": "Juleinstrumenter i harmoni",
+      "date": "2025-12-24T06:00:00+01:00"
+    }
   },
   {
     "id": "juntafil",
@@ -666,7 +766,11 @@ const feeds = [
     "description": "Risstinin li tjielgga vuojno masi ájggu. Le gus A4-iellem buoremus viessomvuohke, jali ij la huoman nav buorre gåk gullu? Se i NRK TV.",
     "image": "https://gfx.nrk.no/aH3TL2yGw09vT1w8uDJAxQArgFZdqaSpMc2n-SN6SKwQ.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Joarme, botoxa ja festa",
+      "date": "2026-05-12T06:00:00+02:00"
+    }
   },
   {
     "id": "kaffipraati",
@@ -707,7 +811,11 @@ const feeds = [
     "description": "Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.",
     "image": "https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwPq-8xQKN0mXG1l3t8x44HA.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Får støtte fra partiet i barnehagedebatten",
+      "date": "2026-05-27T05:59:00+02:00"
+    }
   },
   {
     "id": "kjente_boeker_paa_4_minutter",
@@ -747,7 +855,11 @@ const feeds = [
     "season": null,
     "enabled": false,
     "ignore": true,
-    "hidden": false
+    "hidden": false,
+    "last_episode": {
+      "title": "17.11.2013 - Klassikere fra XL 1997",
+      "date": "2013-11-17T13:05:00+01:00"
+    }
   },
   {
     "id": "kokosbananas",
@@ -764,7 +876,11 @@ const feeds = [
     "description": "De store sakene fra nyhetsbildet forklart av Tone Sofie Aglen, Cecilie Langum Becker og Lars Nehru Sand. Programleder er Eivind Waage.",
     "image": "https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQPPO0FPkuikikr0SZzAXrGg.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Trumps Nato-tvil: Hvem skal forsvare Norge ved krig?",
+      "date": "2026-05-21T15:27:00+02:00"
+    }
   },
   {
     "id": "kompass",
@@ -773,7 +889,11 @@ const feeds = [
     "description": "Pål Plassen utforskar trua, livssynet og verdiane vi navigerer etter i samfunnet.",
     "image": "https://gfx.nrk.no/oRq5i_gA9ar2PEwFR5tG1Q8bhlezjUrmCu1qGi1vMgSw.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Fra kampduk til merkevare",
+      "date": "2026-05-11T12:00:00+02:00"
+    }
   },
   {
     "id": "kongerekka",
@@ -822,7 +942,11 @@ const feeds = [
     "description": "Bak overskriftene skjuler det seg detaljer vi vanligvis ikke får vite. Dennis og Valentina gjør et dypdykk i aktuelle krimsaker.",
     "image": "https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSwBX1Bi9_9ZW9LMdeUJKXX2A.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Emilie Meng: Er drapsgåten endelig løst?",
+      "date": "2026-05-27T06:00:00+02:00"
+    }
   },
   {
     "id": "kringkastingsorkestret_",
@@ -831,7 +955,11 @@ const feeds = [
     "description": "Kork gir deg musikk for alle stemninger og anledninger.",
     "image": "https://gfx.nrk.no/bUxGv0Sq_Vx0torVqM5tBQ5Rf_EaqOj4iTCVOAsJQaBg.jpg",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "last_episode": {
+      "title": "Fiolinkonsert, 2. sats",
+      "date": "2026-04-24T15:59:00+02:00"
+    }
   },
   {
     "id": "kroppen",
@@ -864,7 +992,11 @@ const feeds = [
     "description": "Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.",
     "image": "https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgdUzhJwvT8l8xdy1x65rreA.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Sjølvtillit- med Sunniva Relling Berg",
+      "date": "2026-05-27T06:00:00+02:00"
+    }
   },
   {
     "id": "labyrint_om_natten",
@@ -889,7 +1021,11 @@ const feeds = [
     "description": "Les med oss! Lydbok, leseoppskrift fra uke til uke og morsomme diskusjoner med gjester. \n\n",
     "image": "https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELADvG3fDiPcFsHyGh3nJVwrg.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "«Kafka på stranden» (41:49)",
+      "date": "2026-05-21T06:15:00+02:00"
+    }
   },
   {
     "id": "lev_vel",
@@ -898,7 +1034,11 @@ const feeds = [
     "description": "Hva kan du gjøre for å leve litt smartere? Linnéa Myhre guider deg gjennom jungelen av helse- og livsstilsråd, med kunnskapsrike gjester.",
     "image": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q3g8ugafPZ9CVvGi9HsSaSQ.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Slik unngår du arvekonflikten",
+      "date": "2026-05-27T05:00:00+02:00"
+    }
   },
   {
     "id": "lindmo_og_co",
@@ -907,7 +1047,11 @@ const feeds = [
     "description": "Din ukentlige dose vesentlig vrøvl. Med Anne Lindmo, Halvor Haugen og Rune Norum Engelsøy.",
     "image": "https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgGxaH3ab4EM-kiJS8qKstFA.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Skamgang og kåtestråler",
+      "date": "2026-05-21T06:00:00+02:00"
+    }
   },
   {
     "id": "loensj_med_rune_nilson",
@@ -924,7 +1068,11 @@ const feeds = [
     "description": "Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.",
     "image": "https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6glsj7BkFQH9mjBOVc4N01pw.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Tore Sagen / Adelina Ibishi / Emil Berntsen",
+      "date": "2026-05-23T13:50:00+02:00"
+    }
   },
   {
     "id": "luois_luohti",
@@ -973,7 +1121,11 @@ const feeds = [
     "description": "Ung mann møter gift kvinne i trangt rom og håper på det beste.\n",
     "image": "https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAEVS1PXhibINhhYrEgQo0HQ.jpg",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "last_episode": {
+      "title": "Kaste snøball er ikke lov",
+      "date": "2026-02-07T06:00:00+01:00"
+    }
   },
   {
     "id": "markus_og_wolfgang_snakker_klassisk",
@@ -982,7 +1134,11 @@ const feeds = [
     "description": "Du vil aldri høre musikk på samme måte igjen. Markus Neby og Wolfgang Plagge utforsker hvorfor musikk låter som den gjør. ",
     "image": "https://gfx.nrk.no/R2rpLPGsUUtSzc_BbiD52wFihr6BOww4MXX3Tr3MQKIA.jpg",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "last_episode": {
+      "title": "Lytterspørsmål spesial",
+      "date": "2026-03-16T06:00:00+01:00"
+    }
   },
   {
     "id": "maskoramapodkasten",
@@ -999,7 +1155,11 @@ const feeds = [
     "description": "Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.",
     "image": "https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEg1VWTRa_0tZIUmd5I26Q0qA.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Slåssing med samtykke",
+      "date": "2026-05-27T06:00:00+02:00"
+    }
   },
   {
     "id": "meininga_med_livet",
@@ -1064,7 +1224,11 @@ const feeds = [
     "description": "Komikerne Martha Leivestad og Galvan Mehidi gjør sitt beste for å ta sterke meninger på alvor. Litt på alvor, i hvert fall.",
     "image": "https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygvC2jVWVmVBqsE0MXWtVdgg.jpg",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "last_episode": {
+      "title": "La de si n-ordet",
+      "date": "2026-01-27T06:00:00+01:00"
+    }
   },
   {
     "id": "mitt_liv_med_hund",
@@ -1105,7 +1269,11 @@ const feeds = [
     "description": "Hør NRK Super sine beste sanger!",
     "image": "https://gfx.nrk.no/MVL3ZhlYtM7CuXQ_giFXmAKUlkSRJgr1Jmbz0Rj0KQ3Q.jpg",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "last_episode": {
+      "title": "BlimE! – Her for deg/Lean álo dás – 2026",
+      "date": "2026-04-22T06:00:00+02:00"
+    }
   },
   {
     "id": "musikkhistorier",
@@ -1114,7 +1282,11 @@ const feeds = [
     "description": "Hør historiene bak musikken og artistene du elsker.",
     "image": "https://gfx.nrk.no/LJiZ3Tf30RzgEzvmJs8OWgy4zbATI2ziqVD4k8OOenWQ.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "6: Arven",
+      "date": "2026-05-14T06:01:00+02:00"
+    }
   },
   {
     "id": "musikkrommet",
@@ -1163,7 +1335,11 @@ const feeds = [
     "description": "En humorpodkast med tromsøgutta Franky og Mo om å drømme stort – og tryne på veien.",
     "image": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POAHkBu02Bd81JZiTL4iaJpcw.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Ekstra large i Vietnam",
+      "date": "2026-05-25T06:00:00+02:00"
+    }
   },
   {
     "id": "noedsamtaler",
@@ -1172,7 +1348,11 @@ const feeds = [
     "description": "Pulserende lyddrama fra innsiden av en AMK-sentral. \n",
     "image": "https://gfx.nrk.no/0MSWD7b9o0xYmKjC7QG70gVwO8ng-3b_k5MezUB6i-DQ.jpg",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "last_episode": {
+      "title": "Puster pasienten? (1:6)",
+      "date": "2025-02-19T06:00:00+01:00"
+    }
   },
   {
     "id": "nokke_for_seg_sjoel",
@@ -1189,7 +1369,11 @@ const feeds = [
     "description": "Svensken Åsa Linderborg, dansken Hassan Preisler og norsken Hilde Sandvik gir deg pan-skandinavisk familieterapi hver lørdag.",
     "image": "https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAkblk2YiB-DRzJ-y-xo1ZQQ.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Jesus, sex og voldseksport",
+      "date": "2026-05-23T06:00:00+02:00"
+    }
   },
   {
     "id": "nrkbeta",
@@ -1219,7 +1403,11 @@ const feeds = [
     "id": "nyhetsmorgen",
     "title": "De 10 siste fra Nyhetsmorgen",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Viktig beskjed til deg som hører Nyhetsmorgen",
+      "date": "2023-06-22T13:00:00+02:00"
+    }
   },
   {
     "id": "o-fag",
@@ -1252,7 +1440,11 @@ const feeds = [
     "description": "Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Nye episoder på hverdager.",
     "image": "https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7Lgg_EKJ0xxWPpSmHsdu37sfw.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Dop, Dubai og drap: Jakten på narkokartellet",
+      "date": "2026-05-27T05:59:00+02:00"
+    }
   },
   {
     "id": "p060ms2h",
@@ -1277,7 +1469,11 @@ const feeds = [
     "description": "Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.",
     "image": "https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQgfZ3is7pSZ6oQ5Nz53FHew.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Henning vil øve på fødsel",
+      "date": "2026-05-27T06:00:00+02:00"
+    }
   },
   {
     "id": "paa_audition",
@@ -1299,7 +1495,11 @@ const feeds = [
     "id": "poensj",
     "title": "De 10 siste fra Pønsj",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "last_episode": {
+      "title": "«Tradwife» for alle penga",
+      "date": "2024-08-01T06:00:00+02:00"
+    }
   },
   {
     "id": "politisk_kvarter",
@@ -1308,7 +1508,11 @@ const feeds = [
     "description": "Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. \n",
     "image": "https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AF6HS86WlEctR-3he47nZKg.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Nordmenn mer kritiske til innvandring",
+      "date": "2026-05-27T08:00:00+02:00"
+    }
   },
   {
     "id": "popaganda",
@@ -1365,7 +1569,11 @@ const feeds = [
     "description": "Her samles podkastdokumentarer fra NRK. Journalistikk og lydopplevelser om mennesker og samfunn. Historier fra virkeligheten bygger videre på podkasten Radiodok.",
     "image": "https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8QnRUX5sno2oEqScCBrSwoUA.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "En hjelpsom bestemor (1:5)",
+      "date": "2026-05-26T06:00:00+02:00"
+    }
   },
   {
     "id": "radiolegen",
@@ -1389,7 +1597,11 @@ const feeds = [
     "season": null,
     "enabled": false,
     "episodes": 0,
-    "ignore": true
+    "ignore": true,
+    "last_episode": {
+      "title": "02.01.2006 Radioresepsjonen",
+      "date": "2006-01-02T14:00:00+01:00"
+    }
   },
   {
     "id": "radioresepsjonens_arkivpodkast",
@@ -1478,7 +1690,11 @@ const feeds = [
     "description": "Podkasten for deg som bare må ha litt mer av seriene du har sett i NRK TV. ",
     "image": "https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5A06jLW7lH3QqxNwJnD5jFtw.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "– Det forholdet må ryke (1:4)",
+      "date": "2026-04-11T06:05:00+02:00"
+    }
   },
   {
     "id": "sex_over_60",
@@ -1495,7 +1711,11 @@ const feeds = [
     "description": "Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.",
     "image": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQn-dElcK9EJx5-0MGV3ZKJA.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Kan man gå med caps i bryllup?",
+      "date": "2026-05-26T06:00:00+02:00"
+    }
   },
   {
     "id": "sjakksnakk",
@@ -1520,7 +1740,11 @@ const feeds = [
     "description": "I sommerhalvåret legger vi bort skiene og tar på oss løpeskoene,  rulleskiene eller  setter oss på sykkelen. Anders Aukland, Silje Nordnes og Sindre Reinholt motiverer deg i til å komme i form og nå dine mål uansett hvilket nivå du er på.",
     "image": "https://gfx.nrk.no/wiCIYwjL9AY91NkrQrx8CgBPyIhdMPLt6WSDzhGS9bmA.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Ingvill Måkestad Bovim: Ernæringsekspertens beste tips",
+      "date": "2026-05-22T05:00:00+02:00"
+    }
   },
   {
     "id": "skitprat",
@@ -1561,7 +1785,11 @@ const feeds = [
     "description": "Utvalgte gjester forteller personlige historier. Trykk \"Gå til radioversjon\" for å høre episodene med musikk.",
     "image": "https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9NgbvSlEzwOjLrR5E1br6U6gg.jpg",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "last_episode": {
+      "title": "Line Norman Hjorth",
+      "date": "2025-08-08T06:00:00+02:00"
+    }
   },
   {
     "id": "sophie_og_fetisha",
@@ -1597,7 +1825,11 @@ const feeds = [
     "description": "En gjeng komikere gir deg det morsomste fra sportens verden akkurat nå.",
     "image": "https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hwmk8zGmPZXV9ZcY-lrmV2kw.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Kongens nei til Dønnum",
+      "date": "2026-05-27T06:00:00+02:00"
+    }
   },
   {
     "id": "spraakteigen",
@@ -1606,7 +1838,11 @@ const feeds = [
     "description": "Absolutt alt du kan undre deg over om språk! Lydia Gieselmann spør, ekspertene svarer. Send dine spørsmål og tilbakemeldinger i appen eller til snakk@nrk.no.",
     "image": "https://gfx.nrk.no/b9bKez1OlAfKkJDldbfx9AGwq5D0VS42eXzhPj2eTZMw.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Trumpete gjørtler",
+      "date": "2026-05-22T06:00:00+02:00"
+    }
   },
   {
     "id": "staale_utslagsnes_fra_loensj",
@@ -1638,7 +1874,11 @@ const feeds = [
     "season": null,
     "enabled": false,
     "ignore": true,
-    "hidden": false
+    "hidden": false,
+    "last_episode": {
+      "title": "08.02.2013 - 4. sending ",
+      "date": "2013-02-08T19:05:00+01:00"
+    }
   },
   {
     "id": "strid",
@@ -1647,7 +1887,11 @@ const feeds = [
     "description": "Partyprinser, gærninger og kranglefanter – kongeslekta er full av sinnssyke historier! Med Aslak Sira Myhre og Ole-Albert Rønning Nordby. ",
     "image": "https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAGCOZ5YXvq62p9Ba4KqQtAw.jpg",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "last_episode": {
+      "title": "Triksene ",
+      "date": "2026-01-06T06:07:00+01:00"
+    }
   },
   {
     "id": "stroemwasenius",
@@ -1661,7 +1905,11 @@ const feeds = [
     "id": "studio_2",
     "title": "De 10 siste fra Studio 2",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Valentina Baisotti og Dennis Ravndal fra Krimrommet",
+      "date": "2026-05-15T18:00:00+02:00"
+    }
   },
   {
     "id": "supernytt",
@@ -1693,7 +1941,11 @@ const feeds = [
     "season": null,
     "enabled": false,
     "ignore": true,
-    "hidden": false
+    "hidden": false,
+    "last_episode": {
+      "title": "Program 1 : Bård og Haralds første sending",
+      "date": "2018-04-17T08:00:00+02:00"
+    }
   },
   {
     "id": "teige_lydstudio",
@@ -1701,7 +1953,11 @@ const feeds = [
     "season": null,
     "enabled": false,
     "ignore": true,
-    "hidden": false
+    "hidden": false,
+    "last_episode": {
+      "title": "Ny podkast: Teige lydstudio",
+      "date": "2021-01-15T12:15:00+01:00"
+    }
   },
   {
     "id": "tett_paa",
@@ -1749,7 +2005,11 @@ const feeds = [
     "season": null,
     "enabled": false,
     "ignore": true,
-    "hidden": false
+    "hidden": false,
+    "last_episode": {
+      "title": "Trailer - Tore og Einars podkast om Norge",
+      "date": "2014-02-11T14:00:00+01:00"
+    }
   },
   {
     "id": "tore_sagens_podkast",
@@ -1766,7 +2026,11 @@ const feeds = [
     "description": "Ingrid Moholt Waaler tar deg med gjennom jungelen av deilig, søplete popkultur.",
     "image": "https://gfx.nrk.no/nRje9HKnrW4EvTsx1QJ90gQCOiODH60y9hfIVXYhzGRQ.jpg",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "last_episode": {
+      "title": "Takk for nå <3",
+      "date": "2025-09-08T12:00:00+02:00"
+    }
   },
   {
     "id": "treningskompis",
@@ -1791,7 +2055,11 @@ const feeds = [
     "description": "Thomas Seltzer med gjester gir deg kvalifisert synsing og ren kvasi-idioti som gjør deg opplyst og forvirret.  \n",
     "image": "https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwIHYdPcYirs3UOD1YzyetjQ.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "KI i krig",
+      "date": "2026-05-25T06:00:00+02:00"
+    }
   },
   {
     "id": "turister",
@@ -1808,7 +2076,11 @@ const feeds = [
     "description": "Noen mennesker har rett og slett gjort verden til et dårligere sted. Morderiske, korrupte og maktsyke ledere med helt vanvittige historier. Nye Tyranner blir publisert hver måned.\n\nTyrann er en versjonering av den danske podkasten med samme navn.  ",
     "image": "https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Amy1jNhc0GuJNnxik0lcmkg.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Khomeini (1:6)",
+      "date": "2026-05-02T06:00:00+02:00"
+    }
   },
   {
     "id": "ubaatsaken",
@@ -1825,7 +2097,11 @@ const feeds = [
     "description": "Ukeslutt er nyhetsavdelingens lørdagsmagasin. Her får du et skråblikk på nyhetsuka, med friske reportasjer og aktuelle gjester.",
     "image": "https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwgkKPF_q7FNo2j_s6Ky-VoQ.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Hotellstreiken fortsetter",
+      "date": "2026-05-23T14:30:00+02:00"
+    }
   },
   {
     "id": "ukjent",
@@ -1858,7 +2134,11 @@ const feeds = [
     "description": "Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.",
     "image": "https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAALCQctlhmsJiTNFpFaD-XUg.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Birgit Skarstein: Sjelevenner",
+      "date": "2026-05-26T06:00:00+02:00"
+    }
   },
   {
     "id": "valg",
@@ -1872,7 +2152,11 @@ const feeds = [
     "id": "vassendgutane_broedre_i_boots",
     "title": "De 10 siste fra Vassendgutane – brødre i boots",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Vassendgutane - brødre i boots",
+      "date": "2024-10-11T15:50:00+02:00"
+    }
   },
   {
     "id": "verden_paa_loerdag",
@@ -1881,7 +2165,11 @@ const feeds = [
     "description": "Bli med ut i verden. Hør historiene og få forklaringene fra Norges største utenriksredaksjon.\n",
     "image": "https://gfx.nrk.no/VrUfyeq5_4iucMYKTPh1SwQE_ccwq0t_6FtXXCmBuwag.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "Trenger vi å være redde for Ebola?",
+      "date": "2026-05-22T05:00:00+02:00"
+    }
   },
   {
     "id": "verdens_ekleste_podkast",
@@ -1906,7 +2194,11 @@ const feeds = [
     "description": "For folk  som liker å vite litt mer",
     "image": "https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgcK2Yt-K_V458E7rdDsVfWw.jpg",
     "season": null,
-    "enabled": true
+    "enabled": true,
+    "last_episode": {
+      "title": "USA vakler- vår verden forsvinner",
+      "date": "2026-05-21T12:00:00+02:00"
+    }
   },
   {
     "id": "vg3",
@@ -1931,7 +2223,11 @@ const feeds = [
     "description": "To tøysekopper byr på ukas vittigste saker. Med komiker Maria Stavang og hennes helt vanlige, dødelige bestevenn – Ingrid Mikkelsen. ",
     "image": "https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAP0gAgLgk8ioUDYQ9yK42Ag.jpg",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "last_episode": {
+      "title": "På gjensyn, Gomper!",
+      "date": "2025-12-29T06:00:00+01:00"
+    }
   },
   {
     "id": "westworld-podden",
