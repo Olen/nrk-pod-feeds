@@ -332,8 +332,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Niels Christian Geelmuyden",
-      "date": "2026-05-21T13:35:00+02:00"
+      "title": "Gaute Børstad Skjervø",
+      "date": "2026-05-27T13:10:00+02:00"
     }
   },
   {
@@ -1284,8 +1284,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "6: Arven",
-      "date": "2026-05-14T06:01:00+02:00"
+      "title": "Nick Cave – Mørkets lysmester: 4: Sjelesørgeren",
+      "date": "2026-05-27T14:03:00+02:00"
     }
   },
   {
@@ -1713,8 +1713,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kan man gå med caps i bryllup?",
-      "date": "2026-05-26T06:00:00+02:00"
+      "title": "Bacon er ikke overvurdert!",
+      "date": "2026-05-27T06:00:00+02:00"
     }
   },
   {
