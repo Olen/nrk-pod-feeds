@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-05-27  
+- Podcast 'Spør for en venn' is considered obsolete and will be ignored in the future (`spoer_for_en_venn`)  
 ### 2026-05-26  
 - Updated podcast 'Abels tårn' (`abels_taarn`)  
 - Updated podcast 'Hele historien' (`hele_historien`)  
