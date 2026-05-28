@@ -368,12 +368,13 @@ const feeds = [
   {
     "id": "etikketaten",
     "title": "De 10 siste fra Etikketaten",
+    "name": "Etikketaten",
+    "description": "Kvar veke samlast tre kloke folk for å svare på små og store etiske spørsmål. Har du ei utfordring til panelet? Skriv til oss i appen NRK radio.",
+    "image": "https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgzggcSPcqNVZd6DrK1Yb6gQ.jpg",
     "season": null,
-    "enabled": true,
-    "last_episode": {
-      "title": "Viktig info: Gå til radioversjon for å høyre nye episoder!",
-      "date": "2025-06-04T06:00:00+02:00"
-    }
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "eventyrerne",
@@ -628,8 +629,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Smakebit: Dødsbakterien",
-      "date": "2026-05-15T13:00:00+02:00"
+      "title": "Dødsbakterien",
+      "date": "2026-05-16T06:00:00+02:00"
     }
   },
   {
@@ -878,8 +879,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps Nato-tvil: Hvem skal forsvare Norge ved krig?",
-      "date": "2026-05-21T15:27:00+02:00"
+      "title": "Frp-topp delte voldsbilde: – Vet godt hva han gjør",
+      "date": "2026-05-28T14:50:00+02:00"
     }
   },
   {
@@ -1402,12 +1403,13 @@ const feeds = [
   {
     "id": "nyhetsmorgen",
     "title": "De 10 siste fra Nyhetsmorgen",
+    "name": "Nyhetsmorgen",
+    "description": "Nyhetsmorgen vil ikke publiseres som podkast lenger, men søk opp Nyhetsmorgen på nytt i NRK Radio for å følge radioversjonen!",
+    "image": "https://gfx.nrk.no/YOS_pc9_-RhmVSh_6mA-sgsOtWw8l8CpIn_9GFI3q5Zw.jpg",
     "season": null,
-    "enabled": true,
-    "last_episode": {
-      "title": "Viktig beskjed til deg som hører Nyhetsmorgen",
-      "date": "2023-06-22T13:00:00+02:00"
-    }
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "o-fag",
@@ -1494,12 +1496,13 @@ const feeds = [
   {
     "id": "poensj",
     "title": "De 10 siste fra Pønsj",
+    "name": "Pønsj",
+    "description": "Nyheter, humor og blodig alvor blandet sammen i en herlig pønsj.\n",
+    "image": "https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwUc5AxrSwsR220EdyKXblHw.jpg",
     "season": null,
     "enabled": false,
-    "last_episode": {
-      "title": "«Tradwife» for alle penga",
-      "date": "2024-08-01T06:00:00+02:00"
-    }
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "politisk_kvarter",
@@ -1571,8 +1574,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "En hjelpsom bestemor (1:5)",
-      "date": "2026-05-26T06:00:00+02:00"
+      "title": "Demonutdriveren: Guds plan med det hele (5:5)",
+      "date": "2026-05-26T06:08:00+02:00"
     }
   },
   {
@@ -1692,8 +1695,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "– Det forholdet må ryke (1:4)",
-      "date": "2026-04-11T06:05:00+02:00"
+      "title": "LIS: – Jeg er som Joakim (Q&A)",
+      "date": "2026-05-08T11:30:00+02:00"
     }
   },
   {
@@ -1904,6 +1907,9 @@ const feeds = [
   {
     "id": "studio_2",
     "title": "De 10 siste fra Studio 2",
+    "name": "Studio 2",
+    "description": "Kultur og aktualitet rett i lomma? Ida Yasin Andersen, Kristian Bendiksen og Einar Lie Slangsvold gir deg det beste fra Studio 2. \n",
+    "image": "https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAylSxsFTsrlWjORt0a4uSTg.jpg",
     "season": null,
     "enabled": true,
     "last_episode": {
@@ -2151,12 +2157,13 @@ const feeds = [
   {
     "id": "vassendgutane_broedre_i_boots",
     "title": "De 10 siste fra Vassendgutane – brødre i boots",
+    "name": "Vassendgutane – brødre i boots",
+    "description": "Gutane som aldri skulle spele for andre, skapte eit festmonster. Ei lun forteljing om fyll, vennskap og draumen om ei dame.",
+    "image": "https://gfx.nrk.no/HOQkv7LxO8m8DmTKlvgBaw8yP45X0yF3U7418QG7pJZA.jpg",
     "season": null,
-    "enabled": true,
-    "last_episode": {
-      "title": "Vassendgutane - brødre i boots",
-      "date": "2024-10-11T15:50:00+02:00"
-    }
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "verden_paa_loerdag",

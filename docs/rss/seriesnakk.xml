@@ -1,46 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Seriesnakk</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
+    <title>De 10 siste fra Seriesnakk</title>
+    <link>https://olen.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 08 May 2026 09:54:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 14:00:45 +0000</lastBuildDate>
     <pubDate>Fri, 08 May 2026 11:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5Ari4Frwqqm4mxNwJnD5jFtw.jpg"/>
     <item>
-      <title>– Det forholdet må ryke (1:4)</title>
-      <description><![CDATA[Marlene Stavrum kjenner seg igjen i «LIS» – hvorfor det? Og Sofia Tjelta forteller om sykehus-hospiteringen som endte på gulvet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/5fea2b4b-d700-41be-aa2b-4bd70001be6f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/5fea2b4b-d700-41be-aa2b-4bd70001be6f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:34</itunes:duration>
-      <pubDate>Sat, 11 Apr 2026 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sbaqy-VNtQ9HYxsStoYM0w9t8JK1HUNvTpV3a9vf4p6w.jpg"/>
+      <title>LIS: – Jeg er som Joakim (Q&amp;A)</title>
+      <description><![CDATA[Lytterspørsmål! Hva mener helseminister Jan Christian Vestre om «LIS»? Hvilken karakter er Kaveh Rashidi? Og hva skjer i sesong 2?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/993c1ba6-7e8f-476f-bc1b-a67e8f176f8c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/993c1ba6-7e8f-476f-bc1b-a67e8f176f8c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:59</itunes:duration>
+      <pubDate>Fri, 08 May 2026 11:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tsrYj42ueZDmWKmAsegjEAv9Yfq5-dAUexdgX7HOkPWQ.jpg"/>
     </item>
     <item>
-      <title>– Petra er irriterende (2:4)</title>
-      <description><![CDATA[Marlene Stavrum vil ha old lovin’, og Elpida Stojcevska deler hvilken pasient som gjorde inntrykk på både henne og Petra.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/9abea730-3ff6-4fe6-bea7-303ff6ffe655_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/9abea730-3ff6-4fe6-bea7-303ff6ffe655_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:17</itunes:duration>
-      <pubDate>Sat, 18 Apr 2026 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CFeQTf-pEYodLQpBFqatgg_tsl18nPqDbthxDBrL0gKw.jpg"/>
-    </item>
-    <item>
-      <title>– En du går i krigen med (3:4)</title>
-      <description><![CDATA[Cathrine Frost forteller om forberedelsene til «LIS»-rollen, mens Marlene Stavrum måtte spole over en scene i serien. Hvilken?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/a783c6dc-e70b-4a15-83c6-dce70b4a15b8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/a783c6dc-e70b-4a15-83c6-dce70b4a15b8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:04</itunes:duration>
-      <pubDate>Sat, 25 Apr 2026 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JymodgCgoUEI8Z09Qf0HAgUttrGSmpgorwvGqI4FbQnA.jpg"/>
-    </item>
-    <item>
-      <title>– Vi gråt og gråt (4:4)</title>
+      <title>LIS: – Vi gråt og gråt (4:4)</title>
       <description><![CDATA[Deniz Kaya har sin egen teknikk for å komme i trist-modus, noe han fikk god bruk for i «LIS». Men når kommer neste sesong?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/b7692f92-9363-4b8b-a92f-9293633b8b77_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/seriesnakk/b7692f92-9363-4b8b-a92f-9293633b8b77_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -49,13 +31,76 @@
       <itunes:image href="https://gfx.nrk.no/c3-N8VRnxFbylirp0LXOxAigqdqn6E64B0gutnDpfs0Q.jpg"/>
     </item>
     <item>
-      <title>– Jeg er som Joakim (Q&amp;A)</title>
-      <description><![CDATA[Lytterspørsmål! Hva mener helseminister Jan Christian Vestre om «LIS»? Hvilken karakter er Kaveh Rashidi? Og hva skjer i sesong 2?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/993c1ba6-7e8f-476f-bc1b-a67e8f176f8c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/993c1ba6-7e8f-476f-bc1b-a67e8f176f8c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:59</itunes:duration>
-      <pubDate>Fri, 08 May 2026 11:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tsrYj42ueZDmWKmAsegjEAv9Yfq5-dAUexdgX7HOkPWQ.jpg"/>
+      <title>LIS: – En du går i krigen med (3:4)</title>
+      <description><![CDATA[Cathrine Frost forteller om forberedelsene til «LIS»-rollen, mens Marlene Stavrum måtte spole over en scene i serien. Hvilken?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/a783c6dc-e70b-4a15-83c6-dce70b4a15b8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/a783c6dc-e70b-4a15-83c6-dce70b4a15b8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:04</itunes:duration>
+      <pubDate>Sat, 25 Apr 2026 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JymodgCgoUEI8Z09Qf0HAgUttrGSmpgorwvGqI4FbQnA.jpg"/>
+    </item>
+    <item>
+      <title>LIS: – Petra er irriterende (2:4)</title>
+      <description><![CDATA[Marlene Stavrum vil ha old lovin’, og Elpida Stojcevska deler hvilken pasient som gjorde inntrykk på både henne og Petra.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/9abea730-3ff6-4fe6-bea7-303ff6ffe655_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/9abea730-3ff6-4fe6-bea7-303ff6ffe655_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:17</itunes:duration>
+      <pubDate>Sat, 18 Apr 2026 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CFeQTf-pEYodLQpBFqatgg_tsl18nPqDbthxDBrL0gKw.jpg"/>
+    </item>
+    <item>
+      <title>LIS: – Det forholdet må ryke (1:4)</title>
+      <description><![CDATA[Marlene Stavrum kjenner seg igjen i «LIS» – hvorfor det? Og Sofia Tjelta forteller om sykehus-hospiteringen som endte på gulvet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/5fea2b4b-d700-41be-aa2b-4bd70001be6f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/5fea2b4b-d700-41be-aa2b-4bd70001be6f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:34</itunes:duration>
+      <pubDate>Sat, 11 Apr 2026 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sbaqy-VNtQ9HYxsStoYM0w9t8JK1HUNvTpV3a9vf4p6w.jpg"/>
+    </item>
+    <item>
+      <title>Ølhunden Berit: Tom 2.0 (4:4)</title>
+      <description><![CDATA[Hvordan står det egentlig til med kjønnskrigen i virkeligheten – og hva forteller slutten oss?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/701a56b5-9d73-4138-9a56-b59d736138f0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/701a56b5-9d73-4138-9a56-b59d736138f0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:26</itunes:duration>
+      <pubDate>Sun, 09 Nov 2025 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ygX05DqqdGlILjnyigWBIgsyCOnvTpLFPaAw-lbdmr9g.jpg"/>
+    </item>
+    <item>
+      <title>Ølhunden Berit: Kuktåka (3:4)</title>
+      <description><![CDATA[Torkil Risan går inn i kuktåka og får høre om den ville innspillingen av homosauna i Litauen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/32bd1276-3468-4366-bd12-7634685366df_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/32bd1276-3468-4366-bd12-7634685366df_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:40</itunes:duration>
+      <pubDate>Sun, 09 Nov 2025 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QE4Bv9npFeZna_e9E3N3QgRkrE_3X0D7t1TzpqsbA7gg.jpg"/>
+    </item>
+    <item>
+      <title>Ølhunden Berit: Nachspielet (2:4)</title>
+      <description><![CDATA[Serien tar en ny bekmørk vending, og Sigrid Bonde Tusvik forteller om sine egne verste opplevelser med trusler og netthat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/2f446eb6-e8db-494c-846e-b6e8db794cc3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/2f446eb6-e8db-494c-846e-b6e8db794cc3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:22</itunes:duration>
+      <pubDate>Sun, 09 Nov 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mF7O2cAa6p6DgSTuVO-oYwp_psB8jDuKX_ATGv0i4b_A.jpg"/>
+    </item>
+    <item>
+      <title>Ølhunden Berit: Troll i tweed (1:4)</title>
+      <description><![CDATA[Wolfgang Wee har sett serien med oss – hva synes han? Anders Baasmo forteller om hvordan han dyrket fram Tom-Berit.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/fa886739-553a-4fee-8867-39553a9fee1d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/fa886739-553a-4fee-8867-39553a9fee1d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:32</itunes:duration>
+      <pubDate>Sun, 09 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xwiF-OZupugAVDgdIsEwqgkgC1N5OkNmGFVaSerwB0kw.jpg"/>
+    </item>
+    <item>
+      <title>Stoltenberg i møte med krigen: – Mye klemming i Nato (2:2)</title>
+      <description><![CDATA[Vi får endelig tak i Stoltenberg og stiller spørsmålene han ikke svarer på i filmen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/2c42e07d-dc30-46b6-82e0-7ddc3026b6f3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/2c42e07d-dc30-46b6-82e0-7ddc3026b6f3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:40</itunes:duration>
+      <pubDate>Sun, 21 Sep 2025 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vu1nVOYYWscfvqb3hhI-0wJzL76ybkIb9v63qCVacLkg.jpg"/>
     </item>
   </channel>
 </rss>

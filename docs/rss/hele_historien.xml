@@ -1,26 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 2 siste fra Hele historien</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 2 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
+    <title>De 10 siste fra Hele historien</title>
+    <link>https://olen.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Hele historien. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/hele_historien for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 16 May 2026 04:03:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 14:00:37 +0000</lastBuildDate>
     <pubDate>Sat, 16 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
-    <item>
-      <title>Smakebit: Dødsbakterien</title>
-      <description><![CDATA[En dødelig smitte herjer i Østfold våren 2005. Mange blir alvorlig syke, men ingen vet hvor den mystiske bakterien kommer fra. I NRK Radio fra 16.5.2026.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/e7336349-e4d4-4837-b363-49e4d4c8377e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/e7336349-e4d4-4837-b363-49e4d4c8377e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:29</itunes:duration>
-      <pubDate>Fri, 15 May 2026 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/a5fjcI6Sqw55O2CFZr1bVAypSLp2jKjkhHtQBwDB2-Xw.jpg"/>
-    </item>
     <item>
       <title>Dødsbakterien</title>
       <description><![CDATA[Smittejegerne kjemper mot klokka når folk i Østfold begynner å dø av pustevansker. Hvordan er de blitt smittet?]]></description>
@@ -29,6 +20,87 @@
       <itunes:duration>40:41</itunes:duration>
       <pubDate>Sat, 16 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/a5fjcI6Sqw55O2CFZr1bVAypSLp2jKjkhHtQBwDB2-Xw.jpg"/>
+    </item>
+    <item>
+      <title>Helikopterstyrten</title>
+      <description><![CDATA[Øyenvitner ser en helikopterkropp i fritt fall. Redningsarbeiderne som rykker ut, har aldri opplevd liknende.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/d593bc52-c09d-4fe1-93bc-52c09d9fe158_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/d593bc52-c09d-4fe1-93bc-52c09d9fe158_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:43</itunes:duration>
+      <pubDate>Sat, 25 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ISBvrTG-9rzk67zIms-TvwiCcv6bvv0rVmfEGc9vEzUQ.jpg"/>
+    </item>
+    <item>
+      <title>I legens grep: Legens fall (4:4)</title>
+      <description><![CDATA[Arne Bye blir dømt i en av Norges største overgrepssaker. Men saken er langt fra over.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/3b362b6d-6277-42d2-b62b-6d627722d231_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/3b362b6d-6277-42d2-b62b-6d627722d231_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:16</itunes:duration>
+      <pubDate>Sat, 14 Mar 2026 06:06:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nb0mWzuE3EZCKzeHNFrdugRJCV1rcPo_YdWrOgh40PFQ.jpg"/>
+    </item>
+    <item>
+      <title>I legens grep: Avsløringen (3:4)</title>
+      <description><![CDATA[Etter to alvorlige varsler blir Arne Bye anmeldt. Under ransakingen finner politiet tusenvis av filmer fra legekontoret.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/a5381044-23cb-4016-b810-4423cb4016ab_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/a5381044-23cb-4016-b810-4423cb4016ab_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:19</itunes:duration>
+      <pubDate>Sat, 14 Mar 2026 06:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nb0mWzuE3EZCKzeHNFrdugRJCV1rcPo_YdWrOgh40PFQ.jpg"/>
+    </item>
+    <item>
+      <title>I legens grep: Legen uten grenser (2:4)</title>
+      <description><![CDATA[Samtidig som Arne Bye blir kåret til årets ildsjel,  voldtar han egne pasienter med hjemmelaget utstyr.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/66d04361-1777-460d-9043-611777160df1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/66d04361-1777-460d-9043-611777160df1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:18</itunes:duration>
+      <pubDate>Sat, 14 Mar 2026 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nb0mWzuE3EZCKzeHNFrdugRJCV1rcPo_YdWrOgh40PFQ.jpg"/>
+    </item>
+    <item>
+      <title>I legens grep: Den nye legen (1:4)</title>
+      <description><![CDATA[For å få p-piller hos Arne Bye må tenåringsjenter opp i gynekologstolen. Der bruker han uvanlige metoder.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/63fa91d2-62ef-4ab4-ba91-d262ef4ab46d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/63fa91d2-62ef-4ab4-ba91-d262ef4ab46d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:07</itunes:duration>
+      <pubDate>Sat, 14 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nb0mWzuE3EZCKzeHNFrdugRJCV1rcPo_YdWrOgh40PFQ.jpg"/>
+    </item>
+    <item>
+      <title>Forsvunnet på vidda: Livløs i snøen (2:2)</title>
+      <description><![CDATA[Ungdommene kjemper desperat for å holde seg i live. Men timene går.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/39e9e4c5-0178-480e-a9e4-c50178880efd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/39e9e4c5-0178-480e-a9e4-c50178880efd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:16</itunes:duration>
+      <pubDate>Sat, 28 Feb 2026 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ytnbh11cYMdjCW0_bpnTWQEaci_UzVWUA4LDeymk4zuA.jpg"/>
+    </item>
+    <item>
+      <title>Forsvunnet på vidda: Alt blir hvitt (1:2)</title>
+      <description><![CDATA[Vennegjengen skal bare en svipptur på snøskuter. Så går det galt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/83276693-8d3e-4372-a766-938d3ee3720e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/83276693-8d3e-4372-a766-938d3ee3720e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:24</itunes:duration>
+      <pubDate>Sat, 28 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ytnbh11cYMdjCW0_bpnTWQEaci_UzVWUA4LDeymk4zuA.jpg"/>
+    </item>
+    <item>
+      <title>Abortkampen: Én stemmes overvekt (2:2)</title>
+      <description><![CDATA[Over 600.000 nordmenn skriver under på et fortsatt nei til selvbestemt abort. Ingen vet hva politikerne lander på.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/b6f78a77-d552-4680-b78a-77d552368013_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/b6f78a77-d552-4680-b78a-77d552368013_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:44</itunes:duration>
+      <pubDate>Sat, 14 Feb 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/n1buEwHyGibuquDBsA2a7gSEPTxK2GFiwNm5aZvw9OaA.jpg"/>
+    </item>
+    <item>
+      <title>Abortkampen: Ulovlige inngrep (1:2)</title>
+      <description><![CDATA[Abortstriden øker i styrke utover 70-tallet. Norske kvinner kan ikke bestemme selv om de ønsker abort, og det utføres illegale inngrep.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/6c7cbf66-af52-4a94-bcbf-66af529a9409_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/6c7cbf66-af52-4a94-bcbf-66af529a9409_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:21</itunes:duration>
+      <pubDate>Sat, 14 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/n1buEwHyGibuquDBsA2a7gSEPTxK2GFiwNm5aZvw9OaA.jpg"/>
     </item>
   </channel>
 </rss>
