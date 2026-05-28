@@ -295,8 +295,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vestkantens mørke bakside",
-      "date": "2026-05-21T06:00:00+02:00"
+      "title": "Overfalt av fulle fans",
+      "date": "2026-05-28T06:00:00+02:00"
     }
   },
   {
@@ -813,8 +813,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Får støtte fra partiet i barnehagedebatten",
-      "date": "2026-05-27T05:59:00+02:00"
+      "title": "Streiken er over (for de fleste)",
+      "date": "2026-05-28T05:59:00+02:00"
     }
   },
   {
@@ -1023,8 +1023,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "«Kafka på stranden» (41:49)",
-      "date": "2026-05-21T06:15:00+02:00"
+      "title": "«Kafka på stranden» (49:49)",
+      "date": "2026-05-28T06:10:00+02:00"
     }
   },
   {
@@ -1049,8 +1049,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Skamgang og kåtestråler",
-      "date": "2026-05-21T06:00:00+02:00"
+      "title": "Rene makta!",
+      "date": "2026-05-28T06:00:00+02:00"
     }
   },
   {
@@ -1157,8 +1157,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Slåssing med samtykke",
-      "date": "2026-05-27T06:00:00+02:00"
+      "title": "Utro i drømme",
+      "date": "2026-05-28T06:00:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dop, Dubai og drap: Jakten på narkokartellet",
-      "date": "2026-05-27T05:59:00+02:00"
+      "title": "Trumps plan: Vil han ta Cuba?",
+      "date": "2026-05-28T05:59:00+02:00"
     }
   },
   {
@@ -2136,8 +2136,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Birgit Skarstein: Sjelevenner",
-      "date": "2026-05-26T06:00:00+02:00"
+      "title": "Joakim Kleven: Slutt på singellivet",
+      "date": "2026-05-28T06:00:00+02:00"
     }
   },
   {
