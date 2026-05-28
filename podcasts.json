@@ -312,8 +312,13 @@
     {
         "id": "etikketaten",
         "title": "De 10 siste fra Etikketaten",
+        "name": "Etikketaten",
+        "description": "Kvar veke samlast tre kloke folk for å svare på små og store etiske spørsmål. Har du ei utfordring til panelet? Skriv til oss i appen NRK radio.",
+        "image": "https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgzggcSPcqNVZd6DrK1Yb6gQ.jpg",
         "season": null,
-        "enabled": true
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "eventyrerne",
@@ -1218,8 +1223,13 @@
     {
         "id": "nyhetsmorgen",
         "title": "De 10 siste fra Nyhetsmorgen",
+        "name": "Nyhetsmorgen",
+        "description": "Nyhetsmorgen vil ikke publiseres som podkast lenger, men søk opp Nyhetsmorgen på nytt i NRK Radio for å følge radioversjonen!",
+        "image": "https://gfx.nrk.no/YOS_pc9_-RhmVSh_6mA-sgsOtWw8l8CpIn_9GFI3q5Zw.jpg",
         "season": null,
-        "enabled": true
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "o-fag",
@@ -1298,8 +1308,13 @@
     {
         "id": "poensj",
         "title": "De 10 siste fra Pønsj",
+        "name": "Pønsj",
+        "description": "Nyheter, humor og blodig alvor blandet sammen i en herlig pønsj.\n",
+        "image": "https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwUc5AxrSwsR220EdyKXblHw.jpg",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "politisk_kvarter",
@@ -1660,6 +1675,9 @@
     {
         "id": "studio_2",
         "title": "De 10 siste fra Studio 2",
+        "name": "Studio 2",
+        "description": "Kultur og aktualitet rett i lomma? Ida Yasin Andersen, Kristian Bendiksen og Einar Lie Slangsvold gir deg det beste fra Studio 2. \n",
+        "image": "https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAylSxsFTsrlWjORt0a4uSTg.jpg",
         "season": null,
         "enabled": true
     },
@@ -1871,8 +1889,13 @@
     {
         "id": "vassendgutane_broedre_i_boots",
         "title": "De 10 siste fra Vassendgutane – brødre i boots",
+        "name": "Vassendgutane – brødre i boots",
+        "description": "Gutane som aldri skulle spele for andre, skapte eit festmonster. Ei lun forteljing om fyll, vennskap og draumen om ei dame.",
+        "image": "https://gfx.nrk.no/HOQkv7LxO8m8DmTKlvgBaw8yP45X0yF3U7418QG7pJZA.jpg",
         "season": null,
-        "enabled": true
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "verden_paa_loerdag",

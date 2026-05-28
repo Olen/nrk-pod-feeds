@@ -109,6 +109,57 @@ def update_podcasts_config(configured, discovered):
                     new_feed[k] = configured[exists_i][k]
             configured[exists_i] = new_feed
 
+    # Re-evaluate "orphan" entries — configured but no longer in NRK's catalog
+    # search. NRK sometimes delists podcasts from the search while leaving the
+    # podcast endpoint alive, which would otherwise leave those entries frozen
+    # at their last-known enabled state forever.
+    discovered_ids = set(discovered.keys())
+    for i, c in enumerate(configured):
+        if c['id'] in discovered_ids or c.get('ignore'):
+            continue
+
+        metadata = psapi.get_podcast_metadata(c['id'])
+        if not metadata:
+            logging.debug(f"Orphan check: no metadata for {c['id']}")
+            continue
+
+        episodes = psapi.get_podcast_episodes(c['id'])
+        if not episodes:
+            continue
+
+        active = check_if_podcast_active(today, episodes)
+        display_name = c.get('name') or c.get('title') or c['id']
+
+        series = metadata.get('series', {})
+        titles = series.get('titles', {})
+        square_images = series.get('squareImage') or []
+        new_feed = {
+            "id": c['id'],
+            "title": c.get('title') or f"{title_prefix}{titles.get('title', c['id'])}",
+            "name": titles.get('title') or c.get('name') or c['id'],
+            "description": titles.get('subtitle') or '',
+            "image": (square_images[0]['url'] + '.jpg') if square_images else '',
+            "season": c.get('season'),
+            "enabled": active['active']
+        }
+        if 'episodes' in c:
+            new_feed['episodes'] = c['episodes']
+
+        if active['obsolete']:
+            logging.warning(f"Orphan {c['id']} is obsolete and will be ignored in the future")
+            changes.append(f"Podcast '{display_name}' is considered obsolete and will be ignored in the future (`{c['id']}`)")
+            new_feed["ignore"] = True
+            new_feed["hidden"] = True
+            configured[i] = new_feed
+            updated_c += 1
+        elif c.get('enabled') != new_feed['enabled']:
+            logging.info(f"Updating orphan {c['id']} (active changed)")
+            changes.append(f"Updated podcast '{display_name}' (`{c['id']}`)")
+            configured[i] = new_feed
+            updated_c += 1
+        elif 'image' not in c:
+            configured[i] = new_feed
+
     logging.info(f"Added {added_c} new podcast feed(s), {updated_c} existing feed(s) were updated")
     return configured, changes
 

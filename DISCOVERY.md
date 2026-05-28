@@ -1,4 +1,9 @@
 # Podcast Discovery Changelog  
+### 2026-05-28  
+- Podcast 'De 10 siste fra Etikketaten' is considered obsolete and will be ignored in the future (`etikketaten`)  
+- Podcast 'De 10 siste fra Nyhetsmorgen' is considered obsolete and will be ignored in the future (`nyhetsmorgen`)  
+- Podcast 'De 10 siste fra Pønsj' is considered obsolete and will be ignored in the future (`poensj`)  
+- Podcast 'De 10 siste fra Vassendgutane – brødre i boots' is considered obsolete and will be ignored in the future (`vassendgutane_broedre_i_boots`)  
 ### 2026-05-27  
 - Podcast 'Spør for en venn' is considered obsolete and will be ignored in the future (`spoer_for_en_venn`)  
 ### 2026-05-26  
