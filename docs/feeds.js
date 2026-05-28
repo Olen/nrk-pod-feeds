@@ -1745,8 +1745,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ingvill Måkestad Bovim: Ernæringsekspertens beste tips",
-      "date": "2026-05-22T05:00:00+02:00"
+      "title": "Hyrox, ny sykkel og baneløping",
+      "date": "2026-05-28T17:26:00+02:00"
     }
   },
   {
