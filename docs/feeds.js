@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bistand er også beredskap",
-      "date": "2026-05-27T12:35:00+02:00"
+      "title": "Trumps USA: Alle presidentens menn",
+      "date": "2026-05-28T14:00:00+02:00"
     }
   },
   {
@@ -1070,8 +1070,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tore Sagen / Adelina Ibishi / Emil Berntsen",
-      "date": "2026-05-23T13:50:00+02:00"
+      "title": "Kopper deles ut - og bok avsløres!",
+      "date": "2026-05-28T14:00:00+02:00"
     }
   },
   {
@@ -1713,8 +1713,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bacon er ikke overvurdert!",
-      "date": "2026-05-27T06:00:00+02:00"
+      "title": "Vi lukter på stinke-finger",
+      "date": "2026-05-28T06:00:00+02:00"
     }
   },
   {
@@ -2078,8 +2078,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Khomeini (1:6)",
-      "date": "2026-05-02T06:00:00+02:00"
+      "title": "Charles Taylor - kommer lørdag",
+      "date": "2026-05-28T14:00:00+02:00"
     }
   },
   {
