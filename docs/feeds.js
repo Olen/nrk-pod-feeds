@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Møte mellom Støre og Macron",
-      "date": "2026-05-27T19:00:00+02:00"
+      "title": "Lite fornøyd med atomvåpenavtale",
+      "date": "2026-05-28T19:00:00+02:00"
     }
   },
   {
