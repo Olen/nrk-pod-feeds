@@ -253,8 +253,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ettåringer i barnehagen",
-      "date": "2026-05-26T22:45:00+02:00"
+      "title": "Har vi nok kraft?",
+      "date": "2026-05-28T23:01:00+02:00"
     }
   },
   {
