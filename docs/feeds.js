@@ -1471,8 +1471,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Henning vil øve på fødsel",
-      "date": "2026-05-27T06:00:00+02:00"
+      "title": "Conga line med rumpevask.",
+      "date": "2026-05-28T06:00:00+02:00"
     }
   },
   {
@@ -1510,8 +1510,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nordmenn mer kritiske til innvandring",
-      "date": "2026-05-27T08:00:00+02:00"
+      "title": "Framtida for lakseskatten",
+      "date": "2026-05-28T08:00:00+02:00"
     }
   },
   {
