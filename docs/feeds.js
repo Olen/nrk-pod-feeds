@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Milies nye stil, kroppshår og «er det utroskap?»-lek",
-      "date": "2026-05-26T06:00:00+02:00"
+      "title": "Bikini-forbud, MAFS og trua med brødkniv",
+      "date": "2026-05-29T12:00:00+02:00"
     }
   },
   {
@@ -2203,8 +2203,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "USA vakler- vår verden forsvinner",
-      "date": "2026-05-21T12:00:00+02:00"
+      "title": "Tyskledet NATO?",
+      "date": "2026-05-29T12:30:00+02:00"
     }
   },
   {
