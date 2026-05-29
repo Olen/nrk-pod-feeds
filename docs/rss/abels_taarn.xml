@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 27 May 2026 06:33:09 +0000</lastBuildDate>
-    <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 29 May 2026 08:51:53 +0000</lastBuildDate>
+    <pubDate>Fri, 29 May 2026 09:03:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Tårnet: Gjør gruver verden grønnere?</title>
+      <description><![CDATA[Abels Tårn besøker Narvik og sjekker ut malmbyens energipotensiale.
+Lurer du på ting? Send inn spørsmål til Abels Tårns eksperter!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/827dde0e-d071-4c7a-bdde-0ed071dc7a6f_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/827dde0e-d071-4c7a-bdde-0ed071dc7a6f_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:37</itunes:duration>
+      <pubDate>Fri, 29 May 2026 09:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/f4bk__zvKGMDoZ4KenCaHAM1TQ5wLsy0qkxt60UY0UIw.jpg"/>
+    </item>
     <item>
       <title>Forskningsfronten: Klærne dine kan gjenvinnes</title>
       <description><![CDATA[Forskere har nemlig en resirkulerings-plan. Dessuten, ny forskning viser hvordan måker kan stoppes fra å stjele mat, og hvordan hjernen din endres hvis du får vinger]]></description>
@@ -95,15 +105,6 @@ Lurer du på sære saker? Send inn spørsmål til Abels Tårns kompetente eksper
       <itunes:duration>33:22</itunes:duration>
       <pubDate>Mon, 04 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten: Klitoris er større enn du tror</title>
-      <description><![CDATA[Forskere har kartlagt alle nervecellene i det undervurderte organet. Andre vet hvordan gamle celler kan bli som nye. Og så er det oppdaget et spesielt cellevev som jobber som megler i kroppen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/b9cf2b9f-9717-4f7f-8f2b-9f9717af7f35_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b9cf2b9f-9717-4f7f-8f2b-9f9717af7f35_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:04</itunes:duration>
-      <pubDate>Wed, 29 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
     </item>
   </channel>
 </rss>

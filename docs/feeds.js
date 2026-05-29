@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Klærne dine kan gjenvinnes",
-      "date": "2026-05-27T06:00:00+02:00"
+      "title": "Tårnet: Gjør gruver verden grønnere?",
+      "date": "2026-05-29T09:03:00+02:00"
     }
   },
   {
@@ -481,8 +481,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "VM-uttak, ragebait og russ",
-      "date": "2026-05-22T08:30:00+02:00"
+      "title": "Barnehagedebatten, KI og nok marengskjoler",
+      "date": "2026-05-29T09:00:00+02:00"
     }
   },
   {
@@ -1473,8 +1473,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Conga line med rumpevask.",
-      "date": "2026-05-28T06:00:00+02:00"
+      "title": "Arin og Jonas på Charterfeber?",
+      "date": "2026-05-29T06:00:00+02:00"
     }
   },
   {
@@ -1513,8 +1513,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Framtida for lakseskatten",
-      "date": "2026-05-28T08:00:00+02:00"
+      "title": "Kampen om bil i byen",
+      "date": "2026-05-29T08:10:00+02:00"
     }
   },
   {
