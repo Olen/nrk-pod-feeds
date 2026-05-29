@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nylands gigatabbe og Englands stjernevraking",
-      "date": "2026-05-25T13:27:00+02:00"
+      "title": "VM-klare Østigård: -Kjeftet på de voksne stjernene",
+      "date": "2026-05-29T06:00:00+02:00"
     }
   },
   {
@@ -179,8 +179,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Stian Hjelvin Andersen: Må alt være perfekt?",
-      "date": "2026-05-22T06:00:00+02:00"
+      "title": "Jens M. Johansson: En liten bok om døden",
+      "date": "2026-05-29T06:00:00+02:00"
     }
   },
   {
@@ -274,8 +274,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Livets harde barnehage",
-      "date": "2026-05-22T06:00:00+02:00"
+      "title": "Haalands VM-brød",
+      "date": "2026-05-29T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Streiken er over (for de fleste)",
-      "date": "2026-05-28T05:59:00+02:00"
+      "title": "Historisk VM-bragd for Norge",
+      "date": "2026-05-29T05:59:00+02:00"
     }
   },
   {
@@ -1158,8 +1158,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Utro i drømme",
-      "date": "2026-05-28T06:00:00+02:00"
+      "title": "- Vi er bare aper, brur",
+      "date": "2026-05-29T06:00:00+02:00"
     }
   },
   {
@@ -1444,8 +1444,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps plan: Vil han ta Cuba?",
-      "date": "2026-05-28T05:59:00+02:00"
+      "title": "Drapet på danske Emilie: Mannen politiet overså",
+      "date": "2026-05-29T05:59:00+02:00"
     }
   },
   {
@@ -1843,8 +1843,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumpete gjørtler",
-      "date": "2026-05-22T06:00:00+02:00"
+      "title": "Avvikle bindestrek?",
+      "date": "2026-05-29T06:00:00+02:00"
     }
   },
   {
@@ -2174,8 +2174,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trenger vi å være redde for Ebola?",
-      "date": "2026-05-22T05:00:00+02:00"
+      "title": "Storbritannia: Farvel, statsminister?",
+      "date": "2026-05-29T06:00:00+02:00"
     }
   },
   {
