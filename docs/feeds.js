@@ -1716,8 +1716,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi lukter på stinke-finger",
-      "date": "2026-05-28T06:00:00+02:00"
+      "title": "Markus tatover seg",
+      "date": "2026-05-29T06:00:00+02:00"
     }
   },
   {
@@ -1913,8 +1913,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Valentina Baisotti og Dennis Ravndal fra Krimrommet",
-      "date": "2026-05-15T18:00:00+02:00"
+      "title": "Platedate med Maria Mena og Julie Strømsvåg",
+      "date": "2026-05-29T18:00:00+02:00"
     }
   },
   {
