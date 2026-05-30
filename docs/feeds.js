@@ -1071,8 +1071,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kopper deles ut - og bok avsløres!",
-      "date": "2026-05-28T14:00:00+02:00"
+      "title": "Mia Hundvin / Sindre Reinholt / Kristin Jess Rodin",
+      "date": "2026-05-30T14:15:00+02:00"
     }
   },
   {
@@ -2105,8 +2105,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hotellstreiken fortsetter",
-      "date": "2026-05-23T14:30:00+02:00"
+      "title": "Venter på kongen",
+      "date": "2026-05-30T14:00:00+02:00"
     }
   },
   {
