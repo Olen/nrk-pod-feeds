@@ -945,8 +945,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Emilie Meng: Er drapsgåten endelig løst?",
-      "date": "2026-05-27T06:00:00+02:00"
+      "title": "Wangen (1): Barnedrapet",
+      "date": "2026-05-30T06:00:00+02:00"
     }
   },
   {
@@ -1372,8 +1372,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jesus, sex og voldseksport",
-      "date": "2026-05-23T06:00:00+02:00"
+      "title": "Rike barn leker verst",
+      "date": "2026-05-30T06:00:00+02:00"
     }
   },
   {
@@ -1473,8 +1473,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Arin og Jonas på Charterfeber?",
-      "date": "2026-05-29T06:00:00+02:00"
+      "title": "Aldersgrensen på IS-videoer?",
+      "date": "2026-05-30T06:00:00+02:00"
     }
   },
   {
@@ -2084,8 +2084,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Charles Taylor - kommer lørdag",
-      "date": "2026-05-28T14:00:00+02:00"
+      "title": "Charles Taylor (4:4)",
+      "date": "2026-05-30T06:03:00+02:00"
     }
   },
   {
