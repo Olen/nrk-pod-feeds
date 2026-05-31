@@ -2142,8 +2142,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Joakim Kleven: Slutt på singellivet",
-      "date": "2026-05-28T06:00:00+02:00"
+      "title": "Panelet: Datinghore og klemmepute",
+      "date": "2026-05-31T06:00:00+02:00"
     }
   },
   {
@@ -2203,8 +2203,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tyskledet NATO?",
-      "date": "2026-05-29T12:30:00+02:00"
+      "title": "Anvendt filosofi",
+      "date": "2026-05-31T06:00:00+02:00"
     }
   },
   {
