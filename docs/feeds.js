@@ -1473,8 +1473,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Aldersgrensen på IS-videoer?",
-      "date": "2026-05-30T06:00:00+02:00"
+      "title": "Hvor skal føttene vaskes?",
+      "date": "2026-06-01T06:00:00+02:00"
     }
   },
   {
@@ -1513,8 +1513,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kampen om bil i byen",
-      "date": "2026-05-29T08:10:00+02:00"
+      "title": "Forsvare landet eller berge naturen?",
+      "date": "2026-06-01T08:00:00+02:00"
     }
   },
   {
