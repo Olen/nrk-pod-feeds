@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Gjør gruver verden grønnere?",
-      "date": "2026-05-29T09:03:00+02:00"
+      "title": "Forskningsfronten: Kan du høre \"The hum\"?",
+      "date": "2026-06-01T06:00:00+02:00"
     }
   },
   {
@@ -69,8 +69,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Treet som forbilde",
-      "date": "2026-05-25T06:00:00+02:00"
+      "title": "Ikke lov å gråte på hytta",
+      "date": "2026-06-01T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Historisk VM-bragd for Norge",
-      "date": "2026-05-29T05:59:00+02:00"
+      "title": "Kampen-drapet opp i retten",
+      "date": "2026-06-01T05:59:00+02:00"
     }
   },
   {
@@ -945,8 +945,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Wangen (1): Barnedrapet",
-      "date": "2026-05-30T06:00:00+02:00"
+      "title": "Wangen (2): Dødsplanen",
+      "date": "2026-06-01T06:00:00+02:00"
     }
   },
   {
@@ -1037,8 +1037,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Slik unngår du arvekonflikten",
-      "date": "2026-05-27T05:00:00+02:00"
+      "title": "Bonus: Linnéa svarer",
+      "date": "2026-06-01T05:00:00+02:00"
     }
   },
   {
@@ -1338,8 +1338,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ekstra large i Vietnam",
-      "date": "2026-05-25T06:00:00+02:00"
+      "title": "Big T på besøk",
+      "date": "2026-06-01T06:00:00+02:00"
     }
   },
   {
@@ -1444,8 +1444,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Drapet på danske Emilie: Mannen politiet overså",
-      "date": "2026-05-29T05:59:00+02:00"
+      "title": "Bak USAs mektigste: Hvem er Israel-lobbyen AIPAC?",
+      "date": "2026-06-01T05:59:00+02:00"
     }
   },
   {
@@ -2063,8 +2063,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "KI i krig",
-      "date": "2026-05-25T06:00:00+02:00"
+      "title": "Tema: Temu",
+      "date": "2026-06-01T06:00:00+02:00"
     }
   },
   {

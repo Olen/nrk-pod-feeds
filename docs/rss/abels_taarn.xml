@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 29 May 2026 08:51:53 +0000</lastBuildDate>
-    <pubDate>Fri, 29 May 2026 09:03:00 +0200</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2026 05:14:56 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten: Kan du høre "The hum"?</title>
+      <description><![CDATA[Forskere vet nå litt mer om lyden som gjør folk gale. Dessuten, KI har sett på pupper. Og spennende matematikk er oppdaget i populær potteplante]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/54c63499-b48e-49f4-8634-99b48eb9f495_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/54c63499-b48e-49f4-8634-99b48eb9f495_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:29</itunes:duration>
+      <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
+    </item>
     <item>
       <title>Tårnet: Gjør gruver verden grønnere?</title>
       <description><![CDATA[Abels Tårn besøker Narvik og sjekker ut malmbyens energipotensiale.
@@ -96,15 +105,6 @@ Lurer du på sære saker? Send inn spørsmål til Abels Tårns kompetente eksper
       <itunes:duration>57:34</itunes:duration>
       <pubDate>Fri, 08 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/tyhEA9jgffaGvkO5d5Ne0AZbLYL8U7Yu0mw-qeXX5VNQ.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten: Derfor spøker det</title>
-      <description><![CDATA[Forskere vet nå hvorfor noen hus får hårene dine til å reise seg. Dessuten er det oppdaget en spesiell kur mot søppelmat. Og sykkelfelt er ikke så trygge som vi trodde]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/3380ee1c-142c-4f8b-80ee-1c142c7f8bc5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/3380ee1c-142c-4f8b-80ee-1c142c7f8bc5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:22</itunes:duration>
-      <pubDate>Mon, 04 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
     </item>
   </channel>
 </rss>
