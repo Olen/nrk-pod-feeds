@@ -82,6 +82,36 @@ h1 {
 }
 .legend-item[aria-pressed="false"]:hover { opacity: .8; }
 
+.sortbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 16px;
+    font-size: 13px;
+    color: var(--fg-muted);
+}
+.sortbar-label { user-select: none; }
+.sort-item {
+    appearance: none;
+    -webkit-appearance: none;
+    font: inherit;
+    padding: 4px 12px;
+    background: var(--bg);
+    color: var(--fg-muted);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    cursor: pointer;
+    transition: background-color .12s ease, border-color .12s ease, color .12s ease;
+    user-select: none;
+}
+.sort-item:hover { border-color: var(--border-strong); }
+.sort-item[aria-pressed="true"] {
+    color: #fff;
+    background: var(--accent);
+    border-color: var(--accent);
+}
+
 #searchInput {
     display: block;
     width: 100%;

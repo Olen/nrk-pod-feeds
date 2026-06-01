@@ -90,6 +90,7 @@ function buildPodcastRow(feed, feed_url, info_url) {
     var row = el("li", { cls: "podcast-row " + status.cls });
     row.dataset.name = name.toUpperCase();
     row.dataset.status = status.cls;
+    row.dataset.date = (feed.last_episode && feed.last_episode.date) || "";
 
     // Artwork
     if (feed.image) {
@@ -165,25 +166,57 @@ function listFeeds() {
     var info_base_url = "https://radio.nrk.no/podkast/";
     var list = document.getElementById("feeds_list");
 
-    // Norwegian locale-aware sort so æ/ø/å land in the right place.
-    var collator = new Intl.Collator("no", { sensitivity: "base", numeric: true });
-    var visible = feeds
-        .filter(function (f) { return !f.hidden; })
-        .slice()
-        .sort(function (a, b) {
-            return collator.compare(a.name || a.title || a.id, b.name || b.title || b.id);
-        });
-
     var frag = document.createDocumentFragment();
-    visible.forEach(function (feed) {
-        var feed_url = base_url + feed.id + ".xml";
-        var info_url = info_base_url + feed.id;
-        frag.appendChild(buildPodcastRow(feed, feed_url, info_url));
-    });
+    feeds
+        .filter(function (f) { return !f.hidden; })
+        .forEach(function (feed) {
+            var feed_url = base_url + feed.id + ".xml";
+            var info_url = info_base_url + feed.id;
+            frag.appendChild(buildPodcastRow(feed, feed_url, info_url));
+        });
     list.replaceChildren(frag);
 
     wireFilters();
+    applySort();
     applyFilters();
+}
+
+// Norwegian locale-aware sort so æ/ø/å land in the right place.
+var nameCollator = new Intl.Collator("no", { sensitivity: "base", numeric: true });
+
+function currentSort() {
+    var active = document.querySelector("#sortbar .sort-item[aria-pressed='true']");
+    return active ? active.dataset.sort : "name";
+}
+
+// Reorder the existing <li> nodes in place. Display state set by
+// applyFilters survives a re-append, so filters and sort stay independent.
+function applySort() {
+    var list = document.getElementById("feeds_list");
+    var mode = currentSort();
+    var rows = Array.prototype.slice.call(list.querySelectorAll(".podcast-row"));
+
+    rows.sort(function (a, b) {
+        if (mode === "date") {
+            // Newest first; undated feeds sink to the bottom, then by name.
+            var ta = a.dataset.date ? Date.parse(a.dataset.date) : NaN;
+            var tb = b.dataset.date ? Date.parse(b.dataset.date) : NaN;
+            var va = isNaN(ta), vb = isNaN(tb);
+            if (!va && !vb) {
+                if (ta > tb) return -1;
+                if (ta < tb) return 1;
+            } else if (!va) {
+                return -1;
+            } else if (!vb) {
+                return 1;
+            }
+        }
+        return nameCollator.compare(a.dataset.name, b.dataset.name);
+    });
+
+    var frag = document.createDocumentFragment();
+    rows.forEach(function (row) { frag.appendChild(row); });
+    list.appendChild(frag);
 }
 
 function wireFilters() {
@@ -193,6 +226,16 @@ function wireFilters() {
             var on = btn.getAttribute("aria-pressed") !== "false";
             btn.setAttribute("aria-pressed", on ? "false" : "true");
             applyFilters();
+        });
+    });
+    var sortButtons = document.querySelectorAll("#sortbar .sort-item");
+    sortButtons.forEach(function (btn) {
+        btn.addEventListener("click", function () {
+            if (btn.getAttribute("aria-pressed") === "true") return;
+            sortButtons.forEach(function (other) {
+                other.setAttribute("aria-pressed", other === btn ? "true" : "false");
+            });
+            applySort();
         });
     });
 }
