@@ -23,6 +23,12 @@
             <button type="button" class="legend-item status-obsolete" data-filter="status-obsolete" aria-pressed="false" title="Ingen nye episoder på over et år. Klikk for å vise."><span class="status-dot">⏹</span> Inaktiv (over et år)</button>
         </div>
 
+        <div class="sortbar" id="sortbar" aria-label="Sorter listen">
+            <span class="sortbar-label">Sorter:</span>
+            <button type="button" class="sort-item" data-sort="name"   aria-pressed="true">Navn</button>
+            <button type="button" class="sort-item" data-sort="date"   aria-pressed="false">Nyeste episode</button>
+        </div>
+
         <input type="text" id="searchInput" placeholder="Søk etter podkast...">
 
         <ul id="feeds_list"></ul>
