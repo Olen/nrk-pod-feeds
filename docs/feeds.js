@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "VM-klare Østigård: -Kjeftet på de voksne stjernene",
-      "date": "2026-05-29T06:00:00+02:00"
+      "title": "Norge banket Sverige - hva nå?",
+      "date": "2026-06-02T01:01:00+02:00"
     }
   },
   {
