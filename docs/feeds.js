@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Storstreik i staten unngått",
-      "date": "2026-05-29T19:00:00+02:00"
+      "title": "USA kutter Nato-bidrag",
+      "date": "2026-06-01T18:00:00+02:00"
     }
   },
   {
