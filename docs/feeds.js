@@ -332,8 +332,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Gaute Børstad Skjervø",
-      "date": "2026-05-27T13:10:00+02:00"
+      "title": "Louise Dedichen",
+      "date": "2026-06-01T12:50:00+02:00"
     }
   },
   {
@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps USA: Alle presidentens menn",
-      "date": "2026-05-28T14:00:00+02:00"
+      "title": "Med KI som klassekompis",
+      "date": "2026-06-01T13:00:00+02:00"
     }
   },
   {
@@ -1716,8 +1716,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Markus tatover seg",
-      "date": "2026-05-29T06:00:00+02:00"
+      "title": "Måkereir på biltak",
+      "date": "2026-06-01T06:00:00+02:00"
     }
   },
   {
