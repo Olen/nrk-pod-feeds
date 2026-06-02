@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bikini-forbud, MAFS og trua med brødkniv",
-      "date": "2026-05-29T12:00:00+02:00"
+      "title": "Fotball-VM og konkurranse i å ha det verst",
+      "date": "2026-06-02T06:00:00+02:00"
     }
   },
   {
@@ -166,8 +166,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "En truende telefon fra nord",
-      "date": "2026-05-26T06:00:00+02:00"
+      "title": "Stor i kjeften, pent brukt",
+      "date": "2026-06-02T06:00:00+02:00"
     }
   },
   {
@@ -332,8 +332,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Louise Dedichen",
-      "date": "2026-06-01T12:50:00+02:00"
+      "title": "Aron Espeland",
+      "date": "2026-06-02T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kampen-drapet opp i retten",
-      "date": "2026-06-01T05:59:00+02:00"
+      "title": "Er det lov med jente- og guttekollektiv?",
+      "date": "2026-06-02T05:59:00+02:00"
     }
   },
   {
@@ -995,8 +995,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sjølvtillit- med Sunniva Relling Berg",
-      "date": "2026-05-27T06:00:00+02:00"
+      "title": "Musikk - med Ingrid Helene Kopperstad Raunehaug",
+      "date": "2026-06-02T06:00:00+02:00"
     }
   },
   {
@@ -1158,8 +1158,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "- Vi er bare aper, brur",
-      "date": "2026-05-29T06:00:00+02:00"
+      "title": "Ciao aleikum!",
+      "date": "2026-06-02T06:00:00+02:00"
     }
   },
   {
@@ -1444,8 +1444,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bak USAs mektigste: Hvem er Israel-lobbyen AIPAC?",
-      "date": "2026-06-01T05:59:00+02:00"
+      "title": "Ebolaviruset herjar: Kvifor får Vesten skulda?",
+      "date": "2026-06-02T05:59:00+02:00"
     }
   },
   {
@@ -1513,8 +1513,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forsvare landet eller berge naturen?",
-      "date": "2026-06-01T08:00:00+02:00"
+      "title": "Tut og kjør på vidda og i Stortinget",
+      "date": "2026-06-02T08:00:00+02:00"
     }
   },
   {
@@ -2142,8 +2142,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Datinghore og klemmepute",
-      "date": "2026-05-31T06:00:00+02:00"
+      "title": "Chris Holsten: Mann, 33,  singel",
+      "date": "2026-06-02T06:00:00+02:00"
     }
   },
   {
