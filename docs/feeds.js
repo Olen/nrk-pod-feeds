@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "USA kutter Nato-bidrag",
-      "date": "2026-06-01T18:00:00+02:00"
+      "title": "Danmark har fått ny regjering",
+      "date": "2026-06-02T19:00:00+02:00"
     }
   },
   {
