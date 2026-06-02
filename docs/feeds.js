@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Med KI som klassekompis",
-      "date": "2026-06-01T13:00:00+02:00"
+      "title": "Når er det greitt å bruke KI?",
+      "date": "2026-06-02T13:00:00+02:00"
     }
   },
   {
@@ -1473,8 +1473,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvor skal føttene vaskes?",
-      "date": "2026-06-01T06:00:00+02:00"
+      "title": "Søvnparalyse og bjørner",
+      "date": "2026-06-02T06:00:00+02:00"
     }
   },
   {
