@@ -332,8 +332,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Aron Espeland",
-      "date": "2026-06-02T06:00:00+02:00"
+      "title": "Cecilia Brækhus",
+      "date": "2026-06-02T14:20:00+02:00"
     }
   },
   {
@@ -879,8 +879,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Frp-topp delte voldsbilde: – Vet godt hva han gjør",
-      "date": "2026-05-28T14:50:00+02:00"
+      "title": "Trump i vill telefonkrangel med Netanyahu",
+      "date": "2026-06-02T14:43:00+02:00"
     }
   },
   {
@@ -892,8 +892,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fra kampduk til merkevare",
-      "date": "2026-05-11T12:00:00+02:00"
+      "title": "Kan sladder være nyttig?",
+      "date": "2026-06-02T06:06:00+02:00"
     }
   },
   {
@@ -1716,8 +1716,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Måkereir på biltak",
-      "date": "2026-06-01T06:00:00+02:00"
+      "title": "Servelat på vaffel",
+      "date": "2026-06-02T06:00:00+02:00"
     }
   },
   {
