@@ -1716,8 +1716,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Servelat på vaffel",
-      "date": "2026-06-02T06:00:00+02:00"
+      "title": "– Jeg hadde snørr i barten!",
+      "date": "2026-06-03T06:00:00+02:00"
     }
   },
   {
