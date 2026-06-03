@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Danmark har fått ny regjering",
-      "date": "2026-06-02T19:00:00+02:00"
+      "title": "Enige om forsvarsplan",
+      "date": "2026-06-03T19:00:00+02:00"
     }
   },
   {
