@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Når er det greitt å bruke KI?",
-      "date": "2026-06-02T13:00:00+02:00"
+      "title": "Norge 2026: Hvem har mest makt?",
+      "date": "2026-06-03T14:00:00+02:00"
     }
   },
   {
@@ -1473,8 +1473,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Søvnparalyse og bjørner",
-      "date": "2026-06-02T06:00:00+02:00"
+      "title": "Henning sine brystvorter...",
+      "date": "2026-06-03T06:00:00+02:00"
     }
   },
   {
