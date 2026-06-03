@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Kan du høre \"The hum\"?",
-      "date": "2026-06-01T06:00:00+02:00"
+      "title": "Forskningsfronten: Kaffe kan bremse demens",
+      "date": "2026-06-03T06:00:00+02:00"
     }
   },
   {
@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norge banket Sverige - hva nå?",
-      "date": "2026-06-02T01:01:00+02:00"
+      "title": "Gruppe A: Mexico, Sør-Afrika, Sør-Korea og Tsjekkia",
+      "date": "2026-06-03T06:00:00+02:00"
     }
   },
   {
@@ -650,8 +650,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Gianni Versace – visjonær designer",
-      "date": "2026-05-27T06:00:00+02:00"
+      "title": "Édith Piaf – Frankrikes sangfugl",
+      "date": "2026-06-03T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Er det lov med jente- og guttekollektiv?",
-      "date": "2026-06-02T05:59:00+02:00"
+      "title": "18-åring døde: Politivideo sjokkerer",
+      "date": "2026-06-03T05:59:00+02:00"
     }
   },
   {
@@ -945,8 +945,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Wangen (2): Dødsplanen",
-      "date": "2026-06-01T06:00:00+02:00"
+      "title": "Wangen (3): Den rosa kofferten",
+      "date": "2026-06-03T06:00:00+02:00"
     }
   },
   {
@@ -1037,8 +1037,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bonus: Linnéa svarer",
-      "date": "2026-06-01T05:00:00+02:00"
+      "title": "Bli glad i kroppen din",
+      "date": "2026-06-03T05:00:00+02:00"
     }
   },
   {
@@ -1071,8 +1071,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mia Hundvin / Sindre Reinholt / Kristin Jess Rodin",
-      "date": "2026-05-30T14:15:00+02:00"
+      "title": "Ramona Maria Jesusa!",
+      "date": "2026-06-03T06:00:00+02:00"
     }
   },
   {
@@ -1158,8 +1158,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ciao aleikum!",
-      "date": "2026-06-02T06:00:00+02:00"
+      "title": "Kortreist reisning",
+      "date": "2026-06-03T06:00:00+02:00"
     }
   },
   {
@@ -1444,8 +1444,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ebolaviruset herjar: Kvifor får Vesten skulda?",
-      "date": "2026-06-02T05:59:00+02:00"
+      "title": "Russe-vold gikk viralt: Et politisk spill?",
+      "date": "2026-06-03T05:59:00+02:00"
     }
   },
   {
@@ -1513,8 +1513,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tut og kjør på vidda og i Stortinget",
-      "date": "2026-06-02T08:00:00+02:00"
+      "title": "Utlendingar ut av Europa",
+      "date": "2026-06-03T08:00:00+02:00"
     }
   },
   {
@@ -1830,8 +1830,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kongens nei til Dønnum",
-      "date": "2026-05-27T06:00:00+02:00"
+      "title": "Vi har idrettsglede, dere har drive-by shooting!",
+      "date": "2026-06-03T06:00:00+02:00"
     }
   },
   {

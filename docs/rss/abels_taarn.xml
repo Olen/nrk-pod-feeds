@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 01 Jun 2026 05:14:56 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2026 07:07:09 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten: Kaffe kan bremse demens</title>
+      <description><![CDATA[Men ikke all type kaffe, viser ny forskning. Dessuten, kryptering sikrere enn banken, kan være på veg. Mens en populær IQ-test på TikTok er helt ubrukelig]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/45ef7e0e-f2fe-49dd-af7e-0ef2fe79ddf0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/45ef7e0e-f2fe-49dd-af7e-0ef2fe79ddf0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:44</itunes:duration>
+      <pubDate>Wed, 03 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hQ-d-qQCtDBzA35xlutitghBItxQ1fXBp5m0C5yzK2Ug.jpg"/>
+    </item>
     <item>
       <title>Forskningsfronten: Kan du høre "The hum"?</title>
       <description><![CDATA[Forskere vet nå litt mer om lyden som gjør folk gale. Dessuten, KI har sett på pupper. Og spennende matematikk er oppdaget i populær potteplante]]></description>
@@ -95,16 +104,6 @@ Lurer du på andre rare saker? Send inn dine spørsmål til Abels Tårns ekspert
       <itunes:duration>25:11</itunes:duration>
       <pubDate>Mon, 11 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
-    </item>
-    <item>
-      <title>Tårnet: Kan du lade mobilen med frukt?</title>
-      <description><![CDATA[Den grønne bølgen blir bare bredere og bredere!
-Lurer du på sære saker? Send inn spørsmål til Abels Tårns kompetente ekspertpanel!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/a70cc6c1-e363-4d8d-8cc6-c1e363fd8dea_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a70cc6c1-e363-4d8d-8cc6-c1e363fd8dea_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:34</itunes:duration>
-      <pubDate>Fri, 08 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tyhEA9jgffaGvkO5d5Ne0AZbLYL8U7Yu0mw-qeXX5VNQ.jpg"/>
     </item>
   </channel>
 </rss>
