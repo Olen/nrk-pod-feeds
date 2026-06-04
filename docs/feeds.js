@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Gruppe A: Mexico, Sør-Afrika, Sør-Korea og Tsjekkia",
-      "date": "2026-06-03T06:00:00+02:00"
+      "title": "Endelig på plass i USA",
+      "date": "2026-06-04T23:48:00+02:00"
     }
   },
   {
