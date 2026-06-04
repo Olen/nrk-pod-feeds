@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norge 2026: Hvem har mest makt?",
-      "date": "2026-06-03T14:00:00+02:00"
+      "title": "Trumps USA: Donalds innerste tanker",
+      "date": "2026-06-04T08:00:00+02:00"
     }
   },
   {
@@ -1473,8 +1473,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Henning sine brystvorter...",
-      "date": "2026-06-03T06:00:00+02:00"
+      "title": "Vi tar homo-test!",
+      "date": "2026-06-04T06:00:00+02:00"
     }
   },
   {
@@ -1513,8 +1513,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Utlendingar ut av Europa",
-      "date": "2026-06-03T08:00:00+02:00"
+      "title": "Danskene kan få gratis tannhelse",
+      "date": "2026-06-04T08:00:00+02:00"
     }
   },
   {
