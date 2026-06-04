@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Enige om forsvarsplan",
-      "date": "2026-06-03T19:00:00+02:00"
+      "title": "Kronprinsessen på sykehus",
+      "date": "2026-06-04T19:00:00+02:00"
     }
   },
   {
