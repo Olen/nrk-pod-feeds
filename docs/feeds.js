@@ -332,8 +332,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Cecilia Brækhus",
-      "date": "2026-06-02T14:20:00+02:00"
+      "title": "Hedvig Wessel",
+      "date": "2026-06-04T13:35:00+02:00"
     }
   },
   {
@@ -879,8 +879,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trump i vill telefonkrangel med Netanyahu",
-      "date": "2026-06-02T14:43:00+02:00"
+      "title": "Kongefamiliens vanskelige tid: – Svært alvorlig",
+      "date": "2026-06-04T14:16:00+02:00"
     }
   },
   {
