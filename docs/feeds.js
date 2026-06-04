@@ -295,8 +295,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Overfalt av fulle fans",
-      "date": "2026-05-28T06:00:00+02:00"
+      "title": "Attenzione, pickpocket!",
+      "date": "2026-06-04T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "18-åring døde: Politivideo sjokkerer",
-      "date": "2026-06-03T05:59:00+02:00"
+      "title": "Haster hjem til kronprinsesse Mette-Marit: Hva skjer nå?",
+      "date": "2026-06-04T05:59:00+02:00"
     }
   },
   {
@@ -1024,8 +1024,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "«Kafka på stranden» (49:49)",
-      "date": "2026-05-28T06:10:00+02:00"
+      "title": "Leseklubben: «Kafka på stranden» med Vidar Magnussen: – Jeg er litt forandret nå (6:6)",
+      "date": "2026-06-04T06:00:00+02:00"
     }
   },
   {
@@ -1158,8 +1158,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kortreist reisning",
-      "date": "2026-06-03T06:00:00+02:00"
+      "title": "Ikke_stresse stresser",
+      "date": "2026-06-04T06:00:00+02:00"
     }
   },
   {
@@ -1444,8 +1444,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Russe-vold gikk viralt: Et politisk spill?",
-      "date": "2026-06-03T05:59:00+02:00"
+      "title": "Europas atomvåpenskjold: Genialt eller galskap?",
+      "date": "2026-06-04T05:59:00+02:00"
     }
   },
   {
@@ -2142,8 +2142,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Chris Holsten: Mann, 33,  singel",
-      "date": "2026-06-02T06:00:00+02:00"
+      "title": "Kristine Arntzen: Selvsabotasje",
+      "date": "2026-06-04T06:00:00+02:00"
     }
   },
   {

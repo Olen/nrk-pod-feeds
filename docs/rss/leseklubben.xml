@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 28 May 2026 04:41:26 +0000</lastBuildDate>
-    <pubDate>Thu, 28 May 2026 06:10:00 +0200</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2026 05:04:06 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
+    <item>
+      <title>Leseklubben: «Kafka på stranden» med Vidar Magnussen: – Jeg er litt forandret nå (6:6)</title>
+      <description><![CDATA[Vidar våkner opp til en ny verden. Christine blir rørt og Kristoffer karrer seg over målstreken. Men hva handler egentlig boka om?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/bad0d5c3-4cc6-4d46-90d5-c34cc66d46b6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/bad0d5c3-4cc6-4d46-90d5-c34cc66d46b6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:51</itunes:duration>
+      <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YKKvPWqS2MgpPgN5zje7tQ8pmeCUtjzidQulwEqj8cZw.jpg"/>
+    </item>
     <item>
       <title>«Kafka på stranden» (49:49)</title>
       <description><![CDATA[Lydboka er lest av Duc Mai-The. Når du har hørt kapittel 42-49 kan du høre Leseklubben episode 6.
@@ -164,22 +173,6 @@ Les/hør kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
       <itunes:duration>20:58</itunes:duration>
       <pubDate>Thu, 28 May 2026 06:02:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
-    </item>
-    <item>
-      <title>Leseklubben: «Kafka på stranden» med Vidar Magnussen: – Dette er ikke en koseklubb! (5:6)</title>
-      <description><![CDATA[Lytterne er lei av pikk og Murakamis sex-scener får kjørt seg. Men må vi elske ALT ved en bok eller en forfatter? 
-
-Lese-/lytteoppskrift: Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør: prolog + kapittel 1-5 → hør episode 2 av Leseklubben
-Les/hør: kapittel 6-16 → hør episode 3 av Leseklubben
-Les/hør: kapittel 17-27 → hør episode 4 av Leseklubben
-Les/hør: kapittel 28-41 → hør episode 5 av Leseklubben
-Les/hør: kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/8d317ee5-84e7-426c-b17e-e584e7526c23_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/8d317ee5-84e7-426c-b17e-e584e7526c23_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:51</itunes:duration>
-      <pubDate>Thu, 28 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YKKvPWqS2MgpPgN5zje7tQ8pmeCUtjzidQulwEqj8cZw.jpg"/>
     </item>
   </channel>
 </rss>
