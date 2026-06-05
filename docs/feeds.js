@@ -1913,8 +1913,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Platedate med Maria Mena og Julie Strømsvåg",
-      "date": "2026-05-29T18:00:00+02:00"
+      "title": "Platedate med Kai Thomas Skrellex Larsen og Christina Vukicevic",
+      "date": "2026-06-05T17:00:00+02:00"
     }
   },
   {
