@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Kaffe kan bremse demens",
-      "date": "2026-06-03T06:00:00+02:00"
+      "title": "Tårnet: Blir bananer bra brennstoff?",
+      "date": "2026-06-05T06:00:00+02:00"
     }
   },
   {
@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fotball-VM og konkurranse i å ha det verst",
-      "date": "2026-06-02T06:00:00+02:00"
+      "title": "Brent hår, hyttetraumer og hvete i klitten",
+      "date": "2026-06-05T12:00:00+02:00"
     }
   },
   {
@@ -1444,8 +1444,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Friends-stjernens død: Nå er fem personer dømt",
-      "date": "2026-06-05T05:59:00+02:00"
+      "title": "Kronprinsessa si helse: No ventar ho på nye lunger",
+      "date": "2026-06-05T11:28:00+02:00"
     }
   },
   {
