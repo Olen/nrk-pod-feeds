@@ -274,8 +274,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Haalands VM-brød",
-      "date": "2026-05-29T06:00:00+02:00"
+      "title": "CappelenGPT",
+      "date": "2026-06-05T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Haster hjem til kronprinsesse Mette-Marit: Hva skjer nå?",
-      "date": "2026-06-04T05:59:00+02:00"
+      "title": "Suicidale barn blir isolert i fengsel",
+      "date": "2026-06-05T05:59:00+02:00"
     }
   },
   {
@@ -1158,8 +1158,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ikke_stresse stresser",
-      "date": "2026-06-04T06:00:00+02:00"
+      "title": "Allergisjokk og hårete rumpe",
+      "date": "2026-06-05T06:00:00+02:00"
     }
   },
   {
@@ -1444,8 +1444,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Europas atomvåpenskjold: Genialt eller galskap?",
-      "date": "2026-06-04T05:59:00+02:00"
+      "title": "Friends-stjernens død: Nå er fem personer dømt",
+      "date": "2026-06-05T05:59:00+02:00"
     }
   },
   {
@@ -1716,8 +1716,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Daniel klikker på oss",
-      "date": "2026-06-04T06:00:00+02:00"
+      "title": "Hør: Siestas 24-timers fiesta!",
+      "date": "2026-06-05T06:00:00+02:00"
     }
   },
   {
@@ -1745,8 +1745,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hyrox, ny sykkel og baneløping",
-      "date": "2026-05-28T17:26:00+02:00"
+      "title": "Terrengløping med Sindre Buraas",
+      "date": "2026-06-05T05:00:00+02:00"
     }
   },
   {
@@ -1843,8 +1843,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Avvikle bindestrek?",
-      "date": "2026-05-29T06:00:00+02:00"
+      "title": "Varnt i peisen",
+      "date": "2026-06-05T06:00:00+02:00"
     }
   },
   {
@@ -2174,8 +2174,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Storbritannia: Farvel, statsminister?",
-      "date": "2026-05-29T06:00:00+02:00"
+      "title": "Førte fredsprisen til krig?",
+      "date": "2026-06-05T05:00:00+02:00"
     }
   },
   {
