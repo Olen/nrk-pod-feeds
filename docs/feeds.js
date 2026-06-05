@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Endelig på plass i USA",
-      "date": "2026-06-04T23:48:00+02:00"
+      "title": "Er kun storseier mot Irak godt nok?",
+      "date": "2026-06-05T22:45:00+02:00"
     }
   },
   {
