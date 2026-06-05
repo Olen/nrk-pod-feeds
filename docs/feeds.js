@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kronprinsessen på sykehus",
-      "date": "2026-06-04T19:00:00+02:00"
+      "title": "Kronprinsessen på venteliste",
+      "date": "2026-06-05T19:00:00+02:00"
     }
   },
   {
