@@ -481,8 +481,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Barnehagedebatten, KI og nok marengskjoler",
-      "date": "2026-05-29T09:00:00+02:00"
+      "title": "KI, Michelin og Viking-cringe",
+      "date": "2026-06-05T08:30:00+02:00"
     }
   },
   {
@@ -1473,8 +1473,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi tar homo-test!",
-      "date": "2026-06-04T06:00:00+02:00"
+      "title": "Dyr biff = rennaræv",
+      "date": "2026-06-05T06:00:00+02:00"
     }
   },
   {
@@ -1513,8 +1513,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Danskene kan få gratis tannhelse",
-      "date": "2026-06-04T08:00:00+02:00"
+      "title": "Varsler om parallellsamfunn",
+      "date": "2026-06-05T08:00:00+02:00"
     }
   },
   {
