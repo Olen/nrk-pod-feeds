@@ -1372,8 +1372,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Rike barn leker verst",
-      "date": "2026-05-30T06:00:00+02:00"
+      "title": "Hvit manns byrde",
+      "date": "2026-06-06T06:00:00+02:00"
     }
   },
   {
@@ -1473,8 +1473,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dyr biff = rennaræv",
-      "date": "2026-06-05T06:00:00+02:00"
+      "title": "Skal Danmark heie på oss?!",
+      "date": "2026-06-06T06:00:00+02:00"
     }
   },
   {
