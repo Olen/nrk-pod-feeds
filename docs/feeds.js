@@ -1071,8 +1071,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ramona Maria Jesusa!",
-      "date": "2026-06-03T06:00:00+02:00"
+      "title": "Maria Stavang / Bård Tufte Johansen / Hilde Skaar",
+      "date": "2026-06-06T13:17:00+02:00"
     }
   },
   {
