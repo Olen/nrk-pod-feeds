@@ -2105,8 +2105,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Venter på kongen",
-      "date": "2026-05-30T14:00:00+02:00"
+      "title": "Kronprinsesse Mette-Marit på venteliste for nye lunger",
+      "date": "2026-06-06T14:30:00+02:00"
     }
   },
   {
