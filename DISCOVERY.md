@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-06-07  
+- Podcast 'Musikk fra NRK Super' is considered obsolete and will be ignored in the future (`musikk_fra_nrk_super`)  
 ### 2026-05-28  
 - Podcast 'De 10 siste fra Etikketaten' is considered obsolete and will be ignored in the future (`etikketaten`)  
 - Podcast 'De 10 siste fra Nyhetsmorgen' is considered obsolete and will be ignored in the future (`nyhetsmorgen`)  

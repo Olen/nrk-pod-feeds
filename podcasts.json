@@ -1110,7 +1110,9 @@
         "description": "Hør NRK Super sine beste sanger!",
         "image": "https://gfx.nrk.no/MVL3ZhlYtM7CuXQ_giFXmAKUlkSRJgr1Jmbz0Rj0KQ3Q.jpg",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "musikkhistorier",
