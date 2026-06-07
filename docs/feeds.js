@@ -1271,10 +1271,8 @@ const feeds = [
     "image": "https://gfx.nrk.no/MVL3ZhlYtM7CuXQ_giFXmAKUlkSRJgr1Jmbz0Rj0KQ3Q.jpg",
     "season": null,
     "enabled": false,
-    "last_episode": {
-      "title": "BlimE! – Her for deg/Lean álo dás – 2026",
-      "date": "2026-04-22T06:00:00+02:00"
-    }
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "musikkhistorier",
