@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Er kun storseier mot Irak godt nok?",
-      "date": "2026-06-05T22:45:00+02:00"
+      "title": "Sjokkavlysning: Skottland trekker seg",
+      "date": "2026-06-07T03:20:00+02:00"
     }
   },
   {
@@ -2142,8 +2142,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kristine Arntzen: Selvsabotasje",
-      "date": "2026-06-04T06:00:00+02:00"
+      "title": "Panelet: Lovebombing og telefonsporing",
+      "date": "2026-06-07T06:00:00+02:00"
     }
   },
   {
