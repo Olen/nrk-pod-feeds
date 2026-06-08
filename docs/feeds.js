@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Blir bananer bra brennstoff?",
-      "date": "2026-06-05T06:00:00+02:00"
+      "title": "Forskningsfronten: Øv til eksamen mens du sover",
+      "date": "2026-06-08T06:00:00+02:00"
     }
   },
   {
@@ -69,8 +69,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ikke lov å gråte på hytta",
-      "date": "2026-06-01T06:00:00+02:00"
+      "title": "Steinars magiske suppe",
+      "date": "2026-06-08T06:00:00+02:00"
     }
   },
   {
@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sjokkavlysning: Skottland trekker seg",
-      "date": "2026-06-07T03:20:00+02:00"
+      "title": "Marokkokampen - grunn til bekymring?",
+      "date": "2026-06-08T03:32:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Suicidale barn blir isolert i fengsel",
-      "date": "2026-06-05T05:59:00+02:00"
+      "title": "Nå skal månedskortet bli billigere",
+      "date": "2026-06-08T05:59:00+02:00"
     }
   },
   {
@@ -1336,8 +1336,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Big T på besøk",
-      "date": "2026-06-01T06:00:00+02:00"
+      "title": "Even Sjamel på besøk",
+      "date": "2026-06-08T06:00:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kronprinsessa si helse: No ventar ho på nye lunger",
-      "date": "2026-06-05T11:28:00+02:00"
+      "title": "Skandaler og kontrovers: Fotballens mektigste mann",
+      "date": "2026-06-08T05:59:00+02:00"
     }
   },
   {
@@ -1691,7 +1691,7 @@ const feeds = [
     "description": "Podkasten for deg som bare må ha litt mer av seriene du har sett i NRK TV. ",
     "image": "https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5A06jLW7lH3QqxNwJnD5jFtw.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "LIS: – Jeg er som Joakim (Q&A)",
       "date": "2026-05-08T11:30:00+02:00"
@@ -2061,8 +2061,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tema: Temu",
-      "date": "2026-06-01T06:00:00+02:00"
+      "title": "Trumps VM",
+      "date": "2026-06-08T06:00:00+02:00"
     }
   },
   {

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 05 Jun 2026 12:19:36 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Jun 2026 06:06:38 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten: Øv til eksamen mens du sover</title>
+      <description><![CDATA[Forskere er på sporet av en metode. Dessuten, James Webb-teleskopet har avslørt stygg diskriminering. Og befolkningskollaps overrasker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/9f510fdf-a2c9-47ab-910f-dfa2c917abcf_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9f510fdf-a2c9-47ab-910f-dfa2c917abcf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:12</itunes:duration>
+      <pubDate>Mon, 08 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    </item>
     <item>
       <title>Tårnet: Blir bananer bra brennstoff?</title>
       <description><![CDATA[Siden de jo hevdes å inneholde antimaterie.
@@ -95,16 +104,6 @@ Lurer du på snåle saker? Send inn spørsmål til Abels Tårns kompetente ekspe
       <itunes:duration>33:13</itunes:duration>
       <pubDate>Mon, 18 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
-    </item>
-    <item>
-      <title>Tårnet: Er du egentlig verdens mest utholdende?</title>
-      <description><![CDATA[Løping spesial! Abels tårn har løpt Holmenkollstafetten, og vi spør hvordan man kan bli mer utholdende med fattigmanns høydetrening, om en øl ødelegger hele treningseffekten og om det koster mer enn det smaker å gå litt i motbakker.
-Lurer du på andre rare saker? Send inn dine spørsmål til Abels Tårns ekspertpanel!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/fceae9b8-b14b-409e-aae9-b8b14b909e3f_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fceae9b8-b14b-409e-aae9-b8b14b909e3f_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:03</itunes:duration>
-      <pubDate>Fri, 15 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pfpQPC6JFx-sKStrrBVZGA-NJ3qeINoYt1iOD92KD8jg.jpg"/>
     </item>
   </channel>
 </rss>
