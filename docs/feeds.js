@@ -332,8 +332,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hedvig Wessel",
-      "date": "2026-06-04T13:35:00+02:00"
+      "title": "Kristine Grændsen",
+      "date": "2026-06-08T14:45:00+02:00"
     }
   },
   {
