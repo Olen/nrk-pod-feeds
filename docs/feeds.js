@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps USA: Donalds innerste tanker",
-      "date": "2026-06-04T08:00:00+02:00"
+      "title": "Ytre høgre + venstre = sant?",
+      "date": "2026-06-08T13:00:00+02:00"
     }
   },
   {
@@ -1471,8 +1471,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Skal Danmark heie på oss?!",
-      "date": "2026-06-06T06:00:00+02:00"
+      "title": "Østlandsk er ekte norsk.",
+      "date": "2026-06-08T06:00:00+02:00"
     }
   },
   {
@@ -1511,8 +1511,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Varsler om parallellsamfunn",
-      "date": "2026-06-05T08:00:00+02:00"
+      "title": "Rødgrønn budsjettavtale",
+      "date": "2026-06-08T08:00:00+02:00"
     }
   },
   {
