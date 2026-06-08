@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kronprinsessen på venteliste",
-      "date": "2026-06-05T19:00:00+02:00"
+      "title": "Oslo tingrett vil løstate Høiby",
+      "date": "2026-06-08T19:00:00+02:00"
     }
   },
   {
