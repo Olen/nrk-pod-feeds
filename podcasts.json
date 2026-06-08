@@ -1495,7 +1495,7 @@
         "description": "Podkasten for deg som bare må ha litt mer av seriene du har sett i NRK TV. ",
         "image": "https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5A06jLW7lH3QqxNwJnD5jFtw.jpg",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "sex_over_60",
