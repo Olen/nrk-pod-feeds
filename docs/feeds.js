@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Marokkokampen - grunn til bekymring?",
-      "date": "2026-06-08T03:32:00+02:00"
+      "title": "Kokte spillere og \"skitne\" innkasttriks",
+      "date": "2026-06-09T00:11:00+02:00"
     }
   },
   {
