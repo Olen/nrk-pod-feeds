@@ -179,8 +179,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jens M. Johansson: En liten bok om døden",
-      "date": "2026-05-29T06:00:00+02:00"
+      "title": "Litteraturfestivalen 2026",
+      "date": "2026-06-05T06:00:00+02:00"
     }
   },
   {
@@ -332,8 +332,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kristine Grændsen",
-      "date": "2026-06-08T14:45:00+02:00"
+      "title": "Stig Henrik Hoff",
+      "date": "2026-06-09T13:30:00+02:00"
     }
   },
   {
@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ytre høgre + venstre = sant?",
-      "date": "2026-06-08T13:00:00+02:00"
+      "title": "Pride: Fest eller politikk?",
+      "date": "2026-06-09T13:00:00+02:00"
     }
   },
   {
