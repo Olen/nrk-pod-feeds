@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Brent hår, hyttetraumer og hvete i klitten",
-      "date": "2026-06-05T12:00:00+02:00"
+      "title": "Sommer-starterpack, midtskill og singlet-protest",
+      "date": "2026-06-09T06:00:00+02:00"
     }
   },
   {
@@ -166,8 +166,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Stor i kjeften, pent brukt",
-      "date": "2026-06-02T06:00:00+02:00"
+      "title": "VM i sløyd",
+      "date": "2026-06-09T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nå skal månedskortet bli billigere",
-      "date": "2026-06-08T05:59:00+02:00"
+      "title": "Unge nordmenn på europatoppen i kokainbruk",
+      "date": "2026-06-09T06:30:00+02:00"
     }
   },
   {
@@ -995,8 +995,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Musikk - med Ingrid Helene Kopperstad Raunehaug",
-      "date": "2026-06-02T06:00:00+02:00"
+      "title": "Tilgi - med Lia Ciobanu Andresen",
+      "date": "2026-06-09T06:00:00+02:00"
     }
   },
   {
@@ -1158,8 +1158,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Allergisjokk og hårete rumpe",
-      "date": "2026-06-05T06:00:00+02:00"
+      "title": "Minirave og Elkjøp-ran",
+      "date": "2026-06-09T06:00:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Skandaler og kontrovers: Fotballens mektigste mann",
-      "date": "2026-06-08T05:59:00+02:00"
+      "title": "Bor ulovlig i Norge: Lyver han til myndighetene?",
+      "date": "2026-06-09T06:00:00+02:00"
     }
   },
   {
@@ -2140,8 +2140,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Lovebombing og telefonsporing",
-      "date": "2026-06-07T06:00:00+02:00"
+      "title": "Jan Christian Vestre: Karriere og kjærlighet",
+      "date": "2026-06-09T06:00:00+02:00"
     }
   },
   {
