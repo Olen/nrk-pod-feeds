@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kokte spillere og \"skitne\" innkasttriks",
-      "date": "2026-06-09T00:11:00+02:00"
+      "title": "Vi spår hele VM",
+      "date": "2026-06-10T00:01:00+02:00"
     }
   },
   {
