@@ -1471,8 +1471,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Østlandsk er ekte norsk.",
-      "date": "2026-06-08T06:00:00+02:00"
+      "title": "Planlegging av falske drap.",
+      "date": "2026-06-09T06:00:00+02:00"
     }
   },
   {
@@ -1511,8 +1511,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Rødgrønn budsjettavtale",
-      "date": "2026-06-08T08:00:00+02:00"
+      "title": "Rødgrønn storm om havvind",
+      "date": "2026-06-09T08:00:00+02:00"
     }
   },
   {
