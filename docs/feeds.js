@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Oslo tingrett vil løstate Høiby",
-      "date": "2026-06-08T19:00:00+02:00"
+      "title": "Oppgjør om havvind",
+      "date": "2026-06-09T19:00:00+02:00"
     }
   },
   {
