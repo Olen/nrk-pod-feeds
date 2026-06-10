@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Oppgjør om havvind",
-      "date": "2026-06-09T19:00:00+02:00"
+      "title": "Russland ruster opp langs grensen",
+      "date": "2026-06-10T19:00:00+02:00"
     }
   },
   {
@@ -945,8 +945,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Wangen (4): Malins siste timer",
-      "date": "2026-06-10T06:00:00+02:00"
+      "title": "Høiby (21): Er retten for streng?",
+      "date": "2026-06-10T16:45:00+02:00"
     }
   },
   {
@@ -1071,8 +1071,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Maria Stavang / Bård Tufte Johansen / Hilde Skaar",
-      "date": "2026-06-06T13:17:00+02:00"
+      "title": "Unnskyld, Nord-Norge!",
+      "date": "2026-06-10T17:30:00+02:00"
     }
   },
   {
