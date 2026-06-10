@@ -1471,8 +1471,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Planlegging av falske drap.",
-      "date": "2026-06-09T06:00:00+02:00"
+      "title": "Counterstrike i snøball",
+      "date": "2026-06-10T10:15:00+02:00"
     }
   },
   {
