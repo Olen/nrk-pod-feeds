@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Øv til eksamen mens du sover",
-      "date": "2026-06-08T06:00:00+02:00"
+      "title": "Forskningsfronten: Pavens KI-advarsel kan være skrevet av KI",
+      "date": "2026-06-10T06:00:00+02:00"
     }
   },
   {
@@ -650,8 +650,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Édith Piaf – Frankrikes sangfugl",
-      "date": "2026-06-03T06:00:00+02:00"
+      "title": "Simón Bolívar - Sør-Amerikas frigjører",
+      "date": "2026-06-10T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Unge nordmenn på europatoppen i kokainbruk",
-      "date": "2026-06-09T06:30:00+02:00"
+      "title": "Kvinner må vente flere uker på abort",
+      "date": "2026-06-10T05:59:00+02:00"
     }
   },
   {
@@ -945,8 +945,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Wangen (3): Den rosa kofferten",
-      "date": "2026-06-03T06:00:00+02:00"
+      "title": "Wangen (4): Malins siste timer",
+      "date": "2026-06-10T06:00:00+02:00"
     }
   },
   {
@@ -995,8 +995,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tilgi - med Lia Ciobanu Andresen",
-      "date": "2026-06-09T06:00:00+02:00"
+      "title": "Prinsen - med Gunn Marit Nisja",
+      "date": "2026-06-10T06:00:00+02:00"
     }
   },
   {
@@ -1037,8 +1037,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bli glad i kroppen din",
-      "date": "2026-06-03T05:00:00+02:00"
+      "title": "Kan du tenke deg ut av smerte?",
+      "date": "2026-06-10T05:00:00+02:00"
     }
   },
   {
@@ -1158,8 +1158,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Minirave og Elkjøp-ran",
-      "date": "2026-06-09T06:00:00+02:00"
+      "title": "Vikinger er wokeinger",
+      "date": "2026-06-10T06:00:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bor ulovlig i Norge: Lyver han til myndighetene?",
-      "date": "2026-06-09T06:00:00+02:00"
+      "title": "Livet til Helene rakna - å leve sakte endra alt",
+      "date": "2026-06-10T05:59:00+02:00"
     }
   },
   {
@@ -1511,8 +1511,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Rødgrønn storm om havvind",
-      "date": "2026-06-09T08:00:00+02:00"
+      "title": "Skipstunnel i soloppgang",
+      "date": "2026-06-10T08:00:00+02:00"
     }
   },
   {
@@ -1828,8 +1828,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi har idrettsglede, dere har drive-by shooting!",
-      "date": "2026-06-03T06:00:00+02:00"
+      "title": "VM-vikinger med overtenning",
+      "date": "2026-06-10T06:00:00+02:00"
     }
   },
   {
