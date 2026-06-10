@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Pride: Fest eller politikk?",
-      "date": "2026-06-09T13:00:00+02:00"
+      "title": "Fotball kun for de rike?",
+      "date": "2026-06-10T13:15:00+02:00"
     }
   },
   {
@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hør: Siestas 24-timers fiesta!",
-      "date": "2026-06-05T06:00:00+02:00"
+      "title": "Dragen har inntatt kongedømme",
+      "date": "2026-06-10T06:00:00+02:00"
     }
   },
   {
