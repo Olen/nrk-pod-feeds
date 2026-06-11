@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Russland ruster opp langs grensen",
-      "date": "2026-06-10T19:00:00+02:00"
+      "title": "Klart for VM-fest",
+      "date": "2026-06-11T19:00:00+02:00"
     }
   },
   {
