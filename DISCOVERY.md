@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-06-11  
+- Updated podcast 'Juorre' (`juorre`)  
 ### 2026-06-08  
 - Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2026-06-07  
