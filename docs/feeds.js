@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fotball kun for de rike?",
-      "date": "2026-06-10T13:15:00+02:00"
+      "title": "Trumps USA: VM med bismak",
+      "date": "2026-06-11T14:00:00+02:00"
     }
   },
   {
@@ -879,8 +879,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kongefamiliens vanskelige tid: – Svært alvorlig",
-      "date": "2026-06-04T14:16:00+02:00"
+      "title": "Marius Borg Høiby: Hva slags straff risikerer han?",
+      "date": "2026-06-11T15:59:00+02:00"
     }
   },
   {
@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dragen har inntatt kongedømme",
-      "date": "2026-06-10T06:00:00+02:00"
+      "title": "Lukter råttent egg i studio?",
+      "date": "2026-06-11T06:00:00+02:00"
     }
   },
   {
