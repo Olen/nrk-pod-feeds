@@ -332,8 +332,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Stig Henrik Hoff",
-      "date": "2026-06-09T13:30:00+02:00"
+      "title": "Rune Bratseth",
+      "date": "2026-06-11T12:05:00+02:00"
     }
   },
   {
@@ -1471,8 +1471,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Counterstrike i snøball",
-      "date": "2026-06-10T10:15:00+02:00"
+      "title": "Apekatt med drip og underpupp.",
+      "date": "2026-06-11T06:00:00+02:00"
     }
   },
   {
