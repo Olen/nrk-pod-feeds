@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi spår hele VM",
-      "date": "2026-06-10T00:01:00+02:00"
+      "title": "Publikumsfest og sinte foreldre",
+      "date": "2026-06-11T04:08:00+02:00"
     }
   },
   {
@@ -295,8 +295,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Attenzione, pickpocket!",
-      "date": "2026-06-04T06:00:00+02:00"
+      "title": "Taste my rømmegrøt",
+      "date": "2026-06-11T06:00:00+02:00"
     }
   },
   {
@@ -767,7 +767,7 @@ const feeds = [
     "description": "Risstinin li tjielgga vuojno masi ájggu. Le gus A4-iellem buoremus viessomvuohke, jali ij la huoman nav buorre gåk gullu? Se i NRK TV.",
     "image": "https://gfx.nrk.no/aH3TL2yGw09vT1w8uDJAxQArgFZdqaSpMc2n-SN6SKwQ.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Joarme, botoxa ja festa",
       "date": "2026-05-12T06:00:00+02:00"
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kvinner må vente flere uker på abort",
-      "date": "2026-06-10T05:59:00+02:00"
+      "title": "Trekker seg fra Spleis etter pride-innsamling",
+      "date": "2026-06-11T05:59:00+02:00"
     }
   },
   {
@@ -1158,8 +1158,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vikinger er wokeinger",
-      "date": "2026-06-10T06:00:00+02:00"
+      "title": "Født i Norge, støkk i India",
+      "date": "2026-06-11T06:00:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Livet til Helene rakna - å leve sakte endra alt",
-      "date": "2026-06-10T05:59:00+02:00"
+      "title": "«Internett-politiet» Jørgen: Skurk eller helt?",
+      "date": "2026-06-11T05:59:00+02:00"
     }
   },
   {
@@ -1511,8 +1511,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Skipstunnel i soloppgang",
-      "date": "2026-06-10T08:00:00+02:00"
+      "title": "KrFs \"Team sunn fornuft\"",
+      "date": "2026-06-11T08:00:00+02:00"
     }
   },
   {
@@ -2140,8 +2140,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jan Christian Vestre: Karriere og kjærlighet",
-      "date": "2026-06-09T06:00:00+02:00"
+      "title": "Kristjana Vera: Uplanlagt gravid",
+      "date": "2026-06-11T06:00:00+02:00"
     }
   },
   {
