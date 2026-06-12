@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Klart for VM-fest",
-      "date": "2026-06-11T19:00:00+02:00"
+      "title": "SpaceX på børs",
+      "date": "2026-06-12T19:00:00+02:00"
     }
   },
   {
