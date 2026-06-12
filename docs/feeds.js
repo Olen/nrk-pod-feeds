@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Publikumsfest og sinte foreldre",
-      "date": "2026-06-11T04:08:00+02:00"
+      "title": "VM-start: Tre røde og hjemmefest",
+      "date": "2026-06-12T02:00:00+02:00"
     }
   },
   {
@@ -179,8 +179,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Litteraturfestivalen 2026",
-      "date": "2026-06-05T06:00:00+02:00"
+      "title": "Lars Saabye Christensen: Fruktsalat og frigjøring",
+      "date": "2026-06-12T06:00:00+02:00"
     }
   },
   {
@@ -274,8 +274,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "CappelenGPT",
-      "date": "2026-06-05T06:00:00+02:00"
+      "title": "Et monument over nasjonal vilje",
+      "date": "2026-06-12T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trekker seg fra Spleis etter pride-innsamling",
-      "date": "2026-06-11T05:59:00+02:00"
+      "title": "Mange flere kvinner fryser ned egg",
+      "date": "2026-06-12T05:59:00+02:00"
     }
   },
   {
@@ -1158,8 +1158,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Født i Norge, støkk i India",
-      "date": "2026-06-11T06:00:00+02:00"
+      "title": "30 sekunders foreplay",
+      "date": "2026-06-12T06:00:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "«Internett-politiet» Jørgen: Skurk eller helt?",
-      "date": "2026-06-11T05:59:00+02:00"
+      "title": "18-åringen drepte Tamima: Inspirert av Hitler",
+      "date": "2026-06-12T05:59:00+02:00"
     }
   },
   {
@@ -1743,8 +1743,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Terrengløping med Sindre Buraas",
-      "date": "2026-06-05T05:00:00+02:00"
+      "title": "Stisykling og sommertrening",
+      "date": "2026-06-12T05:00:00+02:00"
     }
   },
   {
@@ -1841,8 +1841,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Varnt i peisen",
-      "date": "2026-06-05T06:00:00+02:00"
+      "title": "Livsfarlig Strunk",
+      "date": "2026-06-12T06:00:00+02:00"
     }
   },
   {
@@ -2172,8 +2172,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Førte fredsprisen til krig?",
-      "date": "2026-06-05T05:00:00+02:00"
+      "title": "Sudan: Vår dårlige samvittighet",
+      "date": "2026-06-12T06:00:00+02:00"
     }
   },
   {
