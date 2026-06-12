@@ -481,8 +481,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "KI, Michelin og Viking-cringe",
-      "date": "2026-06-05T08:30:00+02:00"
+      "title": "VM, demokratisk kunst og performativ lesing",
+      "date": "2026-06-12T09:00:00+02:00"
     }
   },
   {
@@ -1471,8 +1471,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Apekatt med drip og underpupp.",
-      "date": "2026-06-11T06:00:00+02:00"
+      "title": "Slik gjør du hotellfrokost!",
+      "date": "2026-06-12T06:00:00+02:00"
     }
   },
   {
@@ -1511,8 +1511,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "KrFs \"Team sunn fornuft\"",
-      "date": "2026-06-11T08:00:00+02:00"
+      "title": "Mener SpaceX er en røverhistorie",
+      "date": "2026-06-12T08:00:00+02:00"
     }
   },
   {
@@ -2201,8 +2201,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Anvendt filosofi",
-      "date": "2026-05-31T06:00:00+02:00"
+      "title": "Trumps lojalitetstest",
+      "date": "2026-06-12T10:15:00+02:00"
     }
   },
   {
