@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Lukter råttent egg i studio?",
-      "date": "2026-06-11T06:00:00+02:00"
+      "title": "Daniel har besøk av støttekontakt",
+      "date": "2026-06-12T06:00:00+02:00"
     }
   },
   {
