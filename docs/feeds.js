@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Pavens KI-advarsel kan være skrevet av KI",
-      "date": "2026-06-10T06:00:00+02:00"
+      "title": "Tårnet: Er det pes å være svær i VM-varmen?",
+      "date": "2026-06-12T06:00:00+02:00"
     }
   },
   {
@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sommer-starterpack, midtskill og singlet-protest",
-      "date": "2026-06-09T06:00:00+02:00"
+      "title": "Leirskole, sexting og «gjett hvem»",
+      "date": "2026-06-12T12:00:00+02:00"
     }
   },
   {
@@ -629,8 +629,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dødsbakterien",
-      "date": "2026-05-16T06:00:00+02:00"
+      "title": "Dobbeldrapet ved Karl Johan: Dobbeltdrapet ved Karl Johan",
+      "date": "2026-06-12T14:00:00+02:00"
     }
   },
   {
