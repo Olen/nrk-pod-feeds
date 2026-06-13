@@ -629,8 +629,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dobbeldrapet ved Karl Johan: Dobbeltdrapet ved Karl Johan",
-      "date": "2026-06-12T14:00:00+02:00"
+      "title": "Dobbeltdrapet ved Karl Johan: Blodspor til Polen (2:2)",
+      "date": "2026-06-13T06:02:00+02:00"
     }
   },
   {
@@ -1370,8 +1370,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvit manns byrde",
-      "date": "2026-06-06T06:00:00+02:00"
+      "title": "Patetiske vikinger",
+      "date": "2026-06-13T06:00:00+02:00"
     }
   },
   {
@@ -1471,8 +1471,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Slik gjør du hotellfrokost!",
-      "date": "2026-06-12T06:00:00+02:00"
+      "title": "Det beste fra P3morgen!",
+      "date": "2026-06-13T06:00:00+02:00"
     }
   },
   {
