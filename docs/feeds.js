@@ -1071,8 +1071,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Unnskyld, Nord-Norge!",
-      "date": "2026-06-10T17:30:00+02:00"
+      "title": "Solveig Kloppen / Christian Mikkelsen / Ella Marie Hætta Isaksen",
+      "date": "2026-06-13T13:05:00+02:00"
     }
   },
   {
