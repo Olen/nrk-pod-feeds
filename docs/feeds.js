@@ -2103,8 +2103,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kronprinsesse Mette-Marit på venteliste for nye lunger",
-      "date": "2026-06-06T14:30:00+02:00"
+      "title": "Hvem var vikingene?",
+      "date": "2026-06-13T14:00:00+02:00"
     }
   },
   {
