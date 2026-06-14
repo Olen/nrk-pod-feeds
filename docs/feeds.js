@@ -2140,8 +2140,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kristjana Vera: Uplanlagt gravid",
-      "date": "2026-06-11T06:00:00+02:00"
+      "title": "Panelet: Opp og ned",
+      "date": "2026-06-14T06:00:00+02:00"
     }
   },
   {
