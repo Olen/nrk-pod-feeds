@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Er det pes å være svær i VM-varmen?",
-      "date": "2026-06-12T06:00:00+02:00"
+      "title": "Forskningsfronten: Døde galakser strømmer gjennom deg",
+      "date": "2026-06-15T06:00:00+02:00"
     }
   },
   {
@@ -69,8 +69,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Steinars magiske suppe",
-      "date": "2026-06-08T06:00:00+02:00"
+      "title": "Partiet De Grå og Ap+",
+      "date": "2026-06-15T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mange flere kvinner fryser ned egg",
-      "date": "2026-06-12T05:59:00+02:00"
+      "title": "I dag får Høiby dommen",
+      "date": "2026-06-15T05:59:00+02:00"
     }
   },
   {
@@ -1336,8 +1336,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Even Sjamel på besøk",
-      "date": "2026-06-08T06:00:00+02:00"
+      "title": "Buzz Studio på besøk",
+      "date": "2026-06-15T06:00:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "18-åringen drepte Tamima: Inspirert av Hitler",
-      "date": "2026-06-12T05:59:00+02:00"
+      "title": "Nowak-drapet: Derfor koker Storbritannia",
+      "date": "2026-06-15T05:59:00+02:00"
     }
   },
   {
@@ -1511,8 +1511,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mener SpaceX er en røverhistorie",
-      "date": "2026-06-12T08:00:00+02:00"
+      "title": "Hvor blir det av Høyre-lederen?",
+      "date": "2026-06-15T08:00:00+02:00"
     }
   },
   {
@@ -1888,10 +1888,10 @@ const feeds = [
     "description": "Partyprinser, gærninger og kranglefanter – kongeslekta er full av sinnssyke historier! Med Aslak Sira Myhre og Ole-Albert Rønning Nordby. ",
     "image": "https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAGCOZ5YXvq62p9Ba4KqQtAw.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Triksene ",
-      "date": "2026-01-06T06:07:00+01:00"
+      "title": "Juleselskapet",
+      "date": "2026-06-15T06:00:00+02:00"
     }
   },
   {
@@ -2061,8 +2061,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps VM",
-      "date": "2026-06-08T06:00:00+02:00"
+      "title": "Spritkongen",
+      "date": "2026-06-15T06:00:00+02:00"
     }
   },
   {
