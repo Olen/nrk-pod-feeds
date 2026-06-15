@@ -332,8 +332,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Rune Bratseth",
-      "date": "2026-06-11T12:05:00+02:00"
+      "title": "Anna Kirkengen",
+      "date": "2026-06-15T14:00:00+02:00"
     }
   },
   {
@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps USA: VM med bismak",
-      "date": "2026-06-11T14:00:00+02:00"
+      "title": "Glimt av håp i Sudan",
+      "date": "2026-06-15T13:00:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nowak-drapet: Derfor koker Storbritannia",
-      "date": "2026-06-15T05:59:00+02:00"
+      "title": "Dom i Høiby-saken: Hva skjer videre?",
+      "date": "2026-06-15T15:32:00+02:00"
     }
   },
   {
@@ -1471,8 +1471,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Det beste fra P3morgen!",
-      "date": "2026-06-13T06:00:00+02:00"
+      "title": "Sædfuck og triks på bussen.",
+      "date": "2026-06-15T06:00:00+02:00"
     }
   },
   {
@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Daniel har besøk av støttekontakt",
-      "date": "2026-06-12T06:00:00+02:00"
+      "title": "Anna med ljåen er tilbake",
+      "date": "2026-06-15T06:00:00+02:00"
     }
   },
   {
