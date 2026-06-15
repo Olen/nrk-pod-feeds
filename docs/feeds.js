@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tysk \"Norge-sang\" vekker oppsikt",
-      "date": "2026-06-13T23:28:00+02:00"
+      "title": "Får landslaget for lite ros?",
+      "date": "2026-06-15T02:35:00+02:00"
     }
   },
   {
