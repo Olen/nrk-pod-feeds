@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "SpaceX på børs",
-      "date": "2026-06-12T19:00:00+02:00"
+      "title": "Høiby anker dommen",
+      "date": "2026-06-15T19:00:00+02:00"
     }
   },
   {
@@ -945,8 +945,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Høiby (21): Er retten for streng?",
-      "date": "2026-06-10T16:45:00+02:00"
+      "title": "Høiby (22): Dette er dommen",
+      "date": "2026-06-15T18:35:00+02:00"
     }
   },
   {
