@@ -1664,7 +1664,7 @@
         "description": "Partyprinser, gærninger og kranglefanter – kongeslekta er full av sinnssyke historier! Med Aslak Sira Myhre og Ole-Albert Rønning Nordby. ",
         "image": "https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAGCOZ5YXvq62p9Ba4KqQtAw.jpg",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "stroemwasenius",
