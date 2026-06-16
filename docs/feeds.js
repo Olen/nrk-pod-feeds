@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Høiby anker dommen",
-      "date": "2026-06-15T19:00:00+02:00"
+      "title": "Norges første VM-kamp på 28 år",
+      "date": "2026-06-16T19:00:00+02:00"
     }
   },
   {
