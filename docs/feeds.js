@@ -879,8 +879,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Marius Borg Høiby: Hva slags straff risikerer han?",
-      "date": "2026-06-11T15:59:00+02:00"
+      "title": "Trumps Iran-avtale: Betyr det at krigen er over?",
+      "date": "2026-06-16T17:57:00+02:00"
     }
   },
   {
@@ -1024,8 +1024,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Leseklubben: «Kafka på stranden» med Vidar Magnussen: – Jeg er litt forandret nå (6:6)",
-      "date": "2026-06-04T06:00:00+02:00"
+      "title": "Leseklubben: «Brødrene Løvehjerte» med Else Kåss Furuseth: KOMMER: Else+Løvehjerte=sommerbok!",
+      "date": "2026-06-16T15:11:00+02:00"
     }
   },
   {
@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Anna med ljåen er tilbake",
-      "date": "2026-06-15T06:00:00+02:00"
+      "title": "Kalle bestemor for bibbi?!",
+      "date": "2026-06-16T06:00:00+02:00"
     }
   },
   {

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 04 Jun 2026 05:04:06 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 16 Jun 2026 17:20:32 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Jun 2026 15:11:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
+    <item>
+      <title>Leseklubben: «Brødrene Løvehjerte» med Else Kåss Furuseth: KOMMER: Else+Løvehjerte=sommerbok!</title>
+      <description><![CDATA[Leseklubben gjør seg klar for Hot Lindgren Summer med Else Kåss Furuseth og «Brødrene Løvehjerte».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/f7feca3d-caa3-4a48-beca-3dcaa38a4812_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/f7feca3d-caa3-4a48-beca-3dcaa38a4812_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:29</itunes:duration>
+      <pubDate>Tue, 16 Jun 2026 15:11:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
+    </item>
     <item>
       <title>Leseklubben: «Kafka på stranden» med Vidar Magnussen: – Jeg er litt forandret nå (6:6)</title>
       <description><![CDATA[Vidar våkner opp til en ny verden. Christine blir rørt og Kristoffer karrer seg over målstreken. Men hva handler egentlig boka om?]]></description>
@@ -155,23 +164,6 @@ Les/hør kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
       <enclosure url="https://podkast.nrk.no/fil/leseklubben/260bce27-6839-4de0-8bce-2768399de079_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>21:39</itunes:duration>
       <pubDate>Thu, 28 May 2026 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
-    </item>
-    <item>
-      <title>«Kafka på stranden» (42:49)</title>
-      <description><![CDATA[Lydboka er lest av Duc Mai-The. Når du har hørt kapittel 42-49 kan du høre Leseklubben episode 6.
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør prolog + kapittel 1-5 → hør episode 2 av Leseklubben
-Les/hør kapittel 6-16 → hør episode 3 av Leseklubben
-Les/hør kapittel 17-27 → hør episode 4 av Leseklubben
-Les/hør kapittel 28-41 → hør episode 5 av Leseklubben
-Les/hør kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/2c3bacdd-8bcc-4a0b-bbac-dd8bcc3a0b4f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/2c3bacdd-8bcc-4a0b-bbac-dd8bcc3a0b4f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:58</itunes:duration>
-      <pubDate>Thu, 28 May 2026 06:02:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
     </item>
   </channel>
