@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Får landslaget for lite ros?",
-      "date": "2026-06-15T02:35:00+02:00"
+      "title": "Ventetiden er over!",
+      "date": "2026-06-16T02:25:00+02:00"
     }
   },
   {
@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Leirskole, sexting og «gjett hvem»",
-      "date": "2026-06-12T12:00:00+02:00"
+      "title": "Viktoria Sade Karlsen, KI-kjæreste og skeiv slang",
+      "date": "2026-06-16T06:00:00+02:00"
     }
   },
   {
@@ -166,8 +166,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "VM i sløyd",
-      "date": "2026-06-09T06:00:00+02:00"
+      "title": "Ulvesult på baderomsgulvet",
+      "date": "2026-06-16T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "I dag får Høiby dommen",
-      "date": "2026-06-15T05:59:00+02:00"
+      "title": "Midtausten-avtale signert – men kven vann krigen?",
+      "date": "2026-06-16T05:59:00+02:00"
     }
   },
   {
@@ -995,8 +995,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Prinsen - med Gunn Marit Nisja",
-      "date": "2026-06-10T06:00:00+02:00"
+      "title": "Sko - med Ann Helen Kolås Ingebrigtsen",
+      "date": "2026-06-16T06:00:00+02:00"
     }
   },
   {
@@ -1158,8 +1158,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "30 sekunders foreplay",
-      "date": "2026-06-12T06:00:00+02:00"
+      "title": "Løgn og fanteri",
+      "date": "2026-06-16T06:00:00+02:00"
     }
   },
   {
@@ -2140,8 +2140,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Opp og ned",
-      "date": "2026-06-14T06:00:00+02:00"
+      "title": "Nora Angeltveit: Å forplikte seg",
+      "date": "2026-06-16T06:00:00+02:00"
     }
   },
   {
