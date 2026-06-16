@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Glimt av håp i Sudan",
-      "date": "2026-06-15T13:00:00+02:00"
+      "title": "Spør Ekko: Dagen etter dommen",
+      "date": "2026-06-16T13:00:00+02:00"
     }
   },
   {
@@ -1471,8 +1471,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sædfuck og triks på bussen.",
-      "date": "2026-06-15T06:00:00+02:00"
+      "title": "Henning driver med fibermaxxing",
+      "date": "2026-06-16T06:00:00+02:00"
     }
   },
   {
@@ -1511,8 +1511,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvor blir det av Høyre-lederen?",
-      "date": "2026-06-15T08:00:00+02:00"
+      "title": "Hvorfor vokser ikke Senterpartiet?",
+      "date": "2026-06-16T08:00:00+02:00"
     }
   },
   {
