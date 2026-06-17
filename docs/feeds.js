@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norges første VM-kamp på 28 år",
-      "date": "2026-06-16T19:00:00+02:00"
+      "title": "Kronprinsesse Mette-Marit er lungetransplantert",
+      "date": "2026-06-17T19:00:00+02:00"
     }
   },
   {
