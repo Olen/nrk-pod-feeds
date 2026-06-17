@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Døde galakser strømmer gjennom deg",
-      "date": "2026-06-15T06:00:00+02:00"
+      "title": "Forskningsfronten: Frister brød med gjær fra død mann?",
+      "date": "2026-06-17T06:00:00+02:00"
     }
   },
   {
@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ventetiden er over!",
-      "date": "2026-06-16T02:25:00+02:00"
+      "title": "Norge-Irak: Haaland herjet heldigvis",
+      "date": "2026-06-17T06:30:00+02:00"
     }
   },
   {
@@ -650,8 +650,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Simón Bolívar - Sør-Amerikas frigjører",
-      "date": "2026-06-10T06:00:00+02:00"
+      "title": "Synnøve Finden - religiøs ostedronning",
+      "date": "2026-06-17T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Midtausten-avtale signert – men kven vann krigen?",
-      "date": "2026-06-16T05:59:00+02:00"
+      "title": "Norge (nesten) videre i VM",
+      "date": "2026-06-17T05:59:00+02:00"
     }
   },
   {
@@ -945,8 +945,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Høiby (22): Dette er dommen",
-      "date": "2026-06-15T18:35:00+02:00"
+      "title": "Wangen (5): Pute eller ikke pute?",
+      "date": "2026-06-17T06:00:00+02:00"
     }
   },
   {
@@ -995,8 +995,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sko - med Ann Helen Kolås Ingebrigtsen",
-      "date": "2026-06-16T06:00:00+02:00"
+      "title": "Fellesskap - med Ingvild Hegge Eriksen",
+      "date": "2026-06-17T06:00:00+02:00"
     }
   },
   {
@@ -1024,8 +1024,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Leseklubben: «Brødrene Løvehjerte» med Else Kåss Furuseth: KOMMER: Else+Løvehjerte=sommerbok!",
-      "date": "2026-06-16T15:11:00+02:00"
+      "title": "«Brødrene Løvehjerte» (17:17)",
+      "date": "2026-06-17T06:18:00+02:00"
     }
   },
   {
@@ -1037,8 +1037,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kan du tenke deg ut av smerte?",
-      "date": "2026-06-10T05:00:00+02:00"
+      "title": "Hvordan påvirker tarmen psyken?",
+      "date": "2026-06-17T05:00:00+02:00"
     }
   },
   {
@@ -1158,8 +1158,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Løgn og fanteri",
-      "date": "2026-06-16T06:00:00+02:00"
+      "title": "Norge skårte mååål!",
+      "date": "2026-06-17T06:00:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dom i Høiby-saken: Hva skjer videre?",
-      "date": "2026-06-15T15:32:00+02:00"
+      "title": "Narkokartellenes jerngrep: Likene i VM-byen",
+      "date": "2026-06-17T05:59:00+02:00"
     }
   },
   {
@@ -1828,8 +1828,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "VM-vikinger med overtenning",
-      "date": "2026-06-10T06:00:00+02:00"
+      "title": "Teknonachspielet etter seieren",
+      "date": "2026-06-17T06:00:00+02:00"
     }
   },
   {

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 15 Jun 2026 07:36:42 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 05:15:03 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten: Frister brød med gjær fra død mann?</title>
+      <description><![CDATA[Forskere har testet oppskrift. Dessuten, slik får du barna til å spise grønnsaker. Og lyden "The hum" har en ny mulig forklaring]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/e49c4d4b-933e-40b3-9c4d-4b933ea0b35d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e49c4d4b-933e-40b3-9c4d-4b933ea0b35d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:17</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    </item>
     <item>
       <title>Forskningsfronten: Døde galakser strømmer gjennom deg</title>
       <description><![CDATA[Nanonettinger kan vris til superledere, og proteiner produseres rare steder i hjernen. Alt i følge årets vinnere av Kavliprisene]]></description>
@@ -27,7 +36,7 @@
 Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompetente ekspertpanel!]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/b7ce3efc-4871-4c92-8e3e-fc4871fc926d_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b7ce3efc-4871-4c92-8e3e-fc4871fc926d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:24</itunes:duration>
+      <itunes:duration>57:18</itunes:duration>
       <pubDate>Fri, 12 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/6ri4ceXFj2xwoL00yRu1twA2OgjVxebOpJjN-SqQ1QqQ.jpg"/>
     </item>
@@ -95,15 +104,6 @@ Lurer du på ting? Send inn spørsmål til Abels Tårns eksperter!]]></descripti
       <itunes:duration>26:57</itunes:duration>
       <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/hQ-d-qQCtDBzA35xlutitghBItxQ1fXBp5m0C5yzK2Ug.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten: Send en beskjed til fortida</title>
-      <description><![CDATA[I teorien er det mulig i følge ny forskning. Dessuten, leger har gjort en steril mann fruktbar, og et effektivt våpen mot farlige mikrober er funnet hos insektene]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/cbfeaa20-69cd-41a4-beaa-2069cda1a4f6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/cbfeaa20-69cd-41a4-beaa-2069cda1a4f6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:48</itunes:duration>
-      <pubDate>Mon, 25 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
     </item>
   </channel>
 </rss>

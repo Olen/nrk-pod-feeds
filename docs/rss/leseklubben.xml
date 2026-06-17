@@ -8,163 +8,169 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 16 Jun 2026 17:20:32 +0000</lastBuildDate>
-    <pubDate>Tue, 16 Jun 2026 15:11:00 +0200</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 05:15:27 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 06:18:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
     <item>
-      <title>Leseklubben: «Brødrene Løvehjerte» med Else Kåss Furuseth: KOMMER: Else+Løvehjerte=sommerbok!</title>
-      <description><![CDATA[Leseklubben gjør seg klar for Hot Lindgren Summer med Else Kåss Furuseth og «Brødrene Løvehjerte».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/f7feca3d-caa3-4a48-beca-3dcaa38a4812_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/f7feca3d-caa3-4a48-beca-3dcaa38a4812_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:29</itunes:duration>
-      <pubDate>Tue, 16 Jun 2026 15:11:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
-    </item>
-    <item>
-      <title>Leseklubben: «Kafka på stranden» med Vidar Magnussen: – Jeg er litt forandret nå (6:6)</title>
-      <description><![CDATA[Vidar våkner opp til en ny verden. Christine blir rørt og Kristoffer karrer seg over målstreken. Men hva handler egentlig boka om?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/bad0d5c3-4cc6-4d46-90d5-c34cc66d46b6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/bad0d5c3-4cc6-4d46-90d5-c34cc66d46b6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:00:51</itunes:duration>
-      <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YKKvPWqS2MgpPgN5zje7tQ8pmeCUtjzidQulwEqj8cZw.jpg"/>
-    </item>
-    <item>
-      <title>«Kafka på stranden» (49:49)</title>
-      <description><![CDATA[Lydboka er lest av Duc Mai-The. Når du har hørt kapittel 42-49 kan du høre Leseklubben episode 6.
+      <title>«Brødrene Løvehjerte» (17:17)</title>
+      <description><![CDATA[Lydboka er lest av Svein Tindberg. Når du har hørt kapittel 13-17 kan du høre Leseklubben episode 5.
 
 Lese-/lytteoppskrift:
 Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør prolog + kapittel 1-5 → hør episode 2 av Leseklubben
-Les/hør kapittel 6-16 → hør episode 3 av Leseklubben
-Les/hør kapittel 17-27 → hør episode 4 av Leseklubben
-Les/hør kapittel 28-41 → hør episode 5 av Leseklubben
-Les/hør kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/16425afb-1c50-45ae-825a-fb1c50c5ae1c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/16425afb-1c50-45ae-825a-fb1c50c5ae1c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:36</itunes:duration>
-      <pubDate>Thu, 28 May 2026 06:10:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
+Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
+Les/hør kapittel 3-7→ hør episode 3 av Leseklubben
+Les/hør kapittel 8-12 → hør episode 4 av Leseklubben
+Les/hør kapittel 12-17 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/cfd2c2ed-e9c2-45dc-92c2-ede9c265dcd4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/cfd2c2ed-e9c2-45dc-92c2-ede9c265dcd4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:40</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 06:18:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QRKeTxdn7FXHMq-z8DLJlgQEEKCdq-c0BSArmzF1eugw.jpg"/>
     </item>
     <item>
-      <title>«Kafka på stranden» (48:49)</title>
-      <description><![CDATA[Lydboka er lest av Duc Mai-The. Når du har hørt kapittel 42-49 kan du høre Leseklubben episode 6.
+      <title>«Brødrene Løvehjerte» (16:17)</title>
+      <description><![CDATA[Lydboka er lest av Svein Tindberg. Når du har hørt kapittel 13-17 kan du høre Leseklubben episode 5.
 
 Lese-/lytteoppskrift:
 Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør prolog + kapittel 1-5 → hør episode 2 av Leseklubben
-Les/hør kapittel 6-16 → hør episode 3 av Leseklubben
-Les/hør kapittel 17-27 → hør episode 4 av Leseklubben
-Les/hør kapittel 28-41 → hør episode 5 av Leseklubben
-Les/hør kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/53ac9ce9-c8a5-43c1-ac9c-e9c8a5e3c1fc_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/53ac9ce9-c8a5-43c1-ac9c-e9c8a5e3c1fc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:41</itunes:duration>
-      <pubDate>Thu, 28 May 2026 06:09:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
+Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
+Les/hør kapittel 3-7→ hør episode 3 av Leseklubben
+Les/hør kapittel 8-12 → hør episode 4 av Leseklubben
+Les/hør kapittel 13-17 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/b5e5b92e-c252-4227-a5b9-2ec25212273a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/b5e5b92e-c252-4227-a5b9-2ec25212273a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:13</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 06:17:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QRKeTxdn7FXHMq-z8DLJlgQEEKCdq-c0BSArmzF1eugw.jpg"/>
     </item>
     <item>
-      <title>«Kafka på stranden» (47:49)</title>
-      <description><![CDATA[Lydboka er lest av Duc Mai-The. Når du har hørt kapittel 42-49 kan du høre Leseklubben episode 6.
+      <title>«Brødrene Løvehjerte» (15:17)</title>
+      <description><![CDATA[Lydboka er lest av Svein Tindberg. Når du har hørt kapittel 13-17 kan du høre Leseklubben episode 5.
 
 Lese-/lytteoppskrift:
 Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør prolog + kapittel 1-5 → hør episode 2 av Leseklubben
-Les/hør kapittel 6-16 → hør episode 3 av Leseklubben
-Les/hør kapittel 17-27 → hør episode 4 av Leseklubben
-Les/hør kapittel 28-41 → hør episode 5 av Leseklubben
-Les/hør kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/f373e73f-b75d-47cd-b3e7-3fb75d07cd6f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/f373e73f-b75d-47cd-b3e7-3fb75d07cd6f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:20</itunes:duration>
-      <pubDate>Thu, 28 May 2026 06:08:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
+Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
+Les/hør kapittel 3-7→ hør episode 3 av Leseklubben
+Les/hør kapittel 8-12 → hør episode 4 av Leseklubben
+Les/hør kapittel 13-17 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/d706bade-4ef2-4e2a-86ba-de4ef24e2aac_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/d706bade-4ef2-4e2a-86ba-de4ef24e2aac_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:24</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 06:16:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QRKeTxdn7FXHMq-z8DLJlgQEEKCdq-c0BSArmzF1eugw.jpg"/>
     </item>
     <item>
-      <title>«Kafka på stranden» (Gutten kalt Kråka)</title>
-      <description><![CDATA[Lydboka er lest av Duc Mai-The. Når du har hørt kapittel 42-49 kan du høre Leseklubben episode 6.
+      <title>«Brødrene Løvehjerte» (14:17)</title>
+      <description><![CDATA[Lydboka er lest av Svein Tindberg. Når du har hørt kapittel 13-17 kan du høre Leseklubben episode 5.
 
 Lese-/lytteoppskrift:
 Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør prolog + kapittel 1-5 → hør episode 2 av Leseklubben
-Les/hør kapittel 6-16 → hør episode 3 av Leseklubben
-Les/hør kapittel 17-27 → hør episode 4 av Leseklubben
-Les/hør kapittel 28-41 → hør episode 5 av Leseklubben
-Les/hør kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/2e2876d0-ba77-46ef-a876-d0ba77e6ef5d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/2e2876d0-ba77-46ef-a876-d0ba77e6ef5d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:28</itunes:duration>
-      <pubDate>Thu, 28 May 2026 06:07:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
+Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
+Les/hør kapittel 3-7→ hør episode 3 av Leseklubben
+Les/hør kapittel 8-12 → hør episode 4 av Leseklubben
+Les/hør kapittel 13-17 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/8946e421-a819-4f2a-86e4-21a819bf2aa6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/8946e421-a819-4f2a-86e4-21a819bf2aa6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:33</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 06:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QRKeTxdn7FXHMq-z8DLJlgQEEKCdq-c0BSArmzF1eugw.jpg"/>
     </item>
     <item>
-      <title>«Kafka på stranden» (46:49)</title>
-      <description><![CDATA[Lydboka er lest av Duc Mai-The. Når du har hørt kapittel 42-49 kan du høre Leseklubben episode 6.
+      <title>«Brødrene Løvehjerte» (13:17)</title>
+      <description><![CDATA[Lydboka er lest av Svein Tindberg. Når du har hørt kapittel 13-17 kan du høre Leseklubben episode 5.
 
 Lese-/lytteoppskrift:
 Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør prolog + kapittel 1-5 → hør episode 2 av Leseklubben
-Les/hør kapittel 6-16 → hør episode 3 av Leseklubben
-Les/hør kapittel 17-27 → hør episode 4 av Leseklubben
-Les/hør kapittel 28-41 → hør episode 5 av Leseklubben
-Les/hør kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/a46a8fe1-da00-4546-aa8f-e1da00c546c5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/a46a8fe1-da00-4546-aa8f-e1da00c546c5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:43</itunes:duration>
-      <pubDate>Thu, 28 May 2026 06:06:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
+Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
+Les/hør kapittel 3-7→ hør episode 3 av Leseklubben
+Les/hør kapittel 8-12 → hør episode 4 av Leseklubben
+Les/hør kapittel 13-17 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/bf8608e7-32a2-4372-8608-e732a2f37225_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/bf8608e7-32a2-4372-8608-e732a2f37225_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:34</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 06:14:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QRKeTxdn7FXHMq-z8DLJlgQEEKCdq-c0BSArmzF1eugw.jpg"/>
     </item>
     <item>
-      <title>«Kafka på stranden» (45:49)</title>
-      <description><![CDATA[Lydboka er lest av Duc Mai-The. Når du har hørt kapittel 42-49 kan du høre Leseklubben episode 6.
+      <title>«Brødrene Løvehjerte» (12:17)</title>
+      <description><![CDATA[Lydboka er lest av Svein Tindberg. Når du har hørt kapittel 8-12 kan du høre Leseklubben episode 4.
 
 Lese-/lytteoppskrift:
 Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør prolog + kapittel 1-5 → hør episode 2 av Leseklubben
-Les/hør kapittel 6-16 → hør episode 3 av Leseklubben
-Les/hør kapittel 17-27 → hør episode 4 av Leseklubben
-Les/hør kapittel 28-41 → hør episode 5 av Leseklubben
-Les/hør kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/30594eb3-7f0d-4e4c-994e-b37f0d6e4cd3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/30594eb3-7f0d-4e4c-994e-b37f0d6e4cd3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:20</itunes:duration>
-      <pubDate>Thu, 28 May 2026 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
+Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
+Les/hør kapittel 3-7→ hør episode 3 av Leseklubben
+Les/hør kapittel 8-12 → hør episode 4 av Leseklubben
+Les/hør kapittel 13-17 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/f63f3445-8f21-4ec6-bf34-458f21fec654_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/f63f3445-8f21-4ec6-bf34-458f21fec654_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:57</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 06:13:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QRKeTxdn7FXHMq-z8DLJlgQEEKCdq-c0BSArmzF1eugw.jpg"/>
     </item>
     <item>
-      <title>«Kafka på stranden» (44:49)</title>
-      <description><![CDATA[Lydboka er lest av Duc Mai-The. Når du har hørt kapittel 42-49 kan du høre Leseklubben episode 6.
+      <title>«Brødrene Løvehjerte» (11:17)</title>
+      <description><![CDATA[Lydboka er lest av Svein Tindberg. Når du har hørt kapittel 8-12 kan du høre Leseklubben episode 4.
 
 Lese-/lytteoppskrift:
 Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør prolog + kapittel 1-5 → hør episode 2 av Leseklubben
-Les/hør kapittel 6-16 → hør episode 3 av Leseklubben
-Les/hør kapittel 17-27 → hør episode 4 av Leseklubben
-Les/hør kapittel 28-41 → hør episode 5 av Leseklubben
-Les/hør kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/7e924117-d26e-483c-9241-17d26e683c64_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/7e924117-d26e-483c-9241-17d26e683c64_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:54</itunes:duration>
-      <pubDate>Thu, 28 May 2026 06:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
+Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
+Les/hør kapittel 3-7→ hør episode 3 av Leseklubben
+Les/hør kapittel 8-12 → hør episode 4 av Leseklubben
+Les/hør kapittel 13-17 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/c6dd5977-601f-47f6-9d59-77601f47f60a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/c6dd5977-601f-47f6-9d59-77601f47f60a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:11</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 06:12:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QRKeTxdn7FXHMq-z8DLJlgQEEKCdq-c0BSArmzF1eugw.jpg"/>
     </item>
     <item>
-      <title>«Kafka på stranden» (43:49)</title>
-      <description><![CDATA[Lydboka er lest av Duc Mai-The. Når du har hørt kapittel 42-49 kan du høre Leseklubben episode 6.
+      <title>«Brødrene Løvehjerte» (10:17)</title>
+      <description><![CDATA[Lydboka er lest av Svein Tindberg. Når du har hørt kapittel 8-12 kan du høre Leseklubben episode 4.
 
 Lese-/lytteoppskrift:
 Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør prolog + kapittel 1-5 → hør episode 2 av Leseklubben
-Les/hør kapittel 6-16 → hør episode 3 av Leseklubben
-Les/hør kapittel 17-27 → hør episode 4 av Leseklubben
-Les/hør kapittel 28-41 → hør episode 5 av Leseklubben
-Les/hør kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/260bce27-6839-4de0-8bce-2768399de079_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/260bce27-6839-4de0-8bce-2768399de079_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:39</itunes:duration>
-      <pubDate>Thu, 28 May 2026 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3v_LfsbNzvaDFMbL-y6lKAZ3DlxDlm32geltrRSuF8rA.jpg"/>
+Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
+Les/hør kapittel 3-7→ hør episode 3 av Leseklubben
+Les/hør kapittel 8-12 → hør episode 4 av Leseklubben
+Les/hør kapittel 13-17 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/b164539e-8ec7-4dfb-a453-9e8ec79dfb4c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/b164539e-8ec7-4dfb-a453-9e8ec79dfb4c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:00</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 06:11:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QRKeTxdn7FXHMq-z8DLJlgQEEKCdq-c0BSArmzF1eugw.jpg"/>
+    </item>
+    <item>
+      <title>«Brødrene Løvehjerte» (9:17)</title>
+      <description><![CDATA[Lydboka er lest av Svein Tindberg. Når du har hørt kapittel 8-12 kan du høre Leseklubben episode 4.
+
+Lese-/lytteoppskrift:
+Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
+Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
+Les/hør kapittel 3-7→ hør episode 3 av Leseklubben
+Les/hør kapittel 8-12 → hør episode 4 av Leseklubben
+Les/hør kapittel 13-17 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/809a6dc3-753a-4839-9a6d-c3753ab839d0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/809a6dc3-753a-4839-9a6d-c3753ab839d0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:55</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 06:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QRKeTxdn7FXHMq-z8DLJlgQEEKCdq-c0BSArmzF1eugw.jpg"/>
+    </item>
+    <item>
+      <title>«Brødrene Løvehjerte» (8:17)</title>
+      <description><![CDATA[Lydboka er lest av Svein Tindberg. Når du har hørt kapittel 8-12 kan du høre Leseklubben episode 4.
+
+Lese-/lytteoppskrift:
+Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
+Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
+Les/hør kapittel 3-7→ hør episode 3 av Leseklubben
+Les/hør kapittel 8-12 → hør episode 4 av Leseklubben
+Les/hør kapittel 13-17 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/3692dd56-2837-4ae3-92dd-562837bae33c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/3692dd56-2837-4ae3-92dd-562837bae33c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:12</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 06:09:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QRKeTxdn7FXHMq-z8DLJlgQEEKCdq-c0BSArmzF1eugw.jpg"/>
     </item>
   </channel>
 </rss>
