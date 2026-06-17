@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kalle bestemor for bibbi?!",
-      "date": "2026-06-16T06:00:00+02:00"
+      "title": "P3-legenden vender tilbake",
+      "date": "2026-06-17T06:00:00+02:00"
     }
   },
   {
