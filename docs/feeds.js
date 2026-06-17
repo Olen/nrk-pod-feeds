@@ -332,8 +332,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Anna Kirkengen",
-      "date": "2026-06-15T14:00:00+02:00"
+      "title": "Lasse Kristoffersen",
+      "date": "2026-06-17T12:00:00+02:00"
     }
   },
   {
@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Spør Ekko: Dagen etter dommen",
-      "date": "2026-06-16T13:00:00+02:00"
+      "title": "Skam etter slankesprøyte",
+      "date": "2026-06-17T12:00:00+02:00"
     }
   },
   {
@@ -1471,8 +1471,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Henning driver med fibermaxxing",
-      "date": "2026-06-16T06:00:00+02:00"
+      "title": "Henning ble forlatt under vann",
+      "date": "2026-06-17T06:00:00+02:00"
     }
   },
   {
@@ -1511,8 +1511,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvorfor vokser ikke Senterpartiet?",
-      "date": "2026-06-16T08:00:00+02:00"
+      "title": "Skolesatsingen som slo feil",
+      "date": "2026-06-17T08:00:00+02:00"
     }
   },
   {
