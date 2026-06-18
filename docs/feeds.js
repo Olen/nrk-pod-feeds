@@ -295,8 +295,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Taste my rømmegrøt",
-      "date": "2026-06-11T06:00:00+02:00"
+      "title": "Tårer i en togvogn",
+      "date": "2026-06-18T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norge (nesten) videre i VM",
-      "date": "2026-06-17T05:59:00+02:00"
+      "title": "Får vi mer å rutte med i sommer?",
+      "date": "2026-06-18T05:59:00+02:00"
     }
   },
   {
@@ -956,10 +956,10 @@ const feeds = [
     "description": "Kork gir deg musikk for alle stemninger og anledninger.",
     "image": "https://gfx.nrk.no/bUxGv0Sq_Vx0torVqM5tBQ5Rf_EaqOj4iTCVOAsJQaBg.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Fiolinkonsert, 2. sats",
-      "date": "2026-04-24T15:59:00+02:00"
+      "title": "Sommer med Kork: Sommer-feeling",
+      "date": "2026-06-18T06:20:00+02:00"
     }
   },
   {
@@ -1158,8 +1158,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norge skårte mååål!",
-      "date": "2026-06-17T06:00:00+02:00"
+      "title": "Spicy history",
+      "date": "2026-06-18T06:00:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Narkokartellenes jerngrep: Likene i VM-byen",
-      "date": "2026-06-17T05:59:00+02:00"
+      "title": "Dop, damer og hatkrim-anklager: Et bevisst spill?",
+      "date": "2026-06-18T05:59:00+02:00"
     }
   },
   {
@@ -1511,8 +1511,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Skolesatsingen som slo feil",
-      "date": "2026-06-17T08:00:00+02:00"
+      "title": "Hvem vil Sylvi Listhaug være venn med?",
+      "date": "2026-06-18T08:00:00+02:00"
     }
   },
   {
@@ -2140,8 +2140,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nora Angeltveit: Å forplikte seg",
-      "date": "2026-06-16T06:00:00+02:00"
+      "title": "Snorre Rein: Parforhold og psykisk sykdom",
+      "date": "2026-06-18T06:00:00+02:00"
     }
   },
   {
