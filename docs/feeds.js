@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kronprinsesse Mette-Marit er lungetransplantert",
-      "date": "2026-06-17T19:00:00+02:00"
+      "title": "Norges Bank: Renta holdes uendret",
+      "date": "2026-06-18T19:00:00+02:00"
     }
   },
   {
