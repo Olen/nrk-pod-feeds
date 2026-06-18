@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Skam etter slankesprøyte",
-      "date": "2026-06-17T12:00:00+02:00"
+      "title": "Trumps USA: Fest, fiender og fredsavtaler",
+      "date": "2026-06-18T14:00:00+02:00"
     }
   },
   {
@@ -945,8 +945,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Wangen (5): Pute eller ikke pute?",
-      "date": "2026-06-17T06:00:00+02:00"
+      "title": "Kan Kongen benåde Høiby?",
+      "date": "2026-06-18T15:00:00+02:00"
     }
   },
   {
@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "P3-legenden vender tilbake",
-      "date": "2026-06-17T06:00:00+02:00"
+      "title": "Daniel kasta Sofie under leiebilen!",
+      "date": "2026-06-18T06:00:00+02:00"
     }
   },
   {
