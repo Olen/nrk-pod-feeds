@@ -332,8 +332,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Lasse Kristoffersen",
-      "date": "2026-06-17T12:00:00+02:00"
+      "title": "Cecilie Langum Becker",
+      "date": "2026-06-18T12:45:00+02:00"
     }
   },
   {
@@ -1471,8 +1471,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Henning ble forlatt under vann",
-      "date": "2026-06-17T06:00:00+02:00"
+      "title": "Ballefyllesyk tilstand er best",
+      "date": "2026-06-18T06:00:00+02:00"
     }
   },
   {
