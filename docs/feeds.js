@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norge-Irak: Haaland herjet heldigvis",
-      "date": "2026-06-17T06:30:00+02:00"
+      "title": "Trening på tørt gress og engelsk jubel",
+      "date": "2026-06-18T02:22:00+02:00"
     }
   },
   {
