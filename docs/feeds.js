@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Viktoria Sade Karlsen, KI-kjæreste og skeiv slang",
-      "date": "2026-06-16T06:00:00+02:00"
+      "title": "Ligge på festivaldo, sommerleir og «kom du?»",
+      "date": "2026-06-19T12:00:00+02:00"
     }
   },
   {
@@ -143,10 +143,10 @@ const feeds = [
     "description": "Binnabánnaš og Ujujju er to artige små skruer som alltid er nysgjerrige på nye ting.",
     "image": "https://gfx.nrk.no/FtAD_t9saqQ0scxa1Qp6JQ_188X_d-brdGVnu2DIfvbQ.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Beaivváš máhccá - Sola kommer",
-      "date": "2025-08-25T06:00:00+02:00"
+      "title": "Halloween",
+      "date": "2026-06-19T06:08:00+02:00"
     }
   },
   {
@@ -481,8 +481,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "VM, demokratisk kunst og performativ lesing",
-      "date": "2026-06-12T09:00:00+02:00"
+      "title": "Dårlige nyheter, analfabete barn og roing",
+      "date": "2026-06-19T06:00:00+02:00"
     }
   },
   {
@@ -598,10 +598,10 @@ const feeds = [
     "description": "Bli med gjengen i Bablo på nye gøyale sprell! På dette biblioteket kan man bable, tulle og gjøre alt som er rart.",
     "image": "https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwzhkgZYH4VC11qPpfxlloNw.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Lotte leker død",
-      "date": "2026-03-27T06:01:00+01:00"
+      "title": "Fantasibygging",
+      "date": "2026-06-19T06:05:00+02:00"
     }
   },
   {
@@ -1471,8 +1471,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ballefyllesyk tilstand er best",
-      "date": "2026-06-18T06:00:00+02:00"
+      "title": "Hvem vasker vanndispenseren?",
+      "date": "2026-06-19T06:00:00+02:00"
     }
   },
   {
@@ -1511,8 +1511,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvem vil Sylvi Listhaug være venn med?",
-      "date": "2026-06-18T08:00:00+02:00"
+      "title": "Støres halvår",
+      "date": "2026-06-19T08:00:00+02:00"
     }
   },
   {
@@ -2201,8 +2201,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps lojalitetstest",
-      "date": "2026-06-12T10:15:00+02:00"
+      "title": "Ønske om autoritære ledere",
+      "date": "2026-06-19T11:00:00+02:00"
     }
   },
   {
