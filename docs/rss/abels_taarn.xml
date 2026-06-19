@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 17 Jun 2026 05:15:03 +0000</lastBuildDate>
-    <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2026 05:23:10 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Tårnet: Prater spekkhoggere?</title>
+      <description><![CDATA[Kunne vært kult å finne ut hva de prater OM!
+Lurer du på rare ting? Send inn dine spørsmål til Abels Tårns kompetente ekspertpanel!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/d5a8113d-6b3f-475a-a811-3d6b3fb75a73_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d5a8113d-6b3f-475a-a811-3d6b3fb75a73_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:32</itunes:duration>
+      <pubDate>Fri, 19 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Oqpe8fY6sMG20u8MKrlhgQDX4j4em_TitnBnTZzFNJ0A.jpg"/>
+    </item>
     <item>
       <title>Forskningsfronten: Frister brød med gjær fra død mann?</title>
       <description><![CDATA[Forskere har testet oppskrift. Dessuten, slik får du barna til å spise grønnsaker. Og lyden "The hum" har en ny mulig forklaring]]></description>
@@ -95,15 +105,6 @@ Lurer du på ting? Send inn spørsmål til Abels Tårns eksperter!]]></descripti
       <itunes:duration>57:37</itunes:duration>
       <pubDate>Fri, 29 May 2026 09:03:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/f4bk__zvKGMDoZ4KenCaHAM1TQ5wLsy0qkxt60UY0UIw.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten: Klærne dine kan gjenvinnes</title>
-      <description><![CDATA[Forskere har nemlig en resirkulerings-plan. Dessuten, ny forskning viser hvordan måker kan stoppes fra å stjele mat, og hvordan hjernen din endres hvis du får vinger]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/4d2fd5c2-292f-4bba-afd5-c2292f3bba6f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4d2fd5c2-292f-4bba-afd5-c2292f3bba6f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:57</itunes:duration>
-      <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hQ-d-qQCtDBzA35xlutitghBItxQ1fXBp5m0C5yzK2Ug.jpg"/>
     </item>
   </channel>
 </rss>

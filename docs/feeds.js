@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Frister brød med gjær fra død mann?",
-      "date": "2026-06-17T06:00:00+02:00"
+      "title": "Tårnet: Prater spekkhoggere?",
+      "date": "2026-06-19T06:00:00+02:00"
     }
   },
   {
@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trening på tørt gress og engelsk jubel",
-      "date": "2026-06-18T02:22:00+02:00"
+      "title": "Haaland i New York og spørsmålsbonanza",
+      "date": "2026-06-19T02:00:00+02:00"
     }
   },
   {
@@ -179,8 +179,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Lars Saabye Christensen: Fruktsalat og frigjøring",
-      "date": "2026-06-12T06:00:00+02:00"
+      "title": "Tyra Teodora Tronstad: Etter katastrofen",
+      "date": "2026-06-19T06:00:00+02:00"
     }
   },
   {
@@ -274,8 +274,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Et monument over nasjonal vilje",
-      "date": "2026-06-12T06:00:00+02:00"
+      "title": "TONO – Vanskelig å like, lett å forlate",
+      "date": "2026-06-19T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Får vi mer å rutte med i sommer?",
-      "date": "2026-06-18T05:59:00+02:00"
+      "title": "Har alle en plikt til å forsvare Norge?",
+      "date": "2026-06-19T05:59:00+02:00"
     }
   },
   {
@@ -1158,8 +1158,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Spicy history",
-      "date": "2026-06-18T06:00:00+02:00"
+      "title": "Syting på forskjellige språk",
+      "date": "2026-06-19T06:00:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dop, damer og hatkrim-anklager: Et bevisst spill?",
-      "date": "2026-06-18T05:59:00+02:00"
+      "title": "Fra kontrovers til suksess: Er dette sommerens stjerne?",
+      "date": "2026-06-19T05:59:00+02:00"
     }
   },
   {
@@ -1743,8 +1743,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Stisykling og sommertrening",
-      "date": "2026-06-12T05:00:00+02:00"
+      "title": "Helvetesdrama og rulleskidebut",
+      "date": "2026-06-19T05:00:00+02:00"
     }
   },
   {
@@ -1841,8 +1841,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Livsfarlig Strunk",
-      "date": "2026-06-12T06:00:00+02:00"
+      "title": "Upålitelig forelsking",
+      "date": "2026-06-19T06:00:00+02:00"
     }
   },
   {
@@ -2172,8 +2172,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sudan: Vår dårlige samvittighet",
-      "date": "2026-06-12T06:00:00+02:00"
+      "title": "Fotball i Irak: En kamp på liv og død",
+      "date": "2026-06-19T06:00:00+02:00"
     }
   },
   {
