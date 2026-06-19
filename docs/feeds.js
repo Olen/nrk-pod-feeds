@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norges Bank: Renta holdes uendret",
-      "date": "2026-06-18T19:00:00+02:00"
+      "title": "Arbeiderpartiet vil ha KI ut av skolen",
+      "date": "2026-06-19T19:00:00+02:00"
     }
   },
   {
@@ -1911,8 +1911,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Platedate med Kai Thomas Skrellex Larsen og Christina Vukicevic",
-      "date": "2026-06-05T17:00:00+02:00"
+      "title": "Platedate med Javad El Bakali og Kristine Grændsen",
+      "date": "2026-06-19T17:00:00+02:00"
     }
   },
   {
