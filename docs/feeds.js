@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Daniel kasta Sofie under leiebilen!",
-      "date": "2026-06-18T06:00:00+02:00"
+      "title": "– Noen kom på døra i natt",
+      "date": "2026-06-19T06:00:00+02:00"
     }
   },
   {
