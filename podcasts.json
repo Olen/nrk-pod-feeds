@@ -123,7 +123,7 @@
         "description": "Binnabánnaš og Ujujju er to artige små skruer som alltid er nysgjerrige på nye ting.",
         "image": "https://gfx.nrk.no/FtAD_t9saqQ0scxa1Qp6JQ_188X_d-brdGVnu2DIfvbQ.jpg",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "bjoernen_lyver",
@@ -522,7 +522,7 @@
         "description": "Bli med gjengen i Bablo på nye gøyale sprell! På dette biblioteket kan man bable, tulle og gjøre alt som er rart.",
         "image": "https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwzhkgZYH4VC11qPpfxlloNw.jpg",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "hei_nabo",
