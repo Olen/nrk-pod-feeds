@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Haaland i New York og spørsmålsbonanza",
-      "date": "2026-06-19T02:00:00+02:00"
+      "title": "Oljeberget ror på Manhattan",
+      "date": "2026-06-20T03:10:00+02:00"
     }
   },
   {
@@ -1370,8 +1370,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Patetiske vikinger",
-      "date": "2026-06-13T06:00:00+02:00"
+      "title": "Demokratiets elitistiske dansegulv",
+      "date": "2026-06-20T06:00:00+02:00"
     }
   },
   {
