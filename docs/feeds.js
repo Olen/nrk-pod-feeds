@@ -1071,8 +1071,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Solveig Kloppen / Christian Mikkelsen / Ella Marie Hætta Isaksen",
-      "date": "2026-06-13T13:05:00+02:00"
+      "title": "Linnéa Myhre / Amalie Stuve / Vegard Ylvisåker / Fredrik Skavlan / Martha Leivestad /Janne Rønningen / Olli Wermskog / Espen Abrahamsen",
+      "date": "2026-06-20T14:30:00+02:00"
     }
   },
   {
@@ -2103,8 +2103,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvem var vikingene?",
-      "date": "2026-06-13T14:00:00+02:00"
+      "title": "VM og søvnmangel",
+      "date": "2026-06-20T15:00:00+02:00"
     }
   },
   {
