@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Oljeberget ror på Manhattan",
-      "date": "2026-06-20T03:10:00+02:00"
+      "title": "Hva nå Sverige?",
+      "date": "2026-06-21T02:23:00+02:00"
     }
   },
   {
@@ -2140,8 +2140,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Snorre Rein: Parforhold og psykisk sykdom",
-      "date": "2026-06-18T06:00:00+02:00"
+      "title": "Panelet: Tiggekopp og gruppeterapi",
+      "date": "2026-06-21T06:00:00+02:00"
     }
   },
   {
@@ -2201,8 +2201,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ønske om autoritære ledere",
-      "date": "2026-06-19T11:00:00+02:00"
+      "title": "Ex. Phil med Ole Martin Moen: Analytisk vs. kontinental filosofi",
+      "date": "2026-06-21T06:01:00+02:00"
     }
   },
   {
