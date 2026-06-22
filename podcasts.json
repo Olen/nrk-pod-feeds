@@ -1575,10 +1575,10 @@
         "id": "sommer_i_p2",
         "title": "De 10 siste fra Sommer i P2",
         "name": "Sommer i P2",
-        "description": "Utvalgte gjester forteller personlige historier. Trykk \"Gå til radioversjon\" for å høre episodene med musikk.",
-        "image": "https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9NgbvSlEzwOjLrR5E1br6U6gg.jpg",
+        "description": "Kjente folk deler historiene som formet dem - rått, nært og uforstyrret. Trykk \"Gå til radioversjon\" for å høre episodene med musikk.",
+        "image": "https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQz3ZakdcGl9IPjqhQXkJboQ.jpg",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "sophie_og_fetisha",
