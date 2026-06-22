@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Arbeiderpartiet vil ha KI ut av skolen",
-      "date": "2026-06-19T19:00:00+02:00"
+      "title": "Starmer går av",
+      "date": "2026-06-22T19:00:00+02:00"
     }
   },
   {
@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "– Noen kom på døra i natt",
-      "date": "2026-06-19T06:00:00+02:00"
+      "title": "Vi viser orgasmelyd i ubehag",
+      "date": "2026-06-22T06:00:00+02:00"
     }
   },
   {
