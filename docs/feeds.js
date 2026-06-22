@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Prater spekkhoggere?",
-      "date": "2026-06-19T06:00:00+02:00"
+      "title": "Forskningsfronten: Liker du best å svinge til høyre eller venstre?",
+      "date": "2026-06-22T06:00:00+02:00"
     }
   },
   {
@@ -69,8 +69,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Partiet De Grå og Ap+",
-      "date": "2026-06-15T06:00:00+02:00"
+      "title": "Idealmannen og idealkvinnen",
+      "date": "2026-06-22T06:00:00+02:00"
     }
   },
   {
@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hva nå Sverige?",
-      "date": "2026-06-21T02:23:00+02:00"
+      "title": "Endelig er det kamp igjen!",
+      "date": "2026-06-22T03:12:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Har alle en plikt til å forsvare Norge?",
-      "date": "2026-06-19T05:59:00+02:00"
+      "title": "Hvor mye kontanter bør man ha hjemme?",
+      "date": "2026-06-22T05:59:00+02:00"
     }
   },
   {
@@ -1336,8 +1336,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Buzz Studio på besøk",
-      "date": "2026-06-15T06:00:00+02:00"
+      "title": "Abbo & Amara på besøk",
+      "date": "2026-06-22T06:00:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fra kontrovers til suksess: Er dette sommerens stjerne?",
-      "date": "2026-06-19T05:59:00+02:00"
+      "title": "Dobbeltdrap i Sverige: Er nordmannen torpedo?",
+      "date": "2026-06-22T05:59:00+02:00"
     }
   },
   {
@@ -1890,8 +1890,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Juleselskapet",
-      "date": "2026-06-15T06:00:00+02:00"
+      "title": "Steinveggen",
+      "date": "2026-06-22T06:00:00+02:00"
     }
   },
   {
