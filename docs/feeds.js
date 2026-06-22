@@ -1471,8 +1471,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvem vasker vanndispenseren?",
-      "date": "2026-06-19T06:00:00+02:00"
+      "title": "Dopsalg på finn.no",
+      "date": "2026-06-22T06:00:00+02:00"
     }
   },
   {
@@ -1511,8 +1511,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Støres halvår",
-      "date": "2026-06-19T08:00:00+02:00"
+      "title": "Slutt for skatteparadiset",
+      "date": "2026-06-22T08:00:00+02:00"
     }
   },
   {
@@ -1783,13 +1783,13 @@ const feeds = [
     "id": "sommer_i_p2",
     "title": "De 10 siste fra Sommer i P2",
     "name": "Sommer i P2",
-    "description": "Utvalgte gjester forteller personlige historier. Trykk \"Gå til radioversjon\" for å høre episodene med musikk.",
-    "image": "https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9NgbvSlEzwOjLrR5E1br6U6gg.jpg",
+    "description": "Kjente folk deler historiene som formet dem - rått, nært og uforstyrret. Trykk \"Gå til radioversjon\" for å høre episodene med musikk.",
+    "image": "https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQz3ZakdcGl9IPjqhQXkJboQ.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Line Norman Hjorth",
-      "date": "2025-08-08T06:00:00+02:00"
+      "title": "Maria Stavang",
+      "date": "2026-06-22T06:07:00+02:00"
     }
   },
   {
