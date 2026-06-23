@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Starmer går av",
-      "date": "2026-06-22T19:00:00+02:00"
+      "title": "Tror på norsk ro-suksess",
+      "date": "2026-06-23T19:00:00+02:00"
     }
   },
   {
