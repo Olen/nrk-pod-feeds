@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Endelig er det kamp igjen!",
-      "date": "2026-06-22T03:12:00+02:00"
+      "title": "Norge-Senegal: For en thriller!",
+      "date": "2026-06-23T08:48:00+02:00"
     }
   },
   {
@@ -1471,8 +1471,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dopsalg på finn.no",
-      "date": "2026-06-22T06:00:00+02:00"
+      "title": "Kan Norge faktisk vinne VM?",
+      "date": "2026-06-23T06:00:00+02:00"
     }
   },
   {
@@ -1511,8 +1511,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Slutt for skatteparadiset",
-      "date": "2026-06-22T08:00:00+02:00"
+      "title": "Skatt og ansvarlig oppførsel",
+      "date": "2026-06-23T08:00:00+02:00"
     }
   },
   {
