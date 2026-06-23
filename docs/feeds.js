@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ligge på festivaldo, sommerleir og «kom du?»",
-      "date": "2026-06-19T12:00:00+02:00"
+      "title": "Mensen, introverter og nattlige aktiviteter",
+      "date": "2026-06-23T06:00:00+02:00"
     }
   },
   {
@@ -166,8 +166,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ulvesult på baderomsgulvet",
-      "date": "2026-06-16T06:00:00+02:00"
+      "title": "Viralt i Irak",
+      "date": "2026-06-23T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvor mye kontanter bør man ha hjemme?",
-      "date": "2026-06-22T05:59:00+02:00"
+      "title": "Norge ror seg videre i VM",
+      "date": "2026-06-23T05:59:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dobbeltdrap i Sverige: Er nordmannen torpedo?",
-      "date": "2026-06-22T05:59:00+02:00"
+      "title": "Katastrofebrannen i LA: Sto en 29-åring bak?",
+      "date": "2026-06-23T05:59:00+02:00"
     }
   },
   {
@@ -2140,8 +2140,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Tiggekopp og gruppeterapi",
-      "date": "2026-06-21T06:00:00+02:00"
+      "title": "Aksel Hennie: Synet på kjærlighet",
+      "date": "2026-06-23T06:00:00+02:00"
     }
   },
   {
