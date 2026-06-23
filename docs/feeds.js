@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps USA: Fest, fiender og fredsavtaler",
-      "date": "2026-06-18T14:00:00+02:00"
+      "title": "Flere blir syke av flåtten",
+      "date": "2026-06-23T13:30:00+02:00"
     }
   },
   {
@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi viser orgasmelyd i ubehag",
-      "date": "2026-06-22T06:00:00+02:00"
+      "title": "Finn Glede sjarmerer Stavang",
+      "date": "2026-06-23T06:00:00+02:00"
     }
   },
   {
