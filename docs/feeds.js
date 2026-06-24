@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Finn Glede sjarmerer Stavang",
-      "date": "2026-06-23T06:00:00+02:00"
+      "title": "Skal gjennomføre «Norseman»",
+      "date": "2026-06-24T06:00:00+02:00"
     }
   },
   {
