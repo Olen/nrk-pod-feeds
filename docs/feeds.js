@@ -2201,8 +2201,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ex. Phil med Ole Martin Moen: Analytisk vs. kontinental filosofi",
-      "date": "2026-06-21T06:01:00+02:00"
+      "title": "Det tredje riket: Minner 12:12",
+      "date": "2026-06-24T13:20:00+02:00"
     }
   },
   {
