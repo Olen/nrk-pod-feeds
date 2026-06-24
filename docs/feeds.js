@@ -1471,8 +1471,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kan Norge faktisk vinne VM?",
-      "date": "2026-06-23T06:00:00+02:00"
+      "title": "Søvn og skrolling.",
+      "date": "2026-06-24T06:00:00+02:00"
     }
   },
   {
@@ -1511,8 +1511,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Skatt og ansvarlig oppførsel",
-      "date": "2026-06-23T08:00:00+02:00"
+      "title": "Håpar på brei skatteavtale",
+      "date": "2026-06-24T08:00:00+02:00"
     }
   },
   {
