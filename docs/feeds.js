@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tror på norsk ro-suksess",
-      "date": "2026-06-23T19:00:00+02:00"
+      "title": "Reaksjoner på Skattekommisjonens rapport",
+      "date": "2026-06-24T19:00:00+02:00"
     }
   },
   {
