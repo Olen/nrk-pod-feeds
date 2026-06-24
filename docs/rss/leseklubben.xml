@@ -8,10 +8,26 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 17 Jun 2026 05:15:27 +0000</lastBuildDate>
-    <pubDate>Wed, 17 Jun 2026 06:18:00 +0200</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2026 04:34:05 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
+    <item>
+      <title>Leseklubben: «Brødrene Løvehjerte» med Else Kåss Furuseth: – Jeg har mitt eget Nangijala (2:5)</title>
+      <description><![CDATA[Else gråter på toget og forteller om en sky full av sjokolade. Kristoffer er psykolog, mens Christine blir stadig mer forkjøla i øynene. (Episoden omtaler selvmord)
+
+Lese-/lytteoppskrift:
+Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
+Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
+Les/hør kapittel 3-7→ hør episode 3 av Leseklubben
+Les/hør kapittel 8-12 → hør episode 4 av Leseklubben
+Les/hør kapittel 13-17 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/bd9885e7-cdd5-44fa-9885-e7cdd514faf5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/bd9885e7-cdd5-44fa-9885-e7cdd514faf5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:56</itunes:duration>
+      <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
+    </item>
     <item>
       <title>«Brødrene Løvehjerte» (17:17)</title>
       <description><![CDATA[Lydboka er lest av Svein Tindberg. Når du har hørt kapittel 13-17 kan du høre Leseklubben episode 5.
@@ -94,7 +110,7 @@ Les/hør kapittel 13-17 → hør episode 5 av Leseklubben]]></description>
     </item>
     <item>
       <title>«Brødrene Løvehjerte» (12:17)</title>
-      <description><![CDATA[Lydboka er lest av Svein Tindberg. Når du har hørt kapittel 8-12 kan du høre Leseklubben episode 4.
+      <description><![CDATA[Lydboka er lest av Svein Tindberg. Når du har hørt kapittel 8-12 kan du høre Leseklubben episode 4. Episoden publiseres onsdag 1. juli. 
 
 Lese-/lytteoppskrift:
 Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
@@ -154,22 +170,6 @@ Les/hør kapittel 13-17 → hør episode 5 av Leseklubben]]></description>
       <enclosure url="https://podkast.nrk.no/fil/leseklubben/809a6dc3-753a-4839-9a6d-c3753ab839d0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>32:55</itunes:duration>
       <pubDate>Wed, 17 Jun 2026 06:10:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QRKeTxdn7FXHMq-z8DLJlgQEEKCdq-c0BSArmzF1eugw.jpg"/>
-    </item>
-    <item>
-      <title>«Brødrene Løvehjerte» (8:17)</title>
-      <description><![CDATA[Lydboka er lest av Svein Tindberg. Når du har hørt kapittel 8-12 kan du høre Leseklubben episode 4.
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-7→ hør episode 3 av Leseklubben
-Les/hør kapittel 8-12 → hør episode 4 av Leseklubben
-Les/hør kapittel 13-17 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/3692dd56-2837-4ae3-92dd-562837bae33c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/3692dd56-2837-4ae3-92dd-562837bae33c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:12</itunes:duration>
-      <pubDate>Wed, 17 Jun 2026 06:09:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/QRKeTxdn7FXHMq-z8DLJlgQEEKCdq-c0BSArmzF1eugw.jpg"/>
     </item>
   </channel>

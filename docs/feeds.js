@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Liker du best å svinge til høyre eller venstre?",
-      "date": "2026-06-22T06:00:00+02:00"
+      "title": "Forskningsfronten: Når myggen elsker myggspray",
+      "date": "2026-06-24T06:00:00+02:00"
     }
   },
   {
@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norge-Senegal: For en thriller!",
-      "date": "2026-06-23T08:48:00+02:00"
+      "title": "Hvem bør ut til Frankrike-kampen?",
+      "date": "2026-06-24T04:20:00+02:00"
     }
   },
   {
@@ -650,8 +650,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Synnøve Finden - religiøs ostedronning",
-      "date": "2026-06-17T06:00:00+02:00"
+      "title": "Winston Churchill – nazistenes verste fiende",
+      "date": "2026-06-24T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norge ror seg videre i VM",
-      "date": "2026-06-23T05:59:00+02:00"
+      "title": "YouTube har inngått hemmelig avtale med 16-åring",
+      "date": "2026-06-24T05:59:00+02:00"
     }
   },
   {
@@ -1024,8 +1024,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "«Brødrene Løvehjerte» (17:17)",
-      "date": "2026-06-17T06:18:00+02:00"
+      "title": "Leseklubben: «Brødrene Løvehjerte» med Else Kåss Furuseth: – Jeg har mitt eget Nangijala (2:5)",
+      "date": "2026-06-24T06:00:00+02:00"
     }
   },
   {
@@ -1037,8 +1037,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvordan påvirker tarmen psyken?",
-      "date": "2026-06-17T05:00:00+02:00"
+      "title": "«Far og datter»-forholdet",
+      "date": "2026-06-24T05:00:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Katastrofebrannen i LA: Sto en 29-åring bak?",
-      "date": "2026-06-23T05:59:00+02:00"
+      "title": "Iran i VM: Storpolitisk drama",
+      "date": "2026-06-24T05:59:00+02:00"
     }
   },
   {
@@ -1828,8 +1828,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Teknonachspielet etter seieren",
-      "date": "2026-06-17T06:00:00+02:00"
+      "title": "Haaland er en skrekkfilm, mener NY Times",
+      "date": "2026-06-24T06:00:00+02:00"
     }
   },
   {
