@@ -1471,8 +1471,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Søvn og skrolling.",
-      "date": "2026-06-24T06:00:00+02:00"
+      "title": "Henning har blitt jekket ned.",
+      "date": "2026-06-25T06:00:00+02:00"
     }
   },
   {
@@ -2082,8 +2082,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Charles Taylor (4:4)",
-      "date": "2026-05-30T06:03:00+02:00"
+      "title": "Enver Hoxha: Envher Hoxha - kommer lørdag",
+      "date": "2026-06-25T12:00:00+02:00"
     }
   },
   {
