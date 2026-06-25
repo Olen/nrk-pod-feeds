@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvem bør ut til Frankrike-kampen?",
-      "date": "2026-06-24T04:20:00+02:00"
+      "title": "Gule kort og utespiller i mål",
+      "date": "2026-06-25T02:51:00+02:00"
     }
   },
   {
@@ -295,8 +295,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårer i en togvogn",
-      "date": "2026-06-18T06:00:00+02:00"
+      "title": "Fotballflørting for nybegynnere",
+      "date": "2026-06-25T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "YouTube har inngått hemmelig avtale med 16-åring",
-      "date": "2026-06-24T05:59:00+02:00"
+      "title": "Frykter enorme dødstall i Venezuela",
+      "date": "2026-06-25T05:59:00+02:00"
     }
   },
   {
@@ -945,8 +945,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kan Kongen benåde Høiby?",
-      "date": "2026-06-18T15:00:00+02:00"
+      "title": "Jørn Andersen (1): Farlig vorspiel",
+      "date": "2026-06-25T06:00:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Iran i VM: Storpolitisk drama",
-      "date": "2026-06-24T05:59:00+02:00"
+      "title": "Dødsgåte i Mango-dynastiet: Ble gründeren drept?",
+      "date": "2026-06-25T05:59:00+02:00"
     }
   },
   {
@@ -2140,8 +2140,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Aksel Hennie: Synet på kjærlighet",
-      "date": "2026-06-23T06:00:00+02:00"
+      "title": "Helle Staff: Å miste seg selv",
+      "date": "2026-06-25T06:00:00+02:00"
     }
   },
   {
