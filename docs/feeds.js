@@ -879,8 +879,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps Iran-avtale: Betyr det at krigen er over?",
-      "date": "2026-06-16T17:57:00+02:00"
+      "title": "Hvor trygt sitter Putin? – Ukraina mye sterkere nå",
+      "date": "2026-06-25T15:25:00+02:00"
     }
   },
   {
@@ -1071,8 +1071,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Linnéa Myhre / Amalie Stuve / Vegard Ylvisåker / Fredrik Skavlan / Martha Leivestad /Janne Rønningen / Olli Wermskog / Espen Abrahamsen",
-      "date": "2026-06-20T14:30:00+02:00"
+      "title": "En kjærlighetshistorie med twist & turns",
+      "date": "2026-06-25T14:30:00+02:00"
     }
   },
   {
@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Skal gjennomføre «Norseman»",
-      "date": "2026-06-24T06:00:00+02:00"
+      "title": "Baguette vs. nan",
+      "date": "2026-06-25T06:00:00+02:00"
     }
   },
   {
