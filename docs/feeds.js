@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Reaksjoner på Skattekommisjonens rapport",
-      "date": "2026-06-24T19:00:00+02:00"
+      "title": "Jordskjelv i Venezuela",
+      "date": "2026-06-25T19:00:00+02:00"
     }
   },
   {
