@@ -1511,8 +1511,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Håpar på brei skatteavtale",
-      "date": "2026-06-24T08:00:00+02:00"
+      "title": "Stoltenberg og skatten",
+      "date": "2026-06-25T08:00:00+02:00"
     }
   },
   {
@@ -1570,7 +1570,7 @@ const feeds = [
     "description": "Her samles podkastdokumentarer fra NRK. Journalistikk og lydopplevelser om mennesker og samfunn. Historier fra virkeligheten bygger videre på podkasten Radiodok.",
     "image": "https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8QnRUX5sno2oEqScCBrSwoUA.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Demonutdriveren: Guds plan med det hele (5:5)",
       "date": "2026-05-26T06:08:00+02:00"
