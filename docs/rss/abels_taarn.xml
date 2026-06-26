@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 24 Jun 2026 04:33:49 +0000</lastBuildDate>
-    <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2026 06:20:00 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Tårnet: Hvordan finner skreien veien?</title>
+      <description><![CDATA[Abels tårn er på turné  - denne gangen fra Norges gamle navle: Kabelvåg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/4ac3fcf0-60e0-4f30-83fc-f060e0cf305e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4ac3fcf0-60e0-4f30-83fc-f060e0cf305e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:25</itunes:duration>
+      <pubDate>Fri, 26 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/brHXQJ1UULA6YA4YAbxlQw2WPpKxLcC0FoA7oMQXZfAw.jpg"/>
+    </item>
     <item>
       <title>Forskningsfronten: Når myggen elsker myggspray</title>
       <description><![CDATA[Forsøk viser at mygg forbinder myggspraylukt med mat. Humler er også overraskende smarte. Og duer bruker leveren til å finne veien hjem.]]></description>
@@ -95,15 +104,6 @@ Lurer du på ting, tang og tare? Send inn dine spørsmål til Abels Tårns ekspe
       <itunes:duration>57:36</itunes:duration>
       <pubDate>Fri, 05 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/1Iq6cl1VFNzIID6_3lQxDgFUCzhWRG6T_gDms5dDvZ1Q.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten: Kaffe bremser antakelig demens</title>
-      <description><![CDATA[Men ikke all type kaffe, viser ny forskning. Dessuten, kryptering sikrere enn banken, kan være på veg. Mens en populær IQ-test på TikTok er helt ubrukelig]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/45ef7e0e-f2fe-49dd-af7e-0ef2fe79ddf0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/45ef7e0e-f2fe-49dd-af7e-0ef2fe79ddf0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:44</itunes:duration>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hQ-d-qQCtDBzA35xlutitghBItxQ1fXBp5m0C5yzK2Ug.jpg"/>
     </item>
   </channel>
 </rss>

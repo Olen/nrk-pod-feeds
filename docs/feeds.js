@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Når myggen elsker myggspray",
-      "date": "2026-06-24T06:00:00+02:00"
+      "title": "Tårnet: Hvordan finner skreien veien?",
+      "date": "2026-06-26T06:00:00+02:00"
     }
   },
   {
@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Gule kort og utespiller i mål",
-      "date": "2026-06-25T02:51:00+02:00"
+      "title": "Norge mot Frankrike -- vi teller ned",
+      "date": "2026-06-26T04:15:00+02:00"
     }
   },
   {
@@ -274,8 +274,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "TONO – Vanskelig å like, lett å forlate",
-      "date": "2026-06-19T06:00:00+02:00"
+      "title": "Den nye franske hetebølgen",
+      "date": "2026-06-26T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Frykter enorme dødstall i Venezuela",
-      "date": "2026-06-25T05:59:00+02:00"
+      "title": "Norge kan møte Sverige i VM",
+      "date": "2026-06-26T05:59:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dødsgåte i Mango-dynastiet: Ble gründeren drept?",
-      "date": "2026-06-25T05:59:00+02:00"
+      "title": "Jobben ingen mestrer: Er Burnham britenes nye håp?",
+      "date": "2026-06-26T05:59:00+02:00"
     }
   },
   {
@@ -1511,8 +1511,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Stoltenberg og skatten",
-      "date": "2026-06-25T08:00:00+02:00"
+      "title": "Et taksameter i bilen din?",
+      "date": "2026-06-26T08:00:00+02:00"
     }
   },
   {
@@ -1743,8 +1743,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Helvetesdrama og rulleskidebut",
-      "date": "2026-06-19T05:00:00+02:00"
+      "title": "Langfinger-duell og treningsplaner",
+      "date": "2026-06-26T05:00:00+02:00"
     }
   },
   {
@@ -2172,8 +2172,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fotball i Irak: En kamp på liv og død",
-      "date": "2026-06-19T06:00:00+02:00"
+      "title": "Hvem vant krigen i Iran?",
+      "date": "2026-06-26T06:00:00+02:00"
     }
   },
   {
