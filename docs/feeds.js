@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jordskjelv i Venezuela",
-      "date": "2026-06-25T19:00:00+02:00"
+      "title": "Norge møter Frankrike i VM",
+      "date": "2026-06-26T19:00:00+02:00"
     }
   },
   {
