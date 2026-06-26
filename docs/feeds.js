@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mensen, introverter og nattlige aktiviteter",
-      "date": "2026-06-23T06:00:00+02:00"
+      "title": "Neglebiting, større hofter og brevmåker",
+      "date": "2026-06-26T12:00:00+02:00"
     }
   },
   {
@@ -481,8 +481,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dårlige nyheter, analfabete barn og roing",
-      "date": "2026-06-19T06:00:00+02:00"
+      "title": "Pride, roing og Youtube-forlik",
+      "date": "2026-06-26T06:00:00+02:00"
     }
   },
   {
@@ -1471,8 +1471,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Henning har blitt jekket ned.",
-      "date": "2026-06-25T06:00:00+02:00"
+      "title": "Fremmede katter på overnatting",
+      "date": "2026-06-26T06:00:00+02:00"
     }
   },
   {
@@ -2201,8 +2201,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Det tredje riket: Minner 12:12",
-      "date": "2026-06-24T13:20:00+02:00"
+      "title": "Pavens imponerende  KI-brev",
+      "date": "2026-06-26T10:20:00+02:00"
     }
   },
   {
