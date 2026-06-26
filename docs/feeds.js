@@ -1071,8 +1071,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "En kjærlighetshistorie med twist & turns",
-      "date": "2026-06-25T14:30:00+02:00"
+      "title": "Espen Abrahamsen / Janne Rønningen / Javad El Bakali / John Brungot / Odd Nordstoga / Olli Wermskog / Silje Nordnes",
+      "date": "2026-06-26T12:30:00+02:00"
     }
   },
   {
@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Baguette vs. nan",
-      "date": "2026-06-25T06:00:00+02:00"
+      "title": "God sommer fra oss<3",
+      "date": "2026-06-26T06:00:00+02:00"
     }
   },
   {
