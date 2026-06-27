@@ -1071,8 +1071,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Espen Abrahamsen / Janne Rønningen / Javad El Bakali / John Brungot / Odd Nordstoga / Olli Wermskog / Silje Nordnes",
-      "date": "2026-06-26T12:30:00+02:00"
+      "title": "Høydepunkter fra 2025 - nr. 6",
+      "date": "2026-06-27T09:00:00+02:00"
     }
   },
   {
