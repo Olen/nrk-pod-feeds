@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norge mot Frankrike -- vi teller ned",
-      "date": "2026-06-26T04:15:00+02:00"
+      "title": "Var \"reservelaget\" en god idé?",
+      "date": "2026-06-27T03:38:00+02:00"
     }
   },
   {
@@ -1045,10 +1045,10 @@ const feeds = [
     "id": "lindmo_og_co",
     "title": "De 10 siste fra Lindmo og Co",
     "name": "Lindmo og Co",
-    "description": "Din ukentlige dose vesentlig vrøvl. Med Anne Lindmo, Halvor Haugen og Rune Norum Engelsøy.",
+    "description": "Din ukentlige dose vesentlig vrøvl. Med Anne Lindmo, Halvor Haugen og Rune Norum Engelsøy. Tilbake 10. september.",
     "image": "https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgGxaH3ab4EM-kiJS8qKstFA.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Rene makta!",
       "date": "2026-05-28T06:00:00+02:00"
@@ -1281,7 +1281,7 @@ const feeds = [
     "description": "Hør historiene bak musikken og artistene du elsker.",
     "image": "https://gfx.nrk.no/LJiZ3Tf30RzgEzvmJs8OWgy4zbATI2ziqVD4k8OOenWQ.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Nick Cave – Mørkets lysmester: 4: Sjelesørgeren",
       "date": "2026-05-27T14:03:00+02:00"
@@ -1471,8 +1471,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fremmede katter på overnatting",
-      "date": "2026-06-26T06:00:00+02:00"
+      "title": "Det beste fra P3morgen!",
+      "date": "2026-06-27T06:00:00+02:00"
     }
   },
   {
@@ -1788,8 +1788,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Maria Stavang",
-      "date": "2026-06-22T06:07:00+02:00"
+      "title": "Finn Schjøll",
+      "date": "2026-06-27T06:00:00+02:00"
     }
   },
   {
@@ -2082,8 +2082,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Enver Hoxha: Envher Hoxha - kommer lørdag",
-      "date": "2026-06-25T12:00:00+02:00"
+      "title": "Enver Hoxha (4:4)",
+      "date": "2026-06-27T06:03:00+02:00"
     }
   },
   {
