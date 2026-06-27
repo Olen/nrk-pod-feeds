@@ -909,10 +909,10 @@
         "id": "lindmo_og_co",
         "title": "De 10 siste fra Lindmo og Co",
         "name": "Lindmo og Co",
-        "description": "Din ukentlige dose vesentlig vrøvl. Med Anne Lindmo, Halvor Haugen og Rune Norum Engelsøy.",
+        "description": "Din ukentlige dose vesentlig vrøvl. Med Anne Lindmo, Halvor Haugen og Rune Norum Engelsøy. Tilbake 10. september.",
         "image": "https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgGxaH3ab4EM-kiJS8qKstFA.jpg",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "loensj_med_rune_nilson",
@@ -1121,7 +1121,7 @@
         "description": "Hør historiene bak musikken og artistene du elsker.",
         "image": "https://gfx.nrk.no/LJiZ3Tf30RzgEzvmJs8OWgy4zbATI2ziqVD4k8OOenWQ.jpg",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "musikkrommet",
