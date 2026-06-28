@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Var \"reservelaget\" en god idé?",
-      "date": "2026-06-27T03:38:00+02:00"
+      "title": "Solbakkens flammende tale",
+      "date": "2026-06-28T02:15:00+02:00"
     }
   },
   {
@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "God sommer fra oss<3",
-      "date": "2026-06-26T06:00:00+02:00"
+      "title": "Siesta i HELE sommer!",
+      "date": "2026-06-28T06:00:00+02:00"
     }
   },
   {
@@ -1788,8 +1788,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Finn Schjøll",
-      "date": "2026-06-27T06:00:00+02:00"
+      "title": "Kathinka Steenstrup",
+      "date": "2026-06-28T06:00:00+02:00"
     }
   },
   {
@@ -2140,8 +2140,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Helle Staff: Å miste seg selv",
-      "date": "2026-06-25T06:00:00+02:00"
+      "title": "Panelet: Hot Boy Summer og scrolleavhengig",
+      "date": "2026-06-28T06:00:00+02:00"
     }
   },
   {
@@ -2201,8 +2201,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Pavens imponerende  KI-brev",
-      "date": "2026-06-26T10:20:00+02:00"
+      "title": "Ex. Phil med Ole Martin Moen: Slik filosoferer du selv",
+      "date": "2026-06-28T06:00:00+02:00"
     }
   },
   {
