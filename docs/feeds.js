@@ -69,8 +69,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Idealmannen og idealkvinnen",
-      "date": "2026-06-22T06:00:00+02:00"
+      "title": "Sommeren før alt raknet",
+      "date": "2026-06-29T06:00:00+02:00"
     }
   },
   {
@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Solbakkens flammende tale",
-      "date": "2026-06-28T02:15:00+02:00"
+      "title": "Nå er det vinn eller forsvinn",
+      "date": "2026-06-29T03:45:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norge kan møte Sverige i VM",
-      "date": "2026-06-26T05:59:00+02:00"
+      "title": "USA og Israel hevdar dei ikkje angrip sivile",
+      "date": "2026-06-29T05:59:00+02:00"
     }
   },
   {
@@ -1336,8 +1336,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Abbo & Amara på besøk",
-      "date": "2026-06-22T06:00:00+02:00"
+      "title": "Hva er galt med å gå naken?",
+      "date": "2026-06-29T06:00:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jobben ingen mestrer: Er Burnham britenes nye håp?",
-      "date": "2026-06-26T05:59:00+02:00"
+      "title": "Ivanka Trumps luksusdrøm fyrer opp Albania",
+      "date": "2026-06-29T05:59:00+02:00"
     }
   },
   {
@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Siesta i HELE sommer!",
-      "date": "2026-06-28T06:00:00+02:00"
+      "title": "Time 1: 24 timer med mens?",
+      "date": "2026-06-29T06:00:00+02:00"
     }
   },
   {
@@ -1788,8 +1788,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kathinka Steenstrup",
-      "date": "2026-06-28T06:00:00+02:00"
+      "title": "Bendik Hareide",
+      "date": "2026-06-29T06:00:00+02:00"
     }
   },
   {
@@ -1890,8 +1890,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Steinveggen",
-      "date": "2026-06-22T06:00:00+02:00"
+      "title": "Blodbryllupet",
+      "date": "2026-06-29T06:00:00+02:00"
     }
   },
   {
