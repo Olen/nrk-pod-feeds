@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norge møter Frankrike i VM",
-      "date": "2026-06-26T19:00:00+02:00"
+      "title": "Er Forsvaret godt nok rustet?",
+      "date": "2026-06-29T19:00:00+02:00"
     }
   },
   {
