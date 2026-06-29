@@ -1511,8 +1511,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Et taksameter i bilen din?",
-      "date": "2026-06-26T08:00:00+02:00"
+      "title": "NATO under press",
+      "date": "2026-06-29T08:00:00+02:00"
     }
   },
   {
