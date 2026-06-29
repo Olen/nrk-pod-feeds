@@ -1471,8 +1471,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Det beste fra P3morgen!",
-      "date": "2026-06-27T06:00:00+02:00"
+      "title": "Chihuahua på rømmen!",
+      "date": "2026-06-29T06:00:00+02:00"
     }
   },
   {
