@@ -516,10 +516,10 @@ const feeds = [
     "description": "Livsfarlig spionasje, grufulle drap og ulykkelig kjærlighet – Nasjonalbiblioteket dykker ned i noen av fortidas uforglemmelige skjebner.  ",
     "image": "https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwfp1mOKKgiiJW2WISsraCVQ.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Radiopiratene",
-      "date": "2025-08-07T06:00:00+02:00"
+      "title": "VM 1994 – Uflaks i USA",
+      "date": "2026-06-29T06:01:00+02:00"
     }
   },
   {
@@ -1511,8 +1511,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "NATO under press",
-      "date": "2026-06-29T08:00:00+02:00"
+      "title": "Nye narkotikareglar",
+      "date": "2026-06-30T08:00:00+02:00"
     }
   },
   {
