@@ -448,7 +448,7 @@
         "description": "Livsfarlig spionasje, grufulle drap og ulykkelig kjærlighet – Nasjonalbiblioteket dykker ned i noen av fortidas uforglemmelige skjebner.  ",
         "image": "https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwfp1mOKKgiiJW2WISsraCVQ.jpg",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "gfestallan_lisain",
