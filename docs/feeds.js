@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Flere blir syke av flåtten",
-      "date": "2026-06-23T13:30:00+02:00"
+      "title": "Fastlegeordninga - jubilant i krise?",
+      "date": "2026-06-30T12:00:00+02:00"
     }
   },
   {
@@ -1471,8 +1471,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Chihuahua på rømmen!",
-      "date": "2026-06-29T06:00:00+02:00"
+      "title": "Rabies og lave presidenter",
+      "date": "2026-06-30T06:00:00+02:00"
     }
   },
   {
