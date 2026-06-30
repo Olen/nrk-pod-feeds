@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nå er det vinn eller forsvinn",
-      "date": "2026-06-29T03:45:00+02:00"
+      "title": "Spion eller dobbeltagent?",
+      "date": "2026-06-30T03:00:00+02:00"
     }
   },
   {
@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Neglebiting, større hofter og brevmåker",
-      "date": "2026-06-26T12:00:00+02:00"
+      "title": "Hetebølge, strekkmerker og kleint neseblod",
+      "date": "2026-06-30T06:00:00+02:00"
     }
   },
   {
@@ -166,8 +166,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Viralt i Irak",
-      "date": "2026-06-23T06:00:00+02:00"
+      "title": "En fuktig episode",
+      "date": "2026-06-30T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "USA og Israel hevdar dei ikkje angrip sivile",
-      "date": "2026-06-29T05:59:00+02:00"
+      "title": "Får fortsette dumping i Førdefjorden",
+      "date": "2026-06-30T05:59:00+02:00"
     }
   },
   {
@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 1: 24 timer med mens?",
-      "date": "2026-06-29T06:00:00+02:00"
+      "title": "Time 2: Bang kondomer på 7/11",
+      "date": "2026-06-30T06:00:00+02:00"
     }
   },
   {
@@ -1788,8 +1788,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bendik Hareide",
-      "date": "2026-06-29T06:00:00+02:00"
+      "title": "Unni Askeland",
+      "date": "2026-06-30T06:00:00+02:00"
     }
   },
   {
@@ -2140,8 +2140,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Hot Boy Summer og scrolleavhengig",
-      "date": "2026-06-28T06:00:00+02:00"
+      "title": "Simon Nitsche: Fra \"fuckboy\" til forlovet",
+      "date": "2026-06-30T06:00:00+02:00"
     }
   },
   {
