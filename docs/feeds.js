@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Spion eller dobbeltagent?",
-      "date": "2026-06-30T03:00:00+02:00"
+      "title": "Norge - Elfenbenskysten: JAAAA!",
+      "date": "2026-07-01T02:15:00+02:00"
     }
   },
   {
