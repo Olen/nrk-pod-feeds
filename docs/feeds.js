@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norge - Elfenbenskysten: JAAAA!",
-      "date": "2026-07-01T02:15:00+02:00"
+      "title": "En deilig dagen derpå",
+      "date": "2026-07-02T00:01:00+02:00"
     }
   },
   {
