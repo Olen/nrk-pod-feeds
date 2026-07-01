@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Advarer før VM-folkefest",
-      "date": "2026-06-30T19:00:00+02:00"
+      "title": "Dagen derpå",
+      "date": "2026-07-01T19:00:00+02:00"
     }
   },
   {
