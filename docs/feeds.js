@@ -518,8 +518,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "VM 1994 – Uflaks i USA",
-      "date": "2026-06-29T06:01:00+02:00"
+      "title": "Kvinnen som reddet Karl Johan",
+      "date": "2026-07-01T06:00:00+02:00"
     }
   },
   {
@@ -650,8 +650,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Winston Churchill – nazistenes verste fiende",
-      "date": "2026-06-24T06:00:00+02:00"
+      "title": "Mor Teresa – selvoppofrende helgen",
+      "date": "2026-07-01T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Får fortsette dumping i Førdefjorden",
-      "date": "2026-06-30T05:59:00+02:00"
+      "title": "Disse nye lovene gjelder fra i dag",
+      "date": "2026-07-01T05:59:00+02:00"
     }
   },
   {
@@ -945,8 +945,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jørn Andersen (1): Farlig vorspiel",
-      "date": "2026-06-25T06:00:00+02:00"
+      "title": "Lastebil-Jonas (4): Dødshevnen",
+      "date": "2026-07-01T06:00:00+02:00"
     }
   },
   {
@@ -1024,8 +1024,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Leseklubben: «Brødrene Løvehjerte» med Else Kåss Furuseth: – Jeg har mitt eget Nangijala (2:5)",
-      "date": "2026-06-24T06:00:00+02:00"
+      "title": "Leseklubben: «Brødrene Løvehjerte» med Else Kåss Furuseth: – Kan vi ikke ha det litt mer koselig? (3:6)",
+      "date": "2026-07-01T06:00:00+02:00"
     }
   },
   {
@@ -1037,8 +1037,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "«Far og datter»-forholdet",
-      "date": "2026-06-24T05:00:00+02:00"
+      "title": "Bonus: En sommer uten alkohol?",
+      "date": "2026-07-01T05:00:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ivanka Trumps luksusdrøm fyrer opp Albania",
-      "date": "2026-06-29T05:59:00+02:00"
+      "title": "Tvang kvinner til sex: En telefon endret alt",
+      "date": "2026-07-01T05:59:00+02:00"
     }
   },
   {
@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 2: Bang kondomer på 7/11",
-      "date": "2026-06-30T06:00:00+02:00"
+      "title": "Time 3: Blir vi kansellert?",
+      "date": "2026-07-01T06:00:00+02:00"
     }
   },
   {
@@ -1788,8 +1788,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Unni Askeland",
-      "date": "2026-06-30T06:00:00+02:00"
+      "title": "Kaveh Rashidi",
+      "date": "2026-07-01T06:00:00+02:00"
     }
   },
   {
@@ -1828,8 +1828,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Haaland er en skrekkfilm, mener NY Times",
-      "date": "2026-06-24T06:00:00+02:00"
+      "title": "- Vi skal f**n meg vinne VM!",
+      "date": "2026-07-01T06:00:00+02:00"
     }
   },
   {
