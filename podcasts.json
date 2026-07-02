@@ -778,7 +778,7 @@
         "description": "Pål Plassen utforskar trua, livssynet og verdiane vi navigerer etter i samfunnet.",
         "image": "https://gfx.nrk.no/oRq5i_gA9ar2PEwFR5tG1Q8bhlezjUrmCu1qGi1vMgSw.jpg",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "kongerekka",
