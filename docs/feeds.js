@@ -1511,8 +1511,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Radikale ungdomspartier?",
-      "date": "2026-07-01T08:10:00+02:00"
+      "title": "Høyreekstremisme eller legitim uro?",
+      "date": "2026-07-02T08:00:00+02:00"
     }
   },
   {
