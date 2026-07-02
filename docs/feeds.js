@@ -295,8 +295,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fotballflørting for nybegynnere",
-      "date": "2026-06-25T06:00:00+02:00"
+      "title": "Jan Thomas er min gud",
+      "date": "2026-07-02T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Disse nye lovene gjelder fra i dag",
-      "date": "2026-07-01T05:59:00+02:00"
+      "title": "I dag starter Karpe World",
+      "date": "2026-07-02T05:59:00+02:00"
     }
   },
   {
@@ -890,7 +890,7 @@ const feeds = [
     "description": "Pål Plassen utforskar trua, livssynet og verdiane vi navigerer etter i samfunnet.",
     "image": "https://gfx.nrk.no/oRq5i_gA9ar2PEwFR5tG1Q8bhlezjUrmCu1qGi1vMgSw.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Kan sladder være nyttig?",
       "date": "2026-06-02T06:06:00+02:00"
@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 3: Blir vi kansellert?",
-      "date": "2026-07-01T06:00:00+02:00"
+      "title": "Time 4: Thomas Numme er nummen?",
+      "date": "2026-07-02T06:00:00+02:00"
     }
   },
   {
@@ -1788,8 +1788,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kaveh Rashidi",
-      "date": "2026-07-01T06:00:00+02:00"
+      "title": "Sigbjørn Skåden",
+      "date": "2026-07-02T06:00:00+02:00"
     }
   },
   {
@@ -2140,8 +2140,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Simon Nitsche: Fra \"fuckboy\" til forlovet",
-      "date": "2026-06-30T06:00:00+02:00"
+      "title": "Ida Broen: Å velge seg selv",
+      "date": "2026-07-02T06:00:00+02:00"
     }
   },
   {
@@ -2172,8 +2172,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvem vant krigen i Iran?",
-      "date": "2026-06-26T06:00:00+02:00"
+      "title": "Ukraina: Når krig blir matematikk",
+      "date": "2026-07-02T06:00:00+02:00"
     }
   },
   {
