@@ -1471,8 +1471,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ruses av billettsalg.",
-      "date": "2026-07-01T06:00:00+02:00"
+      "title": "Barn + mozzarella = trylletriks",
+      "date": "2026-07-02T06:00:00+02:00"
     }
   },
   {
