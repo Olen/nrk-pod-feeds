@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Hvordan finner skreien veien?",
-      "date": "2026-06-26T06:00:00+02:00"
+      "title": "Suges man ut av et hull i romskipet?",
+      "date": "2026-07-03T06:00:00+02:00"
     }
   },
   {
@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "En deilig dagen derpå",
-      "date": "2026-07-02T00:01:00+02:00"
+      "title": "Kan en sliten Haaland byttes ut?",
+      "date": "2026-07-03T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "I dag starter Karpe World",
-      "date": "2026-07-02T05:59:00+02:00"
+      "title": "Kan Norge slå Brasil igjen?",
+      "date": "2026-07-03T05:59:00+02:00"
     }
   },
   {
@@ -945,8 +945,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Lastebil-Jonas (4): Dødshevnen",
-      "date": "2026-07-01T06:00:00+02:00"
+      "title": "Jørn Andersen (2): Blodet i snøen",
+      "date": "2026-07-03T06:00:00+02:00"
     }
   },
   {
@@ -1071,8 +1071,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Høydepunkter fra 2025 - nr. 6",
-      "date": "2026-06-27T09:00:00+02:00"
+      "title": "Abu Hussain / Adelina Ibishi / Chris Holsten / Jonas K. Bergland / Maria Stavang / Odd Nordstoga",
+      "date": "2026-07-03T06:00:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tvang kvinner til sex: En telefon endret alt",
-      "date": "2026-07-01T05:59:00+02:00"
+      "title": "Kampen vi aldri glemmer: Kan historien gjenta seg?",
+      "date": "2026-07-03T05:59:00+02:00"
     }
   },
   {
@@ -1743,8 +1743,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Langfinger-duell og treningsplaner",
-      "date": "2026-06-26T05:00:00+02:00"
+      "title": "Kristian Blummenfelt - verdens best trente?",
+      "date": "2026-07-03T05:00:00+02:00"
     }
   },
   {
@@ -1788,8 +1788,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sigbjørn Skåden",
-      "date": "2026-07-02T06:00:00+02:00"
+      "title": "Sigrid Moldestad",
+      "date": "2026-07-03T06:00:00+02:00"
     }
   },
   {
