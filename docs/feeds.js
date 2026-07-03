@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hetebølge, strekkmerker og kleint neseblod",
-      "date": "2026-06-30T06:00:00+02:00"
+      "title": "Snitching, identitetskrise og nach (Spøtta-spesial #10)",
+      "date": "2026-07-03T12:00:00+02:00"
     }
   },
   {
