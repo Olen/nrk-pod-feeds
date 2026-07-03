@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Omfattende angrep på Kyiv i natt",
-      "date": "2026-07-02T19:00:00+02:00"
+      "title": "Stor spenning før Nato-toppmøte i Ankara",
+      "date": "2026-07-03T19:00:00+02:00"
     }
   },
   {
