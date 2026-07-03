@@ -481,8 +481,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Pride, roing og Youtube-forlik",
-      "date": "2026-06-26T06:00:00+02:00"
+      "title": "Pervobriller, Eurovision og nytt Norge",
+      "date": "2026-07-03T09:00:00+02:00"
     }
   },
   {
@@ -1511,8 +1511,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Høyreekstremisme eller legitim uro?",
-      "date": "2026-07-02T08:00:00+02:00"
+      "title": "Mindre eller meir politisk «togetherness»?",
+      "date": "2026-07-03T08:10:00+02:00"
     }
   },
   {
