@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kan en sliten Haaland byttes ut?",
-      "date": "2026-07-03T06:00:00+02:00"
+      "title": "Grøss og gru!",
+      "date": "2026-07-04T04:07:00+02:00"
     }
   },
   {
@@ -518,8 +518,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kvinnen som reddet Karl Johan",
-      "date": "2026-07-01T06:00:00+02:00"
+      "title": "Smuglerkongen fra Trøndelag",
+      "date": "2026-07-04T06:00:00+02:00"
     }
   },
   {
@@ -1071,8 +1071,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Abu Hussain / Adelina Ibishi / Chris Holsten / Jonas K. Bergland / Maria Stavang / Odd Nordstoga",
-      "date": "2026-07-03T06:00:00+02:00"
+      "title": "Høydepunkter fra 2025 - nr. 7",
+      "date": "2026-07-04T09:00:00+02:00"
     }
   },
   {
@@ -1471,8 +1471,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Barn + mozzarella = trylletriks",
-      "date": "2026-07-02T06:00:00+02:00"
+      "title": "Det beste fra P3morgen",
+      "date": "2026-07-04T06:00:00+02:00"
     }
   },
   {
@@ -1788,8 +1788,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sigrid Moldestad",
-      "date": "2026-07-03T06:00:00+02:00"
+      "title": "Magne Paalgard Flemmen",
+      "date": "2026-07-04T06:00:00+02:00"
     }
   },
   {
