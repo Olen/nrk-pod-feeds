@@ -2103,8 +2103,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Å ro, eller ikke ro?",
-      "date": "2026-06-27T14:30:00+02:00"
+      "title": "USA feirer 250 år",
+      "date": "2026-07-04T15:00:00+02:00"
     }
   },
   {
