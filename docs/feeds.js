@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Grøss og gru!",
-      "date": "2026-07-04T04:07:00+02:00"
+      "title": "Vi lader opp til Norge-Brasil",
+      "date": "2026-07-05T04:40:00+02:00"
     }
   },
   {
@@ -1788,8 +1788,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Magne Paalgard Flemmen",
-      "date": "2026-07-04T06:00:00+02:00"
+      "title": "Lena Lindgren",
+      "date": "2026-07-05T06:00:00+02:00"
     }
   },
   {
@@ -2140,8 +2140,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ida Broen: Å velge seg selv",
-      "date": "2026-07-02T06:00:00+02:00"
+      "title": "Panelet: Fuckgirl og \"mannefomo\"",
+      "date": "2026-07-05T06:00:00+02:00"
     }
   },
   {
