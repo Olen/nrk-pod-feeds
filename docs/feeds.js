@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi lader opp til Norge-Brasil",
-      "date": "2026-07-05T04:40:00+02:00"
+      "title": "Historisk: Vi er i kvartfinalen!",
+      "date": "2026-07-06T05:21:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kampen vi aldri glemmer: Kan historien gjenta seg?",
-      "date": "2026-07-03T05:59:00+02:00"
+      "title": "Jordskjelv-katastrofen: Dette møtte NRK i ruinene",
+      "date": "2026-07-06T05:59:00+02:00"
     }
   },
   {
@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 4: Thomas Numme er nummen?",
-      "date": "2026-07-02T06:00:00+02:00"
+      "title": "Time 5: Fødte til Siesta",
+      "date": "2026-07-06T06:00:00+02:00"
     }
   },
   {
@@ -1788,8 +1788,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Lena Lindgren",
-      "date": "2026-07-05T06:00:00+02:00"
+      "title": "Stian \"på stien\" Opsahl",
+      "date": "2026-07-06T06:00:00+02:00"
     }
   },
   {
@@ -1890,8 +1890,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Blodbryllupet",
-      "date": "2026-06-29T06:00:00+02:00"
+      "title": "Forliket",
+      "date": "2026-07-06T06:00:00+02:00"
     }
   },
   {
