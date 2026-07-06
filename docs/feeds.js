@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kan Norge slå Brasil igjen?",
-      "date": "2026-07-03T05:59:00+02:00"
+      "title": "Norge er videre i VM!",
+      "date": "2026-07-06T06:00:00+02:00"
     }
   },
   {
