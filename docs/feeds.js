@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Historisk: Vi er i kvartfinalen!",
-      "date": "2026-07-06T05:21:00+02:00"
+      "title": "England, we are coming for you!",
+      "date": "2026-07-07T04:00:00+02:00"
     }
   },
   {
@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Snitching, identitetskrise og nach (Spøtta-spesial #10)",
-      "date": "2026-07-03T12:00:00+02:00"
+      "title": "Dyr bolle, serie-cheater og dårlig søvn",
+      "date": "2026-07-07T06:00:00+02:00"
     }
   },
   {
@@ -166,8 +166,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "En fuktig episode",
-      "date": "2026-06-30T06:00:00+02:00"
+      "title": "Første regel i tisseklubben",
+      "date": "2026-07-07T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norge er videre i VM!",
-      "date": "2026-07-06T06:00:00+02:00"
+      "title": "Hamas sier de gir fra seg makt",
+      "date": "2026-07-07T05:59:00+02:00"
     }
   },
   {
@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 5: Fødte til Siesta",
-      "date": "2026-07-06T06:00:00+02:00"
+      "title": "Time 6: Korte tennisskjørt",
+      "date": "2026-07-07T06:00:00+02:00"
     }
   },
   {
@@ -1788,8 +1788,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Stian \"på stien\" Opsahl",
-      "date": "2026-07-06T06:00:00+02:00"
+      "title": "Frøya Skjold Sjursæther",
+      "date": "2026-07-07T06:00:00+02:00"
     }
   },
   {
@@ -2140,8 +2140,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Fuckgirl og \"mannefomo\"",
-      "date": "2026-07-05T06:00:00+02:00"
+      "title": "Andrea Badendyck: Brudd, håp og kjærlighet",
+      "date": "2026-07-07T06:00:00+02:00"
     }
   },
   {
