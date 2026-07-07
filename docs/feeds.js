@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fastlegeordninga - jubilant i krise?",
-      "date": "2026-06-30T12:00:00+02:00"
+      "title": "Demo-boom på Eidsvolls plass",
+      "date": "2026-07-07T12:00:00+02:00"
     }
   },
   {
