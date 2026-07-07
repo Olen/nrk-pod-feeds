@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "VM-skandale",
-      "date": "2026-07-06T19:00:00+02:00"
+      "title": "- Døgnåpen skjenking bør gjøres permanent",
+      "date": "2026-07-07T19:00:00+02:00"
     }
   },
   {
