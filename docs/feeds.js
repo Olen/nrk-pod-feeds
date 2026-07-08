@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "England, we are coming for you!",
-      "date": "2026-07-07T04:00:00+02:00"
+      "title": "Messis tårer og norske sykdomsrykter",
+      "date": "2026-07-08T02:00:00+02:00"
     }
   },
   {
