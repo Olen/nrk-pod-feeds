@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Messis tårer og norske sykdomsrykter",
-      "date": "2026-07-08T02:00:00+02:00"
+      "title": "Slik bør Norge spille mot England",
+      "date": "2026-07-09T00:01:00+02:00"
     }
   },
   {
