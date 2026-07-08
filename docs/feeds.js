@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "- Døgnåpen skjenking bør gjøres permanent",
-      "date": "2026-07-07T19:00:00+02:00"
+      "title": "NATO-toppmøtet er over",
+      "date": "2026-07-08T19:00:00+02:00"
     }
   },
   {
