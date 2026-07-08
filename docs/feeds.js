@@ -518,8 +518,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Smuglerkongen fra Trøndelag",
-      "date": "2026-07-04T06:00:00+02:00"
+      "title": "Kunstnerens overlevelseskamp",
+      "date": "2026-07-08T06:00:00+02:00"
     }
   },
   {
@@ -650,8 +650,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mor Teresa – selvoppofrende helgen",
-      "date": "2026-07-01T06:00:00+02:00"
+      "title": "Leiv Eiriksson – norrøn eventyrer",
+      "date": "2026-07-08T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hamas sier de gir fra seg makt",
-      "date": "2026-07-07T05:59:00+02:00"
+      "title": "USA angriper Iran under våpenhvile",
+      "date": "2026-07-08T06:01:00+02:00"
     }
   },
   {
@@ -945,8 +945,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jørn Andersen (2): Blodet i snøen",
-      "date": "2026-07-03T06:00:00+02:00"
+      "title": "Wangen (6): Derfor ble han dømt",
+      "date": "2026-07-08T06:00:00+02:00"
     }
   },
   {
@@ -1024,8 +1024,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Leseklubben: «Brødrene Løvehjerte» med Else Kåss Furuseth: – Kan vi ikke ha det litt mer koselig? (3:6)",
-      "date": "2026-07-01T06:00:00+02:00"
+      "title": "Leseklubben: «Brødrene Løvehjerte» med Else Kåss Furuseth: Nord-Korea, farfar og fatshaming (4:5)",
+      "date": "2026-07-08T06:00:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jordskjelv-katastrofen: Dette møtte NRK i ruinene",
-      "date": "2026-07-06T05:59:00+02:00"
+      "title": "Spionen under vann?",
+      "date": "2026-07-08T05:59:00+02:00"
     }
   },
   {
@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 6: Korte tennisskjørt",
-      "date": "2026-07-07T06:00:00+02:00"
+      "title": "Time 7: Magnus Devold er her!",
+      "date": "2026-07-08T06:00:00+02:00"
     }
   },
   {
@@ -1788,8 +1788,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Frøya Skjold Sjursæther",
-      "date": "2026-07-07T06:00:00+02:00"
+      "title": "Sebastian Klein",
+      "date": "2026-07-08T06:00:00+02:00"
     }
   },
   {
@@ -1828,8 +1828,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "- Vi skal f**n meg vinne VM!",
-      "date": "2026-07-01T06:00:00+02:00"
+      "title": "Miami neste og ny VM-babyboom",
+      "date": "2026-07-08T06:00:00+02:00"
     }
   },
   {
