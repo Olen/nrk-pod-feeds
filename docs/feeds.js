@@ -295,8 +295,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jan Thomas er min gud",
-      "date": "2026-07-02T06:00:00+02:00"
+      "title": "La hvite jenter gråte",
+      "date": "2026-07-09T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "USA angriper Iran under våpenhvile",
-      "date": "2026-07-08T06:01:00+02:00"
+      "title": "Grønland svarer Trump: Nei betyr nei!",
+      "date": "2026-07-09T06:02:00+02:00"
     }
   },
   {
@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 7: Magnus Devold er her!",
-      "date": "2026-07-08T06:00:00+02:00"
+      "title": "Time 8: Vi stjeler fra andre",
+      "date": "2026-07-09T06:00:00+02:00"
     }
   },
   {
@@ -1788,8 +1788,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sebastian Klein",
-      "date": "2026-07-08T06:00:00+02:00"
+      "title": "Martin Schanche",
+      "date": "2026-07-09T06:00:00+02:00"
     }
   },
   {
@@ -2172,8 +2172,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ukraina: Når krig blir matematikk",
-      "date": "2026-07-02T06:00:00+02:00"
+      "title": "Hjelp til å dø i Frankrike",
+      "date": "2026-07-09T06:00:00+02:00"
     }
   },
   {
