@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dyr bolle, serie-cheater og dårlig søvn",
-      "date": "2026-07-07T06:00:00+02:00"
+      "title": "Prideshow i Oslo!",
+      "date": "2026-07-10T12:00:00+02:00"
     }
   },
   {
@@ -629,8 +629,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dobbeltdrapet ved Karl Johan: Blodspor til Polen (2:2)",
-      "date": "2026-06-13T06:02:00+02:00"
+      "title": "22. juli: Veien videre (8:8)",
+      "date": "2026-07-10T00:22:00+02:00"
     }
   },
   {
@@ -1071,8 +1071,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Høydepunkter fra 2025 - nr. 7",
-      "date": "2026-07-04T09:00:00+02:00"
+      "title": "Baksnakk + Bausjen og kollegafest",
+      "date": "2026-07-10T12:30:00+02:00"
     }
   },
   {
