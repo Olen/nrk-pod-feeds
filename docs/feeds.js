@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Suges man ut av et hull i romskipet?",
-      "date": "2026-07-03T06:00:00+02:00"
+      "title": "Tårnet: Bør man kjøre fortere når det blåser?",
+      "date": "2026-07-10T06:00:00+02:00"
     }
   },
   {
@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Slik bør Norge spille mot England",
-      "date": "2026-07-09T00:01:00+02:00"
+      "title": "Er Norge klare for en slik superstjerne?",
+      "date": "2026-07-10T02:40:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Grønland svarer Trump: Nei betyr nei!",
-      "date": "2026-07-09T06:02:00+02:00"
+      "title": "Israel skal trekke seg ut av Libanon",
+      "date": "2026-07-10T05:59:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Spionen under vann?",
-      "date": "2026-07-08T05:59:00+02:00"
+      "title": "Hele verden ror: Dette er mannen bak",
+      "date": "2026-07-10T05:59:00+02:00"
     }
   },
   {
@@ -1743,8 +1743,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kristian Blummenfelt - verdens best trente?",
-      "date": "2026-07-03T05:00:00+02:00"
+      "title": "Ragne Wiklund - skøytedronningen",
+      "date": "2026-07-10T05:00:00+02:00"
     }
   },
   {
@@ -1788,8 +1788,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Martin Schanche",
-      "date": "2026-07-09T06:00:00+02:00"
+      "title": "Sa_G",
+      "date": "2026-07-10T06:00:00+02:00"
     }
   },
   {
