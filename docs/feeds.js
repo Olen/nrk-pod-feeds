@@ -481,8 +481,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Pervobriller, Eurovision og nytt Norge",
-      "date": "2026-07-03T09:00:00+02:00"
+      "title": "Norsk folkesjel spesial",
+      "date": "2026-07-10T08:15:00+02:00"
     }
   },
   {
