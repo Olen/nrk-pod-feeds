@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bjørneangrep i Vardø",
-      "date": "2026-07-09T19:00:00+02:00"
+      "title": "Norge jakter historisk VM-seier",
+      "date": "2026-07-10T19:00:00+02:00"
     }
   },
   {
