@@ -1071,8 +1071,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Baksnakk + Bausjen og kollegafest",
-      "date": "2026-07-10T12:30:00+02:00"
+      "title": "Høydepunkter fra 2025 - nr. 8",
+      "date": "2026-07-11T09:00:00+02:00"
     }
   },
   {
