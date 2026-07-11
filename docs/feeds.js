@@ -518,8 +518,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kunstnerens overlevelseskamp",
-      "date": "2026-07-08T06:00:00+02:00"
+      "title": "Venezias norske helt",
+      "date": "2026-07-11T06:00:00+02:00"
     }
   },
   {
@@ -1788,8 +1788,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sa_G",
-      "date": "2026-07-10T06:00:00+02:00"
+      "title": "Leander Djønne",
+      "date": "2026-07-11T06:00:00+02:00"
     }
   },
   {
