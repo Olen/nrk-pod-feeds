@@ -2103,8 +2103,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "USA feirer 250 år",
-      "date": "2026-07-04T15:00:00+02:00"
+      "title": "Jackass er over",
+      "date": "2026-07-11T15:00:00+02:00"
     }
   },
   {
