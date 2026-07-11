@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Er Norge klare for en slik superstjerne?",
-      "date": "2026-07-10T02:40:00+02:00"
+      "title": "Vi varmer opp til Norge-England",
+      "date": "2026-07-11T04:37:00+02:00"
     }
   },
   {
