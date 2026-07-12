@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi varmer opp til Norge-England",
-      "date": "2026-07-11T04:37:00+02:00"
+      "title": "Ute av  VM: Skuffelse og stolthet",
+      "date": "2026-07-12T06:01:00+02:00"
     }
   },
   {
@@ -1788,8 +1788,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Leander Djønne",
-      "date": "2026-07-11T06:00:00+02:00"
+      "title": "Åste Dokka",
+      "date": "2026-07-12T06:00:00+02:00"
     }
   },
   {
@@ -2140,8 +2140,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Andrea Badendyck: Brudd, håp og kjærlighet",
-      "date": "2026-07-07T06:00:00+02:00"
+      "title": "Panelet: Utroskap",
+      "date": "2026-07-12T06:00:00+02:00"
     }
   },
   {
