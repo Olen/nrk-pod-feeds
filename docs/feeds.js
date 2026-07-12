@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ute av  VM: Skuffelse og stolthet",
-      "date": "2026-07-12T06:01:00+02:00"
+      "title": "Vi slikker sårene og ser fremover",
+      "date": "2026-07-13T00:01:00+02:00"
     }
   },
   {
