@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Israel skal trekke seg ut av Libanon",
-      "date": "2026-07-10T05:59:00+02:00"
+      "title": "Norge er ute av VM",
+      "date": "2026-07-13T05:59:00+02:00"
     }
   },
   {
@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hele verden ror: Dette er mannen bak",
-      "date": "2026-07-10T05:59:00+02:00"
+      "title": "Fant rosa belegg i dusjen: Så kom sjokkbeskjeden",
+      "date": "2026-07-13T05:59:00+02:00"
     }
   },
   {
@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 8: Vi stjeler fra andre",
-      "date": "2026-07-09T06:00:00+02:00"
+      "title": "Time 09: Spise fra Annas mage",
+      "date": "2026-07-13T06:00:00+02:00"
     }
   },
   {
@@ -1788,8 +1788,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Åste Dokka",
-      "date": "2026-07-12T06:00:00+02:00"
+      "title": "Espen Abrahamsen",
+      "date": "2026-07-13T06:00:00+02:00"
     }
   },
   {
@@ -1890,8 +1890,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forliket",
-      "date": "2026-07-06T06:00:00+02:00"
+      "title": "Kongevalget",
+      "date": "2026-07-13T06:00:00+02:00"
     }
   },
   {
