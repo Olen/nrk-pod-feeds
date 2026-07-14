@@ -1442,8 +1442,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fant rosa belegg i dusjen: Så kom sjokkbeskjeden",
-      "date": "2026-07-13T05:59:00+02:00"
+      "title": "Norges VM-exit: Har VAR blitt et maktmiddel?",
+      "date": "2026-07-14T16:05:00+02:00"
     }
   },
   {
