@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi slikker sårene og ser fremover",
-      "date": "2026-07-13T00:01:00+02:00"
+      "title": "For en folkefest!",
+      "date": "2026-07-14T06:33:00+02:00"
     }
   },
   {
@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Prideshow i Oslo!",
-      "date": "2026-07-10T12:00:00+02:00"
+      "title": "Zaras siste episode",
+      "date": "2026-07-14T06:00:00+02:00"
     }
   },
   {
@@ -166,8 +166,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Første regel i tisseklubben",
-      "date": "2026-07-07T06:00:00+02:00"
+      "title": "Nittitallsdubberen",
+      "date": "2026-07-14T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norge er ute av VM",
-      "date": "2026-07-13T05:59:00+02:00"
+      "title": "Over 150.000 møtte opp for å hylle herrelandslaget",
+      "date": "2026-07-14T05:59:00+02:00"
     }
   },
   {
@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 09: Spise fra Annas mage",
-      "date": "2026-07-13T06:00:00+02:00"
+      "title": "Time 10: Mari Monsson er med!",
+      "date": "2026-07-14T06:00:00+02:00"
     }
   },
   {
@@ -1788,8 +1788,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Espen Abrahamsen",
-      "date": "2026-07-13T06:00:00+02:00"
+      "title": "Andreas Øverland",
+      "date": "2026-07-14T06:00:00+02:00"
     }
   },
   {
@@ -2140,8 +2140,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Utroskap",
-      "date": "2026-07-12T06:00:00+02:00"
+      "title": "Dennis Vareide: Alenepappa",
+      "date": "2026-07-14T06:00:00+02:00"
     }
   },
   {
