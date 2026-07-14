@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Duket for folkefest",
-      "date": "2026-07-13T19:00:00+02:00"
+      "title": "Situasjonen tilspisser seg i områdene rundt Hormuz-stredet",
+      "date": "2026-07-14T19:00:00+02:00"
     }
   },
   {
