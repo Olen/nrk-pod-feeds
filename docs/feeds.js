@@ -518,8 +518,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Venezias norske helt",
-      "date": "2026-07-11T06:00:00+02:00"
+      "title": "Jakten på Scharnhorst",
+      "date": "2026-07-15T06:00:00+02:00"
     }
   },
   {
@@ -650,8 +650,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Leiv Eiriksson – norrøn eventyrer",
-      "date": "2026-07-08T06:00:00+02:00"
+      "title": "Knut Hamsun – sulten forfatter",
+      "date": "2026-07-15T06:00:00+02:00"
     }
   },
   {
@@ -814,8 +814,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Over 150.000 møtte opp for å hylle herrelandslaget",
-      "date": "2026-07-14T05:59:00+02:00"
+      "title": "I dag kan det bli satt ny varmerekord i Norge",
+      "date": "2026-07-15T05:59:00+02:00"
     }
   },
   {
@@ -945,8 +945,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Wangen (6): Derfor ble han dømt",
-      "date": "2026-07-08T06:00:00+02:00"
+      "title": "Kampen-drapet (1): Den forlatte bilen",
+      "date": "2026-07-15T06:00:00+02:00"
     }
   },
   {
@@ -1024,8 +1024,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Leseklubben: «Brødrene Løvehjerte» med Else Kåss Furuseth: Nord-Korea, farfar og fatshaming (4:5)",
-      "date": "2026-07-08T06:00:00+02:00"
+      "title": "Leseklubben: «Brødrene Løvehjerte» med Else Kåss Furuseth: BONUS: Lindgrens fortsettelse på «Brødrene Løvehjerte»",
+      "date": "2026-07-15T06:01:00+02:00"
     }
   },
   {
@@ -1714,8 +1714,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 10: Mari Monsson er med!",
-      "date": "2026-07-14T06:00:00+02:00"
+      "title": "Time 11: Smultringens besteforeldre",
+      "date": "2026-07-15T06:00:00+02:00"
     }
   },
   {
@@ -1788,8 +1788,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Andreas Øverland",
-      "date": "2026-07-14T06:00:00+02:00"
+      "title": "Gyda Oddekalv",
+      "date": "2026-07-15T06:00:00+02:00"
     }
   },
   {
