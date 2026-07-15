@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "For en folkefest!",
-      "date": "2026-07-14T06:33:00+02:00"
+      "title": "Haaland-oppklaring og spansk maktdemonstrasjon",
+      "date": "2026-07-15T05:23:00+02:00"
     }
   },
   {
