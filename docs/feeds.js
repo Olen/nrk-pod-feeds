@@ -586,10 +586,8 @@ const feeds = [
     "image": "https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQtPEczU3raUu3FTo1ras-UQ.jpg",
     "season": null,
     "enabled": false,
-    "last_episode": {
-      "title": "Åemie Hævvi",
-      "date": "2025-09-16T06:00:00+02:00"
-    }
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "hallo_bablo",
@@ -1828,8 +1826,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Miami neste og ny VM-babyboom",
-      "date": "2026-07-08T06:00:00+02:00"
+      "title": "– En spritdrikkende vaskebjørn er det vi trenger nå",
+      "date": "2026-07-15T06:00:00+02:00"
     }
   },
   {
@@ -2059,7 +2057,7 @@ const feeds = [
     "description": "Thomas Seltzer med gjester gir deg kvalifisert synsing og ren kvasi-idioti som gjør deg opplyst og forvirret.  \n",
     "image": "https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwIHYdPcYirs3UOD1YzyetjQ.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Spritkongen",
       "date": "2026-06-15T06:00:00+02:00"
