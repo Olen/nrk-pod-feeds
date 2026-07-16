@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Semifinalen som slo gnister",
-      "date": "2026-07-16T03:48:00+02:00"
+      "title": "Trump kommer til VM-finalen",
+      "date": "2026-07-17T00:01:00+02:00"
     }
   },
   {
