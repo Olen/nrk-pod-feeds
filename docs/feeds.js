@@ -295,8 +295,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "La hvite jenter gråte",
-      "date": "2026-07-09T06:00:00+02:00"
+      "title": "En ufrivillig FHM-shoot",
+      "date": "2026-07-16T06:00:00+02:00"
     }
   },
   {
@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "I dag kan det bli satt ny varmerekord i Norge",
-      "date": "2026-07-15T05:59:00+02:00"
+      "title": "Stemte ja til assistert selvmord i Frankrike",
+      "date": "2026-07-16T06:01:00+02:00"
     }
   },
   {
@@ -1712,8 +1712,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 11: Smultringens besteforeldre",
-      "date": "2026-07-15T06:00:00+02:00"
+      "title": "Time 12: Quizmaster Borre",
+      "date": "2026-07-16T06:00:00+02:00"
     }
   },
   {
@@ -1786,8 +1786,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Gyda Oddekalv",
-      "date": "2026-07-15T06:00:00+02:00"
+      "title": "Eirik Mofoss",
+      "date": "2026-07-16T06:00:00+02:00"
     }
   },
   {
@@ -2170,8 +2170,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hjelp til å dø i Frankrike",
-      "date": "2026-07-09T06:00:00+02:00"
+      "title": "Trumps fotball-VM",
+      "date": "2026-07-16T06:00:00+02:00"
     }
   },
   {
