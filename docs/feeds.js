@@ -1741,8 +1741,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ragne Wiklund - skøytedronningen",
-      "date": "2026-07-10T05:00:00+02:00"
+      "title": "Sommergjest Henrik Ingebrigtsen - løpepioneren",
+      "date": "2026-07-17T05:00:00+02:00"
     }
   },
   {
