@@ -1069,8 +1069,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Høydepunkter fra 2025 - nr. 8",
-      "date": "2026-07-11T09:00:00+02:00"
+      "title": "Vi deler ut kopper!",
+      "date": "2026-07-17T14:00:00+02:00"
     }
   },
   {
