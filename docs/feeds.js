@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trump kommer til VM-finalen",
-      "date": "2026-07-17T00:01:00+02:00"
+      "title": "Sleivspark eller VMs vakreste?",
+      "date": "2026-07-18T00:01:00+02:00"
     }
   },
   {
