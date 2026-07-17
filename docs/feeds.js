@@ -481,8 +481,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norsk folkesjel spesial",
-      "date": "2026-07-10T08:15:00+02:00"
+      "title": "Fotball, botox og KI",
+      "date": "2026-07-17T09:00:00+02:00"
     }
   },
   {
