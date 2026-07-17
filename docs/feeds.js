@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Zaras siste episode",
-      "date": "2026-07-14T06:00:00+02:00"
+      "title": "Milie har aldri vært alene hjemme",
+      "date": "2026-07-17T12:00:00+02:00"
     }
   },
   {
