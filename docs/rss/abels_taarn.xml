@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 10 Jul 2026 04:12:23 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 06:26:06 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Tårnet: Er det grenser for kunnskap?</title>
+      <description><![CDATA[Inga Strümke er på hjemmebane når hun er med i Abels tårn i Narvik, og svarer på om det finnes en grense for hva vi mennesker kan vite om universet og oss selv. Dessuten spør vi om alt romskrotet kan samle seg til en ny måne og om hvorfor vi enda ikke har fått roboter i hjemmet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/9a1143ad-1ca5-4ecb-9143-ad1ca52ecb06_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9a1143ad-1ca5-4ecb-9143-ad1ca52ecb06_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:11:28</itunes:duration>
+      <pubDate>Fri, 17 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xNx5YuMwzUbBE4BTbHUd0QSpEvpxeHbgfCvIB-uS3ODw.jpg"/>
+    </item>
     <item>
       <title>Tårnet: Bør man kjøre fortere når det blåser?</title>
       <description><![CDATA[Man løper jo når  det regner for å  ikke å bli våt. Abels tårn har tatt turen til Harstad, og et panel med lokale eksperter svarer. Blant annet på spørsmålet om hvordan man finner et oljefelt, og hvordan det føles når man gjør det!]]></description>
@@ -94,15 +103,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <itunes:duration>57:18</itunes:duration>
       <pubDate>Fri, 12 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/6ri4ceXFj2xwoL00yRu1twA2OgjVxebOpJjN-SqQ1QqQ.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten: Er pavens KI-advarsel skrevet av KI?</title>
-      <description><![CDATA[Tekstanalyser tyder på det. Dessuten, forskere har oppdaget intelligens hos et encellet dyr uten hjerne. Og gullsjakalen bruker folk som skjold mot ulv]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/0dde9aae-e385-4a17-9e9a-aee3856a177f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/0dde9aae-e385-4a17-9e9a-aee3856a177f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:31</itunes:duration>
-      <pubDate>Wed, 10 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
     </item>
   </channel>
 </rss>

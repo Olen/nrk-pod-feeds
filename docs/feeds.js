@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Bør man kjøre fortere når det blåser?",
-      "date": "2026-07-10T06:00:00+02:00"
+      "title": "Tårnet: Er det grenser for kunnskap?",
+      "date": "2026-07-17T06:00:00+02:00"
     }
   },
   {
@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Stemte ja til assistert selvmord i Frankrike",
-      "date": "2026-07-16T06:01:00+02:00"
+      "title": "Trump anklager Kina for valgfusk",
+      "date": "2026-07-17T05:59:00+02:00"
     }
   },
   {
@@ -991,7 +991,7 @@ const feeds = [
     "description": "Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.",
     "image": "https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgdUzhJwvT8l8xdy1x65rreA.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Fellesskap - med Ingvild Hegge Eriksen",
       "date": "2026-06-17T06:00:00+02:00"
@@ -1440,8 +1440,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norges VM-exit: Har VAR blitt et maktmiddel?",
-      "date": "2026-07-14T16:05:00+02:00"
+      "title": "Tvunget til å legge opp: Hva skjedde med BTS?",
+      "date": "2026-07-17T05:59:00+02:00"
     }
   },
   {
@@ -1786,8 +1786,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Eirik Mofoss",
-      "date": "2026-07-16T06:00:00+02:00"
+      "title": "Maria Parr",
+      "date": "2026-07-17T06:00:00+02:00"
     }
   },
   {
