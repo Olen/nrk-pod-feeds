@@ -954,7 +954,7 @@ const feeds = [
     "description": "Kork gir deg musikk for alle stemninger og anledninger.",
     "image": "https://gfx.nrk.no/bUxGv0Sq_Vx0torVqM5tBQ5Rf_EaqOj4iTCVOAsJQaBg.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Sommer med Kork: Sommer-feeling",
       "date": "2026-06-18T06:20:00+02:00"
@@ -1069,8 +1069,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi deler ut kopper!",
-      "date": "2026-07-17T14:00:00+02:00"
+      "title": "Høydepunkter fra 2025 - nr. 9",
+      "date": "2026-07-18T09:00:00+02:00"
     }
   },
   {
