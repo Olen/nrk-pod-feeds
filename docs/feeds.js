@@ -518,8 +518,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jakten på Scharnhorst",
-      "date": "2026-07-15T06:00:00+02:00"
+      "title": "Kjendispatorens sexskandale",
+      "date": "2026-07-18T06:00:00+02:00"
     }
   },
   {
@@ -1786,8 +1786,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Maria Parr",
-      "date": "2026-07-17T06:00:00+02:00"
+      "title": "Einar Duenger Bøhn",
+      "date": "2026-07-18T06:00:00+02:00"
     }
   },
   {
