@@ -143,7 +143,7 @@ const feeds = [
     "description": "Binnabánnaš og Ujujju er to artige små skruer som alltid er nysgjerrige på nye ting.",
     "image": "https://gfx.nrk.no/FtAD_t9saqQ0scxa1Qp6JQ_188X_d-brdGVnu2DIfvbQ.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Halloween",
       "date": "2026-06-19T06:08:00+02:00"
@@ -177,7 +177,7 @@ const feeds = [
     "description": "Møt aktuelle forfattere, hør dem fortelle om den nye boken sin, forfatterskapet og hvordan bøkene blir til. Ny episode hver fredag!",
     "image": "https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYwg5AH_CksIikoU2ADJ-kDUg.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Tyra Teodora Tronstad: Etter katastrofen",
       "date": "2026-06-19T06:00:00+02:00"
@@ -330,7 +330,7 @@ const feeds = [
     "description": "Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. ",
     "image": "https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAp2QUB47AMci5g4y9UH5BSA.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Cecilie Langum Becker",
       "date": "2026-06-18T12:45:00+02:00"
@@ -596,7 +596,7 @@ const feeds = [
     "description": "Bli med gjengen i Bablo på nye gøyale sprell! På dette biblioteket kan man bable, tulle og gjøre alt som er rart.",
     "image": "https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwzhkgZYH4VC11qPpfxlloNw.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Fantasibygging",
       "date": "2026-06-19T06:05:00+02:00"
@@ -1154,7 +1154,7 @@ const feeds = [
     "description": "Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.",
     "image": "https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEg1VWTRa_0tZIUmd5I26Q0qA.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Syting på forskjellige språk",
       "date": "2026-06-19T06:00:00+02:00"
@@ -1786,8 +1786,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Einar Duenger Bøhn",
-      "date": "2026-07-18T06:00:00+02:00"
+      "title": "Erik Solbakken",
+      "date": "2026-07-19T06:00:00+02:00"
     }
   },
   {
@@ -1837,7 +1837,7 @@ const feeds = [
     "description": "Absolutt alt du kan undre deg over om språk! Lydia Gieselmann spør, ekspertene svarer. Send dine spørsmål og tilbakemeldinger i appen eller til snakk@nrk.no.",
     "image": "https://gfx.nrk.no/b9bKez1OlAfKkJDldbfx9AGwq5D0VS42eXzhPj2eTZMw.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Upålitelig forelsking",
       "date": "2026-06-19T06:00:00+02:00"
@@ -2138,8 +2138,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dennis Vareide: Alenepappa",
-      "date": "2026-07-14T06:00:00+02:00"
+      "title": "Panelet: Forelskelse",
+      "date": "2026-07-19T06:00:00+02:00"
     }
   },
   {
