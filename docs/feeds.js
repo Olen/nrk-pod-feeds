@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sleivspark eller VMs vakreste?",
-      "date": "2026-07-18T00:01:00+02:00"
+      "title": "Ti måls bronsekamp og nå finalen!",
+      "date": "2026-07-19T03:03:00+02:00"
     }
   },
   {
