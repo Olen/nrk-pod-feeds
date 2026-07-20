@@ -1366,7 +1366,7 @@ const feeds = [
     "description": "Svensken Åsa Linderborg, dansken Hassan Preisler og norsken Hilde Sandvik gir deg pan-skandinavisk familieterapi hver lørdag.",
     "image": "https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAkblk2YiB-DRzJ-y-xo1ZQQ.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Demokratiets elitistiske dansegulv",
       "date": "2026-06-20T06:00:00+02:00"
@@ -1907,7 +1907,7 @@ const feeds = [
     "description": "Kultur og aktualitet rett i lomma? Ida Yasin Andersen, Kristian Bendiksen og Einar Lie Slangsvold gir deg det beste fra Studio 2. \n",
     "image": "https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAylSxsFTsrlWjORt0a4uSTg.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Platedate med Javad El Bakali og Kristine Grændsen",
       "date": "2026-06-19T17:00:00+02:00"
