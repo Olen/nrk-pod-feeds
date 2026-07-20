@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ti måls bronsekamp og nå finalen!",
-      "date": "2026-07-19T03:03:00+02:00"
+      "title": "Spania er verdens beste",
+      "date": "2026-07-20T04:52:00+02:00"
     }
   },
   {
@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trump anklager Kina for valgfusk",
-      "date": "2026-07-17T05:59:00+02:00"
+      "title": "Over 100 boliger har brent ned i Drammen",
+      "date": "2026-07-20T05:59:00+02:00"
     }
   },
   {
@@ -1440,8 +1440,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tvunget til å legge opp: Hva skjedde med BTS?",
-      "date": "2026-07-17T05:59:00+02:00"
+      "title": "Skrev bok om sorg: Skjulte forfatteren et drap?",
+      "date": "2026-07-20T05:59:00+02:00"
     }
   },
   {
@@ -1712,8 +1712,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 12: Quizmaster Borre",
-      "date": "2026-07-16T06:00:00+02:00"
+      "title": "Time 13: Arin Soltanpanah er her",
+      "date": "2026-07-20T06:00:00+02:00"
     }
   },
   {
@@ -1786,8 +1786,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Erik Solbakken",
-      "date": "2026-07-19T06:00:00+02:00"
+      "title": "Jan Arild Snoen",
+      "date": "2026-07-20T06:00:00+02:00"
     }
   },
   {
@@ -1888,8 +1888,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kongevalget",
-      "date": "2026-07-13T06:00:00+02:00"
+      "title": "Røverne",
+      "date": "2026-07-20T06:00:00+02:00"
     }
   },
   {
