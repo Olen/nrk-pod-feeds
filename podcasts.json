@@ -1198,7 +1198,7 @@
         "description": "Svensken Åsa Linderborg, dansken Hassan Preisler og norsken Hilde Sandvik gir deg pan-skandinavisk familieterapi hver lørdag.",
         "image": "https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAkblk2YiB-DRzJ-y-xo1ZQQ.jpg",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "nrkbeta",
@@ -1683,7 +1683,7 @@
         "description": "Kultur og aktualitet rett i lomma? Ida Yasin Andersen, Kristian Bendiksen og Einar Lie Slangsvold gir deg det beste fra Studio 2. \n",
         "image": "https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAylSxsFTsrlWjORt0a4uSTg.jpg",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "supernytt",

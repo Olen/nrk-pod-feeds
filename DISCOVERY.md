@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-07-20  
+- Updated podcast 'Norsken, svensken og dansken' (`norsken_svensken_og_dansken`)  
+- Updated podcast 'Studio 2' (`studio_2`)  
 ### 2026-07-19  
 - Updated podcast 'Binnabánnaš & Ujujju' (`binnabnna_ujujju`)  
 - Updated podcast 'Drivkraft' (`drivkraft`)  
