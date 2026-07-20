@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kraftig brann i Drammen",
-      "date": "2026-07-17T19:00:00+02:00"
+      "title": "Storbrannen i Drammen",
+      "date": "2026-07-20T19:00:00+02:00"
     }
   },
   {
