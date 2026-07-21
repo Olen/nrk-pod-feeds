@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvis russerne kommer",
-      "date": "2026-07-14T12:00:00+02:00"
+      "title": "Ufarlig med peanøtter?",
+      "date": "2026-07-21T12:00:00+02:00"
     }
   },
   {
