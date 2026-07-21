@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Storbrannen i Drammen",
-      "date": "2026-07-20T19:00:00+02:00"
+      "title": "Olaf Tufte er død",
+      "date": "2026-07-21T19:00:00+02:00"
     }
   },
   {
