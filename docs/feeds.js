@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Milie har aldri vært alene hjemme",
-      "date": "2026-07-17T12:00:00+02:00"
+      "title": "Utestenging, stygge bilder og støvler på stranda",
+      "date": "2026-07-21T06:00:00+02:00"
     }
   },
   {
@@ -166,8 +166,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nittitallsdubberen",
-      "date": "2026-07-14T06:00:00+02:00"
+      "title": "Velkommen til Toms rekelag",
+      "date": "2026-07-21T06:00:00+02:00"
     }
   },
   {
@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Over 100 boliger har brent ned i Drammen",
-      "date": "2026-07-20T05:59:00+02:00"
+      "title": "Breivik dyrkes av høyreekstreme",
+      "date": "2026-07-21T06:02:00+02:00"
     }
   },
   {
@@ -1712,8 +1712,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 13: Arin Soltanpanah er her",
-      "date": "2026-07-20T06:00:00+02:00"
+      "title": "Time 14: Reiste rundt med lykkehjul",
+      "date": "2026-07-21T06:00:00+02:00"
     }
   },
   {
@@ -1786,8 +1786,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jan Arild Snoen",
-      "date": "2026-07-20T06:00:00+02:00"
+      "title": "Helene Bøksle",
+      "date": "2026-07-21T06:00:00+02:00"
     }
   },
   {
@@ -2138,8 +2138,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Forelskelse",
-      "date": "2026-07-19T06:00:00+02:00"
+      "title": "Sondre Lerche: Evig romantiker",
+      "date": "2026-07-21T06:00:00+02:00"
     }
   },
   {
