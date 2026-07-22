@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Olaf Tufte er død",
-      "date": "2026-07-21T19:00:00+02:00"
+      "title": "15 år siden terroren 22. juli",
+      "date": "2026-07-22T19:00:00+02:00"
     }
   },
   {
