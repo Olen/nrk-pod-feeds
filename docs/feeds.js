@@ -518,8 +518,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kjendispatorens sexskandale",
-      "date": "2026-07-18T06:00:00+02:00"
+      "title": "Kongsdatterens gjenferd",
+      "date": "2026-07-22T06:00:00+02:00"
     }
   },
   {
@@ -648,8 +648,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Knut Hamsun – sulten forfatter",
-      "date": "2026-07-15T06:00:00+02:00"
+      "title": "Katharine Hepburn – selvstendig stjerne",
+      "date": "2026-07-22T06:00:00+02:00"
     }
   },
   {
@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Breivik dyrkes av høyreekstreme",
-      "date": "2026-07-21T06:02:00+02:00"
+      "title": "15 år siden terrorangrepet 22. juli",
+      "date": "2026-07-22T05:59:00+02:00"
     }
   },
   {
@@ -1440,8 +1440,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Skrev bok om sorg: Skjulte forfatteren et drap?",
-      "date": "2026-07-20T05:59:00+02:00"
+      "title": "22. juli-terroren: Helenes navn sto i manifestet",
+      "date": "2026-07-22T05:59:00+02:00"
     }
   },
   {
@@ -1712,8 +1712,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 14: Reiste rundt med lykkehjul",
-      "date": "2026-07-21T06:00:00+02:00"
+      "title": "Time 15: Ikke snakk sånn til meg",
+      "date": "2026-07-22T06:00:00+02:00"
     }
   },
   {
@@ -1786,8 +1786,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Helene Bøksle",
-      "date": "2026-07-21T06:00:00+02:00"
+      "title": "Gaute Børstad Skjervø",
+      "date": "2026-07-22T06:00:00+02:00"
     }
   },
   {
@@ -1826,8 +1826,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "– En spritdrikkende vaskebjørn er det vi trenger nå",
-      "date": "2026-07-15T06:00:00+02:00"
+      "title": "Pauseunderholdning fra helvete",
+      "date": "2026-07-22T06:00:00+02:00"
     }
   },
   {
@@ -2170,8 +2170,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps fotball-VM",
-      "date": "2026-07-16T06:00:00+02:00"
+      "title": "Pornosjokket i Tyskland",
+      "date": "2026-07-22T06:00:00+02:00"
     }
   },
   {
