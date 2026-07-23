@@ -295,8 +295,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "En ufrivillig FHM-shoot",
-      "date": "2026-07-16T06:00:00+02:00"
+      "title": "Ulykkestrollet på Island",
+      "date": "2026-07-23T06:00:00+02:00"
     }
   },
   {
@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "15 år siden terrorangrepet 22. juli",
-      "date": "2026-07-22T05:59:00+02:00"
+      "title": "Kan mennesker lage dagslys?",
+      "date": "2026-07-23T05:59:00+02:00"
     }
   },
   {
@@ -943,8 +943,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kampen-drapet (1): Den forlatte bilen",
-      "date": "2026-07-15T06:00:00+02:00"
+      "title": "Kampen-drapet (2): Et varslet drap?",
+      "date": "2026-07-23T06:00:00+02:00"
     }
   },
   {
@@ -1712,8 +1712,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 15: Ikke snakk sånn til meg",
-      "date": "2026-07-22T06:00:00+02:00"
+      "title": "Time 16: En perfekt gård",
+      "date": "2026-07-23T06:00:00+02:00"
     }
   },
   {
@@ -1786,8 +1786,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Gaute Børstad Skjervø",
-      "date": "2026-07-22T06:00:00+02:00"
+      "title": "Åse Kathrin Vuolab",
+      "date": "2026-07-23T06:00:00+02:00"
     }
   },
   {
