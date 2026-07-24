@@ -1741,8 +1741,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sommergjest Henrik Ingebrigtsen - løpepioneren",
-      "date": "2026-07-17T05:00:00+02:00"
+      "title": "Sommergjest: Ingrid Landmark Tandrevold",
+      "date": "2026-07-24T05:00:00+02:00"
     }
   },
   {
