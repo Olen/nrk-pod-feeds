@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Utestenging, stygge bilder og støvler på stranda",
-      "date": "2026-07-21T06:00:00+02:00"
+      "title": "Bæsj i pissoaret, sugemerke og en elendig date",
+      "date": "2026-07-24T12:00:00+02:00"
     }
   },
   {
@@ -627,8 +627,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "22. juli: Veien videre (8:8)",
-      "date": "2026-07-10T00:22:00+02:00"
+      "title": "Smakebit: Terraskandalen",
+      "date": "2026-07-24T12:00:00+02:00"
     }
   },
   {

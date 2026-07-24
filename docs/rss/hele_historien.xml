@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 10 Jul 2026 11:17:30 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Jul 2026 00:22:00 +0200</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2026 11:54:53 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
+    <item>
+      <title>Smakebit: Terraskandalen</title>
+      <description><![CDATA[Åtte småkommuner satser enorme summer på den amerikanske børsen etter råd fra finansmeglere fra Oslo. Så kollapser Wall Street. I NRK Radio fra 25.07.2026.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/ef6cb0fe-0241-4fc3-acb0-fe02412fc35c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/ef6cb0fe-0241-4fc3-acb0-fe02412fc35c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:30</itunes:duration>
+      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/J3cP2QS5vY5g7vD1n3z8iAZ_DnND5B3MeJEPIXLUAo8Q.jpg"/>
+    </item>
     <item>
       <title>22. juli: Veien videre (8:8)</title>
       <description><![CDATA[Etter terroren går folk i rosetog og det er landesorg for de 77 drepte. Men kan gjerningsmannen dømmes til fengsel for det grusomme han har gjort, eller trenger han psykiatrisk behandling?]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/hele_historien/09a7828e-6770-4bba-a782-8e6770fbba8f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>41:38</itunes:duration>
       <pubDate>Sat, 13 Jun 2026 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/W5sRgeU6OBxE0GTRWuww2Aspc3btkSCQ5PJDk-gqRCRw.jpg"/>
-    </item>
-    <item>
-      <title>Dobbeltdrapet ved Karl Johan: Den siste dansen (1:2)</title>
-      <description><![CDATA[Angriperen smiler når han stikker kniven i brystet på Ali. Men han rører ikke Synnøve, som holder rundt Ali.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/0d2949cd-1c79-45f1-a949-cd1c79d5f16d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/0d2949cd-1c79-45f1-a949-cd1c79d5f16d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:31</itunes:duration>
-      <pubDate>Sat, 13 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/W5sRgeU6OBxE0GTRWuww2Aspc3btkSCQ5PJDk-gqRCRw.jpg"/>
     </item>
   </channel>
