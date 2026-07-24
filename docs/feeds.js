@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Rekordmange har fått studieplass",
-      "date": "2026-07-23T19:00:00+02:00"
+      "title": "USA innfører ny toll på norske varer",
+      "date": "2026-07-24T18:30:00+02:00"
     }
   },
   {
