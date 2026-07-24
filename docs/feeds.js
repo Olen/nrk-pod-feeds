@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Er det grenser for kunnskap?",
-      "date": "2026-07-17T06:00:00+02:00"
+      "title": "Tårnet: Jubileum! - Det første panelet",
+      "date": "2026-07-24T06:00:00+02:00"
     }
   },
   {
@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kan mennesker lage dagslys?",
-      "date": "2026-07-23T05:59:00+02:00"
+      "title": "Ny straffetoll fra USA",
+      "date": "2026-07-24T05:59:00+02:00"
     }
   },
   {
@@ -1440,8 +1440,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "22. juli-terroren: Helenes navn sto i manifestet",
-      "date": "2026-07-22T05:59:00+02:00"
+      "title": "Olje og UV-indeks: Derfor jaktar gen Z solbrun hud",
+      "date": "2026-07-24T05:59:00+02:00"
     }
   },
   {
@@ -1786,8 +1786,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Åse Kathrin Vuolab",
-      "date": "2026-07-23T06:00:00+02:00"
+      "title": "Kjell-Ola Kleiven",
+      "date": "2026-07-24T06:00:00+02:00"
     }
   },
   {
