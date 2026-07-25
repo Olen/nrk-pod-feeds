@@ -2101,8 +2101,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Når ferieshoppingen tar av",
-      "date": "2026-07-18T15:00:00+02:00"
+      "title": "Obligatorisk husforsikring?",
+      "date": "2026-07-25T15:00:00+02:00"
     }
   },
   {
