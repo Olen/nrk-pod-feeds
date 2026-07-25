@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Jul 2026 11:54:53 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 25 Jul 2026 04:26:52 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Jul 2026 06:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
+    <item>
+      <title>Terraskandalen: «Deep shit» (2:2)</title>
+      <description><![CDATA[Snøballen ruller. Hundrevis av millioner kroner vil gå tapt hvis ikke kommunene satser enda mer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/70ebc298-6e6f-4234-abc2-986e6fc234a7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/70ebc298-6e6f-4234-abc2-986e6fc234a7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:09</itunes:duration>
+      <pubDate>Sat, 25 Jul 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/J3cP2QS5vY5g7vD1n3z8iAZ_DnND5B3MeJEPIXLUAo8Q.jpg"/>
+    </item>
+    <item>
+      <title>Terraskandalen: «Hestkukens» nei (1:2)</title>
+      <description><![CDATA[Finansmeglere frister kommunestyret med en spennende investering i USA. Flertallet vil satse enorme summer, men én sier nei: «Hestkuken».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/27915607-8679-4116-9156-078679e1169b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/27915607-8679-4116-9156-078679e1169b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:03</itunes:duration>
+      <pubDate>Sat, 25 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/J3cP2QS5vY5g7vD1n3z8iAZ_DnND5B3MeJEPIXLUAo8Q.jpg"/>
+    </item>
     <item>
       <title>Smakebit: Terraskandalen</title>
       <description><![CDATA[Åtte småkommuner satser enorme summer på den amerikanske børsen etter råd fra finansmeglere fra Oslo. Så kollapser Wall Street. I NRK Radio fra 25.07.2026.]]></description>
@@ -83,24 +101,6 @@
       <itunes:duration>47:02</itunes:duration>
       <pubDate>Fri, 10 Jul 2026 00:06:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/hioB3bwwdSaPIivUjAeemAn0fo3AVbXk_WloxNlTTCRw.jpg"/>
-    </item>
-    <item>
-      <title>22. juli: Bomba i Regjeringskvartalet (1:8)</title>
-      <description><![CDATA[En søvnig sommerdag i 2011 eksploderer ei bombe på nesten 1 tonn i Regjeringskvartalet i Oslo. En enslig høyre-ekstrem terrorist står bak angrepet som dreper 8 personer og skader flere hundre.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/e7052b57-fb75-44ff-8a62-9812a0755160_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/e7052b57-fb75-44ff-8a62-9812a0755160_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:55</itunes:duration>
-      <pubDate>Fri, 10 Jul 2026 00:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/83to6kVocOkNd-j5NygJkABWy_ImpaBXZ9cGLL_sKGWQ.jpg"/>
-    </item>
-    <item>
-      <title>Dobbeltdrapet ved Karl Johan: Blodspor til Polen (2:2)</title>
-      <description><![CDATA[Morderen legger på flukt. Etter flere polititabber, må Synnøve til Polen for å møte han som drepte kjæresten hennes, Nawaz.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/09a7828e-6770-4bba-a782-8e6770fbba8f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/09a7828e-6770-4bba-a782-8e6770fbba8f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:38</itunes:duration>
-      <pubDate>Sat, 13 Jun 2026 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/W5sRgeU6OBxE0GTRWuww2Aspc3btkSCQ5PJDk-gqRCRw.jpg"/>
     </item>
   </channel>
 </rss>

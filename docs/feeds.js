@@ -518,8 +518,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kongsdatterens gjenferd",
-      "date": "2026-07-22T06:00:00+02:00"
+      "title": "Studieturen til sosialismen fyrtårn",
+      "date": "2026-07-25T06:00:00+02:00"
     }
   },
   {
@@ -627,8 +627,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Smakebit: Terraskandalen",
-      "date": "2026-07-24T12:00:00+02:00"
+      "title": "Terraskandalen: «Deep shit» (2:2)",
+      "date": "2026-07-25T06:01:00+02:00"
     }
   },
   {
@@ -1786,8 +1786,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kjell-Ola Kleiven",
-      "date": "2026-07-24T06:00:00+02:00"
+      "title": "Kristin Oudmayer",
+      "date": "2026-07-25T06:00:00+02:00"
     }
   },
   {
