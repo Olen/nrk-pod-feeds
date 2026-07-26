@@ -272,7 +272,7 @@ const feeds = [
     "description": "Alt kan skje og ingen er trygge når fire komikere oppsummerer uka!",
     "image": "https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQcOyrUQAiswfpyCjSU-Th2Q.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Den nye franske hetebølgen",
       "date": "2026-06-26T06:00:00+02:00"
@@ -875,7 +875,7 @@ const feeds = [
     "description": "De store sakene fra nyhetsbildet forklart av Tone Sofie Aglen, Cecilie Langum Becker og Lars Nehru Sand. Programleder er Eivind Waage.",
     "image": "https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQPPO0FPkuikikr0SZzAXrGg.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Hvor trygt sitter Putin? – Ukraina mye sterkere nå",
       "date": "2026-06-25T15:25:00+02:00"
@@ -1786,8 +1786,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kristin Oudmayer",
-      "date": "2026-07-25T06:00:00+02:00"
+      "title": "Marie Simonsen",
+      "date": "2026-07-26T06:00:00+02:00"
     }
   },
   {
@@ -2138,8 +2138,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sondre Lerche: Evig romantiker",
-      "date": "2026-07-21T06:00:00+02:00"
+      "title": "Panelet: Kjærlighetssorg",
+      "date": "2026-07-26T06:00:00+02:00"
     }
   },
   {
