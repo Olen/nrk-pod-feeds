@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ny straffetoll fra USA",
-      "date": "2026-07-24T05:59:00+02:00"
+      "title": "Mistenkt skutt etter pride-terror i Berlin",
+      "date": "2026-07-27T05:59:00+02:00"
     }
   },
   {
