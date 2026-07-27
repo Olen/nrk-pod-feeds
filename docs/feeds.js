@@ -1440,8 +1440,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Olje og UV-indeks: Derfor jaktar gen Z solbrun hud",
-      "date": "2026-07-24T05:59:00+02:00"
+      "title": "Slukt av flammehavet: Infernoet time for time",
+      "date": "2026-07-27T07:46:00+02:00"
     }
   },
   {
@@ -1712,8 +1712,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 16: En perfekt gård",
-      "date": "2026-07-23T06:00:00+02:00"
+      "title": "Time 17: Tante Rita er drita",
+      "date": "2026-07-27T06:00:00+02:00"
     }
   },
   {
@@ -1786,8 +1786,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Marie Simonsen",
-      "date": "2026-07-26T06:00:00+02:00"
+      "title": "Mathilde Tybring-Gjedde",
+      "date": "2026-07-27T06:00:00+02:00"
     }
   },
   {
@@ -1888,8 +1888,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Røverne",
-      "date": "2026-07-20T06:00:00+02:00"
+      "title": "Riksmøtet",
+      "date": "2026-07-27T06:00:00+02:00"
     }
   },
   {
@@ -2078,7 +2078,7 @@ const feeds = [
     "description": "Noen mennesker har rett og slett gjort verden til et dårligere sted. Morderiske, korrupte og maktsyke ledere med helt vanvittige historier. Nye Tyranner blir publisert hver måned.\n\nTyrann er en versjonering av den danske podkasten med samme navn.  ",
     "image": "https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Amy1jNhc0GuJNnxik0lcmkg.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Enver Hoxha (4:4)",
       "date": "2026-06-27T06:03:00+02:00"
