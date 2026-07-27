@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "USA innfører ny toll på norske varer",
-      "date": "2026-07-24T18:30:00+02:00"
+      "title": "Polsk kvinne drept i Berlin-terror",
+      "date": "2026-07-27T19:00:00+02:00"
     }
   },
   {
