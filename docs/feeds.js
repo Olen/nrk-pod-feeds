@@ -2197,7 +2197,7 @@ const feeds = [
     "description": "For folk  som liker å vite litt mer",
     "image": "https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgcK2Yt-K_V458E7rdDsVfWw.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Ex. Phil med Ole Martin Moen: Slik filosoferer du selv",
       "date": "2026-06-28T06:00:00+02:00"
