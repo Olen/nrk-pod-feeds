@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bæsj i pissoaret, sugemerke og en elendig date",
-      "date": "2026-07-24T12:00:00+02:00"
+      "title": "Kjønnslepper, miste jomfrudommen og VAR",
+      "date": "2026-07-28T06:00:00+02:00"
     }
   },
   {
@@ -166,8 +166,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Velkommen til Toms rekelag",
-      "date": "2026-07-21T06:00:00+02:00"
+      "title": "Det gule liket i fjæra",
+      "date": "2026-07-28T06:00:00+02:00"
     }
   },
   {
@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mistenkt skutt etter pride-terror i Berlin",
-      "date": "2026-07-27T05:59:00+02:00"
+      "title": "Sterke reaksjoner etter pride-terror",
+      "date": "2026-07-28T05:59:00+02:00"
     }
   },
   {
@@ -1712,8 +1712,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 17: Tante Rita er drita",
-      "date": "2026-07-27T06:00:00+02:00"
+      "title": "Time 18: Isbit i rumpa",
+      "date": "2026-07-28T06:00:00+02:00"
     }
   },
   {
@@ -1786,8 +1786,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mathilde Tybring-Gjedde",
-      "date": "2026-07-27T06:00:00+02:00"
+      "title": "Ulf André «Uffe» Andersen",
+      "date": "2026-07-28T06:00:00+02:00"
     }
   },
   {
@@ -2138,8 +2138,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Kjærlighetssorg",
-      "date": "2026-07-26T06:00:00+02:00"
+      "title": "Sandra Lyng: Å bryte mønsteret",
+      "date": "2026-07-28T06:00:00+02:00"
     }
   },
   {
