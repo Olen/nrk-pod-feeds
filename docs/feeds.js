@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Polsk kvinne drept i Berlin-terror",
-      "date": "2026-07-27T19:00:00+02:00"
+      "title": "Zelenskyj og Netanyahu møter Trump",
+      "date": "2026-07-28T19:00:00+02:00"
     }
   },
   {
