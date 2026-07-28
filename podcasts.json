@@ -1933,7 +1933,7 @@
         "description": "For folk  som liker å vite litt mer",
         "image": "https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgcK2Yt-K_V458E7rdDsVfWw.jpg",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "vg3",
