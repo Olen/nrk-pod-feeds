@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ufarlig med peanøtter?",
-      "date": "2026-07-21T12:00:00+02:00"
+      "title": "Natur er kur mot ensomhet",
+      "date": "2026-07-28T12:00:00+02:00"
     }
   },
   {
