@@ -518,8 +518,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Studieturen til sosialismen fyrtårn",
-      "date": "2026-07-25T06:00:00+02:00"
+      "title": "Kjendisens norske koloni",
+      "date": "2026-07-29T06:00:00+02:00"
     }
   },
   {
