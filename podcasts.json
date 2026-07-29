@@ -63,7 +63,7 @@
         "description": "En tenketank for folk med lav intelligens.",
         "image": "https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVgVFteP96jsawr20gUhn3UEA.jpg",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "bakrommet",
@@ -1172,7 +1172,7 @@
         "description": "En humorpodkast med tromsøgutta Franky og Mo om å drømme stort – og tryne på veien.",
         "image": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POAHkBu02Bd81JZiTL4iaJpcw.jpg",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "noedsamtaler",
