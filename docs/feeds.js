@@ -67,7 +67,7 @@ const feeds = [
     "description": "En tenketank for folk med lav intelligens.",
     "image": "https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVgVFteP96jsawr20gUhn3UEA.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Sommeren før alt raknet",
       "date": "2026-06-29T06:00:00+02:00"
@@ -648,8 +648,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Katharine Hepburn – selvstendig stjerne",
-      "date": "2026-07-22T06:00:00+02:00"
+      "title": "Alfred Nobel – eksplosiv oppfinner",
+      "date": "2026-07-29T06:00:00+02:00"
     }
   },
   {
@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sterke reaksjoner etter pride-terror",
-      "date": "2026-07-28T05:59:00+02:00"
+      "title": "FIFA vil selge deler av fotball-VM",
+      "date": "2026-07-29T05:59:00+02:00"
     }
   },
   {
@@ -943,8 +943,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kampen-drapet (2): Et varslet drap?",
-      "date": "2026-07-23T06:00:00+02:00"
+      "title": "Martine-saken (1): Den siste festen",
+      "date": "2026-07-29T06:00:00+02:00"
     }
   },
   {
@@ -1332,7 +1332,7 @@ const feeds = [
     "description": "En humorpodkast med tromsøgutta Franky og Mo om å drømme stort – og tryne på veien.",
     "image": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POAHkBu02Bd81JZiTL4iaJpcw.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Hva er galt med å gå naken?",
       "date": "2026-06-29T06:00:00+02:00"
@@ -1440,8 +1440,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Slukt av flammehavet: Infernoet time for time",
-      "date": "2026-07-27T07:46:00+02:00"
+      "title": "Fenomenet Haaland: Slik jobber de i kulissene",
+      "date": "2026-07-29T05:59:00+02:00"
     }
   },
   {
@@ -1712,8 +1712,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 18: Isbit i rumpa",
-      "date": "2026-07-28T06:00:00+02:00"
+      "title": "Time 19: Hannah Lerfaldet er gjest!",
+      "date": "2026-07-29T06:00:00+02:00"
     }
   },
   {
@@ -1786,8 +1786,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ulf André «Uffe» Andersen",
-      "date": "2026-07-28T06:00:00+02:00"
+      "title": "Ramón",
+      "date": "2026-07-29T06:00:00+02:00"
     }
   },
   {
@@ -1826,8 +1826,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Pauseunderholdning fra helvete",
-      "date": "2026-07-22T06:00:00+02:00"
+      "title": "Kyss fra John Arne Riise xxx",
+      "date": "2026-07-29T06:00:00+02:00"
     }
   },
   {
