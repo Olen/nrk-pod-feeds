@@ -295,8 +295,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ulykkestrollet på Island",
-      "date": "2026-07-23T06:00:00+02:00"
+      "title": "Hjelp, jeg har fått hengepupper",
+      "date": "2026-07-30T06:00:00+02:00"
     }
   },
   {
@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "FIFA vil selge deler av fotball-VM",
-      "date": "2026-07-29T05:59:00+02:00"
+      "title": "Har vi slutta å lytte til kroppen?",
+      "date": "2026-07-30T05:59:00+02:00"
     }
   },
   {
@@ -1712,8 +1712,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 19: Hannah Lerfaldet er gjest!",
-      "date": "2026-07-29T06:00:00+02:00"
+      "title": "Time 20: Danseband fra helvete",
+      "date": "2026-07-30T06:00:00+02:00"
     }
   },
   {
@@ -1786,8 +1786,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ramón",
-      "date": "2026-07-29T06:00:00+02:00"
+      "title": "Trine Haug",
+      "date": "2026-07-30T06:00:00+02:00"
     }
   },
   {
@@ -2170,8 +2170,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Pornosjokket i Tyskland",
-      "date": "2026-07-22T06:00:00+02:00"
+      "title": "Hvordan stoppe skogbrannene",
+      "date": "2026-07-30T06:00:00+02:00"
     }
   },
   {
