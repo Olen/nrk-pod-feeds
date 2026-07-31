@@ -780,7 +780,7 @@
         "description": "Pål Plassen utforskar trua, livssynet og verdiane vi navigerer etter i samfunnet.",
         "image": "https://gfx.nrk.no/oRq5i_gA9ar2PEwFR5tG1Q8bhlezjUrmCu1qGi1vMgSw.jpg",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "kongerekka",
@@ -905,7 +905,7 @@
         "description": "Hva kan du gjøre for å leve litt smartere? Linnéa Myhre guider deg gjennom jungelen av helse- og livsstilsråd, med kunnskapsrike gjester.",
         "image": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q3g8ugafPZ9CVvGi9HsSaSQ.jpg",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "lindmo_og_co",
