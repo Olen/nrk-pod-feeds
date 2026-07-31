@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kjønnslepper, miste jomfrudommen og VAR",
-      "date": "2026-07-28T06:00:00+02:00"
+      "title": "Fylleangst, date-oppdatering og en hemmelighet ...",
+      "date": "2026-07-31T12:00:00+02:00"
     }
   },
   {
