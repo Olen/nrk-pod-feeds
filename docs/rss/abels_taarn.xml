@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Jul 2026 06:38:09 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2026 07:12:30 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Tårnet: Jubileum! - De unges panel</title>
+      <description><![CDATA[Tårnets 15-årsjubileum fortsetter med det aller ferskeste panelet. En radio-aktiv seanse der vi blant annet stiller det store spørsmålet: Vil KI noensinne kunne forstå kvinnen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/3ced9c23-71c7-4acd-ad9c-2371c7dacdce_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/3ced9c23-71c7-4acd-ad9c-2371c7dacdce_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Fri, 31 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HwNU6qu5GShR2LUwB75pfgiGq4Y8htsLPVC1zpTov4Eg.jpg"/>
+    </item>
     <item>
       <title>Tårnet: Jubileum! - Det første panelet</title>
       <description><![CDATA[Hvordan virker barberkrem? Med dette spørsmålet startet historien til Abels tårn for 15 år siden. Bli med på jubileumsfeiringa med en gjenforening av det aller første panelet.]]></description>
@@ -93,15 +102,6 @@ Lurer du på rare ting? Send inn dine spørsmål til Abels Tårns kompetente eks
       <itunes:duration>26:17</itunes:duration>
       <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten: Døde galakser strømmer gjennom deg</title>
-      <description><![CDATA[Nanonettinger kan vris til superledere, og proteiner produseres rare steder i hjernen. Alt i følge årets vinnere av Kavliprisene]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/ff5eb043-75df-492d-9eb0-4375df592d86_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/ff5eb043-75df-492d-9eb0-4375df592d86_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:05</itunes:duration>
-      <pubDate>Mon, 15 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
     </item>
   </channel>
 </rss>

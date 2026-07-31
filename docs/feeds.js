@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Jubileum! - Det første panelet",
-      "date": "2026-07-24T06:00:00+02:00"
+      "title": "Tårnet: Jubileum! - De unges panel",
+      "date": "2026-07-31T06:00:00+02:00"
     }
   },
   {
@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Har vi slutta å lytte til kroppen?",
-      "date": "2026-07-30T05:59:00+02:00"
+      "title": "Historisk avtale om Hamas",
+      "date": "2026-07-31T05:59:00+02:00"
     }
   },
   {
@@ -888,10 +888,10 @@ const feeds = [
     "description": "Pål Plassen utforskar trua, livssynet og verdiane vi navigerer etter i samfunnet.",
     "image": "https://gfx.nrk.no/oRq5i_gA9ar2PEwFR5tG1Q8bhlezjUrmCu1qGi1vMgSw.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Kan sladder være nyttig?",
-      "date": "2026-06-02T06:06:00+02:00"
+      "title": "Hun er åpen om Alzheimer",
+      "date": "2026-07-30T06:13:00+02:00"
     }
   },
   {
@@ -1033,7 +1033,7 @@ const feeds = [
     "description": "Hva kan du gjøre for å leve litt smartere? Linnéa Myhre guider deg gjennom jungelen av helse- og livsstilsråd, med kunnskapsrike gjester.",
     "image": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q3g8ugafPZ9CVvGi9HsSaSQ.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Bonus: En sommer uten alkohol?",
       "date": "2026-07-01T05:00:00+02:00"
@@ -1440,8 +1440,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fenomenet Haaland: Slik jobber de i kulissene",
-      "date": "2026-07-29T05:59:00+02:00"
+      "title": "Seriemorderen på Long Island: Avslørt av pizzaeske",
+      "date": "2026-07-31T05:59:00+02:00"
     }
   },
   {
@@ -1786,8 +1786,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trine Haug",
-      "date": "2026-07-30T06:00:00+02:00"
+      "title": "Per Kjerstad",
+      "date": "2026-07-31T06:00:00+02:00"
     }
   },
   {
