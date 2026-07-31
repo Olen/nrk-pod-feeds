@@ -481,8 +481,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "22. juli, nasjonalt samhold og agurknytt",
-      "date": "2026-07-24T09:00:00+02:00"
+      "title": "Odysséen, støy og kvalross",
+      "date": "2026-07-31T09:00:00+02:00"
     }
   },
   {
