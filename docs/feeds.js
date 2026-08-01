@@ -518,8 +518,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kjendisens norske koloni",
-      "date": "2026-07-29T06:00:00+02:00"
+      "title": "Fanget i Stalins jerngrep",
+      "date": "2026-08-01T06:00:00+02:00"
     }
   },
   {
@@ -1786,8 +1786,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Per Kjerstad",
-      "date": "2026-07-31T06:00:00+02:00"
+      "title": "Selma Ibrahim",
+      "date": "2026-08-01T06:00:00+02:00"
     }
   },
   {
