@@ -1069,8 +1069,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Høydepunkter fra 2025 - nr. 10",
-      "date": "2026-07-25T09:00:00+02:00"
+      "title": "Høydepunkter fra 2025 - nr. 11",
+      "date": "2026-08-01T09:00:00+02:00"
     }
   },
   {
