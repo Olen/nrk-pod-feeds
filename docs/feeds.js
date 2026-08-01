@@ -2101,8 +2101,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Obligatorisk husforsikring?",
-      "date": "2026-07-25T15:00:00+02:00"
+      "title": "Et skikkelig fotballdrama",
+      "date": "2026-08-01T14:00:00+02:00"
     }
   },
   {
