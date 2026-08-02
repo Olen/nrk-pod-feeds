@@ -1786,8 +1786,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Selma Ibrahim",
-      "date": "2026-08-01T06:00:00+02:00"
+      "title": "Snorre Rein",
+      "date": "2026-08-02T06:00:00+02:00"
     }
   },
   {
@@ -2138,8 +2138,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sandra Lyng: Å bryte mønsteret",
-      "date": "2026-07-28T06:00:00+02:00"
+      "title": "Panelet: Problemmas",
+      "date": "2026-08-02T06:00:00+02:00"
     }
   },
   {
