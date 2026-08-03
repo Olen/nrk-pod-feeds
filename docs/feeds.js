@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Historisk avtale om Hamas",
-      "date": "2026-07-31T05:59:00+02:00"
+      "title": "Rundt 130 døde som følge av migrant-kaos",
+      "date": "2026-08-03T05:59:00+02:00"
     }
   },
   {
@@ -1440,8 +1440,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Seriemorderen på Long Island: Avslørt av pizzaeske",
-      "date": "2026-07-31T05:59:00+02:00"
+      "title": "Sex og snikfilming: Metas smartbriller provoserer",
+      "date": "2026-08-03T06:00:00+02:00"
     }
   },
   {
@@ -1467,7 +1467,7 @@ const feeds = [
     "description": "Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.",
     "image": "https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQgfZ3is7pSZ6oQ5Nz53FHew.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Det beste fra P3morgen",
       "date": "2026-07-04T06:00:00+02:00"
@@ -1712,8 +1712,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 20: Danseband fra helvete",
-      "date": "2026-07-30T06:00:00+02:00"
+      "title": "Time 21: Vangen i psykose",
+      "date": "2026-08-03T06:00:00+02:00"
     }
   },
   {
@@ -1888,8 +1888,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Riksmøtet",
-      "date": "2026-07-27T06:00:00+02:00"
+      "title": "Elvekrigen",
+      "date": "2026-08-03T06:00:00+02:00"
     }
   },
   {
