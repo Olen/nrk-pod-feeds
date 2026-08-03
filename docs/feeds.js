@@ -1507,10 +1507,10 @@ const feeds = [
     "description": "Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. \n",
     "image": "https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AF6HS86WlEctR-3he47nZKg.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Mindre eller meir politisk «togetherness»?",
-      "date": "2026-07-03T08:10:00+02:00"
+      "title": "Studenter i hybelkø - boligkrise i Norge?",
+      "date": "2026-08-03T08:00:00+02:00"
     }
   },
   {
