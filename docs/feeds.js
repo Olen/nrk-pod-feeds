@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fylleangst, date-oppdatering og en hemmelighet ...",
-      "date": "2026-07-31T12:00:00+02:00"
+      "title": "Ny programleder, jodling og kondom-angst",
+      "date": "2026-08-04T06:00:00+02:00"
     }
   },
   {
@@ -166,8 +166,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Det gule liket i fjæra",
-      "date": "2026-07-28T06:00:00+02:00"
+      "title": "Rudy Ibanez' liv og levnet",
+      "date": "2026-08-04T06:00:00+02:00"
     }
   },
   {
@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Natur er kur mot ensomhet",
-      "date": "2026-07-28T12:00:00+02:00"
+      "title": "Netthandel endrar samfunnet",
+      "date": "2026-08-04T06:00:00+02:00"
     }
   },
   {
@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Rundt 130 døde som følge av migrant-kaos",
-      "date": "2026-08-03T05:59:00+02:00"
+      "title": "Varsler SAS-streik fra lørdag",
+      "date": "2026-08-04T05:59:00+02:00"
     }
   },
   {
@@ -1440,8 +1440,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sex og snikfilming: Metas smartbriller provoserer",
-      "date": "2026-08-03T06:00:00+02:00"
+      "title": "ICE er «tilbake»: Dette er den nye planen",
+      "date": "2026-08-04T05:59:00+02:00"
     }
   },
   {
@@ -1509,8 +1509,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Studenter i hybelkø - boligkrise i Norge?",
-      "date": "2026-08-03T08:00:00+02:00"
+      "title": "Bedre med trygd enn jobb?",
+      "date": "2026-08-04T08:00:00+02:00"
     }
   },
   {
@@ -1712,8 +1712,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 21: Vangen i psykose",
-      "date": "2026-08-03T06:00:00+02:00"
+      "title": "Time 22: Siestas fjerde medlem",
+      "date": "2026-08-04T06:00:00+02:00"
     }
   },
   {
@@ -2138,8 +2138,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Problemmas",
-      "date": "2026-08-02T06:00:00+02:00"
+      "title": "Lubna Jaffery: Kjærlighet og selvtillit",
+      "date": "2026-08-04T06:00:00+02:00"
     }
   },
   {
