@@ -518,8 +518,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fanget i Stalins jerngrep",
-      "date": "2026-08-01T06:00:00+02:00"
+      "title": "Marcus Thrane - klassekampens martyr",
+      "date": "2026-08-05T06:00:00+02:00"
     }
   },
   {
@@ -648,8 +648,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Alfred Nobel – eksplosiv oppfinner",
-      "date": "2026-07-29T06:00:00+02:00"
+      "title": "Kristoffer Columbus – havets admiral",
+      "date": "2026-08-05T06:00:00+02:00"
     }
   },
   {
@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Varsler SAS-streik fra lørdag",
-      "date": "2026-08-04T05:59:00+02:00"
+      "title": "Frykter dødsfall i norske fengsel",
+      "date": "2026-08-05T06:02:00+02:00"
     }
   },
   {
@@ -943,8 +943,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Martine-saken (1): Den siste festen",
-      "date": "2026-07-29T06:00:00+02:00"
+      "title": "Martine-saken (2): Drapsalarm",
+      "date": "2026-08-05T06:00:00+02:00"
     }
   },
   {
@@ -1440,8 +1440,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "ICE er «tilbake»: Dette er den nye planen",
-      "date": "2026-08-04T05:59:00+02:00"
+      "title": "Skaper debatt i Norge: Terrorangrepet i Berlin",
+      "date": "2026-08-05T05:59:00+02:00"
     }
   },
   {
@@ -1509,8 +1509,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bedre med trygd enn jobb?",
-      "date": "2026-08-04T08:00:00+02:00"
+      "title": "Ny trøblete Trump-toll",
+      "date": "2026-08-05T06:00:00+02:00"
     }
   },
   {
@@ -1712,8 +1712,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 22: Siestas fjerde medlem",
-      "date": "2026-08-04T06:00:00+02:00"
+      "title": "Time 23: Markus sitt første ligg",
+      "date": "2026-08-05T06:00:00+02:00"
     }
   },
   {
@@ -1826,8 +1826,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kyss fra John Arne Riise xxx",
-      "date": "2026-07-29T06:00:00+02:00"
+      "title": "FIFAs skrekkpakke: Kvinne, skjev, jurist – og bergenser!",
+      "date": "2026-08-05T06:00:00+02:00"
     }
   },
   {
