@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kjøper seg ut av ensomhet",
-      "date": "2026-08-04T19:00:00+02:00"
+      "title": "Senterpartiet vil forlenge drivstoffkutt",
+      "date": "2026-08-05T19:00:00+02:00"
     }
   },
   {
