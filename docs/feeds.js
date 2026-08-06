@@ -890,8 +890,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hun er åpen om Alzheimer",
-      "date": "2026-07-30T06:13:00+02:00"
+      "title": "Søkte kjærlighet på benk",
+      "date": "2026-08-06T06:04:00+02:00"
     }
   },
   {
