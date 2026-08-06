@@ -295,8 +295,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hjelp, jeg har fått hengepupper",
-      "date": "2026-07-30T06:00:00+02:00"
+      "title": "Da jeg møtte Leonardo DiCaprio",
+      "date": "2026-08-06T06:00:00+02:00"
     }
   },
   {
@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Frykter dødsfall i norske fengsel",
-      "date": "2026-08-05T06:02:00+02:00"
+      "title": "Barn dør av sult i Afghanistan",
+      "date": "2026-08-06T05:59:00+02:00"
     }
   },
   {
@@ -1440,8 +1440,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Skaper debatt i Norge: Terrorangrepet i Berlin",
-      "date": "2026-08-05T05:59:00+02:00"
+      "title": "Infantino-bråket: Kan Klaveness redde Fifa?",
+      "date": "2026-08-06T05:59:00+02:00"
     }
   },
   {
@@ -1509,8 +1509,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ny trøblete Trump-toll",
-      "date": "2026-08-05T06:00:00+02:00"
+      "title": "Skal bensinprisen opp?",
+      "date": "2026-08-06T08:00:00+02:00"
     }
   },
   {
@@ -1712,8 +1712,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 23: Markus sitt første ligg",
-      "date": "2026-08-05T06:00:00+02:00"
+      "title": "Time 24: VI GREIDE DET",
+      "date": "2026-08-06T06:00:00+02:00"
     }
   },
   {
@@ -2138,8 +2138,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Lubna Jaffery: Kjærlighet og selvtillit",
-      "date": "2026-08-04T06:00:00+02:00"
+      "title": "Hanna-Martine Baller:  Forholdet etter barn",
+      "date": "2026-08-06T06:00:00+02:00"
     }
   },
   {
