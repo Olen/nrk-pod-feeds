@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Senterpartiet vil forlenge drivstoffkutt",
-      "date": "2026-08-05T19:00:00+02:00"
+      "title": "Fortsatt uenighet etter drivstoffmøte",
+      "date": "2026-08-06T19:00:00+02:00"
     }
   },
   {
