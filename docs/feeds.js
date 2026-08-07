@@ -1741,8 +1741,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sommergjest: Emilie Nereng",
-      "date": "2026-07-31T05:00:00+02:00"
+      "title": "Sommergjest: Aksel Lund Svindal - fartskongen",
+      "date": "2026-08-07T05:00:00+02:00"
     }
   },
   {
