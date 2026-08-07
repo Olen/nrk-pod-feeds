@@ -272,10 +272,10 @@ const feeds = [
     "description": "Alt kan skje og ingen er trygge når fire komikere oppsummerer uka!",
     "image": "https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQcOyrUQAiswfpyCjSU-Th2Q.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Den nye franske hetebølgen",
-      "date": "2026-06-26T06:00:00+02:00"
+      "title": "Sesongstart på stranda i Ceuta",
+      "date": "2026-08-07T06:00:00+02:00"
     }
   },
   {
@@ -481,8 +481,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Odysséen, støy og kvalross",
-      "date": "2026-07-31T09:00:00+02:00"
+      "title": "Utseende, fjellrein og E6",
+      "date": "2026-08-07T09:00:00+02:00"
     }
   },
   {
@@ -2029,10 +2029,8 @@ const feeds = [
     "image": "https://gfx.nrk.no/nRje9HKnrW4EvTsx1QJ90gQCOiODH60y9hfIVXYhzGRQ.jpg",
     "season": null,
     "enabled": false,
-    "last_episode": {
-      "title": "Takk for nå <3",
-      "date": "2025-09-08T12:00:00+02:00"
-    }
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "treningskompis",
