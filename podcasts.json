@@ -232,7 +232,7 @@
         "description": "Alt kan skje og ingen er trygge når fire komikere oppsummerer uka!",
         "image": "https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQcOyrUQAiswfpyCjSU-Th2Q.jpg",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "dilemmaklemma",
@@ -1788,7 +1788,9 @@
         "description": "Ingrid Moholt Waaler tar deg med gjennom jungelen av deilig, søplete popkultur.",
         "image": "https://gfx.nrk.no/nRje9HKnrW4EvTsx1QJ90gQCOiODH60y9hfIVXYhzGRQ.jpg",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "treningskompis",
