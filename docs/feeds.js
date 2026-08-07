@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fortsatt uenighet etter drivstoffmøte",
-      "date": "2026-08-06T19:00:00+02:00"
+      "title": "Regjeringen lover raskere kraftutbygging",
+      "date": "2026-08-07T19:00:00+02:00"
     }
   },
   {
