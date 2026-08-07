@@ -1509,8 +1509,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Skal bensinprisen opp?",
-      "date": "2026-08-06T08:00:00+02:00"
+      "title": "Høyre-lederens oppgjør med FrP",
+      "date": "2026-08-07T08:00:00+02:00"
     }
   },
   {
