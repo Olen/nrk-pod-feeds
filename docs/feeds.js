@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Jubileum! - De unges panel",
-      "date": "2026-07-31T06:00:00+02:00"
+      "title": "Tårnet: Jubileum! - Folkets drømmepanel",
+      "date": "2026-08-07T06:00:00+02:00"
     }
   },
   {
@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Barn dør av sult i Afghanistan",
-      "date": "2026-08-06T05:59:00+02:00"
+      "title": "Slik beskytter du deg etter et dataangrep",
+      "date": "2026-08-07T05:59:00+02:00"
     }
   },
   {
@@ -1440,8 +1440,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Infantino-bråket: Kan Klaveness redde Fifa?",
-      "date": "2026-08-06T05:59:00+02:00"
+      "title": "«Heroin chic» er tilbake: Ein stille epidemi?",
+      "date": "2026-08-07T05:59:00+02:00"
     }
   },
   {
@@ -2170,8 +2170,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvordan stoppe skogbrannene",
-      "date": "2026-07-30T06:00:00+02:00"
+      "title": "Det umulige SoMe-forbudet",
+      "date": "2026-08-07T06:00:00+02:00"
     }
   },
   {
