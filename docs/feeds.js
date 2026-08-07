@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ny programleder, jodling og kondom-angst",
-      "date": "2026-08-04T06:00:00+02:00"
+      "title": "Irrasjonell frykt, menssmerter og Sofies fire tenner",
+      "date": "2026-08-07T12:00:00+02:00"
     }
   },
   {
