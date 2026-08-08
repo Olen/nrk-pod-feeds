@@ -518,8 +518,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Marcus Thrane - klassekampens martyr",
-      "date": "2026-08-05T06:00:00+02:00"
+      "title": "Karikaturtegneren mot Quisling",
+      "date": "2026-08-08T06:00:00+02:00"
     }
   },
   {
@@ -1568,10 +1568,10 @@ const feeds = [
     "description": "Her samles podkastdokumentarer fra NRK. Journalistikk og lydopplevelser om mennesker og samfunn. Historier fra virkeligheten bygger videre på podkasten Radiodok.",
     "image": "https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8QnRUX5sno2oEqScCBrSwoUA.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Demonutdriveren: Guds plan med det hele (5:5)",
-      "date": "2026-05-26T06:08:00+02:00"
+      "title": "Glimtkoden: Den store scenen (3:3)",
+      "date": "2026-08-08T06:02:00+02:00"
     }
   },
   {
