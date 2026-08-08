@@ -1069,8 +1069,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Høydepunkter fra 2025 - nr. 11",
-      "date": "2026-08-01T09:00:00+02:00"
+      "title": "Høydepunkter fra 2025 - nr. 12",
+      "date": "2026-08-08T09:00:00+02:00"
     }
   },
   {
@@ -1366,10 +1366,10 @@ const feeds = [
     "description": "Svensken Åsa Linderborg, dansken Hassan Preisler og norsken Hilde Sandvik gir deg pan-skandinavisk familieterapi hver lørdag.",
     "image": "https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAkblk2YiB-DRzJ-y-xo1ZQQ.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Demokratiets elitistiske dansegulv",
-      "date": "2026-06-20T06:00:00+02:00"
+      "title": "Falsk folkelighet",
+      "date": "2026-08-08T06:00:00+02:00"
     }
   },
   {
