@@ -1384,7 +1384,7 @@
         "description": "Her samles podkastdokumentarer fra NRK. Journalistikk og lydopplevelser om mennesker og samfunn. Historier fra virkeligheten bygger videre på podkasten Radiodok.",
         "image": "https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8QnRUX5sno2oEqScCBrSwoUA.jpg",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "radiolegen",
