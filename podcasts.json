@@ -1198,7 +1198,7 @@
         "description": "Svensken Åsa Linderborg, dansken Hassan Preisler og norsken Hilde Sandvik gir deg pan-skandinavisk familieterapi hver lørdag.",
         "image": "https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAkblk2YiB-DRzJ-y-xo1ZQQ.jpg",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "nrkbeta",
