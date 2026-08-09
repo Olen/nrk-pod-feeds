@@ -2136,8 +2136,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hanna-Martine Baller:  Forholdet etter barn",
-      "date": "2026-08-06T06:00:00+02:00"
+      "title": "Panelet: Internasjonal hore og puslespill",
+      "date": "2026-08-09T06:00:00+02:00"
     }
   },
   {
