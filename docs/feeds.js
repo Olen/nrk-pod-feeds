@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Regjeringen lover raskere kraftutbygging",
-      "date": "2026-08-07T19:00:00+02:00"
+      "title": "Høyre vil ha Senterpartiet med på skattekutt",
+      "date": "2026-08-10T19:00:00+02:00"
     }
   },
   {
