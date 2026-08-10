@@ -67,10 +67,10 @@ const feeds = [
     "description": "En tenketank for folk med lav intelligens.",
     "image": "https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVgVFteP96jsawr20gUhn3UEA.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Sommeren før alt raknet",
-      "date": "2026-06-29T06:00:00+02:00"
+      "title": "Steinars magiske tryllup",
+      "date": "2026-08-10T06:00:00+02:00"
     }
   },
   {
