@@ -1509,8 +1509,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Høyre-lederens oppgjør med FrP",
-      "date": "2026-08-07T08:00:00+02:00"
+      "title": "Vil granske norsk lærerutdanning",
+      "date": "2026-08-10T08:10:00+02:00"
     }
   },
   {
