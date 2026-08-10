@@ -63,7 +63,7 @@
         "description": "En tenketank for folk med lav intelligens.",
         "image": "https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVgVFteP96jsawr20gUhn3UEA.jpg",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "bakrommet",
