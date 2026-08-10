@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Slik beskytter du deg etter et dataangrep",
-      "date": "2026-08-07T05:59:00+02:00"
+      "title": "Flere studenter tvunget til å bo hjemme",
+      "date": "2026-08-10T05:59:00+02:00"
     }
   },
   {
@@ -1440,8 +1440,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "«Heroin chic» er tilbake: Ein stille epidemi?",
-      "date": "2026-08-07T05:59:00+02:00"
+      "title": "Grensekaos i Europa: Ble Ceuta offer for maktkamp?",
+      "date": "2026-08-10T06:00:00+02:00"
     }
   },
   {
@@ -1888,8 +1888,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Elvekrigen",
-      "date": "2026-08-03T06:00:00+02:00"
+      "title": "Vårbelgene",
+      "date": "2026-08-10T06:00:00+02:00"
     }
   },
   {
