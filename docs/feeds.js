@@ -1712,8 +1712,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Time 24: VI GREIDE DET",
-      "date": "2026-08-06T06:00:00+02:00"
+      "title": "Vi er tilbake!",
+      "date": "2026-08-10T06:00:00+02:00"
     }
   },
   {
