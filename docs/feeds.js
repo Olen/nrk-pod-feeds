@@ -1154,10 +1154,10 @@ const feeds = [
     "description": "Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.",
     "image": "https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEg1VWTRa_0tZIUmd5I26Q0qA.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Syting på forskjellige språk",
-      "date": "2026-06-19T06:00:00+02:00"
+      "title": "Sandeep´s bursdagssimulator",
+      "date": "2026-08-11T06:00:00+02:00"
     }
   },
   {
@@ -1509,8 +1509,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vil granske norsk lærerutdanning",
-      "date": "2026-08-10T08:10:00+02:00"
+      "title": "Det Store klimaoppgjøret",
+      "date": "2026-08-11T08:00:00+02:00"
     }
   },
   {
