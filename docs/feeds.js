@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Høyre vil ha Senterpartiet med på skattekutt",
-      "date": "2026-08-10T19:00:00+02:00"
+      "title": "Vil endre barneskolen",
+      "date": "2026-08-11T19:00:00+02:00"
     }
   },
   {
