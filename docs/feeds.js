@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Keisersnitt gir ikke sykmelding",
-      "date": "2026-08-10T13:30:00+02:00"
+      "title": "Den nyttige skogbrannen",
+      "date": "2026-08-11T13:00:00+02:00"
     }
   },
   {
