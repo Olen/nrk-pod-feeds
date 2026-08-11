@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Irrasjonell frykt, menssmerter og Sofies fire tenner",
-      "date": "2026-08-07T12:00:00+02:00"
+      "title": "I slekt med kjæresten, bombehopp og telefonskrekk",
+      "date": "2026-08-11T06:00:00+02:00"
     }
   },
   {
@@ -166,8 +166,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Rudy Ibanez' liv og levnet",
-      "date": "2026-08-04T06:00:00+02:00"
+      "title": "Fort nox, fox og rox",
+      "date": "2026-08-11T06:00:00+02:00"
     }
   },
   {
@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Flere studenter tvunget til å bo hjemme",
-      "date": "2026-08-10T05:59:00+02:00"
+      "title": "Desperat kamp mot klokka i Colombia",
+      "date": "2026-08-11T05:59:00+02:00"
     }
   },
   {
@@ -1440,8 +1440,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Grensekaos i Europa: Ble Ceuta offer for maktkamp?",
-      "date": "2026-08-10T06:00:00+02:00"
+      "title": "Album, press og pause: Kva skjer med Ariana Grande?",
+      "date": "2026-08-11T05:59:00+02:00"
     }
   },
   {
@@ -1467,10 +1467,10 @@ const feeds = [
     "description": "Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.",
     "image": "https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQgfZ3is7pSZ6oQ5Nz53FHew.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Det beste fra P3morgen",
-      "date": "2026-07-04T06:00:00+02:00"
+      "title": "Kongen befaler",
+      "date": "2026-08-10T06:00:00+02:00"
     }
   },
   {
@@ -2136,8 +2136,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Internasjonal hore og puslespill",
-      "date": "2026-08-09T06:00:00+02:00"
+      "title": "William Heimdal: Identitet og kjærlighet",
+      "date": "2026-08-11T06:00:00+02:00"
     }
   },
   {
