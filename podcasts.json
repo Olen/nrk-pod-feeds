@@ -1291,7 +1291,7 @@
         "description": "Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.",
         "image": "https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQgfZ3is7pSZ6oQ5Nz53FHew.jpg",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "paa_audition",
