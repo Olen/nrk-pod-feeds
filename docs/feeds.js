@@ -1712,8 +1712,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi er tilbake!",
-      "date": "2026-08-10T06:00:00+02:00"
+      "title": "Lydopptak fra dass",
+      "date": "2026-08-11T06:00:00+02:00"
     }
   },
   {
