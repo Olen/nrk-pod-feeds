@@ -1469,8 +1469,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kongen befaler",
-      "date": "2026-08-10T06:00:00+02:00"
+      "title": "En naturell kremost-dag.",
+      "date": "2026-08-12T06:00:00+02:00"
     }
   },
   {
@@ -1509,8 +1509,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Det Store klimaoppgjøret",
-      "date": "2026-08-11T08:00:00+02:00"
+      "title": "Næringslivet jubler for vindkraft",
+      "date": "2026-08-12T08:00:00+02:00"
     }
   },
   {
