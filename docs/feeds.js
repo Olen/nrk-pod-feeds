@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Den nyttige skogbrannen",
-      "date": "2026-08-11T13:00:00+02:00"
+      "title": "Mista Europa kontrollen?",
+      "date": "2026-08-12T13:30:00+02:00"
     }
   },
   {
