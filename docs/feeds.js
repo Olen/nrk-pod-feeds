@@ -1712,8 +1712,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Lydopptak fra dass",
-      "date": "2026-08-11T06:00:00+02:00"
+      "title": "Ludvig sitt sommer i P2",
+      "date": "2026-08-12T06:00:00+02:00"
     }
   },
   {
