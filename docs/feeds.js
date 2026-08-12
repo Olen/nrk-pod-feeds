@@ -518,8 +518,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Karikaturtegneren mot Quisling",
-      "date": "2026-08-08T06:00:00+02:00"
+      "title": "Blodbadet på Det Norske Teateret",
+      "date": "2026-08-12T06:00:00+02:00"
     }
   },
   {
@@ -648,8 +648,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kristoffer Columbus – havets admiral",
-      "date": "2026-08-05T06:00:00+02:00"
+      "title": "Simone de Beauvoir – radikal frihetstenker",
+      "date": "2026-08-12T06:00:00+02:00"
     }
   },
   {
@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Desperat kamp mot klokka i Colombia",
-      "date": "2026-08-11T05:59:00+02:00"
+      "title": "I kveld må du se opp",
+      "date": "2026-08-12T05:59:00+02:00"
     }
   },
   {
@@ -943,8 +943,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Martine-saken (2): Drapsalarm",
-      "date": "2026-08-05T06:00:00+02:00"
+      "title": "Martine-saken (3): Epsteins råd",
+      "date": "2026-08-12T06:00:00+02:00"
     }
   },
   {
@@ -1156,8 +1156,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sandeep´s bursdagssimulator",
-      "date": "2026-08-11T06:00:00+02:00"
+      "title": "OnlyFans og brekninger",
+      "date": "2026-08-12T06:00:00+02:00"
     }
   },
   {
@@ -1440,8 +1440,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Album, press og pause: Kva skjer med Ariana Grande?",
-      "date": "2026-08-11T05:59:00+02:00"
+      "title": "KI-skandale i politiet: Slik ble britene overvåket",
+      "date": "2026-08-12T05:59:00+02:00"
     }
   },
   {
@@ -1826,8 +1826,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "FIFAs skrekkpakke: Kvinne, skjev, jurist – og bergenser!",
-      "date": "2026-08-05T06:00:00+02:00"
+      "title": "BH-doping i Frankrike og Mikkel Rev i VAR-bua",
+      "date": "2026-08-12T06:00:00+02:00"
     }
   },
   {
