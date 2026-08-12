@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vil endre barneskolen",
-      "date": "2026-08-11T19:00:00+02:00"
+      "title": "PST advarer",
+      "date": "2026-08-12T19:00:00+02:00"
     }
   },
   {
