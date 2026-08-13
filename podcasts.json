@@ -771,7 +771,7 @@
         "description": "De store sakene fra nyhetsbildet forklart av Tone Sofie Aglen, Cecilie Langum Becker og Lars Nehru Sand. Programleder er Eivind Waage.",
         "image": "https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQPPO0FPkuikikr0SZzAXrGg.jpg",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "kompass",
