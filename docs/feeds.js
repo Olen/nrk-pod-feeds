@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mista Europa kontrollen?",
-      "date": "2026-08-12T13:30:00+02:00"
+      "title": "Trumps USA: Skjebnehøsten",
+      "date": "2026-08-13T13:30:00+02:00"
     }
   },
   {
@@ -1712,8 +1712,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ludvig sitt sommer i P2",
-      "date": "2026-08-12T06:00:00+02:00"
+      "title": "Norges mest komplette by",
+      "date": "2026-08-13T06:00:00+02:00"
     }
   },
   {
