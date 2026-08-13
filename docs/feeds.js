@@ -295,8 +295,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Da jeg møtte Leonardo DiCaprio",
-      "date": "2026-08-06T06:00:00+02:00"
+      "title": "Det må være stress å være mann",
+      "date": "2026-08-13T06:00:00+02:00"
     }
   },
   {
@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "I kveld må du se opp",
-      "date": "2026-08-12T05:59:00+02:00"
+      "title": "PST advarer mot Islamistisk propaganda",
+      "date": "2026-08-13T05:59:00+02:00"
     }
   },
   {
@@ -875,10 +875,10 @@ const feeds = [
     "description": "De store sakene fra nyhetsbildet forklart av Tone Sofie Aglen, Cecilie Langum Becker og Lars Nehru Sand. Programleder er Eivind Waage.",
     "image": "https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQPPO0FPkuikikr0SZzAXrGg.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Hvor trygt sitter Putin? – Ukraina mye sterkere nå",
-      "date": "2026-06-25T15:25:00+02:00"
+      "title": "Søreide vs Listhaug: Harde angrep fra Høyre",
+      "date": "2026-08-12T17:46:00+02:00"
     }
   },
   {
@@ -1156,8 +1156,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "OnlyFans og brekninger",
-      "date": "2026-08-12T06:00:00+02:00"
+      "title": "Pante World",
+      "date": "2026-08-13T06:00:00+02:00"
     }
   },
   {
@@ -1440,8 +1440,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "KI-skandale i politiet: Slik ble britene overvåket",
-      "date": "2026-08-12T05:59:00+02:00"
+      "title": "Jared Leto: Anklagene som ryster Hollywood",
+      "date": "2026-08-13T06:00:00+02:00"
     }
   },
   {
@@ -1469,8 +1469,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "En naturell kremost-dag.",
-      "date": "2026-08-12T06:00:00+02:00"
+      "title": "Infantino vs. Swift",
+      "date": "2026-08-13T06:00:00+02:00"
     }
   },
   {
@@ -2136,8 +2136,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "William Heimdal: Identitet og kjærlighet",
-      "date": "2026-08-11T06:00:00+02:00"
+      "title": "Solveig Kloppen: Når barna flytter",
+      "date": "2026-08-13T06:00:00+02:00"
     }
   },
   {
