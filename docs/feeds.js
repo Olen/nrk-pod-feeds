@@ -1069,8 +1069,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Høydepunkter fra 2025 - nr. 12",
-      "date": "2026-08-08T09:00:00+02:00"
+      "title": "«Tenk at en så enkel ting for meg, kan bety så mye for noen andre»",
+      "date": "2026-08-13T16:30:00+02:00"
     }
   },
   {
