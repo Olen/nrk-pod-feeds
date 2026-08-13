@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "PST advarer",
-      "date": "2026-08-12T19:00:00+02:00"
+      "title": "Søreide debuterer i partilederdebatten",
+      "date": "2026-08-13T19:00:00+02:00"
     }
   },
   {
