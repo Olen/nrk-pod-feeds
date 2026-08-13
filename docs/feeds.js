@@ -1509,8 +1509,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Næringslivet jubler for vindkraft",
-      "date": "2026-08-12T08:00:00+02:00"
+      "title": "Vil stoppe Frp, ikkje møte dei",
+      "date": "2026-08-13T09:00:00+02:00"
     }
   },
   {
