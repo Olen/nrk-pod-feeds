@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Søreide debuterer i partilederdebatten",
-      "date": "2026-08-13T19:00:00+02:00"
+      "title": "LO-topp og Rødt advarer",
+      "date": "2026-08-14T19:00:00+02:00"
     }
   },
   {
