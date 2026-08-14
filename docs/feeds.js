@@ -877,8 +877,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Søreide vs Listhaug: Harde angrep fra Høyre",
-      "date": "2026-08-12T17:46:00+02:00"
+      "title": "Svartmaler de med vilje? – Åpenbart bevisst",
+      "date": "2026-08-14T12:35:00+02:00"
     }
   },
   {
