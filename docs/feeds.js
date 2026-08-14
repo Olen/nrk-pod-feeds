@@ -1712,8 +1712,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norges mest komplette by",
-      "date": "2026-08-13T06:00:00+02:00"
+      "title": "Anna intervjuer A-kjendis",
+      "date": "2026-08-14T06:00:00+02:00"
     }
   },
   {
