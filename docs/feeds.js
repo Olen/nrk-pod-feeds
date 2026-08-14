@@ -274,8 +274,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sesongstart på stranda i Ceuta",
-      "date": "2026-08-07T06:00:00+02:00"
+      "title": "Et familienettverk av løgner",
+      "date": "2026-08-14T06:00:00+02:00"
     }
   },
   {
@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "PST advarer mot Islamistisk propaganda",
-      "date": "2026-08-13T05:59:00+02:00"
+      "title": "Mange trenger medisinsk evakuering i Gaza",
+      "date": "2026-08-14T05:59:00+02:00"
     }
   },
   {
@@ -1156,8 +1156,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Pante World",
-      "date": "2026-08-13T06:00:00+02:00"
+      "title": "Legavakta og impotent",
+      "date": "2026-08-14T06:00:00+02:00"
     }
   },
   {
@@ -1440,8 +1440,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jared Leto: Anklagene som ryster Hollywood",
-      "date": "2026-08-13T06:00:00+02:00"
+      "title": "Tørke, regn og varme: Kva skal vi ete i 2050?",
+      "date": "2026-08-14T05:59:00+02:00"
     }
   },
   {
@@ -1469,8 +1469,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Infantino vs. Swift",
-      "date": "2026-08-13T06:00:00+02:00"
+      "title": "Hvordan «lounge» på flyplassen",
+      "date": "2026-08-14T06:00:00+02:00"
     }
   },
   {
@@ -1741,8 +1741,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sommergjest: Aksel Lund Svindal - fartskongen",
-      "date": "2026-08-07T05:00:00+02:00"
+      "title": "Sommeren er over. For en høst vi får!",
+      "date": "2026-08-14T05:00:00+02:00"
     }
   },
   {
@@ -2168,8 +2168,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Det umulige SoMe-forbudet",
-      "date": "2026-08-07T06:00:00+02:00"
+      "title": "USA, Europa og innvandringen",
+      "date": "2026-08-14T06:00:00+02:00"
     }
   },
   {
