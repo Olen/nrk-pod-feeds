@@ -149,7 +149,7 @@
         "description": "Møt aktuelle forfattere, hør dem fortelle om den nye boken sin, forfatterskapet og hvordan bøkene blir til. Ny episode hver fredag!",
         "image": "https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYwg5AH_CksIikoU2ADJ-kDUg.jpg",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "brannbamsen_bjoernis",
@@ -893,10 +893,10 @@
         "id": "leseklubben",
         "title": "De 10 siste fra Leseklubben",
         "name": "Leseklubben",
-        "description": "Les med oss! Lydbok, leseoppskrift fra uke til uke og morsomme diskusjoner med gjester. \n\n",
+        "description": "Vi gjør lesing gøy! Leseklubben leser og diskuterer bøker med morsomme gjester – og gir deg lydboka!\n\n",
         "image": "https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELADvG3fDiPcFsHyGh3nJVwrg.jpg",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "lev_vel",
