@@ -177,10 +177,10 @@ const feeds = [
     "description": "Møt aktuelle forfattere, hør dem fortelle om den nye boken sin, forfatterskapet og hvordan bøkene blir til. Ny episode hver fredag!",
     "image": "https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYwg5AH_CksIikoU2ADJ-kDUg.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Tyra Teodora Tronstad: Etter katastrofen",
-      "date": "2026-06-19T06:00:00+02:00"
+      "title": "Helene Flood: Graver i det usagte",
+      "date": "2026-08-14T06:00:00+02:00"
     }
   },
   {
@@ -481,8 +481,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Utseende, fjellrein og E6",
-      "date": "2026-08-07T09:00:00+02:00"
+      "title": "Studenters fokus, solskjerming og bass",
+      "date": "2026-08-14T09:00:00+02:00"
     }
   },
   {
@@ -1017,10 +1017,10 @@ const feeds = [
     "id": "leseklubben",
     "title": "De 10 siste fra Leseklubben",
     "name": "Leseklubben",
-    "description": "Les med oss! Lydbok, leseoppskrift fra uke til uke og morsomme diskusjoner med gjester. \n\n",
+    "description": "Vi gjør lesing gøy! Leseklubben leser og diskuterer bøker med morsomme gjester – og gir deg lydboka!\n\n",
     "image": "https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELADvG3fDiPcFsHyGh3nJVwrg.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Leseklubben: «Brødrene Løvehjerte» med Else Kåss Furuseth: BONUS: Lindgrens fortsettelse på «Brødrene Løvehjerte»",
       "date": "2026-07-15T06:01:00+02:00"
@@ -1509,8 +1509,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vil stoppe Frp, ikkje møte dei",
-      "date": "2026-08-13T09:00:00+02:00"
+      "title": "Etter partileiardebatten",
+      "date": "2026-08-14T09:00:00+02:00"
     }
   },
   {
