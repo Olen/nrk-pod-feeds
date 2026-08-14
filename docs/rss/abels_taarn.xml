@@ -8,10 +8,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 07 Aug 2026 05:03:57 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 10:15:17 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Tårnet: Antarktis i sentrum!</title>
+      <description><![CDATA[I dagens Tårn drar vi helt ned til Antarktis for å kjenne på klodens mest ekstreme livsbetingelser.
+Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompetente ekspertpanel!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/d296eb66-805e-44bb-96eb-66805e44bb6f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d296eb66-805e-44bb-96eb-66805e44bb6f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:33</itunes:duration>
+      <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kBK87E3DWNN2RBE_z8xigwCwOmXdaqURAyPQ6G2O0Rrw.jpg"/>
+    </item>
+    <item>
+      <title>Tårnet: Jubileum! - Filosofi vs KI vs BioTech</title>
+      <description><![CDATA[Bonusepisode! Hva er viktigst: Filosofi, kunstig intelligens eller bioteknologi?  Tiårets kamp utkjempa under Abels tårns 15-årsjubileum. Dessuten får du høydepunkter fra musikkeksperimentet: Hva skjer når en gitar senkes i flytende nitrogen og en metallvokalist growler med helium?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/c5c3e976-8c65-4426-83e9-768c65142664_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c5c3e976-8c65-4426-83e9-768c65142664_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:49</itunes:duration>
+      <pubDate>Fri, 07 Aug 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/H-9sU5vpJTYPyxzm7S7caw2R9u1fMc_Wseyb_bcjN9_g.jpg"/>
+    </item>
     <item>
       <title>Tårnet: Jubileum! - Folkets drømmepanel</title>
       <description><![CDATA[Er Inga Strümke maskin eller menneske? Og hvordan kan vi vite det? Dette er et av spørsmålene folkets drømmepanel fikk bryne seg på under Abels tårns 15-årsjubileum. Og panelet - det var stemt fram av våre lyttere.]]></description>
@@ -83,25 +102,6 @@
       <itunes:duration>30:35</itunes:duration>
       <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten: Svinger du helst til høyre eller venstre?</title>
-      <description><![CDATA[Forskere har snublet over et mystisk instinkt i oss alle. Formelen for beste restaurant er oppdaget. Og solbriller kan byttes ut med øyedråper.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/0ef9e28f-9fdf-4520-b9e2-8f9fdfe5202b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/0ef9e28f-9fdf-4520-b9e2-8f9fdfe5202b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:42</itunes:duration>
-      <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
-    </item>
-    <item>
-      <title>Tårnet: Prater spekkhoggere?</title>
-      <description><![CDATA[Kunne vært kult å finne ut hva de prater OM!
-Lurer du på rare ting? Send inn dine spørsmål til Abels Tårns kompetente ekspertpanel!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/d5a8113d-6b3f-475a-a811-3d6b3fb75a73_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d5a8113d-6b3f-475a-a811-3d6b3fb75a73_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:32</itunes:duration>
-      <pubDate>Fri, 19 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Oqpe8fY6sMG20u8MKrlhgQDX4j4em_TitnBnTZzFNJ0A.jpg"/>
     </item>
   </channel>
 </rss>

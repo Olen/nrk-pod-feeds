@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Jubileum! - Folkets drømmepanel",
-      "date": "2026-08-07T06:00:00+02:00"
+      "title": "Tårnet: Antarktis i sentrum!",
+      "date": "2026-08-14T06:00:00+02:00"
     }
   },
   {
@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "I slekt med kjæresten, bombehopp og telefonskrekk",
-      "date": "2026-08-11T06:00:00+02:00"
+      "title": "Sommerflørt, traumer og skolestart-starterpack",
+      "date": "2026-08-14T12:00:00+02:00"
     }
   },
   {
