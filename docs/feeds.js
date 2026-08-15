@@ -518,8 +518,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Blodbadet på Det Norske Teateret",
-      "date": "2026-08-12T06:00:00+02:00"
+      "title": "Fra slave til slaveeier 1:3",
+      "date": "2026-08-15T06:00:00+02:00"
     }
   },
   {
@@ -1368,8 +1368,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Falsk folkelighet",
-      "date": "2026-08-08T06:00:00+02:00"
+      "title": "I seng med fienden",
+      "date": "2026-08-15T06:00:00+02:00"
     }
   },
   {
