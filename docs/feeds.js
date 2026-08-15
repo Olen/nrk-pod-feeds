@@ -1469,8 +1469,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvordan «lounge» på flyplassen",
-      "date": "2026-08-14T06:00:00+02:00"
+      "title": "Høydepunkter fra P3morgen",
+      "date": "2026-08-15T10:00:00+02:00"
     }
   },
   {
