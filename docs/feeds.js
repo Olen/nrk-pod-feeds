@@ -1069,8 +1069,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "«Tenk at en så enkel ting for meg, kan bety så mye for noen andre»",
-      "date": "2026-08-13T16:30:00+02:00"
+      "title": "Else Kåss Furuseth / Espen Abrahamsen / Silje Nordnes",
+      "date": "2026-08-15T14:10:00+02:00"
     }
   },
   {
