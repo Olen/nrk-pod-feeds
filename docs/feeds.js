@@ -2099,8 +2099,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tøff start etter ferien?",
-      "date": "2026-08-08T15:00:00+02:00"
+      "title": "Blodig sammenbrudd for åpent kamera",
+      "date": "2026-08-15T15:00:00+02:00"
     }
   },
   {
