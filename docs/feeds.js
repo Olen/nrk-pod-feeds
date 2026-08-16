@@ -2136,8 +2136,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Solveig Kloppen: Når barna flytter",
-      "date": "2026-08-13T06:00:00+02:00"
+      "title": "Panelet: Bitter kjerring og ny kjæreste?",
+      "date": "2026-08-16T06:00:00+02:00"
     }
   },
   {
