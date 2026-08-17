@@ -1509,8 +1509,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Etter partileiardebatten",
-      "date": "2026-08-14T09:00:00+02:00"
+      "title": "KI kan løse eldrebølgen – og gi oss mer fritid?",
+      "date": "2026-08-17T08:00:00+02:00"
     }
   },
   {
@@ -2055,10 +2055,10 @@ const feeds = [
     "description": "Thomas Seltzer med gjester gir deg kvalifisert synsing og ren kvasi-idioti som gjør deg opplyst og forvirret.  \n",
     "image": "https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwIHYdPcYirs3UOD1YzyetjQ.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Spritkongen",
-      "date": "2026-06-15T06:00:00+02:00"
+      "title": "Skjebnemellomvalget",
+      "date": "2026-08-17T06:00:00+02:00"
     }
   },
   {
