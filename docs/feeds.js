@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "LO-topp og Rødt advarer",
-      "date": "2026-08-14T19:00:00+02:00"
+      "title": "Bør vi ha mer dialog med Russland?",
+      "date": "2026-08-17T19:00:00+02:00"
     }
   },
   {
