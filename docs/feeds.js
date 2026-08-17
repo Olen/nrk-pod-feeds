@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps USA: Skjebnehøsten",
-      "date": "2026-08-13T13:30:00+02:00"
+      "title": "Venstrehendtes hverdag",
+      "date": "2026-08-17T14:30:00+02:00"
     }
   },
   {
@@ -1712,8 +1712,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Anna intervjuer A-kjendis",
-      "date": "2026-08-14T06:00:00+02:00"
+      "title": "Anna graver i Markus fortid",
+      "date": "2026-08-17T06:00:00+02:00"
     }
   },
   {
