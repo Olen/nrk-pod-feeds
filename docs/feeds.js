@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Antarktis i sentrum!",
-      "date": "2026-08-14T06:00:00+02:00"
+      "title": "Forskningsfronten: Hjernen lurer deg når du bråvekkes",
+      "date": "2026-08-17T06:00:00+02:00"
     }
   },
   {
@@ -69,8 +69,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Steinars magiske tryllup",
-      "date": "2026-08-10T06:00:00+02:00"
+      "title": "Vet folk hvem de er?",
+      "date": "2026-08-17T06:00:00+02:00"
     }
   },
   {
@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mange trenger medisinsk evakuering i Gaza",
-      "date": "2026-08-14T05:59:00+02:00"
+      "title": "Donald Trump roser Kim Jong-Un",
+      "date": "2026-08-17T05:59:00+02:00"
     }
   },
   {
@@ -1440,8 +1440,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tørke, regn og varme: Kva skal vi ete i 2050?",
-      "date": "2026-08-14T05:59:00+02:00"
+      "title": "Kjendismor forsvunnet: Krypto, blod og skrekkbrev",
+      "date": "2026-08-17T05:59:00+02:00"
     }
   },
   {
@@ -1888,8 +1888,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vårbelgene",
-      "date": "2026-08-10T06:00:00+02:00"
+      "title": "Hertugen",
+      "date": "2026-08-17T06:00:00+02:00"
     }
   },
   {
