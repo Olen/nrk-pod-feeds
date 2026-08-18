@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Venstrehendtes hverdag",
-      "date": "2026-08-17T14:30:00+02:00"
+      "title": "Kva kosta Talibans «fred»?",
+      "date": "2026-08-18T13:30:00+02:00"
     }
   },
   {
@@ -1738,8 +1738,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Anna graver i Markus fortid",
-      "date": "2026-08-17T06:00:00+02:00"
+      "title": "Daniel skal få monokkel",
+      "date": "2026-08-18T06:00:00+02:00"
     }
   },
   {
