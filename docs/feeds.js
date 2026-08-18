@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bør vi ha mer dialog med Russland?",
-      "date": "2026-08-17T19:00:00+02:00"
+      "title": "PST henlegger anmeldelse om hets mot AUF-leder",
+      "date": "2026-08-18T19:00:00+02:00"
     }
   },
   {
