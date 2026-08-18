@@ -804,6 +804,19 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "kilder_til_begeistring",
+    "title": "De 10 siste fra Kilder til begeistring",
+    "name": "Kilder til begeistring",
+    "description": "Hverdagen er full av ting å bli glad av, det gjelder bare å legge merke til dem.",
+    "image": "https://gfx.nrk.no/EoJT_rdzPpGdMqizVACGzAums0wrAPzKDdcK0t68D1UA.jpg",
+    "season": null,
+    "enabled": true,
+    "last_episode": {
+      "title": "Å sette inn en USB-kabel riktig vei på første forsøk",
+      "date": "2026-08-17T06:00:00+02:00"
+    }
+  },
+  {
     "id": "kjapt_oppdatert",
     "title": "De 10 siste fra Kjapt oppdatert",
     "name": "Kjapt oppdatert",
@@ -1681,6 +1694,19 @@ const feeds = [
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "sentralbordet",
+    "title": "De 10 siste fra Sentralbordet",
+    "name": "Sentralbordet",
+    "description": "Live, Vegard, Emilie og Ole Henry utgjør NRKs hemmelige sentralbord, hvor de ansatte må\ntulleringe til inn og utland.",
+    "image": "https://gfx.nrk.no/JdK6Jz4qE3JfOzh4lWbJdgSnsWz71S50Yu-VCB-X45Dg.jpg",
+    "season": null,
+    "enabled": true,
+    "last_episode": {
+      "title": "Sentralbordet kommer 20. august",
+      "date": "2026-08-14T14:00:00+02:00"
+    }
   },
   {
     "id": "seriesnakk",
