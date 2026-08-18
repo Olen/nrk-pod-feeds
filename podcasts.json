@@ -880,7 +880,7 @@
         "description": "Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.",
         "image": "https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgdUzhJwvT8l8xdy1x65rreA.jpg",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "labyrint_om_natten",
