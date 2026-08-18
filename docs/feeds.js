@@ -1004,10 +1004,10 @@ const feeds = [
     "description": "Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.",
     "image": "https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgdUzhJwvT8l8xdy1x65rreA.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Fellesskap - med Ingvild Hegge Eriksen",
-      "date": "2026-06-17T06:00:00+02:00"
+      "title": "Rød løper - med Elin Sofye Rabbevåg",
+      "date": "2026-08-18T06:00:00+02:00"
     }
   },
   {
@@ -1522,8 +1522,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "KI kan løse eldrebølgen – og gi oss mer fritid?",
-      "date": "2026-08-17T08:00:00+02:00"
+      "title": "Svenneby etterlyser Frp i kamp mot nett-troll",
+      "date": "2026-08-18T08:00:00+02:00"
     }
   },
   {
