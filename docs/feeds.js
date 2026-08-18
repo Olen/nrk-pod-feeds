@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sommerflørt, traumer og skolestart-starterpack",
-      "date": "2026-08-14T12:00:00+02:00"
+      "title": "Spyfobi, ekstremisme og Sofies kleineste live",
+      "date": "2026-08-18T06:00:00+02:00"
     }
   },
   {
@@ -166,8 +166,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fort nox, fox og rox",
-      "date": "2026-08-11T06:00:00+02:00"
+      "title": "Konfirmasjonsartisten",
+      "date": "2026-08-18T06:00:00+02:00"
     }
   },
   {
@@ -825,8 +825,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Donald Trump roser Kim Jong-Un",
-      "date": "2026-08-17T05:59:00+02:00"
+      "title": "Kongen behandles for blodsykdom",
+      "date": "2026-08-18T05:59:00+02:00"
     }
   },
   {
@@ -1169,8 +1169,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Legavakta og impotent",
-      "date": "2026-08-14T06:00:00+02:00"
+      "title": "Fartsbot og operasjon",
+      "date": "2026-08-18T06:00:00+02:00"
     }
   },
   {
@@ -1453,8 +1453,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kjendismor forsvunnet: Krypto, blod og skrekkbrev",
-      "date": "2026-08-17T05:59:00+02:00"
+      "title": "De mystiske brannene i Lofoten: Sto noen bak?",
+      "date": "2026-08-18T05:59:00+02:00"
     }
   },
   {
@@ -2162,8 +2162,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Bitter kjerring og ny kjæreste?",
-      "date": "2026-08-16T06:00:00+02:00"
+      "title": "Nils Bech: Skam",
+      "date": "2026-08-18T06:00:00+02:00"
     }
   },
   {
