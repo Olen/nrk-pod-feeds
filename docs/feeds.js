@@ -627,8 +627,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Terraskandalen: «Deep shit» (2:2)",
-      "date": "2026-07-25T06:01:00+02:00"
+      "title": "Kommer 22.august: Døden på Operafjellet",
+      "date": "2026-08-18T09:30:00+02:00"
     }
   },
   {

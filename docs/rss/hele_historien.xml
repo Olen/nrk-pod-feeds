@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 25 Jul 2026 04:26:52 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Jul 2026 06:01:00 +0200</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:52:04 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 09:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
+    <item>
+      <title>Kommer 22.august: Døden på Operafjellet</title>
+      <description><![CDATA[Et russisk fly med 141 om bord styrter på Svalbard. Redningsarbeidet er vanskelig, og midt i katastrofen nekter russerne å følge norsk lov.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/832077c7-b105-4a44-a077-c7b1059a44e4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/832077c7-b105-4a44-a077-c7b1059a44e4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:29</itunes:duration>
+      <pubDate>Tue, 18 Aug 2026 09:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/p84kxYwg6EII-7Z7U3kiwgiG4lPJ5Z3IYAC03JqXMbwA.jpg"/>
+    </item>
     <item>
       <title>Terraskandalen: «Deep shit» (2:2)</title>
       <description><![CDATA[Snøballen ruller. Hundrevis av millioner kroner vil gå tapt hvis ikke kommunene satser enda mer.]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>48:49</itunes:duration>
       <pubDate>Fri, 10 Jul 2026 00:09:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/hTgjA2nHOFH_hpozOnjlSg88PVhxtcslb2UGB4J9glBA.jpg"/>
-    </item>
-    <item>
-      <title>22. juli: Hvem var Anders Behring Breivik? (2:8)</title>
-      <description><![CDATA[En enslig norsk høyre-ekstremist sto bak Norges verste terrorangrep. Hvem var Anders Behring Breivik for de som kjente ham? Hvordan endte han opp som terrorist?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/3d0a46c3-ddf1-4fda-817f-bc4d92f96041_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/3d0a46c3-ddf1-4fda-817f-bc4d92f96041_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:02</itunes:duration>
-      <pubDate>Fri, 10 Jul 2026 00:06:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hioB3bwwdSaPIivUjAeemAn0fo3AVbXk_WloxNlTTCRw.jpg"/>
     </item>
   </channel>
 </rss>
