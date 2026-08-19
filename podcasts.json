@@ -69,10 +69,10 @@
         "id": "bakrommet",
         "title": "De 10 siste fra Bakrommet",
         "name": "Bakrommet",
-        "description": "Norge skal til VM og våre eksperter prepper deg med alt du bør vite om spillerne, formen og motstanderne - både før og under mesterskapet.",
+        "description": "Norge er endelig i VM igjen og våre eksperter prepper deg med alt du bør vite om spillerne,  motstanderne og de store snakkisene.",
         "image": "https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gKMM_8zGRme6av-I4R0j25A.jpg",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "baksnakk",
@@ -98,7 +98,7 @@
         "description": "Intriger, sex og brodermord – undere, undergang og oppstandelse. Ingen bok har påvirket vår verden mer enn Bibelen. Men vet du hva som står i den? Are Sende Osen forteller. \n\n",
         "image": "https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQ-UL0nNNKKblUjSMabQ15yw.jpg",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "billis_og_bollos",
