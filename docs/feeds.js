@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "PST henlegger anmeldelse om hets mot AUF-leder",
-      "date": "2026-08-18T19:00:00+02:00"
+      "title": "Bane Nor beklager",
+      "date": "2026-08-19T19:00:00+02:00"
     }
   },
   {
