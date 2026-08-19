@@ -903,8 +903,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Søkte kjærlighet på benk",
-      "date": "2026-08-06T06:04:00+02:00"
+      "title": "Mitt indre kompass: Ingrid Bjørnov",
+      "date": "2026-08-19T06:04:00+02:00"
     }
   },
   {
