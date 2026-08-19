@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Hjernen lurer deg når du bråvekkes",
-      "date": "2026-08-17T06:00:00+02:00"
+      "title": "Forskningsfronten: Mann fikk meteoritt i senga",
+      "date": "2026-08-19T06:00:00+02:00"
     }
   },
   {
@@ -518,8 +518,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fra slave til slaveeier 1:3",
-      "date": "2026-08-15T06:00:00+02:00"
+      "title": "Fra slave til slaveeier 2:3",
+      "date": "2026-08-19T06:00:00+02:00"
     }
   },
   {
@@ -648,8 +648,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Simone de Beauvoir – radikal frihetstenker",
-      "date": "2026-08-12T06:00:00+02:00"
+      "title": "Anne-Cath. Vestly – Norges mormor",
+      "date": "2026-08-19T06:00:00+02:00"
     }
   },
   {
@@ -825,8 +825,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kongen behandles for blodsykdom",
-      "date": "2026-08-18T05:59:00+02:00"
+      "title": "Kripos vil ha aldersgrense i sosiale medier",
+      "date": "2026-08-19T05:59:00+02:00"
     }
   },
   {
@@ -956,8 +956,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Martine-saken (3): Epsteins råd",
-      "date": "2026-08-12T06:00:00+02:00"
+      "title": "Martine-saken (4): Farouk svarer",
+      "date": "2026-08-19T06:00:00+02:00"
     }
   },
   {
@@ -1006,8 +1006,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Rød løper - med Elin Sofye Rabbevåg",
-      "date": "2026-08-18T06:00:00+02:00"
+      "title": "Ballen - med Ingrid Helene Kopperstad Raunehaug",
+      "date": "2026-08-19T06:00:00+02:00"
     }
   },
   {
@@ -1082,8 +1082,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Else Kåss Furuseth / Espen Abrahamsen / Silje Nordnes",
-      "date": "2026-08-15T14:10:00+02:00"
+      "title": "«Jeg flytter hjem!»",
+      "date": "2026-08-19T06:00:00+02:00"
     }
   },
   {
@@ -1169,8 +1169,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fartsbot og operasjon",
-      "date": "2026-08-18T06:00:00+02:00"
+      "title": "Istanbul og flyetikette",
+      "date": "2026-08-19T06:00:00+02:00"
     }
   },
   {
@@ -1453,8 +1453,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "De mystiske brannene i Lofoten: Sto noen bak?",
-      "date": "2026-08-18T05:59:00+02:00"
+      "title": "Oksepenis og grisehoder: Fadderuke-rituale avslørt",
+      "date": "2026-08-19T05:59:00+02:00"
     }
   },
   {
@@ -1852,8 +1852,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "BH-doping i Frankrike og Mikkel Rev i VAR-bua",
-      "date": "2026-08-12T06:00:00+02:00"
+      "title": "Martin Ødegaard sendte Donnarumma på tyrkisk klinikk",
+      "date": "2026-08-19T06:00:00+02:00"
     }
   },
   {

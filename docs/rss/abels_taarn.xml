@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 17 Aug 2026 04:01:33 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 04:49:55 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten: Mann fikk meteoritt i senga</title>
+      <description><![CDATA[Spesielt, men rarere var at den inneholdt ingredienser til liv. Dessuten, forskere vet nå hvordan du stokker kort best og hvordan vann former verden]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/4e678a90-86e3-4311-a78a-9086e34311f2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4e678a90-86e3-4311-a78a-9086e34311f2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:27</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
+    </item>
     <item>
       <title>Forskningsfronten: Hjernen lurer deg når du bråvekkes</title>
       <description><![CDATA[Og det kan være trøblete. Dessuten, speil i verdensrommet vil snart gi deg sollys hele døgnet, mens KI er avslørt som en dårlig boligkjøper]]></description>
@@ -93,15 +102,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <itunes:duration>56:59</itunes:duration>
       <pubDate>Fri, 03 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/o39sckMxwRPxNkGaac62TwibAZjwsERBMyMVF_iIWeaA.jpg"/>
-    </item>
-    <item>
-      <title>Tårnet: Hvordan finner skreien veien?</title>
-      <description><![CDATA[Abels tårn er på turné  - denne gangen fra Norges gamle navle: Kabelvåg.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/4ac3fcf0-60e0-4f30-83fc-f060e0cf305e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4ac3fcf0-60e0-4f30-83fc-f060e0cf305e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:25</itunes:duration>
-      <pubDate>Fri, 26 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/brHXQJ1UULA6YA4YAbxlQw2WPpKxLcC0FoA7oMQXZfAw.jpg"/>
     </item>
   </channel>
 </rss>
