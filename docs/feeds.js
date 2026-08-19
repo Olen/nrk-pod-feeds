@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kva kosta Talibans «fred»?",
-      "date": "2026-08-18T13:30:00+02:00"
+      "title": "Hva koster et varmere Norge?",
+      "date": "2026-08-19T13:40:00+02:00"
     }
   },
   {
@@ -1738,8 +1738,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Daniel skal få monokkel",
-      "date": "2026-08-18T06:00:00+02:00"
+      "title": "Fra sump til Skåber",
+      "date": "2026-08-19T06:00:00+02:00"
     }
   },
   {
