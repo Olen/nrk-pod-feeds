@@ -77,10 +77,10 @@ const feeds = [
     "id": "bakrommet",
     "title": "De 10 siste fra Bakrommet",
     "name": "Bakrommet",
-    "description": "Norge skal til VM og våre eksperter prepper deg med alt du bør vite om spillerne, formen og motstanderne - både før og under mesterskapet.",
+    "description": "Norge er endelig i VM igjen og våre eksperter prepper deg med alt du bør vite om spillerne,  motstanderne og de store snakkisene.",
     "image": "https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gKMM_8zGRme6av-I4R0j25A.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Spania er verdens beste",
       "date": "2026-07-20T04:52:00+02:00"
@@ -114,10 +114,10 @@ const feeds = [
     "description": "Intriger, sex og brodermord – undere, undergang og oppstandelse. Ingen bok har påvirket vår verden mer enn Bibelen. Men vet du hva som står i den? Are Sende Osen forteller. \n\n",
     "image": "https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQ-UL0nNNKKblUjSMabQ15yw.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Jona i fisken (30:40)",
-      "date": "2026-03-04T06:01:00+01:00"
+      "title": "Døperen Johannes (31:40)",
+      "date": "2026-08-19T06:00:00+02:00"
     }
   },
   {
@@ -1522,8 +1522,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Svenneby etterlyser Frp i kamp mot nett-troll",
-      "date": "2026-08-18T08:00:00+02:00"
+      "title": "\"Toget går på helsa løs\"",
+      "date": "2026-08-19T08:00:00+02:00"
     }
   },
   {
