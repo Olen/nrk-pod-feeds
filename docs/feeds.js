@@ -1522,8 +1522,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "\"Toget går på helsa løs\"",
-      "date": "2026-08-19T08:00:00+02:00"
+      "title": "Internt opprør i Høyre",
+      "date": "2026-08-20T08:00:00+02:00"
     }
   },
   {
