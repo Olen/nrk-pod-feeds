@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bane Nor beklager",
-      "date": "2026-08-19T19:00:00+02:00"
+      "title": "Vartslingssaken mot tidligere leder Lars Løvold er avsluttet.",
+      "date": "2026-08-20T19:00:00+02:00"
     }
   },
   {
