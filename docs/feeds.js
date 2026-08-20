@@ -1482,8 +1482,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "En kynisk verden.",
-      "date": "2026-08-19T06:00:00+02:00"
+      "title": "Et lag med tre minoritetskvinner",
+      "date": "2026-08-20T06:00:00+02:00"
     }
   },
   {
