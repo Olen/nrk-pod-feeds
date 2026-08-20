@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hva koster et varmere Norge?",
-      "date": "2026-08-19T13:40:00+02:00"
+      "title": "Trumps USA: Kvinnen med printeren",
+      "date": "2026-08-20T13:00:00+02:00"
     }
   },
   {
