@@ -295,8 +295,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Det må være stress å være mann",
-      "date": "2026-08-13T06:00:00+02:00"
+      "title": "Å smøre fremmede med solkrem",
+      "date": "2026-08-20T06:00:00+02:00"
     }
   },
   {
@@ -825,8 +825,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kripos vil ha aldersgrense i sosiale medier",
-      "date": "2026-08-19T05:59:00+02:00"
+      "title": "FpU-leder trekker seg etter varsel",
+      "date": "2026-08-20T05:59:00+02:00"
     }
   },
   {
@@ -1169,8 +1169,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Istanbul og flyetikette",
-      "date": "2026-08-19T06:00:00+02:00"
+      "title": "Business og brødkutting",
+      "date": "2026-08-20T06:00:00+02:00"
     }
   },
   {
@@ -1453,8 +1453,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Oksepenis og grisehoder: Fadderuke-rituale avslørt",
-      "date": "2026-08-19T05:59:00+02:00"
+      "title": "Streamet selvskading: Hva skjedde med Perez Hilton?",
+      "date": "2026-08-20T05:59:00+02:00"
     }
   },
   {
@@ -1704,8 +1704,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sentralbordet kommer 20. august",
-      "date": "2026-08-14T14:00:00+02:00"
+      "title": "- Jeg ringer angående den vannkukeren",
+      "date": "2026-08-20T06:01:00+02:00"
     }
   },
   {
@@ -2162,8 +2162,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nils Bech: Skam",
-      "date": "2026-08-18T06:00:00+02:00"
+      "title": "Hedda Skaug: Å slippe noen inn",
+      "date": "2026-08-20T06:00:00+02:00"
     }
   },
   {
