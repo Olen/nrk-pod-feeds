@@ -890,8 +890,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Svartmaler de med vilje? – Åpenbart bevisst",
-      "date": "2026-08-14T12:35:00+02:00"
+      "title": "FpU-leder trekker seg: Har politikken et alkoproblem?",
+      "date": "2026-08-20T14:05:00+02:00"
     }
   },
   {
@@ -1738,8 +1738,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fra sump til Skåber",
-      "date": "2026-08-19T06:00:00+02:00"
+      "title": "Kan katta bæsje i naboens hage?",
+      "date": "2026-08-20T06:00:00+02:00"
     }
   },
   {
