@@ -1738,8 +1738,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kan katta bæsje i naboens hage?",
-      "date": "2026-08-20T06:00:00+02:00"
+      "title": "Daniel intervjuer Steinar Suvatne",
+      "date": "2026-08-21T06:00:00+02:00"
     }
   },
   {
