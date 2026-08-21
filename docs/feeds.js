@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Mann fikk meteoritt i senga",
-      "date": "2026-08-19T06:00:00+02:00"
+      "title": "Tårnet: Hvor livsfarlige er trær?",
+      "date": "2026-08-21T06:00:00+02:00"
     }
   },
   {
