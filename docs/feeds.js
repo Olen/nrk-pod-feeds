@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Spyfobi, ekstremisme og Sofies kleineste live",
-      "date": "2026-08-18T06:00:00+02:00"
+      "title": "Rød BH, lunsj-idéer og fjerting i badekaret",
+      "date": "2026-08-21T12:00:00+02:00"
     }
   },
   {
@@ -1482,8 +1482,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Et lag med tre minoritetskvinner",
-      "date": "2026-08-20T06:00:00+02:00"
+      "title": "Stjernetegn vs. arv og miljø",
+      "date": "2026-08-21T06:00:00+02:00"
     }
   },
   {
