@@ -179,8 +179,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Helene Flood: Graver i det usagte",
-      "date": "2026-08-14T06:00:00+02:00"
+      "title": "Tore Renberg",
+      "date": "2026-08-21T06:00:00+02:00"
     }
   },
   {
@@ -274,8 +274,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Et familienettverk av løgner",
-      "date": "2026-08-14T06:00:00+02:00"
+      "title": "Hjemmekontorets død",
+      "date": "2026-08-21T06:00:00+02:00"
     }
   },
   {
@@ -825,8 +825,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "FpU-leder trekker seg etter varsel",
-      "date": "2026-08-20T05:59:00+02:00"
+      "title": "Slår alarm om leveforholdene i Gaza",
+      "date": "2026-08-21T05:59:00+02:00"
     }
   },
   {
@@ -1169,8 +1169,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Business og brødkutting",
-      "date": "2026-08-20T06:00:00+02:00"
+      "title": "Boller og nabopikk",
+      "date": "2026-08-21T06:00:00+02:00"
     }
   },
   {
@@ -1453,8 +1453,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Streamet selvskading: Hva skjedde med Perez Hilton?",
-      "date": "2026-08-20T05:59:00+02:00"
+      "title": "Donald Trump og Kim Jong-un: En livsfarlig flørt?",
+      "date": "2026-08-21T05:59:00+02:00"
     }
   },
   {
@@ -2194,8 +2194,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "USA, Europa og innvandringen",
-      "date": "2026-08-14T06:00:00+02:00"
+      "title": "Voldelig mangel på soldater",
+      "date": "2026-08-21T06:00:00+02:00"
     }
   },
   {
