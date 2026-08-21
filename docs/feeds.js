@@ -481,8 +481,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Studenters fokus, solskjerming og bass",
-      "date": "2026-08-14T09:00:00+02:00"
+      "title": "Kommentarfeltet, smartbriller og hjemmekontor",
+      "date": "2026-08-21T09:00:00+02:00"
     }
   },
   {
