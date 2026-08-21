@@ -1767,8 +1767,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sommeren er over. For en høst vi får!",
-      "date": "2026-08-14T05:00:00+02:00"
+      "title": "Eksproffens Birkentips og Sindres første ritt.",
+      "date": "2026-08-21T05:00:00+02:00"
     }
   },
   {
