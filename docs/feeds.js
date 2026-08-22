@@ -1082,8 +1082,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "«Jeg flytter hjem!»",
-      "date": "2026-08-19T06:00:00+02:00"
+      "title": "Tara Lina Shahin / Ole Henry Snildalsli / Kristine Grændsen",
+      "date": "2026-08-22T14:30:00+02:00"
     }
   },
   {
