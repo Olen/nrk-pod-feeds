@@ -518,8 +518,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fra slave til slaveeier 2:3",
-      "date": "2026-08-19T06:00:00+02:00"
+      "title": "Fra slave til slaveeier 3:3",
+      "date": "2026-08-22T06:00:00+02:00"
     }
   },
   {
@@ -627,8 +627,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kommer 22.august: Døden på Operafjellet",
-      "date": "2026-08-18T09:30:00+02:00"
+      "title": "Døden på Operafjellet",
+      "date": "2026-08-22T06:00:00+02:00"
     }
   },
   {
@@ -1381,8 +1381,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "I seng med fienden",
-      "date": "2026-08-15T06:00:00+02:00"
+      "title": "Når villdyret våkner",
+      "date": "2026-08-22T06:00:00+02:00"
     }
   },
   {
@@ -1482,8 +1482,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Stjernetegn vs. arv og miljø",
-      "date": "2026-08-21T06:00:00+02:00"
+      "title": "Høydepunkter fra P3morgen!",
+      "date": "2026-08-22T06:00:00+02:00"
     }
   },
   {
