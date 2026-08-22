@@ -2125,8 +2125,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Blodig sammenbrudd for åpent kamera",
-      "date": "2026-08-15T15:00:00+02:00"
+      "title": "Tog til besvær",
+      "date": "2026-08-22T15:00:00+02:00"
     }
   },
   {
