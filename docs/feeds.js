@@ -2162,8 +2162,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hedda Skaug: Å slippe noen inn",
-      "date": "2026-08-20T06:00:00+02:00"
+      "title": "Panelet: Singelgåten og forbudt frukt",
+      "date": "2026-08-23T06:00:00+02:00"
     }
   },
   {
