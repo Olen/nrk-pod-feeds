@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 21 Aug 2026 09:50:41 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 04:07:43 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten: Du kan faktisk bli allergisk mot kjøtt</title>
+      <description><![CDATA[Bra for miljøet kanskje, men ikke for deg. Dessuten, et enorm sort hull er oppdaget, og Starlink-satellitter gjør ufrivillig ekstra nytte for seg]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/7b145473-e5e4-48b9-9454-73e5e4f8b94c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/7b145473-e5e4-48b9-9454-73e5e4f8b94c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:27</itunes:duration>
+      <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
+    </item>
     <item>
       <title>Tårnet: Hvor livsfarlige er trær?</title>
       <description><![CDATA[Vi kan alle bli parkert i parken.
@@ -94,15 +103,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <itunes:duration>01:11:28</itunes:duration>
       <pubDate>Fri, 17 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xNx5YuMwzUbBE4BTbHUd0QSpEvpxeHbgfCvIB-uS3ODw.jpg"/>
-    </item>
-    <item>
-      <title>Tårnet: Bør man kjøre fortere når det blåser?</title>
-      <description><![CDATA[Man løper jo når  det regner for å  ikke å bli våt. Abels tårn har tatt turen til Harstad, og et panel med lokale eksperter svarer. Blant annet på spørsmålet om hvordan man finner et oljefelt, og hvordan det føles når man gjør det!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/1c9b9c2d-7db9-458c-9b9c-2d7db9958c48_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1c9b9c2d-7db9-458c-9b9c-2d7db9958c48_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:35</itunes:duration>
-      <pubDate>Fri, 10 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JHo-qc2_1GJzzjQTTmgqhAFuoZHLZ05csYLEoBxjpmAw.jpg"/>
     </item>
   </channel>
 </rss>

@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Hvor livsfarlige er trær?",
-      "date": "2026-08-21T06:00:00+02:00"
+      "title": "Forskningsfronten: Du kan faktisk bli allergisk mot kjøtt",
+      "date": "2026-08-24T06:00:00+02:00"
     }
   },
   {
@@ -69,8 +69,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vet folk hvem de er?",
-      "date": "2026-08-17T06:00:00+02:00"
+      "title": "Tegn fra barndommen",
+      "date": "2026-08-24T06:00:00+02:00"
     }
   },
   {
@@ -812,8 +812,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Å sette inn en USB-kabel riktig vei på første forsøk",
-      "date": "2026-08-17T06:00:00+02:00"
+      "title": "Fremmede som tøyser med småbarn",
+      "date": "2026-08-24T06:00:00+02:00"
     }
   },
   {
@@ -825,8 +825,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Slår alarm om leveforholdene i Gaza",
-      "date": "2026-08-21T05:59:00+02:00"
+      "title": "Kongens helsesituasjon forverra",
+      "date": "2026-08-24T05:59:00+02:00"
     }
   },
   {
@@ -1453,8 +1453,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Donald Trump og Kim Jong-un: En livsfarlig flørt?",
-      "date": "2026-08-21T05:59:00+02:00"
+      "title": "«Putins mareritt»: Dette er Ukrainas dronekommando",
+      "date": "2026-08-24T05:59:00+02:00"
     }
   },
   {
@@ -1914,8 +1914,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hertugen",
-      "date": "2026-08-17T06:00:00+02:00"
+      "title": "Dødsskvadronene",
+      "date": "2026-08-24T06:00:00+02:00"
     }
   },
   {
@@ -2083,8 +2083,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Skjebnemellomvalget",
-      "date": "2026-08-17T06:00:00+02:00"
+      "title": "Punk i 50 år",
+      "date": "2026-08-24T06:00:00+02:00"
     }
   },
   {
@@ -2223,8 +2223,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Wokeskandalen i Cambridge",
-      "date": "2026-08-21T13:01:00+02:00"
+      "title": "Islamister bruker ikke Nikesko",
+      "date": "2026-08-24T06:00:00+02:00"
     }
   },
   {
