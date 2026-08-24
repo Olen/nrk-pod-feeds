@@ -1522,8 +1522,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Omkamp om Co2-avgiften",
-      "date": "2026-08-21T08:00:00+02:00"
+      "title": "Ein meir klassisk skule",
+      "date": "2026-08-24T08:00:00+02:00"
     }
   },
   {
