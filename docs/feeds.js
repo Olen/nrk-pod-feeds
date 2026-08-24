@@ -361,8 +361,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps USA: Kvinnen med printeren",
-      "date": "2026-08-20T13:00:00+02:00"
+      "title": "Sex uten hemninger",
+      "date": "2026-08-24T13:45:00+02:00"
     }
   },
   {
@@ -1738,8 +1738,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Daniel intervjuer Steinar Suvatne",
-      "date": "2026-08-21T06:00:00+02:00"
+      "title": "Kabaret med jordbærgelé",
+      "date": "2026-08-24T06:00:00+02:00"
     }
   },
   {
