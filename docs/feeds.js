@@ -240,8 +240,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Flygelederstreiken rammer hele landet",
-      "date": "2026-08-21T19:00:00+02:00"
+      "title": "Kong Harald på sykehus",
+      "date": "2026-08-24T19:00:00+02:00"
     }
   },
   {
