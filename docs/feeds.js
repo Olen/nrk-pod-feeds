@@ -1480,8 +1480,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kattehuset og  Lommemannen",
-      "date": "2026-08-24T06:00:00+02:00"
+      "title": "Kjeks med smak av boyband",
+      "date": "2026-08-25T06:00:00+02:00"
     }
   },
   {
