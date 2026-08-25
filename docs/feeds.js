@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Steinar Suvatne",
-      "date": "2026-08-24T14:30:00+02:00"
+      "title": "Tommy Olsen",
+      "date": "2026-08-25T13:25:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sex uten hemninger",
-      "date": "2026-08-24T13:45:00+02:00"
+      "title": "Hva sier tallene om nordmenn?",
+      "date": "2026-08-25T13:00:00+02:00"
     }
   },
   {
