@@ -888,8 +888,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "FpU-leder trekker seg: Har politikken et alkoproblem?",
-      "date": "2026-08-20T14:05:00+02:00"
+      "title": "Kongens sykdom: – Folks infobehov er umettelig",
+      "date": "2026-08-25T16:08:00+02:00"
     }
   },
   {
