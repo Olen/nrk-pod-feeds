@@ -77,13 +77,13 @@ const feeds = [
     "id": "bakrommet",
     "title": "De 10 siste fra Bakrommet",
     "name": "Bakrommet",
-    "description": "Norge er endelig i VM igjen og våre eksperter prepper deg med alt du bør vite om spillerne,  motstanderne og de store snakkisene.",
+    "description": "VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.",
     "image": "https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gKMM_8zGRme6av-I4R0j25A.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Spania er verdens beste",
-      "date": "2026-07-20T04:52:00+02:00"
+      "title": "Vi er klare for høstens fotballfest!",
+      "date": "2026-08-24T14:50:00+02:00"
     }
   },
   {
@@ -330,10 +330,10 @@ const feeds = [
     "description": "Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. ",
     "image": "https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAp2QUB47AMci5g4y9UH5BSA.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Cecilie Langum Becker",
-      "date": "2026-06-18T12:45:00+02:00"
+      "title": "Steinar Suvatne",
+      "date": "2026-08-24T14:30:00+02:00"
     }
   },
   {
