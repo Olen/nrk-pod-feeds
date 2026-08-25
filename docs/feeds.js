@@ -144,10 +144,8 @@ const feeds = [
     "image": "https://gfx.nrk.no/FtAD_t9saqQ0scxa1Qp6JQ_188X_d-brdGVnu2DIfvbQ.jpg",
     "season": null,
     "enabled": false,
-    "last_episode": {
-      "title": "Halloween",
-      "date": "2026-06-19T06:08:00+02:00"
-    }
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "bjoernen_lyver",
@@ -1522,8 +1520,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ein meir klassisk skule",
-      "date": "2026-08-24T08:00:00+02:00"
+      "title": "Island, EU og oss",
+      "date": "2026-08-25T08:00:00+02:00"
     }
   },
   {
