@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Rød BH, lunsj-idéer og fjerting i badekaret",
-      "date": "2026-08-21T12:00:00+02:00"
+      "title": "Blackmail, skilte foreldre og «Skal vi danse»",
+      "date": "2026-08-25T06:00:00+02:00"
     }
   },
   {
@@ -166,8 +166,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Konfirmasjonsartisten",
-      "date": "2026-08-18T06:00:00+02:00"
+      "title": "Barnefotballens knallharde regime",
+      "date": "2026-08-25T06:00:00+02:00"
     }
   },
   {
@@ -825,8 +825,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kongens helsesituasjon forverra",
-      "date": "2026-08-24T05:59:00+02:00"
+      "title": "Færre stoler på eldreomsorgen",
+      "date": "2026-08-25T05:59:00+02:00"
     }
   },
   {
@@ -1006,8 +1006,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ballen - med Ingrid Helene Kopperstad Raunehaug",
-      "date": "2026-08-19T06:00:00+02:00"
+      "title": "Villmarkscamp - med Terje Torkildsen",
+      "date": "2026-08-25T06:00:00+02:00"
     }
   },
   {
@@ -1169,8 +1169,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Boller og nabopikk",
-      "date": "2026-08-21T06:00:00+02:00"
+      "title": "Brevduer i dur",
+      "date": "2026-08-25T06:00:00+02:00"
     }
   },
   {
@@ -1453,8 +1453,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "«Putins mareritt»: Dette er Ukrainas dronekommando",
-      "date": "2026-08-24T05:59:00+02:00"
+      "title": "Heksejakt og juks? Skandalen som ryster akademia",
+      "date": "2026-08-25T05:59:00+02:00"
     }
   },
   {
@@ -2162,8 +2162,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Singelgåten og forbudt frukt",
-      "date": "2026-08-23T06:00:00+02:00"
+      "title": "Rima Iraki: Parforhold og familieliv",
+      "date": "2026-08-25T06:00:00+02:00"
     }
   },
   {
