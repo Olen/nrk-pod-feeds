@@ -1042,12 +1042,12 @@ const feeds = [
     "title": "De 10 siste fra Lev vel",
     "name": "Lev vel",
     "description": "Hva kan du gjøre for å leve litt smartere? Linnéa Myhre guider deg gjennom jungelen av helse- og livsstilsråd, med kunnskapsrike gjester.",
-    "image": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q3g8ugafPZ9CVvGi9HsSaSQ.jpg",
+    "image": "https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wAKZXXNF07M21G1LKz94A_Q.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Bonus: En sommer uten alkohol?",
-      "date": "2026-07-01T05:00:00+02:00"
+      "title": "Slik unngår du brudd",
+      "date": "2026-08-26T05:00:00+02:00"
     }
   },
   {
