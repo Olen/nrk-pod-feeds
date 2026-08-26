@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hva sier tallene om nordmenn?",
-      "date": "2026-08-25T13:00:00+02:00"
+      "title": "Krigsøkonomien som nekter å dø",
+      "date": "2026-08-26T13:00:00+02:00"
     }
   },
   {
