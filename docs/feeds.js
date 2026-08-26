@@ -249,10 +249,10 @@ const feeds = [
     "description": "Hør sendingen med programlederne Åsa Vartdal og Espen Aas, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. ",
     "image": "https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgW6cdk9xfhWoJPhChAaml_A.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Har vi nok kraft?",
-      "date": "2026-05-28T23:01:00+02:00"
+      "title": "\"Ditt rasshøl!\"",
+      "date": "2026-08-25T23:15:00+02:00"
     }
   },
   {
