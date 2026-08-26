@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ny utvikling i eldreomsorgen",
-      "date": "2026-08-25T19:00:00+02:00"
+      "title": "Kriminelle tilknyttet barnevernet",
+      "date": "2026-08-26T19:00:00+02:00"
     }
   },
   {
