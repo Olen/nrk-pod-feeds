@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 24 Aug 2026 04:07:43 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 04:54:01 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten: Vinduet ditt gir deg mangelsykdommer</title>
+      <description><![CDATA[Det påstår i hvert fall noen forskere. Dessuten, biobatterier erstatter kjernekraftverk og HIV kan bli fullstendig utrydda]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/28ad645a-dd3d-4293-ad64-5add3d7293fe_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/28ad645a-dd3d-4293-ad64-5add3d7293fe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:24</itunes:duration>
+      <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    </item>
     <item>
       <title>Forskningsfronten: Du kan faktisk bli allergisk mot kjøtt</title>
       <description><![CDATA[Bra for miljøet kanskje, men ikke for deg. Dessuten, et enorm sort hull er oppdaget, og Starlink-satellitter gjør ufrivillig ekstra nytte for seg]]></description>
@@ -94,15 +103,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <itunes:duration>57:03</itunes:duration>
       <pubDate>Fri, 24 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BF1Z2J-Qq_O53a5Kizhfuwa5_RG16exSgRidNIzrWhmA.jpg"/>
-    </item>
-    <item>
-      <title>Tårnet: Er det grenser for kunnskap?</title>
-      <description><![CDATA[Inga Strümke er på hjemmebane når hun er med i Abels tårn i Narvik, og svarer på om det finnes en grense for hva vi mennesker kan vite om universet og oss selv. Dessuten spør vi om alt romskrotet kan samle seg til en ny måne og om hvorfor vi enda ikke har fått roboter i hjemmet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/9a1143ad-1ca5-4ecb-9143-ad1ca52ecb06_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9a1143ad-1ca5-4ecb-9143-ad1ca52ecb06_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:11:28</itunes:duration>
-      <pubDate>Fri, 17 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xNx5YuMwzUbBE4BTbHUd0QSpEvpxeHbgfCvIB-uS3ODw.jpg"/>
     </item>
   </channel>
 </rss>

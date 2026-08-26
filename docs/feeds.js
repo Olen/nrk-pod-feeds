@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Du kan faktisk bli allergisk mot kjøtt",
-      "date": "2026-08-24T06:00:00+02:00"
+      "title": "Forskningsfronten: Vinduet ditt gir deg mangelsykdommer",
+      "date": "2026-08-26T06:00:00+02:00"
     }
   },
   {
@@ -116,8 +116,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Døperen Johannes (31:40)",
-      "date": "2026-08-19T06:00:00+02:00"
+      "title": "Jesus blir født (32:40)",
+      "date": "2026-08-26T06:00:00+02:00"
     }
   },
   {
@@ -516,8 +516,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fra slave til slaveeier 3:3",
-      "date": "2026-08-22T06:00:00+02:00"
+      "title": "Syndebukken for 9. april",
+      "date": "2026-08-26T06:00:00+02:00"
     }
   },
   {
@@ -646,8 +646,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Anne-Cath. Vestly – Norges mormor",
-      "date": "2026-08-19T06:00:00+02:00"
+      "title": "Saigō Takamori – siste samurai",
+      "date": "2026-08-26T06:00:00+02:00"
     }
   },
   {
@@ -823,8 +823,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Færre stoler på eldreomsorgen",
-      "date": "2026-08-25T05:59:00+02:00"
+      "title": "Dolly Parton døde av kreft",
+      "date": "2026-08-26T05:59:00+02:00"
     }
   },
   {
@@ -954,8 +954,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Martine-saken (4): Farouk svarer",
-      "date": "2026-08-19T06:00:00+02:00"
+      "title": "Kvinnen i kofferten",
+      "date": "2026-08-26T06:00:00+02:00"
     }
   },
   {
@@ -1004,8 +1004,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Villmarkscamp - med Terje Torkildsen",
-      "date": "2026-08-25T06:00:00+02:00"
+      "title": "Trekkspillprinsessa - med Gunn Marit Nisja",
+      "date": "2026-08-26T06:00:00+02:00"
     }
   },
   {
@@ -1167,8 +1167,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Brevduer i dur",
-      "date": "2026-08-25T06:00:00+02:00"
+      "title": "Den store desi-debatten",
+      "date": "2026-08-26T06:00:00+02:00"
     }
   },
   {
@@ -1451,8 +1451,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Heksejakt og juks? Skandalen som ryster akademia",
-      "date": "2026-08-25T05:59:00+02:00"
+      "title": "Odysseen: Slik ble diktet en milliard-suksess",
+      "date": "2026-08-26T05:59:00+02:00"
     }
   },
   {
@@ -1850,8 +1850,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Martin Ødegaard sendte Donnarumma på tyrkisk klinikk",
-      "date": "2026-08-19T06:00:00+02:00"
+      "title": "Har Haaland «tatt en Britney»?",
+      "date": "2026-08-26T06:00:00+02:00"
     }
   },
   {
