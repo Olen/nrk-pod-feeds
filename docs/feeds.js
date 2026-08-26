@@ -1480,8 +1480,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kjeks med smak av boyband",
-      "date": "2026-08-25T06:00:00+02:00"
+      "title": "Abid Raja går bananas.",
+      "date": "2026-08-26T06:00:00+02:00"
     }
   },
   {
@@ -1520,8 +1520,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Island, EU og oss",
-      "date": "2026-08-25T08:00:00+02:00"
+      "title": "Vil gi gass mot nord",
+      "date": "2026-08-26T08:00:00+02:00"
     }
   },
   {
