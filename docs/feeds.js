@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tommy Olsen",
-      "date": "2026-08-25T13:25:00+02:00"
+      "title": "Anne Lindboe",
+      "date": "2026-08-26T12:40:00+02:00"
     }
   },
   {
