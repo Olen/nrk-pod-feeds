@@ -1736,8 +1736,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forbanna på influensere",
-      "date": "2026-08-25T06:00:00+02:00"
+      "title": "Markus har en dobbeltgjenger",
+      "date": "2026-08-26T06:00:00+02:00"
     }
   },
   {
