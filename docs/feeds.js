@@ -1080,8 +1080,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tara Lina Shahin / Ole Henry Snildalsli / Kristine Grændsen",
-      "date": "2026-08-22T14:30:00+02:00"
+      "title": "Ikke ta livet så seriøst a!",
+      "date": "2026-08-26T15:20:00+02:00"
     }
   },
   {
