@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kriminelle tilknyttet barnevernet",
-      "date": "2026-08-26T19:00:00+02:00"
+      "title": "Kongens tilstand er forverret",
+      "date": "2026-08-27T19:00:00+02:00"
     }
   },
   {
@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Anne Lindboe",
-      "date": "2026-08-26T12:40:00+02:00"
+      "title": "Claude Bonde",
+      "date": "2026-08-27T12:15:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Krigsøkonomien som nekter å dø",
-      "date": "2026-08-26T13:00:00+02:00"
+      "title": "Trumps USA: Carney slår tilbake",
+      "date": "2026-08-27T13:23:00+02:00"
     }
   },
   {
@@ -1736,8 +1736,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Markus har en dobbeltgjenger",
-      "date": "2026-08-26T06:00:00+02:00"
+      "title": "Daniel er blitt dement",
+      "date": "2026-08-27T06:00:00+02:00"
     }
   },
   {
@@ -2192,8 +2192,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Voldelig mangel på soldater",
-      "date": "2026-08-21T06:00:00+02:00"
+      "title": "Island: En ganske fredelig folkeavstemning",
+      "date": "2026-08-27T13:50:00+02:00"
     }
   },
   {
