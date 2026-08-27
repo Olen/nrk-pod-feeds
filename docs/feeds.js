@@ -293,8 +293,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Å smøre fremmede med solkrem",
-      "date": "2026-08-20T06:00:00+02:00"
+      "title": "Den store episoden om Kina",
+      "date": "2026-08-27T06:00:00+02:00"
     }
   },
   {
@@ -823,8 +823,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dolly Parton døde av kreft",
-      "date": "2026-08-26T05:59:00+02:00"
+      "title": "Nepal rammet for andre år på rad",
+      "date": "2026-08-27T06:10:00+02:00"
     }
   },
   {
@@ -1167,8 +1167,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Den store desi-debatten",
-      "date": "2026-08-26T06:00:00+02:00"
+      "title": "Joggebukse i bryllup",
+      "date": "2026-08-27T06:00:00+02:00"
     }
   },
   {
@@ -1451,8 +1451,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Odysseen: Slik ble diktet en milliard-suksess",
-      "date": "2026-08-26T05:59:00+02:00"
+      "title": "Et liv som syk: Så begynte varsellampene å blinke",
+      "date": "2026-08-27T05:59:00+02:00"
     }
   },
   {
@@ -1480,8 +1480,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Abid Raja går bananas.",
-      "date": "2026-08-26T06:00:00+02:00"
+      "title": "Naken på TV for 50 kroner.",
+      "date": "2026-08-27T06:00:00+02:00"
     }
   },
   {
@@ -1520,8 +1520,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vil gi gass mot nord",
-      "date": "2026-08-26T08:00:00+02:00"
+      "title": "Støres nye budsjett",
+      "date": "2026-08-27T08:00:00+02:00"
     }
   },
   {
@@ -1702,8 +1702,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "- Jeg ringer angående den vannkukeren",
-      "date": "2026-08-20T06:01:00+02:00"
+      "title": "- Har ni hvitløkspressa på ryggen?",
+      "date": "2026-08-27T06:00:00+02:00"
     }
   },
   {
@@ -2160,8 +2160,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Rima Iraki: Parforhold og familieliv",
-      "date": "2026-08-25T06:00:00+02:00"
+      "title": "Hedvig Glestad: Farget av fortiden",
+      "date": "2026-08-27T06:00:00+02:00"
     }
   },
   {
