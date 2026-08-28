@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Blackmail, skilte foreldre og «Skal vi danse»",
-      "date": "2026-08-25T06:00:00+02:00"
+      "title": "Nødt eller sannhet, mobilfri uke og amputasjon",
+      "date": "2026-08-28T12:00:00+02:00"
     }
   },
   {
@@ -601,6 +601,19 @@ const feeds = [
     }
   },
   {
+    "id": "harald_v",
+    "title": "De 10 siste fra Harald V",
+    "name": "Harald V",
+    "description": "Harald V var konge i Norge fra 1991 til 2026. Her kan du høre viktige lydklipp i forbindelse med tronskiftet. ",
+    "image": "https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAg_2RjpYCY3yIAQYqmC-ADQ.jpg",
+    "season": null,
+    "enabled": true,
+    "last_episode": {
+      "title": "Sogneprest på Svalbard",
+      "date": "2026-08-28T16:35:00+02:00"
+    }
+  },
+  {
     "id": "hei_nabo",
     "title": "De 10 siste fra Hei, nabo",
     "season": null,
@@ -823,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norge holder pusten",
-      "date": "2026-08-28T05:59:00+02:00"
+      "title": "Kong Harald er død",
+      "date": "2026-08-28T09:46:00+02:00"
     }
   },
   {
@@ -888,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kongens sykdom: – Folks infobehov er umettelig",
-      "date": "2026-08-25T16:08:00+02:00"
+      "title": "Hva slags konge blir Haakon?",
+      "date": "2026-08-28T20:34:00+02:00"
     }
   },
   {
@@ -1451,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dolly Parton: Artisten som forente USA",
-      "date": "2026-08-28T05:59:00+02:00"
+      "title": "Kong Harald: Slik var livet hans",
+      "date": "2026-08-28T12:00:00+02:00"
     }
   },
   {
@@ -1861,10 +1874,10 @@ const feeds = [
     "description": "Absolutt alt du kan undre deg over om språk! Lydia Gieselmann spør, ekspertene svarer. Send dine spørsmål og tilbakemeldinger i appen eller til snakk@nrk.no.",
     "image": "https://gfx.nrk.no/b9bKez1OlAfKkJDldbfx9AGwq5D0VS42eXzhPj2eTZMw.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Upålitelig forelsking",
-      "date": "2026-06-19T06:00:00+02:00"
+      "title": "Bånnski i schauen",
+      "date": "2026-08-28T06:00:00+02:00"
     }
   },
   {
