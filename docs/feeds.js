@@ -177,8 +177,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tore Renberg",
-      "date": "2026-08-21T06:00:00+02:00"
+      "title": "Feita",
+      "date": "2026-08-28T06:00:00+02:00"
     }
   },
   {
@@ -272,8 +272,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hjemmekontorets død",
-      "date": "2026-08-21T06:00:00+02:00"
+      "title": "En kort beskjed",
+      "date": "2026-08-28T06:00:00+02:00"
     }
   },
   {
@@ -823,8 +823,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nepal rammet for andre år på rad",
-      "date": "2026-08-27T06:10:00+02:00"
+      "title": "Norge holder pusten",
+      "date": "2026-08-28T05:59:00+02:00"
     }
   },
   {
@@ -1167,8 +1167,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Joggebukse i bryllup",
-      "date": "2026-08-27T06:00:00+02:00"
+      "title": "Fra journalist til influencer",
+      "date": "2026-08-28T06:00:00+02:00"
     }
   },
   {
@@ -1451,8 +1451,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Et liv som syk: Så begynte varsellampene å blinke",
-      "date": "2026-08-27T05:59:00+02:00"
+      "title": "Dolly Parton: Artisten som forente USA",
+      "date": "2026-08-28T05:59:00+02:00"
     }
   },
   {
@@ -1765,8 +1765,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Eksproffens Birkentips og Sindres første ritt.",
-      "date": "2026-08-21T05:00:00+02:00"
+      "title": "Løpehøsten + klare for gjørma.",
+      "date": "2026-08-28T05:00:00+02:00"
     }
   },
   {
