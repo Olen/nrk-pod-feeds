@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ikke ta livet så seriøst a!",
-      "date": "2026-08-26T15:20:00+02:00"
+      "title": "Jonis Josef / Mia Hundvin / Olli Wermskog",
+      "date": "2026-08-29T13:00:00+02:00"
     }
   },
   {
