@@ -609,8 +609,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sogneprest på Svalbard",
-      "date": "2026-08-28T16:35:00+02:00"
+      "title": "Den nye kongens første tale til folket",
+      "date": "2026-08-29T19:00:00+02:00"
     }
   },
   {
