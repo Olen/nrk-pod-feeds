@@ -1392,8 +1392,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Når villdyret våkner",
-      "date": "2026-08-22T06:00:00+02:00"
+      "title": "Alt for Norden",
+      "date": "2026-08-29T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kong Harald: Slik var livet hans",
-      "date": "2026-08-28T12:00:00+02:00"
+      "title": "Slik husker folket kong Harald",
+      "date": "2026-08-29T05:59:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Naken på TV for 50 kroner.",
-      "date": "2026-08-27T06:00:00+02:00"
+      "title": "Det beste fra P3morgen",
+      "date": "2026-08-29T06:00:00+02:00"
     }
   },
   {
