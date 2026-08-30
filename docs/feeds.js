@@ -2173,8 +2173,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hedvig Glestad: Farget av fortiden",
-      "date": "2026-08-27T06:00:00+02:00"
+      "title": "Panelet: Tarotkort og psykologtime",
+      "date": "2026-08-30T06:00:00+02:00"
     }
   },
   {
