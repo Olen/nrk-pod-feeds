@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Slik husker folket kong Harald",
-      "date": "2026-08-29T05:59:00+02:00"
+      "title": "Dette er Norges nye konge",
+      "date": "2026-08-30T12:00:00+02:00"
     }
   },
   {
