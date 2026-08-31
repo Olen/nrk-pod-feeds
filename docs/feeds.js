@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kongens tilstand er forverret",
-      "date": "2026-08-27T19:00:00+02:00"
+      "title": "Hva betyr borgfred?",
+      "date": "2026-08-31T19:00:00+02:00"
     }
   },
   {
