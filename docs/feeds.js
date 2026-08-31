@@ -69,8 +69,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tegn fra barndommen",
-      "date": "2026-08-24T06:00:00+02:00"
+      "title": "RIP kong Harald",
+      "date": "2026-08-31T06:00:00+02:00"
     }
   },
   {
@@ -823,8 +823,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fremmede som tøyser med småbarn",
-      "date": "2026-08-24T06:00:00+02:00"
+      "title": "Å brette sengetøy sammen med andre",
+      "date": "2026-08-31T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kong Harald er død",
-      "date": "2026-08-28T09:46:00+02:00"
+      "title": "Kongen er død: Dette skjer videre",
+      "date": "2026-08-31T05:59:00+02:00"
     }
   },
   {
@@ -1925,8 +1925,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dødsskvadronene",
-      "date": "2026-08-24T06:00:00+02:00"
+      "title": "Medvinden",
+      "date": "2026-08-31T06:00:00+02:00"
     }
   },
   {
@@ -2094,8 +2094,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Punk i 50 år",
-      "date": "2026-08-24T06:00:00+02:00"
+      "title": "Jonestown",
+      "date": "2026-08-31T06:00:00+02:00"
     }
   },
   {
