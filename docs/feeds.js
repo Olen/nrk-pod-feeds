@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi er klare for høstens fotballfest!",
-      "date": "2026-08-24T14:50:00+02:00"
+      "title": "Kongen hedret og Europa-suksess.",
+      "date": "2026-08-31T14:01:00+02:00"
     }
   },
   {
@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Claude Bonde",
-      "date": "2026-08-27T12:15:00+02:00"
+      "title": "Tonje Gilje",
+      "date": "2026-08-31T14:30:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps USA: Carney slår tilbake",
-      "date": "2026-08-27T13:23:00+02:00"
+      "title": "Når hele Norge Sørger",
+      "date": "2026-08-31T14:00:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Det beste fra P3morgen",
-      "date": "2026-08-29T06:00:00+02:00"
+      "title": "B-mennesker: Politiker på døra",
+      "date": "2026-08-31T10:05:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Støres nye budsjett",
-      "date": "2026-08-27T08:00:00+02:00"
+      "title": "Island sa Nei",
+      "date": "2026-08-31T08:00:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Daniel er blitt dement",
-      "date": "2026-08-27T06:00:00+02:00"
+      "title": "Stormer ut av studio",
+      "date": "2026-08-31T06:00:00+02:00"
     }
   },
   {
