@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nødt eller sannhet, mobilfri uke og amputasjon",
-      "date": "2026-08-28T12:00:00+02:00"
+      "title": "Syk prank, gay best friend og dusjing i mørket",
+      "date": "2026-09-01T06:00:00+02:00"
     }
   },
   {
@@ -164,8 +164,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Barnefotballens knallharde regime",
-      "date": "2026-08-25T06:00:00+02:00"
+      "title": "Vi snakker om mat",
+      "date": "2026-09-01T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kongen er død: Dette skjer videre",
-      "date": "2026-08-31T05:59:00+02:00"
+      "title": "Kong Haakon avlegger ed",
+      "date": "2026-09-01T06:07:00+02:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trekkspillprinsessa - med Gunn Marit Nisja",
-      "date": "2026-08-26T06:00:00+02:00"
+      "title": "Laksekongen - med Svein Sæter",
+      "date": "2026-09-01T06:00:00+02:00"
     }
   },
   {
@@ -1059,8 +1059,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Slik unngår du brudd",
-      "date": "2026-08-26T05:00:00+02:00"
+      "title": "På hjertet: Hvordan motivere seg for høsten",
+      "date": "2026-09-01T05:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fra journalist til influencer",
-      "date": "2026-08-28T06:00:00+02:00"
+      "title": "Kongen er død, leve kongen!",
+      "date": "2026-09-01T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dette er Norges nye konge",
-      "date": "2026-08-30T12:00:00+02:00"
+      "title": "Slottet: Fra elite til «folkets leirbål»",
+      "date": "2026-09-01T05:59:00+02:00"
     }
   },
   {
@@ -2173,8 +2173,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Tarotkort og psykologtime",
-      "date": "2026-08-30T06:00:00+02:00"
+      "title": "Siri Kristiansen: Sammen for bestandig",
+      "date": "2026-09-01T06:00:00+02:00"
     }
   },
   {
