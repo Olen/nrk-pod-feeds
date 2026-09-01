@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "B-mennesker: Politiker på døra",
-      "date": "2026-08-31T10:05:00+02:00"
+      "title": "Jonas trenger tvangstanker.",
+      "date": "2026-09-01T06:00:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Island sa Nei",
-      "date": "2026-08-31T08:00:00+02:00"
+      "title": "Avgiftshopp",
+      "date": "2026-09-01T08:00:00+02:00"
     }
   },
   {
@@ -1818,10 +1818,10 @@ const feeds = [
     "id": "sommer_i_p2",
     "title": "De 10 siste fra Sommer i P2",
     "name": "Sommer i P2",
-    "description": "Kjente folk deler historiene som formet dem - rått, nært og uforstyrret. Trykk \"Gå til radioversjon\" for å høre episodene med musikk.",
+    "description": "Kjente folk deler historiene som formet dem.  ",
     "image": "https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQz3ZakdcGl9IPjqhQXkJboQ.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Snorre Rein",
       "date": "2026-08-02T06:00:00+02:00"
