@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "\"Ditt rasshøl!\"",
-      "date": "2026-08-25T23:15:00+02:00"
+      "title": "En kjærlighetshistorie",
+      "date": "2026-09-01T22:20:00+02:00"
     }
   },
   {
