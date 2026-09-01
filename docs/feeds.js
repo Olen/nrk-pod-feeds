@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tonje Gilje",
-      "date": "2026-08-31T14:30:00+02:00"
+      "title": "Ragnar Hovland",
+      "date": "2026-09-01T13:35:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Når hele Norge Sørger",
-      "date": "2026-08-31T14:00:00+02:00"
+      "title": "Prins på flukt",
+      "date": "2026-09-01T12:30:00+02:00"
     }
   },
   {
@@ -609,8 +609,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Den nye kongens første tale til folket",
-      "date": "2026-08-29T19:00:00+02:00"
+      "title": "Kong Haakon avlegger ed",
+      "date": "2026-09-01T13:38:00+02:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hva slags konge blir Haakon?",
-      "date": "2026-08-28T20:34:00+02:00"
+      "title": "Høiby på slottet: Hvilket signal sender kongehuset?",
+      "date": "2026-09-01T15:13:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Stormer ut av studio",
-      "date": "2026-08-31T06:00:00+02:00"
+      "title": "Boobies på kalkulator",
+      "date": "2026-09-01T06:00:00+02:00"
     }
   },
   {
