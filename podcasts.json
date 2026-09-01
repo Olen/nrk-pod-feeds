@@ -1606,10 +1606,10 @@
         "id": "sommer_i_p2",
         "title": "De 10 siste fra Sommer i P2",
         "name": "Sommer i P2",
-        "description": "Kjente folk deler historiene som formet dem - rått, nært og uforstyrret. Trykk \"Gå til radioversjon\" for å høre episodene med musikk.",
+        "description": "Kjente folk deler historiene som formet dem.  ",
         "image": "https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQz3ZakdcGl9IPjqhQXkJboQ.jpg",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "sophie_og_fetisha",
