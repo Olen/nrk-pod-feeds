@@ -978,10 +978,10 @@ const feeds = [
     "description": "Kork gir deg musikk for alle stemninger og anledninger.",
     "image": "https://gfx.nrk.no/bUxGv0Sq_Vx0torVqM5tBQ5Rf_EaqOj4iTCVOAsJQaBg.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Sommer med Kork: Sommer-feeling",
-      "date": "2026-06-18T06:20:00+02:00"
+      "title": "Til ettertanke: L'Ascension, 1. del",
+      "date": "2026-09-01T14:27:00+02:00"
     }
   },
   {
@@ -1041,13 +1041,13 @@ const feeds = [
     "id": "leseklubben",
     "title": "De 10 siste fra Leseklubben",
     "name": "Leseklubben",
-    "description": "Vi gjør lesing gøy! Leseklubben leser og diskuterer bøker med morsomme gjester – og gir deg lydboka!\n\n",
+    "description": "KOMMER 2. sept: Vi leser «Prosessen» av Franz Kafka med Einar Tørnquist. Les med oss! Leseklubben leser og diskuterer bøker med morsomme gjester – og gir deg lydboka!\n\n",
     "image": "https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELADvG3fDiPcFsHyGh3nJVwrg.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Leseklubben: «Brødrene Løvehjerte» med Else Kåss Furuseth: BONUS: Lindgrens fortsettelse på «Brødrene Løvehjerte»",
-      "date": "2026-07-15T06:01:00+02:00"
+      "title": "«Prosessen» (2:10 Samtale med Fru Grubach så frøken Büstner)",
+      "date": "2026-09-02T06:03:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jonas trenger tvangstanker.",
-      "date": "2026-09-01T06:00:00+02:00"
+      "title": "Vi tester chipskomboer",
+      "date": "2026-09-02T10:00:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Avgiftshopp",
-      "date": "2026-09-01T08:00:00+02:00"
+      "title": "Norge i rødt, blått og grønt kaos",
+      "date": "2026-09-02T08:00:00+02:00"
     }
   },
   {
