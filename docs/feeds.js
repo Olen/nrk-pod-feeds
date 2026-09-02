@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kongen har avlagt ed i Stortinget",
-      "date": "2026-09-01T19:00:00+02:00"
+      "title": "Ryktespredningen før kongens død",
+      "date": "2026-09-02T19:00:00+02:00"
     }
   },
   {
