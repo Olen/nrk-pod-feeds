@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Vinduet ditt gir deg mangelsykdommer",
-      "date": "2026-08-26T06:00:00+02:00"
+      "title": "Forskningsfronten: Har du ødelagt mobilen?",
+      "date": "2026-09-02T06:00:00+02:00"
     }
   },
   {
@@ -116,8 +116,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jesus blir født (32:40)",
-      "date": "2026-08-26T06:00:00+02:00"
+      "title": "Jesus samler gjengen (33:40)",
+      "date": "2026-09-02T06:00:00+02:00"
     }
   },
   {
@@ -659,8 +659,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Saigō Takamori – siste samurai",
-      "date": "2026-08-26T06:00:00+02:00"
+      "title": "Grace Kelly – fyrstelig filmstjerne",
+      "date": "2026-09-02T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kong Haakon avlegger ed",
-      "date": "2026-09-01T06:07:00+02:00"
+      "title": "7 av 10 vil beholde monarkiet",
+      "date": "2026-09-02T06:03:00+02:00"
     }
   },
   {
@@ -967,8 +967,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kvinnen i kofferten",
-      "date": "2026-08-26T06:00:00+02:00"
+      "title": "Clancy (1): Drap eller depresjon?",
+      "date": "2026-09-02T06:00:00+02:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Laksekongen - med Svein Sæter",
-      "date": "2026-09-01T06:00:00+02:00"
+      "title": "Kapteinen med Lena Lindahl",
+      "date": "2026-09-02T06:00:00+02:00"
     }
   },
   {
@@ -1059,8 +1059,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "På hjertet: Hvordan motivere seg for høsten",
-      "date": "2026-09-01T05:00:00+02:00"
+      "title": "Slik avslører du en narsissist",
+      "date": "2026-09-02T05:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kongen er død, leve kongen!",
-      "date": "2026-09-01T06:00:00+02:00"
+      "title": "Wrestling i hjemmet",
+      "date": "2026-09-02T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Slottet: Fra elite til «folkets leirbål»",
-      "date": "2026-09-01T05:59:00+02:00"
+      "title": "Urfolks-ikonet: Bygget hun karrieren på en løgn?",
+      "date": "2026-09-02T05:59:00+02:00"
     }
   },
   {
@@ -1863,8 +1863,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Har Haaland «tatt en Britney»?",
-      "date": "2026-08-26T06:00:00+02:00"
+      "title": "Nattasang for Bodø: Ta med ekstra stilongs!",
+      "date": "2026-09-02T06:00:00+02:00"
     }
   },
   {
