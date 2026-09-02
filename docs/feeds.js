@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ragnar Hovland",
-      "date": "2026-09-01T13:35:00+02:00"
+      "title": "KRISTINE ULLEBØ",
+      "date": "2026-09-02T14:10:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Prins på flukt",
-      "date": "2026-09-01T12:30:00+02:00"
+      "title": "Den nye trusselen i fjella",
+      "date": "2026-09-02T13:10:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Boobies på kalkulator",
-      "date": "2026-09-01T06:00:00+02:00"
+      "title": "Tisser ikke i andres dusj",
+      "date": "2026-09-02T06:00:00+02:00"
     }
   },
   {
