@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 27 Jun 2026 05:03:42 +0000</lastBuildDate>
-    <pubDate>Sat, 27 Jun 2026 06:03:00 +0200</pubDate>
+    <lastBuildDate>Thu, 03 Sep 2026 09:45:52 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Sep 2026 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
+    <item>
+      <title>Gaddafi - kommer lørdag</title>
+      <description><![CDATA[Muammar Gaddafi var Libyas diktator i over 40 år. Hans terrorregime kom på kant med alle, fra naboland til verdens stormakter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/5a5c0c03-638c-44b4-9c0c-03638c54b4c2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/5a5c0c03-638c-44b4-9c0c-03638c54b4c2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:38</itunes:duration>
+      <pubDate>Wed, 02 Sep 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/W5bM4maq2U-OwYgLuQhlOQcHq6RPZ4MOSRa3TsfvGtOg.jpg"/>
+    </item>
     <item>
       <title>Enver Hoxha (4:4)</title>
       <description><![CDATA[I 40 år har Hoxha ventet en invasjon, men ennå har ikke noen fiende vist seg. Helt til Mustafa og hans bande går i land i Albania.]]></description>
@@ -54,15 +63,6 @@ Enver Hoxha - hersker af Europas mest lukkede land (Radio IIII, 2025)]]></descri
       <enclosure url="https://podkast.nrk.no/fil/tyrann/5b91a5c7-eae5-452a-91a5-c7eae5552a7f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>35:52</itunes:duration>
       <pubDate>Sat, 27 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aLvs8uZtbTm3E8cL3rVQgw9awsf6XQaqY5JrqGOl7OWw.jpg"/>
-    </item>
-    <item>
-      <title>Enver Hoxha: Envher Hoxha - kommer lørdag</title>
-      <description><![CDATA[Hoxhas paranoia var i en helt egen liga. Han så på alle land som mulige fiender, og trodde Albania kunne invaderes når som helst.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/09e84fbc-51aa-4c0c-a84f-bc51aa2c0c37_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/09e84fbc-51aa-4c0c-a84f-bc51aa2c0c37_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:36</itunes:duration>
-      <pubDate>Thu, 25 Jun 2026 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/aLvs8uZtbTm3E8cL3rVQgw9awsf6XQaqY5JrqGOl7OWw.jpg"/>
     </item>
     <item>

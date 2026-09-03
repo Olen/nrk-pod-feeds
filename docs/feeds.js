@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi tester chipskomboer",
-      "date": "2026-09-02T10:00:00+02:00"
+      "title": "Ingen engelske ord tillatt",
+      "date": "2026-09-03T10:00:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norge i rødt, blått og grønt kaos",
-      "date": "2026-09-02T08:00:00+02:00"
+      "title": "Politisk sørgepause",
+      "date": "2026-09-03T08:00:00+02:00"
     }
   },
   {
@@ -2113,10 +2113,10 @@ const feeds = [
     "description": "Noen mennesker har rett og slett gjort verden til et dårligere sted. Morderiske, korrupte og maktsyke ledere med helt vanvittige historier. Nye Tyranner blir publisert hver måned.\n\nTyrann er en versjonering av den danske podkasten med samme navn.  ",
     "image": "https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Amy1jNhc0GuJNnxik0lcmkg.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Enver Hoxha (4:4)",
-      "date": "2026-06-27T06:03:00+02:00"
+      "title": "Gaddafi - kommer lørdag",
+      "date": "2026-09-02T14:00:00+02:00"
     }
   },
   {
