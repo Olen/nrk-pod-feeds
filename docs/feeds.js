@@ -293,8 +293,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Den store episoden om Kina",
-      "date": "2026-08-27T06:00:00+02:00"
+      "title": "Ikke lov å le i landesorg",
+      "date": "2026-09-03T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "7 av 10 vil beholde monarkiet",
-      "date": "2026-09-02T06:03:00+02:00"
+      "title": "Norge venter reaksjoner fra Russland",
+      "date": "2026-09-03T05:59:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Wrestling i hjemmet",
-      "date": "2026-09-02T06:00:00+02:00"
+      "title": "- Vi er sjelløse",
+      "date": "2026-09-03T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Urfolks-ikonet: Bygget hun karrieren på en løgn?",
-      "date": "2026-09-02T05:59:00+02:00"
+      "title": "2Pac-mysteriet: Gjengleder felt av egen bok?",
+      "date": "2026-09-03T05:59:00+02:00"
     }
   },
   {
@@ -1715,8 +1715,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "- Har ni hvitløkspressa på ryggen?",
-      "date": "2026-08-27T06:00:00+02:00"
+      "title": "Tenk om jeg har sagt at jeg skal drepe alle?",
+      "date": "2026-09-03T06:00:00+02:00"
     }
   },
   {
@@ -2173,8 +2173,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Siri Kristiansen: Sammen for bestandig",
-      "date": "2026-09-01T06:00:00+02:00"
+      "title": "Morten Skau: Sex og selvtillit",
+      "date": "2026-09-03T06:00:00+02:00"
     }
   },
   {
