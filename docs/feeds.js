@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ryktespredningen før kongens død",
-      "date": "2026-09-02T19:00:00+02:00"
+      "title": "Russisk skip på Svalbard",
+      "date": "2026-09-03T19:00:00+02:00"
     }
   },
   {
