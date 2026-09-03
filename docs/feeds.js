@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "KRISTINE ULLEBØ",
-      "date": "2026-09-02T14:10:00+02:00"
+      "title": "Håkon Opdal",
+      "date": "2026-09-03T12:50:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Den nye trusselen i fjella",
-      "date": "2026-09-02T13:10:00+02:00"
+      "title": "Nytt håp for organdonasjon",
+      "date": "2026-09-03T14:00:00+02:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Høiby på slottet: Hvilket signal sender kongehuset?",
-      "date": "2026-09-01T15:13:00+02:00"
+      "title": "Putin kraftig ut mot Norge: Kan det dra oss inn i krigen?",
+      "date": "2026-09-03T15:11:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tisser ikke i andres dusj",
-      "date": "2026-09-02T06:00:00+02:00"
+      "title": "Groviser i landesorg",
+      "date": "2026-09-03T06:00:00+02:00"
     }
   },
   {
