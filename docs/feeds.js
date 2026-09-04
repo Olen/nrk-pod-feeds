@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Har du ødelagt mobilen?",
-      "date": "2026-09-02T06:00:00+02:00"
+      "title": "Tårnet: Østers i fjorden - yea or nay?",
+      "date": "2026-09-04T06:00:00+02:00"
     }
   },
   {
@@ -272,8 +272,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "En kort beskjed",
-      "date": "2026-08-28T06:00:00+02:00"
+      "title": "Alle har en venninne på Rikshospitalet",
+      "date": "2026-09-04T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norge venter reaksjoner fra Russland",
-      "date": "2026-09-03T05:59:00+02:00"
+      "title": "– Jeg ble kvalm av det",
+      "date": "2026-09-04T05:59:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "- Vi er sjelløse",
-      "date": "2026-09-03T06:00:00+02:00"
+      "title": "Bring slutshaming back!",
+      "date": "2026-09-04T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "2Pac-mysteriet: Gjengleder felt av egen bok?",
-      "date": "2026-09-03T05:59:00+02:00"
+      "title": "Barnestjernens død: Derfor raser Hollywood",
+      "date": "2026-09-04T05:59:00+02:00"
     }
   },
   {
@@ -1778,8 +1778,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Løpehøsten + klare for gjørma.",
-      "date": "2026-08-28T05:00:00+02:00"
+      "title": "Gjørme-Birken + OL-mesterens fjelltips.",
+      "date": "2026-09-04T05:00:00+02:00"
     }
   },
   {
@@ -1876,8 +1876,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bånnski i schauen",
-      "date": "2026-08-28T06:00:00+02:00"
+      "title": "Det er mange veier til lyden Ø",
+      "date": "2026-09-04T06:00:00+02:00"
     }
   },
   {
@@ -2205,8 +2205,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Island: En ganske fredelig folkeavstemning",
-      "date": "2026-08-27T13:50:00+02:00"
+      "title": "De nye monarkene: Modigere og mer politiske?",
+      "date": "2026-09-04T06:00:00+02:00"
     }
   },
   {

@@ -8,13 +8,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 02 Sep 2026 04:30:40 +0000</lastBuildDate>
-    <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 04 Sep 2026 04:28:08 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
     <item>
-      <title>Forskningsfronten: Har du ødelagt mobilen?</title>
-      <description><![CDATA[Snart kan den reparere seg selv. Dessuten, forsker ville krysse menneske med sjimpanse. Og menneskehjerne har levd flere år på en lab]]></description>
+      <title>Tårnet: Østers i fjorden - yea or nay?</title>
+      <description><![CDATA[Vi setter opp Tårnet på Oslofjordmuseet, og tar med oss tre eksperter på en frisk tur til havs.
+Lurer du på ting? Spør Abels Tårn!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/a4e4aa2a-35d8-49a8-a4aa-2a35d8a9a85c_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a4e4aa2a-35d8-49a8-a4aa-2a35d8a9a85c_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:09</itunes:duration>
+      <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QJN3bDRavORk8zhX35V22gbHpVWB58AsaLI1LZss0IQw.jpg"/>
+    </item>
+    <item>
+      <title>Forskningsfronten: En mobil som reparerer seg selv</title>
+      <description><![CDATA[Er det NASA drømmer om. Dessuten, forsker ville krysse menneske med sjimpanse. Og menneskehjerne har levd flere år på en lab]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/24fcd339-fca6-4332-bcd3-39fca65332de_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/24fcd339-fca6-4332-bcd3-39fca65332de_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:45</itunes:duration>
@@ -22,7 +32,7 @@
       <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
     </item>
     <item>
-      <title>Forskningsfronten: Kan vinduet ditt gi deg mangelsykdommer?</title>
+      <title>Forskningsfronten: Vinduet ditt gjør deg syk</title>
       <description><![CDATA[Det påstår i hvert fall noen forskere. Dessuten, biobatterier erstatter kjernekraftverk og HIV kan bli fullstendig utrydda]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/28ad645a-dd3d-4293-ad64-5add3d7293fe_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/28ad645a-dd3d-4293-ad64-5add3d7293fe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -94,15 +104,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <itunes:duration>01:02:08</itunes:duration>
       <pubDate>Fri, 07 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3PbScFJ4NpbiwFkHeiOW9gebV1quX1EA7p8icuiP360A.jpg"/>
-    </item>
-    <item>
-      <title>Tårnet: Jubileum! - De unges panel</title>
-      <description><![CDATA[Tårnets 15-årsjubileum fortsetter med det aller ferskeste panelet. En radio-aktiv seanse der vi blant annet stiller det store spørsmålet: Vil KI noensinne kunne forstå kvinnen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/3ced9c23-71c7-4acd-ad9c-2371c7dacdce_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/3ced9c23-71c7-4acd-ad9c-2371c7dacdce_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:03</itunes:duration>
-      <pubDate>Fri, 31 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HwNU6qu5GShR2LUwB75pfgiGq4Y8htsLPVC1zpTov4Eg.jpg"/>
     </item>
   </channel>
 </rss>
