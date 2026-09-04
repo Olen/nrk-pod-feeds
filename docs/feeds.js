@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Russisk skip på Svalbard",
-      "date": "2026-09-03T19:00:00+02:00"
+      "title": "Sikkerhet under kongens gravferd",
+      "date": "2026-09-04T19:00:00+02:00"
     }
   },
   {
