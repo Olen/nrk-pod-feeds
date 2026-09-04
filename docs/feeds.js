@@ -479,8 +479,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kommentarfeltet, smartbriller og hjemmekontor",
-      "date": "2026-08-21T09:00:00+02:00"
+      "title": "Fremmedord, dansk språk og Aschehoug",
+      "date": "2026-09-04T08:00:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ingen engelske ord tillatt",
-      "date": "2026-09-03T10:00:00+02:00"
+      "title": "B-mennesker: Hvem er best best på aura farming?",
+      "date": "2026-09-04T06:00:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Politisk sørgepause",
-      "date": "2026-09-03T08:00:00+02:00"
+      "title": "Økt spenning før valget i Sverige",
+      "date": "2026-09-04T08:00:00+02:00"
     }
   },
   {
