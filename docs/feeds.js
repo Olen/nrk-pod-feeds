@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Syk prank, gay best friend og dusjing i mørket",
-      "date": "2026-09-01T06:00:00+02:00"
+      "title": "Tinder-bio, skolebilde og navn til studio",
+      "date": "2026-09-04T12:00:00+02:00"
     }
   },
   {
@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jonis Josef / Mia Hundvin / Olli Wermskog",
-      "date": "2026-08-29T13:00:00+02:00"
+      "title": "Den mystiske lyden er... (ikke det du tror)",
+      "date": "2026-09-04T15:50:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Groviser i landesorg",
-      "date": "2026-09-03T06:00:00+02:00"
+      "title": "Sigurd Sollien om Forræder",
+      "date": "2026-09-04T06:00:00+02:00"
     }
   },
   {
@@ -2234,8 +2234,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Islamister bruker ikke Nikesko",
-      "date": "2026-08-24T06:00:00+02:00"
+      "title": "Venstrevridde journalister",
+      "date": "2026-09-04T12:00:00+02:00"
     }
   },
   {

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 24 Aug 2026 04:08:08 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 04 Sep 2026 14:20:36 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Sep 2026 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title>Venstrevridde journalister</title>
+      <description><![CDATA[- og venstrevridde forskere. Hvordan preger det den offentlige debatten?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/b47d9eb0-ce1a-4189-bd9e-b0ce1a1189ac_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/b47d9eb0-ce1a-4189-bd9e-b0ce1a1189ac_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:11</itunes:duration>
+      <pubDate>Fri, 04 Sep 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
     <item>
       <title>Islamister bruker ikke Nikesko</title>
       <description><![CDATA[Yaqoub Ali var militant ekstremist. Han radikaliserte unge til å kjempe og dø for Allah.]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/29e81f0b-8ecb-4292-a81f-0b8ecba29266_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:36</itunes:duration>
       <pubDate>Wed, 24 Jun 2026 13:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-6-wOyuq2UlpYr5-gLwDoAXkWJLGyBZAza4sSDq-xPuQ.jpg"/>
-    </item>
-    <item>
-      <title>Det tredje riket: Rustning 7:12</title>
-      <description><![CDATA[Ingen kapitalistisk stat har noen gang brukt så mye på opprustning i fredstid som Nazi-Tyskland]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/c458171e-27fa-4ac7-9817-1e27fa0ac79c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/c458171e-27fa-4ac7-9817-1e27fa0ac79c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:46</itunes:duration>
-      <pubDate>Wed, 24 Jun 2026 13:02:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/-6-wOyuq2UlpYr5-gLwDoAXkWJLGyBZAza4sSDq-xPuQ.jpg"/>
     </item>
   </channel>
