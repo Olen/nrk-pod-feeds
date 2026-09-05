@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Den mystiske lyden er... (ikke det du tror)",
-      "date": "2026-09-04T15:50:00+02:00"
+      "title": "Cecilie Kåss Furuseth / Trond-Viggo Torgersen / Hilde Skaar",
+      "date": "2026-09-05T14:20:00+02:00"
     }
   },
   {
@@ -2136,8 +2136,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tog til besvær",
-      "date": "2026-08-22T15:00:00+02:00"
+      "title": "Å tonesette et tronskifte",
+      "date": "2026-09-05T14:00:00+02:00"
     }
   },
   {
