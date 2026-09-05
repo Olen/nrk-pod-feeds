@@ -1392,8 +1392,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Alt for Norden",
-      "date": "2026-08-29T06:00:00+02:00"
+      "title": "Totalitære tårer",
+      "date": "2026-09-05T06:00:00+02:00"
     }
   },
   {
@@ -2115,8 +2115,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Gaddafi - kommer lørdag",
-      "date": "2026-09-02T14:00:00+02:00"
+      "title": "Gaddafi (5:5)",
+      "date": "2026-09-05T06:04:00+02:00"
     }
   },
   {
