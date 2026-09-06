@@ -2173,8 +2173,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Morten Skau: Sex og selvtillit",
-      "date": "2026-09-03T06:00:00+02:00"
+      "title": "Panelet: Sexfest og romantikk",
+      "date": "2026-09-06T06:00:00+02:00"
     }
   },
   {
