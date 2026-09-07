@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Østers i fjorden - yea or nay?",
-      "date": "2026-09-04T06:00:00+02:00"
+      "title": "Forskningsfronten: Enkelt triks skjerper konsentrasjonen",
+      "date": "2026-09-07T06:00:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "B-mennesker: Hvem er best best på aura farming?",
-      "date": "2026-09-04T06:00:00+02:00"
+      "title": "Vi vil døpe en øy",
+      "date": "2026-09-07T10:00:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Økt spenning før valget i Sverige",
-      "date": "2026-09-04T08:00:00+02:00"
+      "title": "Et barnevern uten kontroll",
+      "date": "2026-09-07T08:00:00+02:00"
     }
   },
   {
@@ -1592,7 +1592,7 @@ const feeds = [
     "description": "Her samles podkastdokumentarer fra NRK. Journalistikk og lydopplevelser om mennesker og samfunn. Historier fra virkeligheten bygger videre på podkasten Radiodok.",
     "image": "https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8QnRUX5sno2oEqScCBrSwoUA.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Glimtkoden: Den store scenen (3:3)",
       "date": "2026-08-08T06:02:00+02:00"
