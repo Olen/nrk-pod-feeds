@@ -69,8 +69,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "RIP kong Harald",
-      "date": "2026-08-31T06:00:00+02:00"
+      "title": "En ubehagelig god gjerning",
+      "date": "2026-09-07T06:00:00+02:00"
     }
   },
   {
@@ -823,8 +823,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Å brette sengetøy sammen med andre",
-      "date": "2026-08-31T06:00:00+02:00"
+      "title": "Ledningsknappen",
+      "date": "2026-09-07T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "– Jeg ble kvalm av det",
-      "date": "2026-09-04T05:59:00+02:00"
+      "title": "Oslo forbereder seg på gravferd",
+      "date": "2026-09-07T05:59:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Barnestjernens død: Derfor raser Hollywood",
-      "date": "2026-09-04T05:59:00+02:00"
+      "title": "Son døydde på sjukehus: Har «hjerneflukt» skylda?",
+      "date": "2026-09-07T05:59:00+02:00"
     }
   },
   {
@@ -1925,8 +1925,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Medvinden",
-      "date": "2026-08-31T06:00:00+02:00"
+      "title": "Kirkegården",
+      "date": "2026-09-07T06:00:00+02:00"
     }
   },
   {
@@ -2094,8 +2094,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jonestown",
-      "date": "2026-08-31T06:00:00+02:00"
+      "title": "Huleboere",
+      "date": "2026-09-07T06:00:00+02:00"
     }
   },
   {
