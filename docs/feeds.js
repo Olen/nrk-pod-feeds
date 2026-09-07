@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kongen hedret og Europa-suksess.",
-      "date": "2026-08-31T14:01:00+02:00"
+      "title": "Ødegaards kanonform og nye fjes på landslaget?",
+      "date": "2026-09-07T14:55:00+02:00"
     }
   },
   {
@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Håkon Opdal",
-      "date": "2026-09-03T12:50:00+02:00"
+      "title": "Torgrim Eggen",
+      "date": "2026-09-07T12:37:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nytt håp for organdonasjon",
-      "date": "2026-09-03T14:00:00+02:00"
+      "title": "Sergej Lavrov - fra koseprat til krigsretorikk",
+      "date": "2026-09-07T13:30:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sigurd Sollien om Forræder",
-      "date": "2026-09-04T06:00:00+02:00"
+      "title": "Dr. Bergland kommer innom",
+      "date": "2026-09-07T06:00:00+02:00"
     }
   },
   {
