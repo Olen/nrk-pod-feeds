@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sergej Lavrov - fra koseprat til krigsretorikk",
-      "date": "2026-09-07T13:30:00+02:00"
+      "title": "Ceuta-konspirasjonane",
+      "date": "2026-09-08T13:00:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dr. Bergland kommer innom",
-      "date": "2026-09-07T06:00:00+02:00"
+      "title": "Forrett er verre enn dessert",
+      "date": "2026-09-08T06:00:00+02:00"
     }
   },
   {
