@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi vil døpe en øy",
-      "date": "2026-09-07T10:00:00+02:00"
+      "title": "Pepsi Max = lavstatus?",
+      "date": "2026-09-08T10:00:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Et barnevern uten kontroll",
-      "date": "2026-09-07T08:00:00+02:00"
+      "title": "Er Jimmie Åkesson høyreekstrem?",
+      "date": "2026-09-08T08:00:00+02:00"
     }
   },
   {
