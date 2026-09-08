@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "AfD vant delstatsvalget i Sachsen-Anhalt",
-      "date": "2026-09-07T19:00:00+02:00"
+      "title": "Alvorlig fall i norske Pisa-resultater",
+      "date": "2026-09-08T19:00:00+02:00"
     }
   },
   {
