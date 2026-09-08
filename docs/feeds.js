@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tinder-bio, skolebilde og navn til studio",
-      "date": "2026-09-04T12:00:00+02:00"
+      "title": "Mensen-starterpack, flauser og kong Haralds liv",
+      "date": "2026-09-08T06:00:00+02:00"
     }
   },
   {
@@ -164,8 +164,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi snakker om mat",
-      "date": "2026-09-01T06:00:00+02:00"
+      "title": "Plattfot a lá gakkgakk",
+      "date": "2026-09-08T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Oslo forbereder seg på gravferd",
-      "date": "2026-09-07T05:59:00+02:00"
+      "title": "Hockeyboom i Norge",
+      "date": "2026-09-08T05:59:00+02:00"
     }
   },
   {
@@ -967,8 +967,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Clancy (1): Drap eller depresjon?",
-      "date": "2026-09-02T06:00:00+02:00"
+      "title": "Clancy (2): Uløst rettsdrama",
+      "date": "2026-09-08T06:00:00+02:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kapteinen med Lena Lindahl",
-      "date": "2026-09-02T06:00:00+02:00"
+      "title": "Forglem meg ei - med Sigrun Loe Sparboe",
+      "date": "2026-09-08T06:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bring slutshaming back!",
-      "date": "2026-09-04T06:00:00+02:00"
+      "title": "WiFi i helvete?",
+      "date": "2026-09-08T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Son døydde på sjukehus: Har «hjerneflukt» skylda?",
-      "date": "2026-09-07T05:59:00+02:00"
+      "title": "Fylla og scrolling: Derfor tek du dårlege val",
+      "date": "2026-09-08T05:59:00+02:00"
     }
   },
   {
@@ -2173,8 +2173,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Sexfest og romantikk",
-      "date": "2026-09-06T06:00:00+02:00"
+      "title": "Ingar Helge Gimle: 60+ og Tinder",
+      "date": "2026-09-08T06:00:00+02:00"
     }
   },
   {
