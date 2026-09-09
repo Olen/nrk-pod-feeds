@@ -116,8 +116,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jesus samler gjengen (33:40)",
-      "date": "2026-09-02T06:00:00+02:00"
+      "title": "Jesus Christ Superstar (34:40)",
+      "date": "2026-09-09T06:00:00+02:00"
     }
   },
   {
@@ -659,8 +659,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Grace Kelly – fyrstelig filmstjerne",
-      "date": "2026-09-02T06:00:00+02:00"
+      "title": "Neil Armstrong – fryktløs astronaut",
+      "date": "2026-09-09T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hockeyboom i Norge",
-      "date": "2026-09-08T05:59:00+02:00"
+      "title": "I dag tar Norge farvel med kong Harald",
+      "date": "2026-09-09T05:59:00+02:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forglem meg ei - med Sigrun Loe Sparboe",
-      "date": "2026-09-08T06:00:00+02:00"
+      "title": "Frivillighet - med Jon Niklas Rønning",
+      "date": "2026-09-09T06:00:00+02:00"
     }
   },
   {
@@ -1046,8 +1046,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "«Prosessen» (2:10 Samtale med Fru Grubach så frøken Büstner)",
-      "date": "2026-09-02T06:03:00+02:00"
+      "title": "«Prosessen» (5:10 Mestermannen)",
+      "date": "2026-09-09T06:04:00+02:00"
     }
   },
   {
@@ -1059,8 +1059,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Slik avslører du en narsissist",
-      "date": "2026-09-02T05:00:00+02:00"
+      "title": "Vil du studere smartere?",
+      "date": "2026-09-09T05:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "WiFi i helvete?",
-      "date": "2026-09-08T06:00:00+02:00"
+      "title": "Stagedive-bonanza",
+      "date": "2026-09-09T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fylla og scrolling: Derfor tek du dårlege val",
-      "date": "2026-09-08T05:59:00+02:00"
+      "title": "Blått blod: Slik ble de Europas mektigste",
+      "date": "2026-09-09T06:00:00+02:00"
     }
   },
   {
@@ -1863,8 +1863,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nattasang for Bodø: Ta med ekstra stilongs!",
-      "date": "2026-09-02T06:00:00+02:00"
+      "title": "En gjeng med tapere",
+      "date": "2026-09-09T06:00:00+02:00"
     }
   },
   {
