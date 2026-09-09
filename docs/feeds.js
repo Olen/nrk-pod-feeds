@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Alvorlig fall i norske Pisa-resultater",
-      "date": "2026-09-08T19:00:00+02:00"
+      "title": "Kong Haralds gravferd",
+      "date": "2026-09-09T19:00:00+02:00"
     }
   },
   {
