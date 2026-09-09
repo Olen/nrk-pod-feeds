@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Pepsi Max = lavstatus?",
-      "date": "2026-09-08T10:00:00+02:00"
+      "title": "3+3=9?",
+      "date": "2026-09-09T10:00:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Er Jimmie Åkesson høyreekstrem?",
-      "date": "2026-09-08T08:00:00+02:00"
+      "title": "Det politiske monarkiet",
+      "date": "2026-09-09T08:00:00+02:00"
     }
   },
   {
