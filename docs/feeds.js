@@ -609,8 +609,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kong Haakon avlegger ed",
-      "date": "2026-09-01T13:38:00+02:00"
+      "title": "Preses Olav Fykse Tveit si tale",
+      "date": "2026-09-09T15:02:00+02:00"
     }
   },
   {
@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Cecilie Kåss Furuseth / Trond-Viggo Torgersen / Hilde Skaar",
-      "date": "2026-09-05T14:20:00+02:00"
+      "title": "To kjærlighetshistorier",
+      "date": "2026-09-09T16:02:00+02:00"
     }
   },
   {
