@@ -293,8 +293,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ikke lov å le i landesorg",
-      "date": "2026-09-03T06:00:00+02:00"
+      "title": "Selge seg selv for tusen kroner",
+      "date": "2026-09-10T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "I dag tar Norge farvel med kong Harald",
-      "date": "2026-09-09T05:59:00+02:00"
+      "title": "Ny kamp om billigere bensin og diesel",
+      "date": "2026-09-10T05:59:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Stagedive-bonanza",
-      "date": "2026-09-09T06:00:00+02:00"
+      "title": "Nye måter å jukse på",
+      "date": "2026-09-10T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Blått blod: Slik ble de Europas mektigste",
-      "date": "2026-09-09T06:00:00+02:00"
+      "title": "Nepal-katastrofen: Saradas kamp for kjæresten",
+      "date": "2026-09-10T05:59:00+02:00"
     }
   },
   {
@@ -1715,8 +1715,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tenk om jeg har sagt at jeg skal drepe alle?",
-      "date": "2026-09-03T06:00:00+02:00"
+      "title": "– Nesten som en gagball",
+      "date": "2026-09-10T06:00:00+02:00"
     }
   },
   {
@@ -2173,8 +2173,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ingar Helge Gimle: 60+ og Tinder",
-      "date": "2026-09-08T06:00:00+02:00"
+      "title": "Jenny Huse: Selvrealisering",
+      "date": "2026-09-10T06:00:00+02:00"
     }
   },
   {
