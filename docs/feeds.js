@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Torgrim Eggen",
-      "date": "2026-09-07T12:37:00+02:00"
+      "title": "Frida Marie Grande",
+      "date": "2026-09-10T13:05:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ceuta-konspirasjonane",
-      "date": "2026-09-08T13:00:00+02:00"
+      "title": "Trumps USA: Et dystert 25-årsminne",
+      "date": "2026-09-10T14:00:00+02:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Putin kraftig ut mot Norge: Kan det dra oss inn i krigen?",
-      "date": "2026-09-03T15:11:00+02:00"
+      "title": "Pisa-tall sjokkerer: Hvem har skylda?",
+      "date": "2026-09-10T13:55:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forrett er verre enn dessert",
-      "date": "2026-09-08T06:00:00+02:00"
+      "title": "Fullkornspasta er ikke mat",
+      "date": "2026-09-10T06:00:00+02:00"
     }
   },
   {
