@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kong Haralds gravferd",
-      "date": "2026-09-09T19:00:00+02:00"
+      "title": "Nedgangen i lesing og regning fortsetter",
+      "date": "2026-09-10T19:00:00+02:00"
     }
   },
   {
