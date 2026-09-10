@@ -934,7 +934,7 @@
         "description": "Din ukentlige dose vesentlig vrøvl. Med Anne Lindmo, Halvor Haugen og Rune Norum Engelsøy. Tilbake 10. september.",
         "image": "https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgGxaH3ab4EM-kiJS8qKstFA.jpg",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "loensj_med_rune_nilson",
