@@ -1070,10 +1070,10 @@ const feeds = [
     "description": "Din ukentlige dose vesentlig vrøvl. Med Anne Lindmo, Halvor Haugen og Rune Norum Engelsøy. Tilbake 10. september.",
     "image": "https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgGxaH3ab4EM-kiJS8qKstFA.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Rene makta!",
-      "date": "2026-05-28T06:00:00+02:00"
+      "title": "Fellesgryta",
+      "date": "2026-09-10T06:00:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "3+3=9?",
-      "date": "2026-09-09T10:00:00+02:00"
+      "title": "Er vi smartere enn en 10ende klassing?",
+      "date": "2026-09-10T10:00:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Det politiske monarkiet",
-      "date": "2026-09-09T08:00:00+02:00"
+      "title": "Statsministerduell: dieselpriser og skolekrise",
+      "date": "2026-09-10T08:00:00+02:00"
     }
   },
   {
