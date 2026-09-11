@@ -177,8 +177,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Feita",
-      "date": "2026-08-28T06:00:00+02:00"
+      "title": "Alexander Kielland Krag: Begjær, aldersforskjell og skam",
+      "date": "2026-09-11T06:00:00+02:00"
     }
   },
   {
@@ -272,8 +272,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Alle har en venninne på Rikshospitalet",
-      "date": "2026-09-04T06:00:00+02:00"
+      "title": "3500 soldater og en gravferd",
+      "date": "2026-09-11T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ny kamp om billigere bensin og diesel",
-      "date": "2026-09-10T05:59:00+02:00"
+      "title": "I dag er det 25 år siden 9/11",
+      "date": "2026-09-11T05:59:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nye måter å jukse på",
-      "date": "2026-09-10T06:00:00+02:00"
+      "title": "En silo full av «D»",
+      "date": "2026-09-11T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nepal-katastrofen: Saradas kamp for kjæresten",
-      "date": "2026-09-10T05:59:00+02:00"
+      "title": "Guantánamo: «Skrekkfengslet» verden glemte",
+      "date": "2026-09-11T05:59:00+02:00"
     }
   },
   {
@@ -1778,8 +1778,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Gjørme-Birken + OL-mesterens fjelltips.",
-      "date": "2026-09-04T05:00:00+02:00"
+      "title": "En løpers dilemma",
+      "date": "2026-09-11T05:00:00+02:00"
     }
   },
   {
@@ -1876,8 +1876,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Det er mange veier til lyden Ø",
-      "date": "2026-09-04T06:00:00+02:00"
+      "title": "Blåmandag for prostinnen",
+      "date": "2026-09-11T06:00:00+02:00"
     }
   },
   {
@@ -2205,8 +2205,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "De nye monarkene: Modigere og mer politiske?",
-      "date": "2026-09-04T06:00:00+02:00"
+      "title": "Afghanistan: Fem år med Taliban",
+      "date": "2026-09-11T06:00:00+02:00"
     }
   },
   {
