@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nedgangen i lesing og regning fortsetter",
-      "date": "2026-09-10T19:00:00+02:00"
+      "title": "Prinsesse Astrid er død",
+      "date": "2026-09-11T19:00:00+02:00"
     }
   },
   {
