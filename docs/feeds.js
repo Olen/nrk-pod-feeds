@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Varsler: - Ble kvalm",
-      "date": "2026-09-03T22:15:00+02:00"
+      "title": "Ok med diesel til 30 kroner literen?",
+      "date": "2026-09-11T09:22:00+02:00"
     }
   },
   {
@@ -479,8 +479,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fremmedord, dansk språk og Aschehoug",
-      "date": "2026-09-04T08:00:00+02:00"
+      "title": "Lesing, drivstoff og fraværet av Trump",
+      "date": "2026-09-11T08:30:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Er vi smartere enn en 10ende klassing?",
-      "date": "2026-09-10T10:00:00+02:00"
+      "title": "Girl in red har blitt skuespiller",
+      "date": "2026-09-11T10:00:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Statsministerduell: dieselpriser og skolekrise",
-      "date": "2026-09-10T08:00:00+02:00"
+      "title": "Ytre høyre vokser",
+      "date": "2026-09-11T08:00:00+02:00"
     }
   },
   {
@@ -2234,8 +2234,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Venstrevridde journalister",
-      "date": "2026-09-04T12:00:00+02:00"
+      "title": "Kupp i USA?",
+      "date": "2026-09-11T10:30:00+02:00"
     }
   },
   {
