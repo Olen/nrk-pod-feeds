@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Enkelt triks skjerper konsentrasjonen",
-      "date": "2026-09-07T06:00:00+02:00"
+      "title": "Tårnet: Var T-rex tjukk i hodehuden?",
+      "date": "2026-09-11T06:00:00+02:00"
     }
   },
   {
@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mensen-starterpack, flauser og kong Haralds liv",
-      "date": "2026-09-08T06:00:00+02:00"
+      "title": "Gyda Waagbø, eldre menn og «pick me» venner",
+      "date": "2026-09-11T12:00:00+02:00"
     }
   },
   {
@@ -638,8 +638,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Døden på Operafjellet",
-      "date": "2026-08-22T06:00:00+02:00"
+      "title": "Smakebit: Hurtigruta brenner",
+      "date": "2026-09-11T12:00:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fullkornspasta er ikke mat",
-      "date": "2026-09-10T06:00:00+02:00"
+      "title": "- Heter du faktisk Gladkokken?",
+      "date": "2026-09-11T06:00:00+02:00"
     }
   },
   {

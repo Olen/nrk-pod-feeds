@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 07 Sep 2026 10:14:18 +0000</lastBuildDate>
-    <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 11 Sep 2026 14:24:31 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Tårnet: Var T-rex tjukk i hodehuden?</title>
+      <description><![CDATA[Vi vet i hvert fall at det var ikke var spesielt mye på innsida.
+Lurer du på merkelige saker? Få svar fra ekspertene i Abels Tårn!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/06098e92-1933-4a6b-898e-9219331a6b23_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/06098e92-1933-4a6b-898e-9219331a6b23_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:35</itunes:duration>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/afYDzOjWNP8YCOF9byaTuwcWlX0Fk5Kc9GOG2Infg6gQ.jpg"/>
+    </item>
     <item>
       <title>Forskningsfronten: Enkelt triks skjerper konsentrasjonen</title>
       <description><![CDATA[Forskere har nemlig studert folks lesevaner. Dessuten ropes det varsko om sopp vi er avhengig av. Og månen vår må også passes på]]></description>
@@ -95,15 +105,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <itunes:duration>57:33</itunes:duration>
       <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/kBK87E3DWNN2RBE_z8xigwCwOmXdaqURAyPQ6G2O0Rrw.jpg"/>
-    </item>
-    <item>
-      <title>Tårnet: Jubileum! - Filosofi vs KI vs BioTech</title>
-      <description><![CDATA[Bonusepisode! Hva er viktigst: Filosofi, kunstig intelligens eller bioteknologi?  Tiårets kamp utkjempa under Abels tårns 15-årsjubileum. Dessuten får du høydepunkter fra musikkeksperimentet: Hva skjer når en gitar senkes i flytende nitrogen og en metallvokalist growler med helium?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/c5c3e976-8c65-4426-83e9-768c65142664_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c5c3e976-8c65-4426-83e9-768c65142664_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:49</itunes:duration>
-      <pubDate>Fri, 07 Aug 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/H-9sU5vpJTYPyxzm7S7caw2R9u1fMc_Wseyb_bcjN9_g.jpg"/>
     </item>
   </channel>
 </rss>
