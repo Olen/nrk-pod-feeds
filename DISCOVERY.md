@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-09-12  
+- Updated podcast 'Studio 2' (`studio_2`)  
 ### 2026-09-10  
 - Updated podcast 'Lindmo og Co' (`lindmo_og_co`)  
 ### 2026-09-07  
