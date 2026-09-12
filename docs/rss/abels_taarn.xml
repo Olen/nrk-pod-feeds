@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 11 Sep 2026 14:24:31 +0000</lastBuildDate>
-    <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 12 Sep 2026 05:45:32 +0000</lastBuildDate>
+    <pubDate>Sat, 12 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten: Det finnes en riktig tissevinkel</title>
+      <description><![CDATA[Pissoarteknikk, kakerlakkmelk, og hva truser kan si om jordkvalitet. Ig-Nobel hedrer igjen forskning som først får deg til å le og så tenke]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/fa893938-21f7-4cd4-8939-3821f77cd4f4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fa893938-21f7-4cd4-8939-3821f77cd4f4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Sat, 12 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    </item>
     <item>
       <title>Tårnet: Var T-rex tjukk i hodehuden?</title>
       <description><![CDATA[Vi vet i hvert fall at det var ikke var spesielt mye på innsida.
@@ -95,16 +104,6 @@ Stusser du på sære, rare saker? Send inn dine spørsmål til Abels Tårns komp
       <itunes:duration>27:55</itunes:duration>
       <pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
-    </item>
-    <item>
-      <title>Tårnet: Antarktis i sentrum!</title>
-      <description><![CDATA[I dagens Tårn drar vi helt ned til Antarktis for å kjenne på klodens mest ekstreme livsbetingelser.
-Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompetente ekspertpanel!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/d296eb66-805e-44bb-96eb-66805e44bb6f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d296eb66-805e-44bb-96eb-66805e44bb6f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:33</itunes:duration>
-      <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kBK87E3DWNN2RBE_z8xigwCwOmXdaqURAyPQ6G2O0Rrw.jpg"/>
     </item>
   </channel>
 </rss>

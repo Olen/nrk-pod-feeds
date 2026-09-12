@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Var T-rex tjukk i hodehuden?",
-      "date": "2026-09-11T06:00:00+02:00"
+      "title": "Forskningsfronten: Det finnes en riktig tissevinkel",
+      "date": "2026-09-12T06:00:00+02:00"
     }
   },
   {
@@ -638,8 +638,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Smakebit: Hurtigruta brenner",
-      "date": "2026-09-11T12:00:00+02:00"
+      "title": "Hurtigruta brenner: Kampen på innsiden (2:2)",
+      "date": "2026-09-12T06:02:00+02:00"
     }
   },
   {
@@ -1392,8 +1392,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Totalitære tårer",
-      "date": "2026-09-05T06:00:00+02:00"
+      "title": "Ekstreme ytterkanter",
+      "date": "2026-09-12T06:00:00+02:00"
     }
   },
   {
@@ -1944,10 +1944,10 @@ const feeds = [
     "description": "Kultur og aktualitet rett i lomma? Ida Yasin Andersen, Kristian Bendiksen og Einar Lie Slangsvold gir deg det beste fra Studio 2. \n",
     "image": "https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAylSxsFTsrlWjORt0a4uSTg.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Platedate med Javad El Bakali og Kristine Grændsen",
-      "date": "2026-06-19T17:00:00+02:00"
+      "title": "Skuespillerne Elpida Stojcevska og Deniz Kay fra LIS",
+      "date": "2026-09-11T18:00:00+02:00"
     }
   },
   {
