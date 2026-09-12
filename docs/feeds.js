@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "To kjærlighetshistorier",
-      "date": "2026-09-09T16:02:00+02:00"
+      "title": "Solveig Kloppen / Are Sende Osen / Nora Svenningsen",
+      "date": "2026-09-12T13:02:00+02:00"
     }
   },
   {
@@ -2136,8 +2136,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Å tonesette et tronskifte",
-      "date": "2026-09-05T14:00:00+02:00"
+      "title": "Barn uten lærekondis",
+      "date": "2026-09-12T14:00:00+02:00"
     }
   },
   {
