@@ -2173,8 +2173,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jenny Huse: Selvrealisering",
-      "date": "2026-09-10T06:00:00+02:00"
+      "title": "Panelet: Datingbio og sugarcoating",
+      "date": "2026-09-13T06:00:00+02:00"
     }
   },
   {
