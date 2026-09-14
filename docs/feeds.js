@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Prinsesse Astrid er død",
-      "date": "2026-09-11T19:00:00+02:00"
+      "title": "Advarer unge mot Tiktok, Youtube og Snapchat",
+      "date": "2026-09-14T19:00:00+02:00"
     }
   },
   {
