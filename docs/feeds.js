@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ødegaards kanonform og nye fjes på landslaget?",
-      "date": "2026-09-07T14:55:00+02:00"
+      "title": "- Dette laget bør Ståle ta ut",
+      "date": "2026-09-14T12:15:00+02:00"
     }
   },
   {
@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Frida Marie Grande",
-      "date": "2026-09-10T13:05:00+02:00"
+      "title": "Marius Bakken",
+      "date": "2026-09-14T14:27:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps USA: Et dystert 25-årsminne",
-      "date": "2026-09-10T14:00:00+02:00"
+      "title": "Oppdage ADHD ved fødsel?",
+      "date": "2026-09-14T13:00:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Girl in red har blitt skuespiller",
-      "date": "2026-09-11T10:00:00+02:00"
+      "title": "Kyllingsabotasje under kongens begravelse",
+      "date": "2026-09-14T10:00:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "- Heter du faktisk Gladkokken?",
-      "date": "2026-09-11T06:00:00+02:00"
+      "title": "Sprengt lyd fra hælvete",
+      "date": "2026-09-14T06:00:00+02:00"
     }
   },
   {
