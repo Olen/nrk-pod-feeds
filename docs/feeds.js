@@ -69,8 +69,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "En ubehagelig god gjerning",
-      "date": "2026-09-07T06:00:00+02:00"
+      "title": "Erlend letter på sløret",
+      "date": "2026-09-14T06:00:00+02:00"
     }
   },
   {
@@ -823,8 +823,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ledningsknappen",
-      "date": "2026-09-07T06:00:00+02:00"
+      "title": "Sjampo og balsam",
+      "date": "2026-09-14T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "I dag er det 25 år siden 9/11",
-      "date": "2026-09-11T05:59:00+02:00"
+      "title": "Dødt løp i det svenske valget",
+      "date": "2026-09-14T05:59:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Guantánamo: «Skrekkfengslet» verden glemte",
-      "date": "2026-09-11T05:59:00+02:00"
+      "title": "Dette er «Tysklands farlegaste mann»",
+      "date": "2026-09-14T05:59:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ytre høyre vokser",
-      "date": "2026-09-11T08:00:00+02:00"
+      "title": "Svensk thriller",
+      "date": "2026-09-14T08:00:00+02:00"
     }
   },
   {
@@ -2094,8 +2094,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Huleboere",
-      "date": "2026-09-07T06:00:00+02:00"
+      "title": "Anarki!",
+      "date": "2026-09-14T06:00:00+02:00"
     }
   },
   {
