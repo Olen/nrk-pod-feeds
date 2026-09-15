@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ok med diesel til 30 kroner literen?",
-      "date": "2026-09-11T09:22:00+02:00"
+      "title": "Har foreldrene skylda for skoletallene?",
+      "date": "2026-09-15T22:10:00+02:00"
     }
   },
   {
