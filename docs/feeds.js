@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "- Dette laget bør Ståle ta ut",
-      "date": "2026-09-14T12:15:00+02:00"
+      "title": "Ekstra:Dette syns vi om Norges tropp",
+      "date": "2026-09-15T16:00:00+02:00"
     }
   },
   {
@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Advarer unge mot Tiktok, Youtube og Snapchat",
-      "date": "2026-09-14T19:00:00+02:00"
+      "title": "Telenor ransaket",
+      "date": "2026-09-15T19:00:00+02:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Pisa-tall sjokkerer: Hvem har skylda?",
-      "date": "2026-09-10T13:55:00+02:00"
+      "title": "Kan KI drepe alle mennesker innen 2030?",
+      "date": "2026-09-15T16:20:00+02:00"
     }
   },
   {
