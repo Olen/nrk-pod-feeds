@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Gyda Waagbø, eldre menn og «pick me» venner",
-      "date": "2026-09-11T12:00:00+02:00"
+      "title": "Dyre gaver, tånegler og tissing i hagen (Spøtta-spesial #11)",
+      "date": "2026-09-15T06:00:00+02:00"
     }
   },
   {
@@ -164,8 +164,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Plattfot a lá gakkgakk",
-      "date": "2026-09-08T06:00:00+02:00"
+      "title": "Et kjapt besøk hos Lars Dehli",
+      "date": "2026-09-15T06:00:00+02:00"
     }
   },
   {
@@ -776,10 +776,10 @@ const feeds = [
     "description": "Risstinin li tjielgga vuojno masi ájggu. Le gus A4-iellem buoremus viessomvuohke, jali ij la huoman nav buorre gåk gullu? Se i NRK TV.",
     "image": "https://gfx.nrk.no/aH3TL2yGw09vT1w8uDJAxQArgFZdqaSpMc2n-SN6SKwQ.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Joarme, botoxa ja festa",
-      "date": "2026-05-12T06:00:00+02:00"
+      "title": "Mánájt oadtjot jali ij?",
+      "date": "2026-09-15T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dødt løp i det svenske valget",
-      "date": "2026-09-14T05:59:00+02:00"
+      "title": "Økning i antall tips om seksuelle overgrep",
+      "date": "2026-09-15T06:01:00+02:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Frivillighet - med Jon Niklas Rønning",
-      "date": "2026-09-09T06:00:00+02:00"
+      "title": "Støveldans - med Lena Lindahl",
+      "date": "2026-09-15T06:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "En silo full av «D»",
-      "date": "2026-09-11T06:00:00+02:00"
+      "title": "Er vi analfabeter?",
+      "date": "2026-09-15T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dette er «Tysklands farlegaste mann»",
-      "date": "2026-09-14T05:59:00+02:00"
+      "title": "I strupen på datasentre: Kan Erin stoppe dem?",
+      "date": "2026-09-15T05:59:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Svensk thriller",
-      "date": "2026-09-14T08:00:00+02:00"
+      "title": "Regjeringen varsler mer statlig styring av skolen",
+      "date": "2026-09-15T08:00:00+02:00"
     }
   },
   {
@@ -1855,6 +1855,19 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "spor",
+    "title": "De 10 siste fra Spor",
+    "name": "Spor",
+    "description": "Noen låter setter dypere spor. Artistene våre forteller om musikken de er mest stolt av – den som endret livet og karrieren.",
+    "image": "https://gfx.nrk.no/VRXWIsafdxLtlNKk4mVP1wPiEkPqWZlyAEXSpGduJv0A.jpg",
+    "season": null,
+    "enabled": true,
+    "last_episode": {
+      "title": "Snart kommer Spor!",
+      "date": "2026-09-14T06:00:00+02:00"
+    }
+  },
+  {
     "id": "sportsdesken_brenner",
     "title": "De 10 siste fra Sportsdesken brenner",
     "name": "Sportsdesken brenner",
@@ -2173,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Datingbio og sugarcoating",
-      "date": "2026-09-13T06:00:00+02:00"
+      "title": "Janne Amble: Likestilt parforhold",
+      "date": "2026-09-15T06:00:00+02:00"
     }
   },
   {
