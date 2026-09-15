@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Marius Bakken",
-      "date": "2026-09-14T14:27:00+02:00"
+      "title": "Ida Fladen",
+      "date": "2026-09-15T14:30:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Oppdage ADHD ved fødsel?",
-      "date": "2026-09-14T13:00:00+02:00"
+      "title": "EKKO : Spør Ekko om Pisa-krisa",
+      "date": "2026-09-15T13:00:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kyllingsabotasje under kongens begravelse",
-      "date": "2026-09-14T10:00:00+02:00"
+      "title": "Hva skal man ha på seg på konsert?",
+      "date": "2026-09-15T10:00:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sprengt lyd fra hælvete",
-      "date": "2026-09-14T06:00:00+02:00"
+      "title": "Lager kunst med egen fis",
+      "date": "2026-09-15T06:00:00+02:00"
     }
   },
   {
