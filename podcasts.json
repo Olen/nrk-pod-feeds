@@ -684,7 +684,7 @@
         "description": "Risstinin li tjielgga vuojno masi ájggu. Le gus A4-iellem buoremus viessomvuohke, jali ij la huoman nav buorre gåk gullu? Se i NRK TV.",
         "image": "https://gfx.nrk.no/aH3TL2yGw09vT1w8uDJAxQArgFZdqaSpMc2n-SN6SKwQ.jpg",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "kaffipraati",
@@ -1637,6 +1637,15 @@
         "enabled": false,
         "ignore": true,
         "hidden": true
+    },
+    {
+        "id": "spor",
+        "title": "De 10 siste fra Spor",
+        "name": "Spor",
+        "description": "Noen låter setter dypere spor. Artistene våre forteller om musikken de er mest stolt av – den som endret livet og karrieren.",
+        "image": "https://gfx.nrk.no/VRXWIsafdxLtlNKk4mVP1wPiEkPqWZlyAEXSpGduJv0A.jpg",
+        "season": null,
+        "enabled": true
     },
     {
         "id": "sportsdesken_brenner",
