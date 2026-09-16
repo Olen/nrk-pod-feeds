@@ -116,8 +116,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jesus Christ Superstar (34:40)",
-      "date": "2026-09-09T06:00:00+02:00"
+      "title": "Jesus provoserer (35:40)",
+      "date": "2026-09-16T06:00:00+02:00"
     }
   },
   {
@@ -659,8 +659,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Neil Armstrong – fryktløs astronaut",
-      "date": "2026-09-09T06:00:00+02:00"
+      "title": "Indira Gandhi – Indias jernkvinne",
+      "date": "2026-09-16T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Økning i antall tips om seksuelle overgrep",
-      "date": "2026-09-15T06:01:00+02:00"
+      "title": "Eksperter er uenige om hvor farlig KI er",
+      "date": "2026-09-16T05:59:00+02:00"
     }
   },
   {
@@ -967,8 +967,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Clancy (2): Uløst rettsdrama",
-      "date": "2026-09-08T06:00:00+02:00"
+      "title": "Jørn Andersen (3): Forklaringen",
+      "date": "2026-09-16T06:00:00+02:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Støveldans - med Lena Lindahl",
-      "date": "2026-09-15T06:00:00+02:00"
+      "title": "Handlejakke - med Ingelin Røssland",
+      "date": "2026-09-16T06:00:00+02:00"
     }
   },
   {
@@ -1046,8 +1046,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "«Prosessen» (5:10 Mestermannen)",
-      "date": "2026-09-09T06:04:00+02:00"
+      "title": "«Prosessen» (8:10 Kjøpmann Block, Oppsigelse av Advokaten)",
+      "date": "2026-09-16T06:04:00+02:00"
     }
   },
   {
@@ -1059,8 +1059,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vil du studere smartere?",
-      "date": "2026-09-09T05:00:00+02:00"
+      "title": "Åpent forhold",
+      "date": "2026-09-16T05:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Er vi analfabeter?",
-      "date": "2026-09-15T06:00:00+02:00"
+      "title": "Brownface og porno-hotell",
+      "date": "2026-09-16T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "I strupen på datasentre: Kan Erin stoppe dem?",
-      "date": "2026-09-15T05:59:00+02:00"
+      "title": "Våpen og overvåkning: Er dette «Europas ICE»?",
+      "date": "2026-09-16T05:59:00+02:00"
     }
   },
   {
@@ -1876,8 +1876,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "En gjeng med tapere",
-      "date": "2026-09-09T06:00:00+02:00"
+      "title": "Sport er også følelser",
+      "date": "2026-09-16T06:00:00+02:00"
     }
   },
   {
