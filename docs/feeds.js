@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hva skal man ha på seg på konsert?",
-      "date": "2026-09-15T10:00:00+02:00"
+      "title": "Vi samler gode gruppechatnavn!",
+      "date": "2026-09-16T10:00:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Regjeringen varsler mer statlig styring av skolen",
-      "date": "2026-09-15T08:00:00+02:00"
+      "title": "Leite etter meir olje",
+      "date": "2026-09-16T08:00:00+02:00"
     }
   },
   {
