@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ida Fladen",
-      "date": "2026-09-15T14:30:00+02:00"
+      "title": "Mah-Rukh Ali",
+      "date": "2026-09-16T14:00:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "EKKO : Spør Ekko om Pisa-krisa",
-      "date": "2026-09-15T13:00:00+02:00"
+      "title": "Solarpunk - en bærekraftig drøm",
+      "date": "2026-09-16T13:30:00+02:00"
     }
   },
   {
@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Solveig Kloppen / Are Sende Osen / Nora Svenningsen",
-      "date": "2026-09-12T13:02:00+02:00"
+      "title": "Fluff!",
+      "date": "2026-09-16T17:35:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Lager kunst med egen fis",
-      "date": "2026-09-15T06:00:00+02:00"
+      "title": "Husedderkoppens tyranni",
+      "date": "2026-09-16T06:00:00+02:00"
     }
   },
   {
