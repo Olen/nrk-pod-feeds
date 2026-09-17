@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ønsker europeisk sikkerhetsråd",
-      "date": "2026-09-16T19:00:00+02:00"
+      "title": "Vil gi ukrainere opphold",
+      "date": "2026-09-17T19:00:00+02:00"
     }
   },
   {
