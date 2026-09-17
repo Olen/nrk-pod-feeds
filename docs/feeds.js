@@ -293,8 +293,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Selge seg selv for tusen kroner",
-      "date": "2026-09-10T06:00:00+02:00"
+      "title": "Et hekseliv",
+      "date": "2026-09-17T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Eksperter er uenige om hvor farlig KI er",
-      "date": "2026-09-16T05:59:00+02:00"
+      "title": "To av tre får negative konsekvenser av cannabis",
+      "date": "2026-09-17T05:59:00+02:00"
     }
   },
   {
@@ -1072,8 +1072,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fellesgryta",
-      "date": "2026-09-10T06:00:00+02:00"
+      "title": "Teppetrøbbel og maratonmage",
+      "date": "2026-09-17T06:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Brownface og porno-hotell",
-      "date": "2026-09-16T06:00:00+02:00"
+      "title": "Ti år igjen å leve?",
+      "date": "2026-09-17T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Våpen og overvåkning: Er dette «Europas ICE»?",
-      "date": "2026-09-16T05:59:00+02:00"
+      "title": "Tyskeren som fikk Norge til verdensrommet",
+      "date": "2026-09-17T05:59:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Leite etter meir olje",
-      "date": "2026-09-16T08:00:00+02:00"
+      "title": "Tromsø, Nordens Hellas?",
+      "date": "2026-09-17T08:00:00+02:00"
     }
   },
   {
@@ -1592,10 +1592,10 @@ const feeds = [
     "description": "Her samles podkastdokumentarer fra NRK. Journalistikk og lydopplevelser om mennesker og samfunn. Historier fra virkeligheten bygger videre på podkasten Radiodok.",
     "image": "https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8QnRUX5sno2oEqScCBrSwoUA.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Glimtkoden: Den store scenen (3:3)",
-      "date": "2026-08-08T06:02:00+02:00"
+      "title": "Mannen som forsvant: Epilog: Boka (5:5)",
+      "date": "2026-09-17T06:08:00+02:00"
     }
   },
   {
@@ -1715,8 +1715,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "– Nesten som en gagball",
-      "date": "2026-09-10T06:00:00+02:00"
+      "title": "– Kan jeg ri på en floodhorse?",
+      "date": "2026-09-17T06:00:00+02:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Janne Amble: Likestilt parforhold",
-      "date": "2026-09-15T06:00:00+02:00"
+      "title": "Frida Grande: Kjærlighet og PMDD",
+      "date": "2026-09-17T06:00:00+02:00"
     }
   },
   {

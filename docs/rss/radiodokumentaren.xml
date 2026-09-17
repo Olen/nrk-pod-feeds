@@ -8,10 +8,55 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 08 Aug 2026 04:19:57 +0000</lastBuildDate>
-    <pubDate>Sat, 08 Aug 2026 06:02:00 +0200</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:37:23 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2026 06:08:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
+    <item>
+      <title>Mannen som forsvant: Epilog: Boka (5:5)</title>
+      <description><![CDATA[Plutselig dukker det opp en mann med en oppsiktsvekkende historie. Men kan vi stole på det han forteller?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/6d32b632-5225-4dfa-b2b6-325225bdfaac_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/6d32b632-5225-4dfa-b2b6-325225bdfaac_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:10</itunes:duration>
+      <pubDate>Thu, 17 Sep 2026 06:08:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yL6RauqWtsY7t1yu7n9uMQRNystLceyb-iNocggazwww.jpg"/>
+    </item>
+    <item>
+      <title>Mannen som forsvant: Hva visste Rinson? (4:5)</title>
+      <description><![CDATA[Etterretningsverden er mørk og hemmelighetsfull. Levde nordmannen et dobbeltliv – eller kan han selv ha blitt lurt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/168a6637-9d5a-4227-8a66-379d5a72277e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/168a6637-9d5a-4227-8a66-379d5a72277e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:43</itunes:duration>
+      <pubDate>Thu, 17 Sep 2026 06:06:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yL6RauqWtsY7t1yu7n9uMQRNystLceyb-iNocggazwww.jpg"/>
+    </item>
+    <item>
+      <title>Mannen som forsvant: Rinsons hemmeligheter (3:5)</title>
+      <description><![CDATA[Nordmannen er fortsatt forsvunnet. Politiet sender ut etterlysning verden over. Men noe foregår i det skjulte.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/6bdd25b5-2c4a-495f-9d25-b52c4a495f7e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/6bdd25b5-2c4a-495f-9d25-b52c4a495f7e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:15</itunes:duration>
+      <pubDate>Thu, 17 Sep 2026 06:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yL6RauqWtsY7t1yu7n9uMQRNystLceyb-iNocggazwww.jpg"/>
+    </item>
+    <item>
+      <title>Mannen som forsvant: Et nøye planlagt blodbad (2:5)</title>
+      <description><![CDATA[I det skjulte planla israelske Mossad en intrikat etterretningsoperasjon, for å lure fienden Hizbollah. Hadde Mossad virkelig en nordmann på laget?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/b4fc3fc6-00e2-44f2-bc3f-c600e2f4f2bb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/b4fc3fc6-00e2-44f2-bc3f-c600e2f4f2bb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:31</itunes:duration>
+      <pubDate>Thu, 17 Sep 2026 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yL6RauqWtsY7t1yu7n9uMQRNystLceyb-iNocggazwww.jpg"/>
+    </item>
+    <item>
+      <title>Mannen som forsvant: En mystisk forsvinning (1:5)</title>
+      <description><![CDATA[Vennene venter på at Rinson skal komme hjem fra en jobbkonferanse i USA. Så knyttes navnet hans til en blodig, israelsk etterretningsoperasjon.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/4e75ba5c-b941-4d68-b5ba-5cb9418d68e7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/4e75ba5c-b941-4d68-b5ba-5cb9418d68e7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:56</itunes:duration>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yL6RauqWtsY7t1yu7n9uMQRNystLceyb-iNocggazwww.jpg"/>
+    </item>
     <item>
       <title>Glimtkoden: Den store scenen (3:3)</title>
       <description><![CDATA[Gamle spøkelser truer i skyggene når Bodø/Glimt sikter mot nye høyder.]]></description>
@@ -40,15 +85,6 @@
       <itunes:image href="https://gfx.nrk.no/InIMnPNV-8UffH4a2PBakg1uLTe74cxYo4LfxUMMPDxA.jpg"/>
     </item>
     <item>
-      <title>Smakebit: Glimtkoden</title>
-      <description><![CDATA[På få år går Bodø/Glimt fra nedrykk og kaos til eventyrlig suksess i Mesterligaen – og blir hele fotballverdenens kjæledegger. I NRK Radio fra 8.8.2026.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/4bde230a-a1d5-4a76-9e23-0aa1d5fa76c3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/4bde230a-a1d5-4a76-9e23-0aa1d5fa76c3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:30</itunes:duration>
-      <pubDate>Fri, 07 Aug 2026 09:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/InIMnPNV-8UffH4a2PBakg1uLTe74cxYo4LfxUMMPDxA.jpg"/>
-    </item>
-    <item>
       <title>Demonutdriveren: Guds plan med det hele (5:5)</title>
       <description><![CDATA[I fengselet står plutselig livet på spill og Solveig forstår alt som har skjedd på en ny måte.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/0d3d2ca6-abb1-4c50-bd2c-a6abb19c50fc_1_ID192MP3.mp3</guid>
@@ -65,42 +101,6 @@
       <itunes:duration>56:58</itunes:duration>
       <pubDate>Tue, 26 May 2026 06:06:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zk45WNDSjalI_TbddFKxkQoIUQkTOkBsIW9vXhjPk6vQ.jpg"/>
-    </item>
-    <item>
-      <title>Demonutdriveren: Solveigs metode (3:5)</title>
-      <description><![CDATA[Solveig blir avbrutt av politiet, som finner merkelige ting i huset. Ekteparet må forklare stropp, hengelås og plate foran vinduet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/19de26e8-770e-4193-9e26-e8770e8193d6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/19de26e8-770e-4193-9e26-e8770e8193d6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:19</itunes:duration>
-      <pubDate>Tue, 26 May 2026 06:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zk45WNDSjalI_TbddFKxkQoIUQkTOkBsIW9vXhjPk6vQ.jpg"/>
-    </item>
-    <item>
-      <title>Demonutdriveren: Diagnose: Besatt (2:5)</title>
-      <description><![CDATA[Gjesten slutter å ta medisin, og blir sykere og sykere. Solveig mener det er demonene som viser seg – og går til angrep.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/5cdb39a1-8a21-4daa-9b39-a18a21adaa30_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/5cdb39a1-8a21-4daa-9b39-a18a21adaa30_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:55</itunes:duration>
-      <pubDate>Tue, 26 May 2026 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zk45WNDSjalI_TbddFKxkQoIUQkTOkBsIW9vXhjPk6vQ.jpg"/>
-    </item>
-    <item>
-      <title>Demonutdriveren: En hjelpsom bestemor (1:5)</title>
-      <description><![CDATA[Solveig døper folk hjemme i badekaret sitt og vil befri dem fra mørke krefter. Naboene blir bekymret når en ny gjest flytter inn.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/07b76301-4a0b-48cf-b763-014a0b68cfbb_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/07b76301-4a0b-48cf-b763-014a0b68cfbb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:46</itunes:duration>
-      <pubDate>Tue, 26 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zk45WNDSjalI_TbddFKxkQoIUQkTOkBsIW9vXhjPk6vQ.jpg"/>
-    </item>
-    <item>
-      <title>Stalker 2: Jobbflørten (3:3)</title>
-      <description><![CDATA[Det Asgeir først synes er en spennende flørt, ender i et åtte år langt mareritt med grove trusler og trakassering.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/2f73378e-3eb0-49d9-b337-8e3eb039d9dc_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/2f73378e-3eb0-49d9-b337-8e3eb039d9dc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:50</itunes:duration>
-      <pubDate>Sat, 11 Apr 2026 06:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nvi6it3TRph3K9WYsZ89xQGMr-39dYtBf_dcBto6Q4hg.jpg"/>
     </item>
   </channel>
 </rss>
