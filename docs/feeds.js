@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mah-Rukh Ali",
-      "date": "2026-09-16T14:00:00+02:00"
+      "title": "Carl I. Hagen",
+      "date": "2026-09-17T14:02:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Solarpunk - en bærekraftig drøm",
-      "date": "2026-09-16T13:30:00+02:00"
+      "title": "Trumps USA: Mykje motstand",
+      "date": "2026-09-17T13:00:00+02:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kan KI drepe alle mennesker innen 2030?",
-      "date": "2026-09-15T16:20:00+02:00"
+      "title": "Trump truer Europa etter Canada-flørting",
+      "date": "2026-09-17T15:20:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi samler gode gruppechatnavn!",
-      "date": "2026-09-16T10:00:00+02:00"
+      "title": "Alexander Tetti origin story",
+      "date": "2026-09-17T10:00:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Husedderkoppens tyranni",
-      "date": "2026-09-16T06:00:00+02:00"
+      "title": "Alpelue er stygt",
+      "date": "2026-09-17T06:00:00+02:00"
     }
   },
   {
