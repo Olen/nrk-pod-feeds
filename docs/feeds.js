@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Har foreldrene skylda for skoletallene?",
-      "date": "2026-09-15T22:10:00+02:00"
+      "title": "Utsletter KI menneskeheten innen 3 til 5 år?",
+      "date": "2026-09-17T22:05:00+02:00"
     }
   },
   {
