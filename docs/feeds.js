@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Det finnes en riktig tissevinkel",
-      "date": "2026-09-12T06:00:00+02:00"
+      "title": "Tårnet: Hvor vakker er naturen?",
+      "date": "2026-09-18T06:00:00+02:00"
     }
   },
   {
@@ -177,8 +177,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Alexander Kielland Krag: Begjær, aldersforskjell og skam",
-      "date": "2026-09-11T06:00:00+02:00"
+      "title": "Unni Lindell",
+      "date": "2026-09-18T06:00:00+02:00"
     }
   },
   {
@@ -272,8 +272,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "3500 soldater og en gravferd",
-      "date": "2026-09-11T06:00:00+02:00"
+      "title": "Den myke foreldrefellen",
+      "date": "2026-09-18T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "To av tre får negative konsekvenser av cannabis",
-      "date": "2026-09-17T05:59:00+02:00"
+      "title": "Vil ikke senke drivstoffprisene",
+      "date": "2026-09-18T05:59:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ti år igjen å leve?",
-      "date": "2026-09-17T06:00:00+02:00"
+      "title": "Alt vi sier i det lukkede rom",
+      "date": "2026-09-18T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tyskeren som fikk Norge til verdensrommet",
-      "date": "2026-09-17T05:59:00+02:00"
+      "title": "Naken i sportsreklame: Hån mot kvinner?",
+      "date": "2026-09-18T05:59:00+02:00"
     }
   },
   {
@@ -1778,8 +1778,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "En løpers dilemma",
-      "date": "2026-09-11T05:00:00+02:00"
+      "title": "– Vi har en viktig beskjed. til deg,",
+      "date": "2026-09-18T05:00:00+02:00"
     }
   },
   {
@@ -1889,8 +1889,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Blåmandag for prostinnen",
-      "date": "2026-09-11T06:00:00+02:00"
+      "title": "Attråverdig løpepass",
+      "date": "2026-09-18T06:00:00+02:00"
     }
   },
   {
@@ -2218,8 +2218,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Afghanistan: Fem år med Taliban",
-      "date": "2026-09-11T06:00:00+02:00"
+      "title": "USA: Til helvete med mellomvalget",
+      "date": "2026-09-18T06:00:00+02:00"
     }
   },
   {
@@ -2247,8 +2247,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kupp i USA?",
-      "date": "2026-09-11T10:30:00+02:00"
+      "title": "Hva var det med tyskerne?",
+      "date": "2026-09-18T06:00:00+02:00"
     }
   },
   {

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 11 Sep 2026 09:38:49 +0000</lastBuildDate>
-    <pubDate>Fri, 11 Sep 2026 10:30:00 +0200</pubDate>
+    <lastBuildDate>Fri, 18 Sep 2026 04:48:23 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title>Hva var det med tyskerne?</title>
+      <description><![CDATA[Historikeren svarer på spørsmål fra lytterne om Det tredje riket. Om krigen og Holocaust - og lever vi nå i en ny mellomkrigstid?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/18a822e4-8afb-4a7c-a822-e48afb5a7c10_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/18a822e4-8afb-4a7c-a822-e48afb5a7c10_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:10</itunes:duration>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/D5KcsVd8Rr4TmJHLJr-1IgtpwD7AarVB2gSas_1biXUQ.jpg"/>
+    </item>
     <item>
       <title>Kupp i USA?</title>
       <description><![CDATA[Hvordan kan et kupp skje i USA? Og hvor nære er USA et statskupp?]]></description>
@@ -19,6 +28,15 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/85346aa1-b3e3-4e34-b46a-a1b3e30e3487_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>45:59</itunes:duration>
       <pubDate>Fri, 11 Sep 2026 10:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
+    <item>
+      <title>Perfekte babyer</title>
+      <description><![CDATA[Kontroversiell og i stor grad forbudt teknikk  skaper frykt - og framtidstro]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/98513e48-753b-4066-913e-48753b6066d5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/98513e48-753b-4066-913e-48753b6066d5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:28</itunes:duration>
+      <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
     </item>
     <item>
@@ -82,24 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/7f44b6a1-1aaa-4951-84b6-a11aaad9512a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>54:30</itunes:duration>
       <pubDate>Wed, 24 Jun 2026 13:12:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-6-wOyuq2UlpYr5-gLwDoAXkWJLGyBZAza4sSDq-xPuQ.jpg"/>
-    </item>
-    <item>
-      <title>Det tredje riket: Folkemord 10:12</title>
-      <description><![CDATA[Likbålene brenner dag og natt]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/661d9404-d0f0-41a3-9d94-04d0f051a339_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/661d9404-d0f0-41a3-9d94-04d0f051a339_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:58</itunes:duration>
-      <pubDate>Wed, 24 Jun 2026 13:10:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-6-wOyuq2UlpYr5-gLwDoAXkWJLGyBZAza4sSDq-xPuQ.jpg"/>
-    </item>
-    <item>
-      <title>Det tredje riket: Krig  9:12</title>
-      <description><![CDATA[Hitler fikk den krigen han ikke ville ha]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/5df20e5c-ebff-4608-b20e-5cebffc60830_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/5df20e5c-ebff-4608-b20e-5cebffc60830_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:18</itunes:duration>
-      <pubDate>Wed, 24 Jun 2026 13:06:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/-6-wOyuq2UlpYr5-gLwDoAXkWJLGyBZAza4sSDq-xPuQ.jpg"/>
     </item>
   </channel>
