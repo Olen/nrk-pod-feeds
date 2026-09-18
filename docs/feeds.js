@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vil gi ukrainere opphold",
-      "date": "2026-09-17T19:00:00+02:00"
+      "title": "Togstreiken rammer Østlandet",
+      "date": "2026-09-18T19:00:00+02:00"
     }
   },
   {
@@ -1959,8 +1959,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Skuespillerne Elpida Stojcevska og Deniz Kay fra LIS",
-      "date": "2026-09-11T18:00:00+02:00"
+      "title": "Platedate med Nico & Vinz",
+      "date": "2026-09-18T18:00:00+02:00"
     }
   },
   {
