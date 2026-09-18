@@ -479,8 +479,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Lesing, drivstoff og fraværet av Trump",
-      "date": "2026-09-11T08:30:00+02:00"
+      "title": "Dokument.no, KI-skapt musikk og influensere",
+      "date": "2026-09-18T09:00:00+02:00"
     }
   },
   {
@@ -912,7 +912,7 @@ const feeds = [
     "description": "Pål Plassen utforskar trua, livssynet og verdiane vi navigerer etter i samfunnet.",
     "image": "https://gfx.nrk.no/oRq5i_gA9ar2PEwFR5tG1Q8bhlezjUrmCu1qGi1vMgSw.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Mitt indre kompass: Ingrid Bjørnov",
       "date": "2026-08-19T06:04:00+02:00"
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tromsø, Nordens Hellas?",
-      "date": "2026-09-17T08:00:00+02:00"
+      "title": "Kun de beste får bli?",
+      "date": "2026-09-18T08:00:00+02:00"
     }
   },
   {
@@ -1726,10 +1726,10 @@ const feeds = [
     "description": "Podkasten for deg som bare må ha litt mer av seriene du har sett i NRK TV. ",
     "image": "https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5A06jLW7lH3QqxNwJnD5jFtw.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "LIS: – Jeg er som Joakim (Q&A)",
-      "date": "2026-05-08T11:30:00+02:00"
+      "title": "Smakebit: Seriesnakk: LIS 2",
+      "date": "2026-09-18T06:00:00+02:00"
     }
   },
   {
