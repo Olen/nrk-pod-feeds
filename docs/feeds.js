@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dyre gaver, tånegler og tissing i hagen (Spøtta-spesial #11)",
-      "date": "2026-09-15T06:00:00+02:00"
+      "title": "Jentekveld, fake selvtillit og kleint, kleint, kleint",
+      "date": "2026-09-18T12:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Naken i sportsreklame: Hån mot kvinner?",
-      "date": "2026-09-18T05:59:00+02:00"
+      "title": "Ed Sheeran-bråket: Derfor trekker artistene seg",
+      "date": "2026-09-18T16:15:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Alpelue er stygt",
-      "date": "2026-09-17T06:00:00+02:00"
+      "title": "Markus intervjuer Simen Velle",
+      "date": "2026-09-18T06:00:00+02:00"
     }
   },
   {
