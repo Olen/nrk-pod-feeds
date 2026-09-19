@@ -1392,8 +1392,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ekstreme ytterkanter",
-      "date": "2026-09-12T06:00:00+02:00"
+      "title": "Vanskelige venner",
+      "date": "2026-09-19T06:00:00+02:00"
     }
   },
   {
