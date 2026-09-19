@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fluff!",
-      "date": "2026-09-16T17:35:00+02:00"
+      "title": "Mari Garås Monsson / Jørgen EP / Anna Nor Sørensen",
+      "date": "2026-09-19T13:14:00+02:00"
     }
   },
   {
@@ -2149,8 +2149,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Barn uten lærekondis",
-      "date": "2026-09-12T14:00:00+02:00"
+      "title": "Influensarar og makt",
+      "date": "2026-09-19T15:00:00+02:00"
     }
   },
   {
