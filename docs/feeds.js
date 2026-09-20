@@ -1863,8 +1863,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Snart kommer Spor!",
-      "date": "2026-09-14T06:00:00+02:00"
+      "title": "1. «Mitt hjerte hamrer og hamrer» – trassig suksess",
+      "date": "2026-09-20T06:01:00+02:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Frida Grande: Kjærlighet og PMDD",
-      "date": "2026-09-17T06:00:00+02:00"
+      "title": "Panelet: Solotur og søkehistorikk",
+      "date": "2026-09-20T06:00:00+02:00"
     }
   },
   {
