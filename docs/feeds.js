@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Alexander Tetti origin story",
-      "date": "2026-09-17T10:00:00+02:00"
+      "title": "Er du favorittbarnet?",
+      "date": "2026-09-21T10:30:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kun de beste får bli?",
-      "date": "2026-09-18T08:00:00+02:00"
+      "title": "SVs budsjettkrav",
+      "date": "2026-09-21T08:00:00+02:00"
     }
   },
   {
