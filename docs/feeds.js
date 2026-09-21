@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Togstreiken rammer Østlandet",
-      "date": "2026-09-18T19:00:00+02:00"
+      "title": "EU-nei til olje- og gassutvinning i Arktis",
+      "date": "2026-09-21T19:00:00+02:00"
     }
   },
   {
