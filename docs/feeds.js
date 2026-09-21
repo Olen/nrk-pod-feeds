@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Hvor vakker er naturen?",
-      "date": "2026-09-18T06:00:00+02:00"
+      "title": "Forskningsfronten: Se krystallklart i stupmørke",
+      "date": "2026-09-21T06:00:00+02:00"
     }
   },
   {
@@ -69,8 +69,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Erlend letter på sløret",
-      "date": "2026-09-14T06:00:00+02:00"
+      "title": "En personlig beskjed fra vikingtiden",
+      "date": "2026-09-21T06:00:00+02:00"
     }
   },
   {
@@ -823,8 +823,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sjampo og balsam",
-      "date": "2026-09-14T06:00:00+02:00"
+      "title": "Dører",
+      "date": "2026-09-21T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vil ikke senke drivstoffprisene",
-      "date": "2026-09-18T05:59:00+02:00"
+      "title": "Nå kan varene du handler bli dyrere",
+      "date": "2026-09-21T05:59:00+02:00"
     }
   },
   {
@@ -2107,8 +2107,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Anarki!",
-      "date": "2026-09-14T06:00:00+02:00"
+      "title": "Mistet Norge uskylden med Big Brother?",
+      "date": "2026-09-21T06:00:00+02:00"
     }
   },
   {
