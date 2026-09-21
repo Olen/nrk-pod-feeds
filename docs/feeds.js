@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ekstra:Dette syns vi om Norges tropp",
-      "date": "2026-09-15T16:00:00+02:00"
+      "title": "Nå skjer det!",
+      "date": "2026-09-21T12:59:00+02:00"
     }
   },
   {
@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Carl I. Hagen",
-      "date": "2026-09-17T14:02:00+02:00"
+      "title": "Emma Steinbakken",
+      "date": "2026-09-21T13:55:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps USA: Mykje motstand",
-      "date": "2026-09-17T13:00:00+02:00"
+      "title": "Hva skjedde med verdenskartet?",
+      "date": "2026-09-21T13:30:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Markus intervjuer Simen Velle",
-      "date": "2026-09-18T06:00:00+02:00"
+      "title": "Daniel ammer Markus",
+      "date": "2026-09-21T06:00:00+02:00"
     }
   },
   {
