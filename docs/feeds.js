@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Er du favorittbarnet?",
-      "date": "2026-09-21T10:30:00+02:00"
+      "title": "Slik slutter du å være kresen",
+      "date": "2026-09-22T10:30:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "SVs budsjettkrav",
-      "date": "2026-09-21T08:00:00+02:00"
+      "title": "Kan en SMS fra NAV få unge uføre inn i jobb?",
+      "date": "2026-09-22T08:00:00+02:00"
     }
   },
   {
