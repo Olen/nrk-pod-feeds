@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nå skjer det!",
-      "date": "2026-09-21T12:59:00+02:00"
+      "title": "Gjest: VM-dommer Espen Eskås",
+      "date": "2026-09-22T06:00:00+02:00"
     }
   },
   {
@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jentekveld, fake selvtillit og kleint, kleint, kleint",
-      "date": "2026-09-18T12:00:00+02:00"
+      "title": "Oldemor i farta, hårruller og flørting i forhold",
+      "date": "2026-09-22T06:00:00+02:00"
     }
   },
   {
@@ -164,8 +164,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Et kjapt besøk hos Lars Dehli",
-      "date": "2026-09-15T06:00:00+02:00"
+      "title": "Stryk i norsk",
+      "date": "2026-09-22T06:00:00+02:00"
     }
   },
   {
@@ -778,8 +778,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mánájt oadtjot jali ij?",
-      "date": "2026-09-15T06:00:00+02:00"
+      "title": "Vuorkki sjermav!",
+      "date": "2026-09-22T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nå kan varene du handler bli dyrere",
-      "date": "2026-09-21T05:59:00+02:00"
+      "title": "Nordmenn spiller årlig for milliarder på ulovlige nettkasinoer",
+      "date": "2026-09-22T06:05:00+02:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Handlejakke - med Ingelin Røssland",
-      "date": "2026-09-16T06:00:00+02:00"
+      "title": "Digital - med Terje Torkildsen",
+      "date": "2026-09-22T06:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Alt vi sier i det lukkede rom",
-      "date": "2026-09-18T06:00:00+02:00"
+      "title": "Når pappa plutselig dør",
+      "date": "2026-09-22T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ed Sheeran-bråket: Derfor trekker artistene seg",
-      "date": "2026-09-18T16:15:00+02:00"
+      "title": "Fra eventyr til katastrofe: Kan KI drepe oss?",
+      "date": "2026-09-22T05:59:00+02:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Solotur og søkehistorikk",
-      "date": "2026-09-20T06:00:00+02:00"
+      "title": "Sissel Gran: Det jeg har lært",
+      "date": "2026-09-22T06:00:00+02:00"
     }
   },
   {
