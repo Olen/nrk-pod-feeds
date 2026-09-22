@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "EU-nei til olje- og gassutvinning i Arktis",
-      "date": "2026-09-21T19:00:00+02:00"
+      "title": "Ny skoleplan fra regjeringen",
+      "date": "2026-09-22T19:00:00+02:00"
     }
   },
   {
@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Emma Steinbakken",
-      "date": "2026-09-21T13:55:00+02:00"
+      "title": "Fabian Stang",
+      "date": "2026-09-22T13:35:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hva skjedde med verdenskartet?",
-      "date": "2026-09-21T13:30:00+02:00"
+      "title": "Nettsekta \"The Com\"",
+      "date": "2026-09-22T13:00:00+02:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trump truer Europa etter Canada-flørting",
-      "date": "2026-09-17T15:20:00+02:00"
+      "title": "Prinsesse Diana: Nytt bråk og nye beskyldninger",
+      "date": "2026-09-22T15:57:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Daniel ammer Markus",
-      "date": "2026-09-21T06:00:00+02:00"
+      "title": "Banner på kino",
+      "date": "2026-09-22T06:00:00+02:00"
     }
   },
   {
