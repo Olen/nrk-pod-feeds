@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Utsletter KI menneskeheten innen 3 til 5 år?",
-      "date": "2026-09-17T22:05:00+02:00"
+      "title": "Går Document-redaktøren for langt?",
+      "date": "2026-09-22T20:01:00+02:00"
     }
   },
   {
