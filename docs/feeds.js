@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Gjest: VM-dommer Espen Eskås",
-      "date": "2026-09-22T06:00:00+02:00"
+      "title": "Skal vi ro mot Danmark?",
+      "date": "2026-09-23T16:25:00+02:00"
     }
   },
   {
@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fabian Stang",
-      "date": "2026-09-22T13:35:00+02:00"
+      "title": "Ellen Holager Andenæs",
+      "date": "2026-09-23T14:50:00+02:00"
     }
   },
   {
@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mari Garås Monsson / Jørgen EP / Anna Nor Sørensen",
-      "date": "2026-09-19T13:14:00+02:00"
+      "title": "Det hemmelige brevet",
+      "date": "2026-09-23T15:45:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Banner på kino",
-      "date": "2026-09-22T06:00:00+02:00"
+      "title": "Anna er sur på Markus og Daniel",
+      "date": "2026-09-23T06:00:00+02:00"
     }
   },
   {
