@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nettsekta \"The Com\"",
-      "date": "2026-09-22T13:00:00+02:00"
+      "title": "Bedre kjøpekraft - for hvem?",
+      "date": "2026-09-23T13:00:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Slik slutter du å være kresen",
-      "date": "2026-09-22T10:30:00+02:00"
+      "title": "Stig Brenner tyglet om å bli med på «Ikke lov å le på hytta»",
+      "date": "2026-09-23T10:00:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kan en SMS fra NAV få unge uføre inn i jobb?",
-      "date": "2026-09-22T08:00:00+02:00"
+      "title": "Flyplasser i fare?",
+      "date": "2026-09-23T08:00:00+02:00"
     }
   },
   {
