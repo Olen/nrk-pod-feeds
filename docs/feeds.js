@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Se krystallklart i stupmørke",
-      "date": "2026-09-21T06:00:00+02:00"
+      "title": "Forskningsfronten: Et gjennombrudd i kreftforskning",
+      "date": "2026-09-23T06:00:00+02:00"
     }
   },
   {
@@ -116,8 +116,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jesus provoserer (35:40)",
-      "date": "2026-09-16T06:00:00+02:00"
+      "title": "Jesus på korset (36:40)",
+      "date": "2026-09-23T06:00:00+02:00"
     }
   },
   {
@@ -659,8 +659,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Indira Gandhi – Indias jernkvinne",
-      "date": "2026-09-16T06:00:00+02:00"
+      "title": "Lev Trotskij – jaget revolusjonær",
+      "date": "2026-09-23T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nordmenn spiller årlig for milliarder på ulovlige nettkasinoer",
-      "date": "2026-09-22T06:05:00+02:00"
+      "title": "Skummelt å være landeveissyklist",
+      "date": "2026-09-23T06:10:00+02:00"
     }
   },
   {
@@ -967,8 +967,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jørn Andersen (3): Forklaringen",
-      "date": "2026-09-16T06:00:00+02:00"
+      "title": "Ski: Derfor ble hun frikjent",
+      "date": "2026-09-23T06:00:00+02:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Digital - med Terje Torkildsen",
-      "date": "2026-09-22T06:00:00+02:00"
+      "title": "Si det - med Oda Gravdal Ulriksen",
+      "date": "2026-09-23T06:00:00+02:00"
     }
   },
   {
@@ -1046,8 +1046,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "«Prosessen» (8:10 Kjøpmann Block, Oppsigelse av Advokaten)",
-      "date": "2026-09-16T06:04:00+02:00"
+      "title": "«Prosessen» (Fragmenter)",
+      "date": "2026-09-23T06:05:00+02:00"
     }
   },
   {
@@ -1059,8 +1059,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Åpent forhold",
-      "date": "2026-09-16T05:00:00+02:00"
+      "title": "Hvorfor er lesing kjedelig?",
+      "date": "2026-09-23T05:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Når pappa plutselig dør",
-      "date": "2026-09-22T06:00:00+02:00"
+      "title": "Slik oppdrar du barna!",
+      "date": "2026-09-23T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fra eventyr til katastrofe: Kan KI drepe oss?",
-      "date": "2026-09-22T05:59:00+02:00"
+      "title": "AOC: Kan ho bli USAs neste president?",
+      "date": "2026-09-23T05:59:00+02:00"
     }
   },
   {
@@ -1876,8 +1876,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sport er også følelser",
-      "date": "2026-09-16T06:00:00+02:00"
+      "title": "Sportsdesken ringer Danmark",
+      "date": "2026-09-23T06:00:00+02:00"
     }
   },
   {
