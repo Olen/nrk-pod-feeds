@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ny skoleplan fra regjeringen",
-      "date": "2026-09-22T19:00:00+02:00"
+      "title": "Økt trussel fra Russland",
+      "date": "2026-09-23T19:00:00+02:00"
     }
   },
   {
