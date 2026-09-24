@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Økt trussel fra Russland",
-      "date": "2026-09-23T19:00:00+02:00"
+      "title": "Norges bank hever renten",
+      "date": "2026-09-24T19:00:00+02:00"
     }
   },
   {
