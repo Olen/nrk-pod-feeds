@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Skummelt å være landeveissyklist",
-      "date": "2026-09-23T06:10:00+02:00"
+      "title": "Hva skjer med renta i dag?",
+      "date": "2026-09-24T05:59:00+02:00"
     }
   },
   {
@@ -1046,8 +1046,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "«Prosessen» (Fragmenter)",
-      "date": "2026-09-23T06:05:00+02:00"
+      "title": "Boktober: «Verity» med Linnéa Myhre: KOMMER: Boktober i Leseklubben!",
+      "date": "2026-09-24T06:06:00+02:00"
     }
   },
   {
@@ -1072,8 +1072,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Teppetrøbbel og maratonmage",
-      "date": "2026-09-17T06:00:00+02:00"
+      "title": "Skammens kartotek",
+      "date": "2026-09-24T06:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Slik oppdrar du barna!",
-      "date": "2026-09-23T06:00:00+02:00"
+      "title": "Ingen har rett!",
+      "date": "2026-09-24T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "AOC: Kan ho bli USAs neste president?",
-      "date": "2026-09-23T05:59:00+02:00"
+      "title": "Pavens oppgjør: Slik vil han redde kirkens rykte",
+      "date": "2026-09-24T05:59:00+02:00"
     }
   },
   {
@@ -1715,8 +1715,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "– Kan jeg ri på en floodhorse?",
-      "date": "2026-09-17T06:00:00+02:00"
+      "title": "– Jeg tror dette er spam?",
+      "date": "2026-09-24T06:00:00+02:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sissel Gran: Det jeg har lært",
-      "date": "2026-09-22T06:00:00+02:00"
+      "title": "Juliane Snekkestad: Valg av menn",
+      "date": "2026-09-24T06:00:00+02:00"
     }
   },
   {
@@ -2247,8 +2247,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hva var det med tyskerne?",
-      "date": "2026-09-18T06:00:00+02:00"
+      "title": "Aldri mer 9. april",
+      "date": "2026-09-24T06:00:00+02:00"
     }
   },
   {
