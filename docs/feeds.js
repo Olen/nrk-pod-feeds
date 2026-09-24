@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ellen Holager Andenæs",
-      "date": "2026-09-23T14:50:00+02:00"
+      "title": "Kari Spjeldnæs",
+      "date": "2026-09-24T13:45:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bedre kjøpekraft - for hvem?",
-      "date": "2026-09-23T13:00:00+02:00"
+      "title": "Trumps USA: Vinden har vendt",
+      "date": "2026-09-24T13:30:00+02:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Prinsesse Diana: Nytt bråk og nye beskyldninger",
-      "date": "2026-09-22T15:57:00+02:00"
+      "title": "Hvorfor stoppet ingen Terje Rød-Larsen?",
+      "date": "2026-09-24T15:41:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Anna er sur på Markus og Daniel",
-      "date": "2026-09-23T06:00:00+02:00"
+      "title": "Fikk ikke bursdagsgratulasjon",
+      "date": "2026-09-24T06:00:00+02:00"
     }
   },
   {
