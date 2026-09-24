@@ -293,8 +293,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Et hekseliv",
-      "date": "2026-09-17T06:00:00+02:00"
+      "title": "Verdens verste liggeliste",
+      "date": "2026-09-24T06:00:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Stig Brenner tyglet om å bli med på «Ikke lov å le på hytta»",
-      "date": "2026-09-23T10:00:00+02:00"
+      "title": "Hvilken prat er KI?",
+      "date": "2026-09-24T10:00:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Flyplasser i fare?",
-      "date": "2026-09-23T08:00:00+02:00"
+      "title": "Mistenkt for valgjuks i Sverige ",
+      "date": "2026-09-24T08:00:00+02:00"
     }
   },
   {
