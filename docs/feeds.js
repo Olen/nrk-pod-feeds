@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Et gjennombrudd i kreftforskning",
-      "date": "2026-09-23T06:00:00+02:00"
+      "title": "Tårnet: Tok Einstein feil?",
+      "date": "2026-09-25T06:00:00+02:00"
     }
   },
   {
@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Oldemor i farta, hårruller og flørting i forhold",
-      "date": "2026-09-22T06:00:00+02:00"
+      "title": "Tulleringing, «mile high club» og hot or not",
+      "date": "2026-09-25T12:00:00+02:00"
     }
   },
   {
@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Går Document-redaktøren for langt?",
-      "date": "2026-09-22T20:01:00+02:00"
+      "title": "Renta går opp, opp, opp",
+      "date": "2026-09-25T11:55:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvilken prat er KI?",
-      "date": "2026-09-24T10:00:00+02:00"
+      "title": "Renteheving for dummies",
+      "date": "2026-09-25T10:00:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fikk ikke bursdagsgratulasjon",
-      "date": "2026-09-24T06:00:00+02:00"
+      "title": "Anna intervjuer Tara Lina",
+      "date": "2026-09-25T06:00:00+02:00"
     }
   },
   {
