@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norges bank hever renten",
-      "date": "2026-09-24T19:00:00+02:00"
+      "title": "Får kritikk for å legge inn bøker i KI",
+      "date": "2026-09-25T19:00:00+02:00"
     }
   },
   {
