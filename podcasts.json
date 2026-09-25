@@ -450,7 +450,7 @@
         "description": "Livsfarlig spionasje, grufulle drap og ulykkelig kjærlighet – Nasjonalbiblioteket dykker ned i noen av fortidas uforglemmelige skjebner.  ",
         "image": "https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwfp1mOKKgiiJW2WISsraCVQ.jpg",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "gfestallan_lisain",
@@ -526,7 +526,7 @@
         "description": "Bli med gjengen i Bablo på nye gøyale sprell! På dette biblioteket kan man bable, tulle og gjøre alt som er rart.",
         "image": "https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwzhkgZYH4VC11qPpfxlloNw.jpg",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "harald_v",
