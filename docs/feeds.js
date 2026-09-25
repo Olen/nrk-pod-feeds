@@ -177,8 +177,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Unni Lindell",
-      "date": "2026-09-18T06:00:00+02:00"
+      "title": "Jan Kjærstad: Kan du hjelpe med en metafor?",
+      "date": "2026-09-25T06:00:00+02:00"
     }
   },
   {
@@ -272,8 +272,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Den myke foreldrefellen",
-      "date": "2026-09-18T06:00:00+02:00"
+      "title": "Et 3D-printet våpenkappløp",
+      "date": "2026-09-25T06:00:00+02:00"
     }
   },
   {
@@ -479,8 +479,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dokument.no, KI-skapt musikk og influensere",
-      "date": "2026-09-18T09:00:00+02:00"
+      "title": "Nasjonalgalleriet, bibliotek og Ed Sheeran",
+      "date": "2026-09-25T08:00:00+02:00"
     }
   },
   {
@@ -514,7 +514,7 @@ const feeds = [
     "description": "Livsfarlig spionasje, grufulle drap og ulykkelig kjærlighet – Nasjonalbiblioteket dykker ned i noen av fortidas uforglemmelige skjebner.  ",
     "image": "https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwfp1mOKKgiiJW2WISsraCVQ.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Syndebukken for 9. april",
       "date": "2026-08-26T06:00:00+02:00"
@@ -594,10 +594,10 @@ const feeds = [
     "description": "Bli med gjengen i Bablo på nye gøyale sprell! På dette biblioteket kan man bable, tulle og gjøre alt som er rart.",
     "image": "https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwzhkgZYH4VC11qPpfxlloNw.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Fantasibygging",
-      "date": "2026-06-19T06:05:00+02:00"
+      "title": "Jakten på det forsvunne godteriet",
+      "date": "2026-09-25T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hva skjer med renta i dag?",
-      "date": "2026-09-24T05:59:00+02:00"
+      "title": "Protester mot Netanyahus tale",
+      "date": "2026-09-25T05:59:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ingen har rett!",
-      "date": "2026-09-24T06:00:00+02:00"
+      "title": "Forstoppet i Japan",
+      "date": "2026-09-25T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Pavens oppgjør: Slik vil han redde kirkens rykte",
-      "date": "2026-09-24T05:59:00+02:00"
+      "title": "Erdogans «trygge» Tyrkia: Et angrep mot skeive?",
+      "date": "2026-09-25T05:59:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mistenkt for valgjuks i Sverige ",
-      "date": "2026-09-24T08:00:00+02:00"
+      "title": "Hvordan står det til med drivstoff-opprøret i Høyre? ",
+      "date": "2026-09-25T08:00:00+02:00"
     }
   },
   {
@@ -1778,8 +1778,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "– Vi har en viktig beskjed. til deg,",
-      "date": "2026-09-18T05:00:00+02:00"
+      "title": "Vår aller siste episode",
+      "date": "2026-09-25T05:00:00+02:00"
     }
   },
   {
@@ -1889,8 +1889,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Attråverdig løpepass",
-      "date": "2026-09-18T06:00:00+02:00"
+      "title": "Sviskete bukseroller",
+      "date": "2026-09-25T06:00:00+02:00"
     }
   },
   {
@@ -2218,8 +2218,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "USA: Til helvete med mellomvalget",
-      "date": "2026-09-18T06:00:00+02:00"
+      "title": "USA: Til krig mot mediene",
+      "date": "2026-09-25T06:00:00+02:00"
     }
   },
   {
