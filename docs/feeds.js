@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Skal vi ro mot Danmark?",
-      "date": "2026-09-23T16:25:00+02:00"
+      "title": "Dødballtriks avgjorde fotballdrama",
+      "date": "2026-09-25T02:52:00+02:00"
     }
   },
   {
