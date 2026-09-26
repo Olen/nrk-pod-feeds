@@ -1392,8 +1392,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vanskelige venner",
-      "date": "2026-09-19T06:00:00+02:00"
+      "title": "Djevelpakt",
+      "date": "2026-09-26T06:00:00+02:00"
     }
   },
   {
@@ -1728,8 +1728,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Smakebit: Seriesnakk: LIS 2",
-      "date": "2026-09-18T06:00:00+02:00"
+      "title": "LIS 2: – Hun bør miste legelisensen (1:4)",
+      "date": "2026-09-26T06:00:00+02:00"
     }
   },
   {
