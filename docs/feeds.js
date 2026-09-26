@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Det hemmelige brevet",
-      "date": "2026-09-23T15:45:00+02:00"
+      "title": "Geir «Fenriken» Aker / Martha Leivestad / Odd Nordstoga",
+      "date": "2026-09-26T13:15:00+02:00"
     }
   },
   {
@@ -2149,8 +2149,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Influensarar og makt",
-      "date": "2026-09-19T15:00:00+02:00"
+      "title": "Hva gjør en by god å bo i?",
+      "date": "2026-09-26T06:00:00+02:00"
     }
   },
   {
