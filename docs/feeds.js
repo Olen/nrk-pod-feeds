@@ -1863,8 +1863,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "1. «Mitt hjerte hamrer og hamrer» – trassig suksess",
-      "date": "2026-09-20T06:01:00+02:00"
+      "title": "2: Sondre Lerche «The Sentimentalist»",
+      "date": "2026-09-27T06:02:00+02:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Juliane Snekkestad: Valg av menn",
-      "date": "2026-09-24T06:00:00+02:00"
+      "title": "Panelet: Seksualisering og Kaptein Sabeltann",
+      "date": "2026-09-27T06:00:00+02:00"
     }
   },
   {
