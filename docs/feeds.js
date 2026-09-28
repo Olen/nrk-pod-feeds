@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Får kritikk for å legge inn bøker i KI",
-      "date": "2026-09-25T19:00:00+02:00"
+      "title": "Vil vrake Nyland",
+      "date": "2026-09-28T19:00:00+02:00"
     }
   },
   {
