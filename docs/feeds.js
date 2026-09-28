@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps USA: Vinden har vendt",
-      "date": "2026-09-24T13:30:00+02:00"
+      "title": "Umodne skolebarn",
+      "date": "2026-09-28T13:00:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Renteheving for dummies",
-      "date": "2026-09-25T10:00:00+02:00"
+      "title": "Spicy påstander om statsministeren",
+      "date": "2026-09-28T06:00:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Anna intervjuer Tara Lina",
-      "date": "2026-09-25T06:00:00+02:00"
+      "title": "Daniel har blitt overvåka",
+      "date": "2026-09-28T06:00:00+02:00"
     }
   },
   {
