@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Tok Einstein feil?",
-      "date": "2026-09-25T06:00:00+02:00"
+      "title": "Forskningsfronten: Da KI slukte matematikken",
+      "date": "2026-09-28T06:00:00+02:00"
     }
   },
   {
@@ -69,8 +69,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "En personlig beskjed fra vikingtiden",
-      "date": "2026-09-21T06:00:00+02:00"
+      "title": "PISA-taperne versus superintelligens",
+      "date": "2026-09-28T06:00:00+02:00"
     }
   },
   {
@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dødballtriks avgjorde fotballdrama",
-      "date": "2026-09-25T02:52:00+02:00"
+      "title": "- Bytt keeper og benk Haaland!",
+      "date": "2026-09-28T03:17:00+02:00"
     }
   },
   {
@@ -823,8 +823,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dører",
-      "date": "2026-09-21T06:00:00+02:00"
+      "title": "Kart",
+      "date": "2026-09-28T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Protester mot Netanyahus tale",
-      "date": "2026-09-25T05:59:00+02:00"
+      "title": "Keepertabbe kostet Norge dyrt",
+      "date": "2026-09-28T05:59:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Erdogans «trygge» Tyrkia: Et angrep mot skeive?",
-      "date": "2026-09-25T05:59:00+02:00"
+      "title": "Uefa mot Fifa: Slik vil de finte ut Infantino",
+      "date": "2026-09-28T05:59:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvordan står det til med drivstoff-opprøret i Høyre? ",
-      "date": "2026-09-25T08:00:00+02:00"
+      "title": "Bryllupsbonus fra KrFU",
+      "date": "2026-09-28T08:00:00+02:00"
     }
   },
   {
@@ -2107,8 +2107,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mistet Norge uskylden med Big Brother?",
-      "date": "2026-09-21T06:00:00+02:00"
+      "title": "Naturdøden",
+      "date": "2026-09-28T06:00:00+02:00"
     }
   },
   {

@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 25 Sep 2026 13:44:04 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Sep 2026 06:50:36 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten: Da KI slukte matematikken</title>
+      <description><![CDATA[Hva nå, matematiker? Er det bruk for deg lenger? Dette er historien om da OpenAi løste Navier Stokes, et av de sju milleniumsproblemene i matematikk. En hendelse som sendte sjokkbølger gjennom hele feltet, og trolig blir stående igjen som et vannskille i historien. 
+Dette er også historien om en eksistensiell trussel, og om en politisk vekkelse som hjemsøker matematikkens verden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/9ca5b009-5b28-4047-a5b0-095b28e04755_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9ca5b009-5b28-4047-a5b0-095b28e04755_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0B59pjE2aHd-m73GNveqCAhzWVxAwFMkcHd0OhVITrrw.jpg"/>
+    </item>
     <item>
       <title>Tårnet: Tok Einstein feil?</title>
       <description><![CDATA[Selv genier kan stå for fall.
@@ -96,15 +106,6 @@ Lurer du på ting? Spør Abels Tårn!]]></description>
       <itunes:duration>28:45</itunes:duration>
       <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten: Vinduet ditt gjør deg syk</title>
-      <description><![CDATA[Det påstår i hvert fall noen forskere. Dessuten, biobatterier erstatter kjernekraftverk og HIV kan bli fullstendig utrydda]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/28ad645a-dd3d-4293-ad64-5add3d7293fe_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/28ad645a-dd3d-4293-ad64-5add3d7293fe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:24</itunes:duration>
-      <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
     </item>
   </channel>
 </rss>
