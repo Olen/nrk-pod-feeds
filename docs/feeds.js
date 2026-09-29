@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tulleringing, «mile high club» og hot or not",
-      "date": "2026-09-25T12:00:00+02:00"
+      "title": "Anoreksi, regulering og studio-navn",
+      "date": "2026-09-29T06:00:00+02:00"
     }
   },
   {
@@ -164,8 +164,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Stryk i norsk",
-      "date": "2026-09-22T06:00:00+02:00"
+      "title": "Har du lyst, har du lov",
+      "date": "2026-09-29T06:00:00+02:00"
     }
   },
   {
@@ -778,8 +778,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vuorkki sjermav!",
-      "date": "2026-09-22T06:00:00+02:00"
+      "title": "Guovggisruoppsis vuopta",
+      "date": "2026-09-29T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Keepertabbe kostet Norge dyrt",
-      "date": "2026-09-28T05:59:00+02:00"
+      "title": "Flere som har overlevd barnekreft sliter psykisk",
+      "date": "2026-09-29T05:59:00+02:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Si det - med Oda Gravdal Ulriksen",
-      "date": "2026-09-23T06:00:00+02:00"
+      "title": "Luftslott - med Gunn Marit Nisja",
+      "date": "2026-09-29T06:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forstoppet i Japan",
-      "date": "2026-09-25T06:00:00+02:00"
+      "title": "Kostymer som fortjener bank!",
+      "date": "2026-09-29T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Uefa mot Fifa: Slik vil de finte ut Infantino",
-      "date": "2026-09-28T05:59:00+02:00"
+      "title": "Storpolitisk flørt: Derfor frir Canada til Europa",
+      "date": "2026-09-29T05:59:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Spicy påstander om statsministeren",
-      "date": "2026-09-28T06:00:00+02:00"
+      "title": "Når blir en quiz en quiz",
+      "date": "2026-09-29T09:30:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bryllupsbonus fra KrFU",
-      "date": "2026-09-28T08:00:00+02:00"
+      "title": "Norsk drivstoff",
+      "date": "2026-09-29T08:00:00+02:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Seksualisering og Kaptein Sabeltann",
-      "date": "2026-09-27T06:00:00+02:00"
+      "title": "Jonas Lihaug: Blitt voksen",
+      "date": "2026-09-29T06:00:00+02:00"
     }
   },
   {
