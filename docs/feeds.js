@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vil vrake Nyland",
-      "date": "2026-09-28T19:00:00+02:00"
+      "title": "Toppduell om personlig økonomi",
+      "date": "2026-09-29T19:00:00+02:00"
     }
   },
   {
@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Renta går opp, opp, opp",
-      "date": "2026-09-25T11:55:00+02:00"
+      "title": "Har du dårligere råd, eller er det bare føleri?",
+      "date": "2026-09-29T22:05:00+02:00"
     }
   },
   {
