@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Umodne skolebarn",
-      "date": "2026-09-28T13:00:00+02:00"
+      "title": "Unge ryddar opp gamle synder",
+      "date": "2026-09-29T12:30:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Daniel har blitt overvåka",
-      "date": "2026-09-28T06:00:00+02:00"
+      "title": "Daniel har vært «utro»",
+      "date": "2026-09-29T06:00:00+02:00"
     }
   },
   {
