@@ -116,8 +116,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jesus på korset (36:40)",
-      "date": "2026-09-23T06:00:00+02:00"
+      "title": "Graven er tom! (37:40)",
+      "date": "2026-09-30T06:00:00+02:00"
     }
   },
   {
@@ -659,8 +659,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Lev Trotskij – jaget revolusjonær",
-      "date": "2026-09-23T06:00:00+02:00"
+      "title": "Edvard Grieg – Norges toneskaper",
+      "date": "2026-09-30T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Flere som har overlevd barnekreft sliter psykisk",
-      "date": "2026-09-29T05:59:00+02:00"
+      "title": "Støre skal svare om Epstein",
+      "date": "2026-09-30T05:59:00+02:00"
     }
   },
   {
@@ -967,8 +967,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ski: Derfor ble hun frikjent",
-      "date": "2026-09-23T06:00:00+02:00"
+      "title": "Realitystjerne drept: Var det sjalusi?",
+      "date": "2026-09-30T06:00:00+02:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Luftslott - med Gunn Marit Nisja",
-      "date": "2026-09-29T06:00:00+02:00"
+      "title": "Kulde - med Sunniva Relling Berg",
+      "date": "2026-09-30T06:00:00+02:00"
     }
   },
   {
@@ -1046,8 +1046,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Boktober: «Verity» med Linnéa Myhre: KOMMER: Boktober i Leseklubben!",
-      "date": "2026-09-24T06:06:00+02:00"
+      "title": "Leseklubben: «Prosessen» med Einar Tørnquist: –En livsendrende opplevelse (5:5)",
+      "date": "2026-09-30T06:01:00+02:00"
     }
   },
   {
@@ -1059,8 +1059,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvorfor er lesing kjedelig?",
-      "date": "2026-09-23T05:00:00+02:00"
+      "title": "Demens: Kan det forebygges? (1:2)",
+      "date": "2026-09-30T05:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kostymer som fortjener bank!",
-      "date": "2026-09-29T06:00:00+02:00"
+      "title": "Fingring i Køben",
+      "date": "2026-09-30T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Storpolitisk flørt: Derfor frir Canada til Europa",
-      "date": "2026-09-29T05:59:00+02:00"
+      "title": "ADHD: Fra diagnose til mareritt",
+      "date": "2026-09-30T05:59:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norsk drivstoff",
-      "date": "2026-09-29T08:00:00+02:00"
+      "title": "Står Oslo-avtalen seg som en diplomatisk bragd?  ",
+      "date": "2026-09-30T08:00:00+02:00"
     }
   },
   {
@@ -1876,8 +1876,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sportsdesken ringer Danmark",
-      "date": "2026-09-23T06:00:00+02:00"
+      "title": "Vi prater piss fra A til Å",
+      "date": "2026-09-30T06:00:00+02:00"
     }
   },
   {
