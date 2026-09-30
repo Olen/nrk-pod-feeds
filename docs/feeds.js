@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Toppduell om personlig økonomi",
-      "date": "2026-09-29T19:00:00+02:00"
+      "title": "Epstein-høring i Stortinget",
+      "date": "2026-09-30T19:00:00+02:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvorfor stoppet ingen Terje Rød-Larsen?",
-      "date": "2026-09-24T15:41:00+02:00"
+      "title": "Epstein-høring: – Politisk teater og angrende synder",
+      "date": "2026-09-30T20:05:00+02:00"
     }
   },
   {
