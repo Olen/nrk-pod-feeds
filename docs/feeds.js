@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ødegaards kamp mot klokka",
-      "date": "2026-09-29T22:54:00+02:00"
+      "title": "- Klart de snakker om Man City",
+      "date": "2026-09-30T22:50:00+02:00"
     }
   },
   {
