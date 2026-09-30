@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "- Bytt keeper og benk Haaland!",
-      "date": "2026-09-28T03:17:00+02:00"
+      "title": "Ødegaards kamp mot klokka",
+      "date": "2026-09-29T22:54:00+02:00"
     }
   },
   {
