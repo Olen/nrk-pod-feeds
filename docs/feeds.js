@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Unge ryddar opp gamle synder",
-      "date": "2026-09-29T12:30:00+02:00"
+      "title": "Hvordan omfavne høsten?",
+      "date": "2026-09-30T13:30:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Daniel har vært «utro»",
-      "date": "2026-09-29T06:00:00+02:00"
+      "title": "Er humor fra 40-tallet gøy?",
+      "date": "2026-09-30T14:00:00+02:00"
     }
   },
   {
