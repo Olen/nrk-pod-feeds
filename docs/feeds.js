@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Epstein-høring i Stortinget",
-      "date": "2026-09-30T19:00:00+02:00"
+      "title": "Siste dag med Epstein-høring i Stortinget",
+      "date": "2026-10-01T19:00:00+02:00"
     }
   },
   {
