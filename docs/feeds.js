@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Har du dårligere råd, eller er det bare føleri?",
-      "date": "2026-09-29T22:05:00+02:00"
+      "title": "Hva har vi lært av Epstein-høringene?",
+      "date": "2026-10-01T21:55:00+02:00"
     }
   },
   {
