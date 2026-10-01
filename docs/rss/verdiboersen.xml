@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 24 Sep 2026 04:46:17 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:09:12 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2026 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title>Hva betyr ...?: Ondskapens banalitet</title>
+      <description><![CDATA[1961 fulgte filosofen Hannah Arendt rettssaken mot SS-offiseren Adolf Eichmann. Her så hun  "ondskapens banalitet"]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/9adc8586-7cea-473a-9c85-867cea573a81_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/9adc8586-7cea-473a-9c85-867cea573a81_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:10</itunes:duration>
+      <pubDate>Thu, 01 Oct 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor velge KI-kjæreste!</title>
+      <description><![CDATA[- og hvorfor ikke!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ccf35a5b-9cad-43e3-b35a-5b9cad53e356_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ccf35a5b-9cad-43e3-b35a-5b9cad53e356_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:57</itunes:duration>
+      <pubDate>Fri, 25 Sep 2026 18:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
     <item>
       <title>Aldri mer 9. april</title>
       <description><![CDATA[Hvorfor var Norge så dårlig forberedt på krig? Vi snakker om året 1939- og hvordan man tenkte]]></description>
@@ -83,24 +101,6 @@
       <itunes:duration>30:27</itunes:duration>
       <pubDate>Sun, 28 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/spfwvFL_xUuEP-jiXX7cggR4_TUdqMV0yH8eSTnrovFA.jpg"/>
-    </item>
-    <item>
-      <title>Pavens imponerende  KI-brev</title>
-      <description><![CDATA[- og ateisten som tror at KI nå er bevisst]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/20c66788-bf63-442a-8667-88bf63342a14_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/20c66788-bf63-442a-8667-88bf63342a14_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:13</itunes:duration>
-      <pubDate>Fri, 26 Jun 2026 10:20:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
-    </item>
-    <item>
-      <title>Det tredje riket: Minner 12:12</title>
-      <description><![CDATA[Hitler har aldri forlatt oss]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/6b9cb33a-8fd1-4dd1-9cb3-3a8fd1add12e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/6b9cb33a-8fd1-4dd1-9cb3-3a8fd1add12e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:50</itunes:duration>
-      <pubDate>Wed, 24 Jun 2026 13:20:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-6-wOyuq2UlpYr5-gLwDoAXkWJLGyBZAza4sSDq-xPuQ.jpg"/>
     </item>
   </channel>
 </rss>

@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvordan omfavne høsten?",
-      "date": "2026-09-30T13:30:00+02:00"
+      "title": "Trumps USA: Hva er bra med Donald Trump?",
+      "date": "2026-10-01T13:00:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Når blir en quiz en quiz",
-      "date": "2026-09-29T09:30:00+02:00"
+      "title": "Mímir Kristjánsson sitt alter ego",
+      "date": "2026-10-01T10:00:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Står Oslo-avtalen seg som en diplomatisk bragd?  ",
-      "date": "2026-09-30T08:00:00+02:00"
+      "title": "Krever endringer i SV ledelsen",
+      "date": "2026-10-01T08:00:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Er humor fra 40-tallet gøy?",
-      "date": "2026-09-30T14:00:00+02:00"
+      "title": "Høytlesning om delfinsex",
+      "date": "2026-10-01T06:00:00+02:00"
     }
   },
   {
@@ -2247,8 +2247,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Aldri mer 9. april",
-      "date": "2026-09-24T06:00:00+02:00"
+      "title": "Hva betyr ...?: Ondskapens banalitet",
+      "date": "2026-10-01T12:00:00+02:00"
     }
   },
   {
