@@ -293,8 +293,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Verdens verste liggeliste",
-      "date": "2026-09-24T06:00:00+02:00"
+      "title": "Er jeg en sexforbryter nå?",
+      "date": "2026-10-01T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Støre skal svare om Epstein",
-      "date": "2026-09-30T05:59:00+02:00"
+      "title": "Polen har fått «abortomat»",
+      "date": "2026-10-01T05:59:00+02:00"
     }
   },
   {
@@ -1046,8 +1046,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Leseklubben: «Prosessen» med Einar Tørnquist: –En livsendrende opplevelse (5:5)",
-      "date": "2026-09-30T06:01:00+02:00"
+      "title": "Boktober: «Fluenes herre» med Oskar Westerlin: – En vanlig gutt fra Porsgrunn som leser (1:5)",
+      "date": "2026-10-01T06:05:00+02:00"
     }
   },
   {
@@ -1059,8 +1059,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Demens: Kan det forebygges? (1:2)",
-      "date": "2026-09-30T05:00:00+02:00"
+      "title": "På hjertet: Les med Linnéa",
+      "date": "2026-10-01T05:00:00+02:00"
     }
   },
   {
@@ -1072,8 +1072,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Skammens kartotek",
-      "date": "2026-09-24T06:00:00+02:00"
+      "title": "Indremisjonskoret Refleks",
+      "date": "2026-10-01T06:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fingring i Køben",
-      "date": "2026-09-30T06:00:00+02:00"
+      "title": "Burger uten pinne!",
+      "date": "2026-10-01T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "ADHD: Fra diagnose til mareritt",
-      "date": "2026-09-30T05:59:00+02:00"
+      "title": "Springsteens protestfest: I strupen på Trump",
+      "date": "2026-10-01T05:59:00+02:00"
     }
   },
   {
@@ -1715,8 +1715,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "– Jeg tror dette er spam?",
-      "date": "2026-09-24T06:00:00+02:00"
+      "title": "– Kan barna bli med deg?",
+      "date": "2026-10-01T06:00:00+02:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jonas Lihaug: Blitt voksen",
-      "date": "2026-09-29T06:00:00+02:00"
+      "title": "Jannecke Weeden: Umulig å elske?",
+      "date": "2026-10-01T06:00:00+02:00"
     }
   },
   {
