@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "- Klart de snakker om Man City",
-      "date": "2026-09-30T22:50:00+02:00"
+      "title": "Sjokktap - hva nå Norge?",
+      "date": "2026-10-02T02:52:00+02:00"
     }
   },
   {
