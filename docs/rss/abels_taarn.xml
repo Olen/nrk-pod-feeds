@@ -8,12 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 28 Sep 2026 06:50:36 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2026 15:46:11 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
     <item>
-      <title>Forskningsfronten: Da KI slukte matematikken</title>
+      <title>Tårnet: Hva er inni et datasenter?</title>
+      <description><![CDATA[Håper det også finnes rom for folk der.
+Lurer du på de merkeligste saker og ting? Få svar fra Abels Tårns allvitende ekspertise!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/a8269b66-0e44-490d-a69b-660e44390d40_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a8269b66-0e44-490d-a69b-660e44390d40_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:31</itunes:duration>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3YxQmnhWKkiHyRQPbJ7IrQ3tO5rtJ9h_mWF8GJM-iwDA.jpg"/>
+    </item>
+    <item>
+      <title>Forskningsfronten: Da OpenAI kuppa matematikken</title>
       <description><![CDATA[Hva nå, matematiker? Er det bruk for deg lenger? Dette er historien om da OpenAi løste Navier Stokes, et av de sju milleniumsproblemene i matematikk. En hendelse som sendte sjokkbølger gjennom hele feltet, og trolig blir stående igjen som et vannskille i historien. 
 Dette er også historien om en eksistensiell trussel, og om en politisk vekkelse som hjemsøker matematikkens verden.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/9ca5b009-5b28-4047-a5b0-095b28e04755_1_ID192MP3.mp3</guid>
@@ -97,15 +107,6 @@ Lurer du på ting? Spør Abels Tårn!]]></description>
       <itunes:duration>01:05:09</itunes:duration>
       <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/QJN3bDRavORk8zhX35V22gbHpVWB58AsaLI1LZss0IQw.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten: En mobil som reparerer seg selv</title>
-      <description><![CDATA[Er det NASA drømmer om. Dessuten, forsker ville krysse menneske med sjimpanse. Og menneskehjerne har levd flere år på en lab]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/24fcd339-fca6-4332-bcd3-39fca65332de_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/24fcd339-fca6-4332-bcd3-39fca65332de_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:45</itunes:duration>
-      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
     </item>
   </channel>
 </rss>

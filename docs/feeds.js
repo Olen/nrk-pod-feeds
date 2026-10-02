@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Da KI slukte matematikken",
-      "date": "2026-09-28T06:00:00+02:00"
+      "title": "Tårnet: Hva er inni et datasenter?",
+      "date": "2026-10-02T06:00:00+02:00"
     }
   },
   {
@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Anoreksi, regulering og studio-navn",
-      "date": "2026-09-29T06:00:00+02:00"
+      "title": "Boktober, rap battle og sparkesykkel som hobby",
+      "date": "2026-10-02T12:00:00+02:00"
     }
   },
   {
@@ -638,8 +638,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hurtigruta brenner: Kampen på innsiden (2:2)",
-      "date": "2026-09-12T06:02:00+02:00"
+      "title": "Kommer i NRK Radio: Bueskytteren",
+      "date": "2026-10-02T12:00:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Høytlesning om delfinsex",
-      "date": "2026-10-01T06:00:00+02:00"
+      "title": "Daniel intervjuer Gaute Skjervø",
+      "date": "2026-10-02T06:00:00+02:00"
     }
   },
   {
