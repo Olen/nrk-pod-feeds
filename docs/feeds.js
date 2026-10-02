@@ -177,8 +177,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jan Kjærstad: Kan du hjelpe med en metafor?",
-      "date": "2026-09-25T06:00:00+02:00"
+      "title": "Kim Leine: Sekt, overgrep, røtter",
+      "date": "2026-10-02T06:00:00+02:00"
     }
   },
   {
@@ -272,8 +272,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Et 3D-printet våpenkappløp",
-      "date": "2026-09-25T06:00:00+02:00"
+      "title": "Stortingets Epstein-time",
+      "date": "2026-10-02T06:00:00+02:00"
     }
   },
   {
@@ -479,8 +479,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nasjonalgalleriet, bibliotek og Ed Sheeran",
-      "date": "2026-09-25T08:00:00+02:00"
+      "title": "Fra Haaland til Norge Rundt",
+      "date": "2026-10-02T08:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Polen har fått «abortomat»",
-      "date": "2026-10-01T05:59:00+02:00"
+      "title": "Fotball-nedtur i Wales",
+      "date": "2026-10-02T05:59:00+02:00"
     }
   },
   {
@@ -978,7 +978,7 @@ const feeds = [
     "description": "Kork gir deg musikk for alle stemninger og anledninger.",
     "image": "https://gfx.nrk.no/bUxGv0Sq_Vx0torVqM5tBQ5Rf_EaqOj4iTCVOAsJQaBg.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Til ettertanke: L'Ascension, 1. del",
       "date": "2026-09-01T14:27:00+02:00"
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Burger uten pinne!",
-      "date": "2026-10-01T06:00:00+02:00"
+      "title": "Voksenkjeft",
+      "date": "2026-10-02T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Springsteens protestfest: I strupen på Trump",
-      "date": "2026-10-01T05:59:00+02:00"
+      "title": "Bolsonaro bak murene: Kan han påvirke valget?",
+      "date": "2026-10-02T05:59:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mímir Kristjánsson sitt alter ego",
-      "date": "2026-10-01T10:00:00+02:00"
+      "title": "Arin vil spise ting som ikke er mat",
+      "date": "2026-10-02T10:00:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Krever endringer i SV ledelsen",
-      "date": "2026-10-01T08:00:00+02:00"
+      "title": "Fem flyplasser fredes",
+      "date": "2026-10-02T08:00:00+02:00"
     }
   },
   {
@@ -1889,8 +1889,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sviskete bukseroller",
-      "date": "2026-09-25T06:00:00+02:00"
+      "title": "Autoritær fjompenisse",
+      "date": "2026-10-02T06:00:00+02:00"
     }
   },
   {
@@ -2218,8 +2218,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "USA: Til krig mot mediene",
-      "date": "2026-09-25T06:00:00+02:00"
+      "title": "USA: Da KI kom til bygda",
+      "date": "2026-10-02T06:00:00+02:00"
     }
   },
   {
@@ -2247,8 +2247,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hva betyr ...?: Ondskapens banalitet",
-      "date": "2026-10-01T12:00:00+02:00"
+      "title": "Russland skremmer Europa",
+      "date": "2026-10-02T10:30:00+02:00"
     }
   },
   {
