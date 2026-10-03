@@ -638,8 +638,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kommer i NRK Radio: Bueskytteren",
-      "date": "2026-10-02T12:00:00+02:00"
+      "title": "Bueskytteren: Kniver i Hyttegata (2:2)",
+      "date": "2026-10-03T06:02:00+02:00"
     }
   },
   {
@@ -1392,8 +1392,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Djevelpakt",
-      "date": "2026-09-26T06:00:00+02:00"
+      "title": "Ærlig talt!",
+      "date": "2026-10-03T06:00:00+02:00"
     }
   },
   {
@@ -1728,8 +1728,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "LIS 2: – Hun bør miste legelisensen (1:4)",
-      "date": "2026-09-26T06:00:00+02:00"
+      "title": "LIS 2: – Det såreste av det såre (2:4)",
+      "date": "2026-10-03T06:00:00+02:00"
     }
   },
   {
