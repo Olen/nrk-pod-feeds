@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sjokktap - hva nå Norge?",
-      "date": "2026-10-02T02:52:00+02:00"
+      "title": "Heksejakt på Nyland?",
+      "date": "2026-10-03T00:01:00+02:00"
     }
   },
   {
