@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Geir «Fenriken» Aker / Martha Leivestad / Odd Nordstoga",
-      "date": "2026-09-26T13:15:00+02:00"
+      "title": "Linnéa Myhre / Sindre Reinholt / Amalie Stuve",
+      "date": "2026-10-03T14:10:00+02:00"
     }
   },
   {
