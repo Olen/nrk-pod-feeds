@@ -2149,8 +2149,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hva gjør en by god å bo i?",
-      "date": "2026-09-26T06:00:00+02:00"
+      "title": "Laila Goody spiller mora til Benjamin",
+      "date": "2026-10-03T14:00:00+02:00"
     }
   },
   {
