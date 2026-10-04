@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Linnéa Myhre / Sindre Reinholt / Amalie Stuve",
-      "date": "2026-10-03T14:10:00+02:00"
+      "title": "Kinamat og familievernkontor",
+      "date": "2026-10-04T06:00:00+02:00"
     }
   },
   {
@@ -1863,8 +1863,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "2: Sondre Lerche «The Sentimentalist»",
-      "date": "2026-09-27T06:02:00+02:00"
+      "title": "2. Valkyrien Allstars «Lyseblått»",
+      "date": "2026-10-04T06:01:00+02:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jannecke Weeden: Umulig å elske?",
-      "date": "2026-10-01T06:00:00+02:00"
+      "title": "Panelet: Eskorte og “pudding season”",
+      "date": "2026-10-04T06:00:00+02:00"
     }
   },
   {
