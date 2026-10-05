@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 02 Oct 2026 08:33:25 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Oct 2026 10:30:00 +0200</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2026 08:59:55 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title>Hvorfor er noen imot vaksine?</title>
+      <description><![CDATA[Det handler ikke alltid om manglende kunnskap.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/86ce7dc0-d6c6-4f14-8e7d-c0d6c61f1484_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/86ce7dc0-d6c6-4f14-8e7d-c0d6c61f1484_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:37</itunes:duration>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
     <item>
       <title>Russland skremmer Europa</title>
       <description><![CDATA[Hva er det russerne egentlig vil?  Er det et budskap?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>22:09</itunes:duration>
       <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/MKVaDsEEaNb-GGvGZ1zQxAwMQi1Dob1k_NklNptMF77Q.jpg"/>
-    </item>
-    <item>
-      <title>Wokeskandalen i Cambridge</title>
-      <description><![CDATA[Tragedien Jason Arday. Hvordan kunne en historie om juks bli så stor?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/16a3f22e-d1f8-4676-a3f2-2ed1f8467666_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/16a3f22e-d1f8-4676-a3f2-2ed1f8467666_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:22</itunes:duration>
-      <pubDate>Fri, 21 Aug 2026 13:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
     </item>
   </channel>
 </rss>

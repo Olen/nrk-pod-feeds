@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Hva er inni et datasenter?",
-      "date": "2026-10-02T06:00:00+02:00"
+      "title": "Forskningsfronten: Smarttelefon fører til færre fødsler",
+      "date": "2026-10-05T06:00:00+02:00"
     }
   },
   {
@@ -69,8 +69,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "PISA-taperne versus superintelligens",
-      "date": "2026-09-28T06:00:00+02:00"
+      "title": "Intellektuell kullosforgiftning",
+      "date": "2026-10-05T06:00:00+02:00"
     }
   },
   {
@@ -823,8 +823,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kart",
-      "date": "2026-09-28T06:00:00+02:00"
+      "title": "Nesespray",
+      "date": "2026-10-05T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fotball-nedtur i Wales",
-      "date": "2026-10-02T05:59:00+02:00"
+      "title": "Siste nytt om dobbeldrapet i Halden",
+      "date": "2026-10-05T06:05:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bolsonaro bak murene: Kan han påvirke valget?",
-      "date": "2026-10-02T05:59:00+02:00"
+      "title": "«Dødsengelen» i retten igjen: Aktivist eller morder?",
+      "date": "2026-10-05T05:59:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Arin vil spise ting som ikke er mat",
-      "date": "2026-10-02T10:00:00+02:00"
+      "title": "Bli hos meg-Dina konfronterer Jonas!",
+      "date": "2026-10-05T10:00:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fem flyplasser fredes",
-      "date": "2026-10-02T08:00:00+02:00"
+      "title": "Ein billig plass å bu",
+      "date": "2026-10-05T08:00:00+02:00"
     }
   },
   {
@@ -2107,8 +2107,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Naturdøden",
-      "date": "2026-09-28T06:00:00+02:00"
+      "title": "KI-søl",
+      "date": "2026-10-05T06:00:00+02:00"
     }
   },
   {
@@ -2126,7 +2126,7 @@ const feeds = [
     "description": "Noen mennesker har rett og slett gjort verden til et dårligere sted. Morderiske, korrupte og maktsyke ledere med helt vanvittige historier. Nye Tyranner blir publisert hver måned.\n\nTyrann er en versjonering av den danske podkasten med samme navn.  ",
     "image": "https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Amy1jNhc0GuJNnxik0lcmkg.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Gaddafi (5:5)",
       "date": "2026-09-05T06:04:00+02:00"
@@ -2247,8 +2247,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Russland skremmer Europa",
-      "date": "2026-10-02T10:30:00+02:00"
+      "title": "Hvorfor er noen imot vaksine?",
+      "date": "2026-10-05T06:00:00+02:00"
     }
   },
   {

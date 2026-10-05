@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 02 Oct 2026 15:46:11 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2026 08:59:19 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten: Smarttelefon fører til færre fødsler</title>
+      <description><![CDATA[Forskere ser en sammenheng. Dessuten, KI må hallusinere mye mer, og en ny katteart er oppdaget]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/50077ba6-5d3c-48d8-877b-a65d3c98d8db_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/50077ba6-5d3c-48d8-877b-a65d3c98d8db_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:11</itunes:duration>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
+    </item>
     <item>
       <title>Tårnet: Hva er inni et datasenter?</title>
       <description><![CDATA[Håper det også finnes rom for folk der.
@@ -97,16 +106,6 @@ Lurer du på merkelige saker? Få svar fra ekspertene i Abels Tårn!]]></descrip
       <itunes:duration>28:06</itunes:duration>
       <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
-    </item>
-    <item>
-      <title>Tårnet: Østers i fjorden - yea or nay?</title>
-      <description><![CDATA[Vi setter opp Tårnet på Oslofjordmuseet, og tar med oss tre eksperter på en frisk tur til havs.
-Lurer du på ting? Spør Abels Tårn!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/a4e4aa2a-35d8-49a8-a4aa-2a35d8a9a85c_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a4e4aa2a-35d8-49a8-a4aa-2a35d8a9a85c_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:05:09</itunes:duration>
-      <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QJN3bDRavORk8zhX35V22gbHpVWB58AsaLI1LZss0IQw.jpg"/>
     </item>
   </channel>
 </rss>
