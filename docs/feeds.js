@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dette venter Norge mot Portugal",
-      "date": "2026-10-04T00:01:00+02:00"
+      "title": "Tre strake tap og kniven på strupen",
+      "date": "2026-10-05T03:21:00+02:00"
     }
   },
   {
