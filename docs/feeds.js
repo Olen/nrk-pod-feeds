@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Har folk fått dårligere råd, eller bare føles det sånn?",
-      "date": "2026-10-02T19:00:00+02:00"
+      "title": "Lederkabalen i SV",
+      "date": "2026-10-05T19:00:00+02:00"
     }
   },
   {
@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kari Spjeldnæs",
-      "date": "2026-09-24T13:45:00+02:00"
+      "title": "Lilli Bendriss",
+      "date": "2026-10-05T14:28:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps USA: Hva er bra med Donald Trump?",
-      "date": "2026-10-01T13:00:00+02:00"
+      "title": "Kampen om tysk stoltheit",
+      "date": "2026-10-05T13:00:00+02:00"
     }
   },
   {
@@ -912,10 +912,10 @@ const feeds = [
     "description": "Pål Plassen utforskar trua, livssynet og verdiane vi navigerer etter i samfunnet.",
     "image": "https://gfx.nrk.no/oRq5i_gA9ar2PEwFR5tG1Q8bhlezjUrmCu1qGi1vMgSw.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Mitt indre kompass: Ingrid Bjørnov",
-      "date": "2026-08-19T06:04:00+02:00"
+      "title": "Mitt indre kompass: Helge Hognestad",
+      "date": "2026-10-05T06:04:00+02:00"
     }
   },
   {
@@ -967,8 +967,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Realitystjerne drept: Var det sjalusi?",
-      "date": "2026-09-30T06:00:00+02:00"
+      "title": "Jaktdrapet i Halden: Dette vet vi",
+      "date": "2026-10-05T19:30:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Daniel intervjuer Gaute Skjervø",
-      "date": "2026-10-02T06:00:00+02:00"
+      "title": "Mari Monsson klemmer ikke",
+      "date": "2026-10-05T06:00:00+02:00"
     }
   },
   {
