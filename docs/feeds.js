@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Boktober, rap battle og sparkesykkel som hobby",
-      "date": "2026-10-02T12:00:00+02:00"
+      "title": "Jentenes nyttår, players og Sades venninnedrama",
+      "date": "2026-10-06T06:00:00+02:00"
     }
   },
   {
@@ -164,8 +164,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Har du lyst, har du lov",
-      "date": "2026-09-29T06:00:00+02:00"
+      "title": "Jeg kommer ikke inn i jenta mi",
+      "date": "2026-10-06T06:00:00+02:00"
     }
   },
   {
@@ -778,8 +778,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Guovggisruoppsis vuopta",
-      "date": "2026-09-29T06:00:00+02:00"
+      "title": "Sivva manen viessop",
+      "date": "2026-10-06T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Siste nytt om dobbeldrapet i Halden",
-      "date": "2026-10-05T06:05:00+02:00"
+      "title": "Demonstrasjoner ved Cornell-universitetet",
+      "date": "2026-10-06T05:59:00+02:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kulde - med Sunniva Relling Berg",
-      "date": "2026-09-30T06:00:00+02:00"
+      "title": "Skam - med Ann Helen Kolås Ingebrigtsen",
+      "date": "2026-10-06T06:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Voksenkjeft",
-      "date": "2026-10-02T06:00:00+02:00"
+      "title": "Hjerte/smerte",
+      "date": "2026-10-06T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "«Dødsengelen» i retten igjen: Aktivist eller morder?",
-      "date": "2026-10-05T05:59:00+02:00"
+      "title": "Epsteins norske koblinger: Nå er oppvasken i gang",
+      "date": "2026-10-06T05:59:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ein billig plass å bu",
-      "date": "2026-10-05T08:00:00+02:00"
+      "title": "Fakta og følelser i økonomien ",
+      "date": "2026-10-06T08:00:00+02:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Eskorte og “pudding season”",
-      "date": "2026-10-04T06:00:00+02:00"
+      "title": "Sophie Elise: Bekreftelse",
+      "date": "2026-10-06T06:00:00+02:00"
     }
   },
   {
