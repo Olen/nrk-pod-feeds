@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Lederkabalen i SV",
-      "date": "2026-10-05T19:00:00+02:00"
+      "title": "Regjeringen vil gjøre Norgespris dyrere",
+      "date": "2026-10-06T19:00:00+02:00"
     }
   },
   {
@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hva har vi lært av Epstein-høringene?",
-      "date": "2026-10-01T21:55:00+02:00"
+      "title": "Voldsom økning i norgesprisen på strøm, eller innafor?",
+      "date": "2026-10-06T22:00:00+02:00"
     }
   },
   {
