@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Lilli Bendriss",
-      "date": "2026-10-05T14:28:00+02:00"
+      "title": "Usman Chaudhry",
+      "date": "2026-10-06T14:00:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kampen om tysk stoltheit",
-      "date": "2026-10-05T13:00:00+02:00"
+      "title": "Hvis barna må i bomberommet",
+      "date": "2026-10-06T13:00:00+02:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Epstein-høring: – Politisk teater og angrende synder",
-      "date": "2026-09-30T20:05:00+02:00"
+      "title": "Cornell-saken: – Kanskje toppen av isfjellet",
+      "date": "2026-10-06T16:08:00+02:00"
     }
   },
   {
@@ -914,8 +914,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mitt indre kompass: Helge Hognestad",
-      "date": "2026-10-05T06:04:00+02:00"
+      "title": "Åndelighet på Granka",
+      "date": "2026-10-06T06:03:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bli hos meg-Dina konfronterer Jonas!",
-      "date": "2026-10-05T10:00:00+02:00"
+      "title": "Steinar Klouman Hallert har blitt tryllekunstner",
+      "date": "2026-10-06T10:00:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mari Monsson klemmer ikke",
-      "date": "2026-10-05T06:00:00+02:00"
+      "title": "Daniel legger Anna i bakken",
+      "date": "2026-10-06T06:00:00+02:00"
     }
   },
   {
