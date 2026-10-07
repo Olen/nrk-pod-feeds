@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Regjeringen vil gjøre Norgespris dyrere",
-      "date": "2026-10-06T19:00:00+02:00"
+      "title": "Forslag til statsbudsjettet 2027 lagt frem",
+      "date": "2026-10-07T19:00:00+02:00"
     }
   },
   {
