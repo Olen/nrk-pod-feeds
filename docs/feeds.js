@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Smarttelefon fører til færre fødsler",
-      "date": "2026-10-05T06:00:00+02:00"
+      "title": "Forskningsfronten: Er gen Z dummere enn sine foreldre?",
+      "date": "2026-10-07T06:00:00+02:00"
     }
   },
   {
@@ -116,8 +116,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Graven er tom! (37:40)",
-      "date": "2026-09-30T06:00:00+02:00"
+      "title": "Apostlenes gjerninger (38:40)",
+      "date": "2026-10-07T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Demonstrasjoner ved Cornell-universitetet",
-      "date": "2026-10-06T05:59:00+02:00"
+      "title": "3 år siden Israel-Hamas krigen ble utløst",
+      "date": "2026-10-07T05:59:00+02:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Skam - med Ann Helen Kolås Ingebrigtsen",
-      "date": "2026-10-06T06:00:00+02:00"
+      "title": "Shady Cash - med Terje Torkildsen",
+      "date": "2026-10-07T06:00:00+02:00"
     }
   },
   {
@@ -1059,8 +1059,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "På hjertet: Les med Linnéa",
-      "date": "2026-10-01T05:00:00+02:00"
+      "title": "Søskenflokken: Kan rekkefølgen definere deg?",
+      "date": "2026-10-07T05:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hjerte/smerte",
-      "date": "2026-10-06T06:00:00+02:00"
+      "title": "Smittet med samtykke",
+      "date": "2026-10-07T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Epsteins norske koblinger: Nå er oppvasken i gang",
-      "date": "2026-10-06T05:59:00+02:00"
+      "title": "«Cornell 7»: Valdtektssaka som rystar USA",
+      "date": "2026-10-07T05:59:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fakta og følelser i økonomien ",
-      "date": "2026-10-06T08:00:00+02:00"
+      "title": "Får du betre råd no?",
+      "date": "2026-10-07T08:00:00+02:00"
     }
   },
   {
@@ -1876,8 +1876,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi prater piss fra A til Å",
-      "date": "2026-09-30T06:00:00+02:00"
+      "title": "Oliver Solberg hopper av i svingen",
+      "date": "2026-10-07T06:00:00+02:00"
     }
   },
   {
@@ -1936,7 +1936,7 @@ const feeds = [
     "description": "Partyprinser, gærninger og kranglefanter – kongeslekta er full av sinnssyke historier! Med Aslak Sira Myhre og Ole-Albert Rønning Nordby. ",
     "image": "https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAGCOZ5YXvq62p9Ba4KqQtAw.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Kirkegården",
       "date": "2026-09-07T06:00:00+02:00"
