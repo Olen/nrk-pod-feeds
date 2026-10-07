@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Usman Chaudhry",
-      "date": "2026-10-06T14:00:00+02:00"
+      "title": "Jeanette Dyhre Kvisvik",
+      "date": "2026-10-07T13:50:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvis barna må i bomberommet",
-      "date": "2026-10-06T13:00:00+02:00"
+      "title": "Rafto-prisen - den nye Nobel?",
+      "date": "2026-10-07T13:30:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Steinar Klouman Hallert har blitt tryllekunstner",
-      "date": "2026-10-06T10:00:00+02:00"
+      "title": "Vi har fått lydmeldinger!",
+      "date": "2026-10-07T09:30:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Daniel legger Anna i bakken",
-      "date": "2026-10-06T06:00:00+02:00"
+      "title": "Annas hot take på statsbudsjett",
+      "date": "2026-10-07T06:00:00+02:00"
     }
   },
   {
@@ -2126,10 +2126,10 @@ const feeds = [
     "description": "Noen mennesker har rett og slett gjort verden til et dårligere sted. Morderiske, korrupte og maktsyke ledere med helt vanvittige historier. Nye Tyranner blir publisert hver måned.\n\nTyrann er en versjonering av den danske podkasten med samme navn.  ",
     "image": "https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Amy1jNhc0GuJNnxik0lcmkg.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Gaddafi (5:5)",
-      "date": "2026-09-05T06:04:00+02:00"
+      "title": "Macías - kommer lørdag",
+      "date": "2026-10-07T14:00:00+02:00"
     }
   },
   {
