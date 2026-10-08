@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jeanette Dyhre Kvisvik",
-      "date": "2026-10-07T13:50:00+02:00"
+      "title": "Dag Simastuen",
+      "date": "2026-10-08T13:00:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Rafto-prisen - den nye Nobel?",
-      "date": "2026-10-07T13:30:00+02:00"
+      "title": "Trumps USA: På friarferd igjen",
+      "date": "2026-10-08T13:30:00+02:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Cornell-saken: – Kanskje toppen av isfjellet",
-      "date": "2026-10-06T16:08:00+02:00"
+      "title": "Statsbudsjettet: Hvor lenge har Norge råd til dette?",
+      "date": "2026-10-08T15:55:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi har fått lydmeldinger!",
-      "date": "2026-10-07T09:30:00+02:00"
+      "title": "Voksenkjeft fra stortingspresidenten ",
+      "date": "2026-10-08T10:00:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Annas hot take på statsbudsjett",
-      "date": "2026-10-07T06:00:00+02:00"
+      "title": "Klarer Markus å kjøpe tampong?",
+      "date": "2026-10-08T06:00:00+02:00"
     }
   },
   {
