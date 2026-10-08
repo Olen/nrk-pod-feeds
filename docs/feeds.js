@@ -293,8 +293,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Er jeg en sexforbryter nå?",
-      "date": "2026-10-01T06:00:00+02:00"
+      "title": "Har alle vært utro?",
+      "date": "2026-10-08T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "3 år siden Israel-Hamas krigen ble utløst",
-      "date": "2026-10-07T05:59:00+02:00"
+      "title": "Vi oppsummerer statsbudsjettet",
+      "date": "2026-10-08T05:59:00+02:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Shady Cash - med Terje Torkildsen",
-      "date": "2026-10-07T06:00:00+02:00"
+      "title": "Kontakt Kveldstanker",
+      "date": "2026-10-08T06:00:00+02:00"
     }
   },
   {
@@ -1046,8 +1046,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Boktober: «Fluenes herre» med Oskar Westerlin: – En vanlig gutt fra Porsgrunn som leser (1:5)",
-      "date": "2026-10-01T06:05:00+02:00"
+      "title": "Boktober: «Fluenes herre» med Oskar Westerlin: – Ble litt småforbanna! (2:5)",
+      "date": "2026-10-08T06:05:00+02:00"
     }
   },
   {
@@ -1072,8 +1072,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Indremisjonskoret Refleks",
-      "date": "2026-10-01T06:00:00+02:00"
+      "title": "Masseutryddelse på Skillebekk",
+      "date": "2026-10-08T06:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Smittet med samtykke",
-      "date": "2026-10-07T06:00:00+02:00"
+      "title": "Først og fremst reality-Abu",
+      "date": "2026-10-08T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "«Cornell 7»: Valdtektssaka som rystar USA",
-      "date": "2026-10-07T05:59:00+02:00"
+      "title": "Derfor stormer det rundt Document-sjefen",
+      "date": "2026-10-08T05:59:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Får du betre råd no?",
-      "date": "2026-10-07T08:00:00+02:00"
+      "title": "Når ikke bistandsmålet",
+      "date": "2026-10-08T08:00:00+02:00"
     }
   },
   {
@@ -1715,8 +1715,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "– Kan barna bli med deg?",
-      "date": "2026-10-01T06:00:00+02:00"
+      "title": "Live er ufrivillig Farmen-diva",
+      "date": "2026-10-08T06:00:00+02:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sophie Elise: Bekreftelse",
-      "date": "2026-10-06T06:00:00+02:00"
+      "title": "Else Kåss: Knekke kjærlighetskoden",
+      "date": "2026-10-08T06:00:00+02:00"
     }
   },
   {
