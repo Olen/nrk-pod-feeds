@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forslag til statsbudsjettet 2027 lagt frem",
-      "date": "2026-10-07T19:00:00+02:00"
+      "title": "Store mobilproblemer",
+      "date": "2026-10-08T19:00:00+02:00"
     }
   },
   {
