@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Store mobilproblemer",
-      "date": "2026-10-08T19:00:00+02:00"
+      "title": "Fredsprisen til Navi Pillay",
+      "date": "2026-10-09T19:00:00+02:00"
     }
   },
   {
