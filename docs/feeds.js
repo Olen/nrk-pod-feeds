@@ -177,8 +177,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kim Leine: Sekt, overgrep, røtter",
-      "date": "2026-10-02T06:00:00+02:00"
+      "title": "Line Baugstø: Demens og skilsmisse",
+      "date": "2026-10-09T06:00:00+02:00"
     }
   },
   {
@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Voldsom økning i norgesprisen på strøm, eller innafor?",
-      "date": "2026-10-06T22:00:00+02:00"
+      "title": "Påstått gruppevoldtekt setter sinnene i kok også i Norge",
+      "date": "2026-10-09T10:35:00+02:00"
     }
   },
   {
@@ -272,8 +272,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Stortingets Epstein-time",
-      "date": "2026-10-02T06:00:00+02:00"
+      "title": "Helt vanlig amerikansk college-kultur",
+      "date": "2026-10-09T06:00:00+02:00"
     }
   },
   {
@@ -479,8 +479,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fra Haaland til Norge Rundt",
-      "date": "2026-10-02T08:00:00+02:00"
+      "title": "Strøymetenester, Boktober og Nobels fredspris",
+      "date": "2026-10-09T08:30:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi oppsummerer statsbudsjettet",
-      "date": "2026-10-08T05:59:00+02:00"
+      "title": "Hvem får fredsprisen?",
+      "date": "2026-10-09T05:59:00+02:00"
     }
   },
   {
@@ -967,8 +967,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jaktdrapet i Halden: Dette vet vi",
-      "date": "2026-10-05T19:30:00+02:00"
+      "title": "Cornell: Hva er egentlig sant?",
+      "date": "2026-10-09T06:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Først og fremst reality-Abu",
-      "date": "2026-10-08T06:00:00+02:00"
+      "title": "Digital uthenging",
+      "date": "2026-10-09T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Derfor stormer det rundt Document-sjefen",
-      "date": "2026-10-08T05:59:00+02:00"
+      "title": "Venter på dødsstraff: Er «Ørkenmorderen» uskyldig?",
+      "date": "2026-10-09T05:59:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Når ikke bistandsmålet",
-      "date": "2026-10-08T08:00:00+02:00"
+      "title": "Tok hun over et konkursbo? ",
+      "date": "2026-10-09T08:00:00+02:00"
     }
   },
   {
@@ -1889,8 +1889,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Autoritær fjompenisse",
-      "date": "2026-10-02T06:00:00+02:00"
+      "title": "Medium industripark",
+      "date": "2026-10-09T06:00:00+02:00"
     }
   },
   {
@@ -2218,8 +2218,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "USA: Da KI kom til bygda",
-      "date": "2026-10-02T06:00:00+02:00"
+      "title": "USA:  Demokrater kan ta prærien",
+      "date": "2026-10-09T06:00:00+02:00"
     }
   },
   {
@@ -2247,8 +2247,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvorfor er noen imot vaksine?",
-      "date": "2026-10-05T06:00:00+02:00"
+      "title": "Intelligent liv i MAGA",
+      "date": "2026-10-09T06:00:00+02:00"
     }
   },
   {
