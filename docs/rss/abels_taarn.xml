@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 07 Oct 2026 07:11:59 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 09 Oct 2026 16:09:40 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Oct 2026 11:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Tårnet: Hvordan lader du mobilen perfekt?</title>
+      <description><![CDATA[Er du lydig og stopper på 80%, eller er du en rebell som lader til 100%? Det kommer kanskje an på om du FØLER deg stor eller liten? Men hva ER du?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/59575a02-8559-4b80-975a-0285598b8073_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/59575a02-8559-4b80-975a-0285598b8073_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:34</itunes:duration>
+      <pubDate>Fri, 09 Oct 2026 11:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iJM4L3gh1slXOtu2L4FZHAHs-6QmzSLzYYW91WQLFJ4Q.jpg"/>
+    </item>
     <item>
       <title>Forskningsfronten: Er gen Z dummere enn sine foreldre?</title>
       <description><![CDATA[Eller er testene feil? Dessuten, genetiske bomber er rundt deg. Og nytt romteleskop brukes av alle]]></description>
@@ -20,6 +29,15 @@
       <itunes:duration>25:54</itunes:duration>
       <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    </item>
+    <item>
+      <title>Forskningsfronten: Hjernens hemmelige av/på-knapp</title>
+      <description><![CDATA[Årets nobelpriser i realfag går til hjerneforskning, spøkelsespartikler og speilvendte molekyler]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/d99301c3-6259-4d04-9301-c36259fd0463_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d99301c3-6259-4d04-9301-c36259fd0463_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:13</itunes:duration>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
     </item>
     <item>
       <title>Forskningsfronten: Smarttelefon fører til færre fødsler</title>
@@ -87,25 +105,6 @@ Vi setter opp Tårnet på Galleri F15 på Jeløya for å finne ut hvordan vitens
       <itunes:duration>59:17</itunes:duration>
       <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/40zlF_B1LuftpK4N-FApSgJ__TB267bGwOaNGJLaWg5A.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten: Det finnes en riktig tissevinkel</title>
-      <description><![CDATA[Pissoarteknikk, kakerlakkmelk, og hva truser kan si om jordkvalitet. Ig-Nobel hedrer igjen forskning som først får deg til å le og så tenke]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/fa893938-21f7-4cd4-8939-3821f77cd4f4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fa893938-21f7-4cd4-8939-3821f77cd4f4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:02</itunes:duration>
-      <pubDate>Sat, 12 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
-    </item>
-    <item>
-      <title>Tårnet: Var T-rex tjukk i hodehuden?</title>
-      <description><![CDATA[Vi vet i hvert fall at det var ikke var spesielt mye på innsida.
-Lurer du på merkelige saker? Få svar fra ekspertene i Abels Tårn!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/06098e92-1933-4a6b-898e-9219331a6b23_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/06098e92-1933-4a6b-898e-9219331a6b23_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:35</itunes:duration>
-      <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/afYDzOjWNP8YCOF9byaTuwcWlX0Fk5Kc9GOG2Infg6gQ.jpg"/>
     </item>
   </channel>
 </rss>

@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Er gen Z dummere enn sine foreldre?",
-      "date": "2026-10-07T06:00:00+02:00"
+      "title": "Tårnet: Hvordan lader du mobilen perfekt?",
+      "date": "2026-10-09T11:30:00+02:00"
     }
   },
   {
@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jentenes nyttår, players og Sades venninnedrama",
-      "date": "2026-10-06T06:00:00+02:00"
+      "title": "Eskil Flem, småprat og bedazzled nabolag",
+      "date": "2026-10-09T12:00:00+02:00"
     }
   },
   {
@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kinamat og familievernkontor",
-      "date": "2026-10-04T06:00:00+02:00"
+      "title": "Blir det bryllup på budsjett?",
+      "date": "2026-10-09T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Venter på dødsstraff: Er «Ørkenmorderen» uskyldig?",
-      "date": "2026-10-09T05:59:00+02:00"
+      "title": "Manchester City-dommen: Juksa de seg til topps?",
+      "date": "2026-10-09T15:00:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Voksenkjeft fra stortingspresidenten ",
-      "date": "2026-10-08T10:00:00+02:00"
+      "title": "Rip Ensomhetspartiet, lenge leve Else!",
+      "date": "2026-10-09T10:00:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Klarer Markus å kjøpe tampong?",
-      "date": "2026-10-08T06:00:00+02:00"
+      "title": "Markus intervjuer Espen Nakstad",
+      "date": "2026-10-09T06:00:00+02:00"
     }
   },
   {
