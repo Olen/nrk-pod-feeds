@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 03 Oct 2026 06:30:05 +0000</lastBuildDate>
-    <pubDate>Sat, 03 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 10 Oct 2026 07:03:40 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5Ari4Frwqqm4mxNwJnD5jFtw.jpg"/>
+    <item>
+      <title>LIS 2: – Joakim er ikke slem (3:4)</title>
+      <description><![CDATA[Deniz Kaya forsvarer rollefiguren sin.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/467bff47-a7cc-4fa1-bbff-47a7cc8fa15d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/467bff47-a7cc-4fa1-bbff-47a7cc8fa15d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:34</itunes:duration>
+      <pubDate>Sat, 10 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dBa60zUNzuJS6vtmJE8ClA4MGN6BpjNv1YZxeKMRdHhw.jpg"/>
+    </item>
     <item>
       <title>LIS 2: – Det såreste av det såre (2:4)</title>
       <description><![CDATA[Sofia Tjelta forteller om vond søskenkjærlighet i «LIS».]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>41:40</itunes:duration>
       <pubDate>Sun, 09 Nov 2025 06:02:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/QE4Bv9npFeZna_e9E3N3QgRkrE_3X0D7t1TzpqsbA7gg.jpg"/>
-    </item>
-    <item>
-      <title>Ølhunden Berit: Nachspielet (2:4)</title>
-      <description><![CDATA[Serien tar en ny bekmørk vending, og Sigrid Bonde Tusvik forteller om sine egne verste opplevelser med trusler og netthat.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/2f446eb6-e8db-494c-846e-b6e8db794cc3_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/2f446eb6-e8db-494c-846e-b6e8db794cc3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:22</itunes:duration>
-      <pubDate>Sun, 09 Nov 2025 06:01:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mF7O2cAa6p6DgSTuVO-oYwp_psB8jDuKX_ATGv0i4b_A.jpg"/>
     </item>
   </channel>
 </rss>

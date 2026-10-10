@@ -607,7 +607,7 @@ const feeds = [
     "description": "Harald V var konge i Norge fra 1991 til 2026. Her kan du høre viktige lydklipp i forbindelse med tronskiftet. ",
     "image": "https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAg_2RjpYCY3yIAQYqmC-ADQ.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Preses Olav Fykse Tveit si tale",
       "date": "2026-09-09T15:02:00+02:00"
@@ -1392,8 +1392,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ærlig talt!",
-      "date": "2026-10-03T06:00:00+02:00"
+      "title": "Ukulturuke",
+      "date": "2026-10-10T06:00:00+02:00"
     }
   },
   {
@@ -1728,8 +1728,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "LIS 2: – Det såreste av det såre (2:4)",
-      "date": "2026-10-03T06:00:00+02:00"
+      "title": "LIS 2: – Joakim er ikke slem (3:4)",
+      "date": "2026-10-10T06:00:00+02:00"
     }
   },
   {
@@ -2128,8 +2128,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Macías - kommer lørdag",
-      "date": "2026-10-07T14:00:00+02:00"
+      "title": "Macías(3:3)",
+      "date": "2026-10-10T06:02:00+02:00"
     }
   },
   {
