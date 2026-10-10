@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Blir det bryllup på budsjett?",
-      "date": "2026-10-09T06:00:00+02:00"
+      "title": "Adelina Ibishi / Jon Martin Henriksen / Janne Rønningen",
+      "date": "2026-10-10T13:30:00+02:00"
     }
   },
   {
@@ -2149,8 +2149,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Laila Goody spiller mora til Benjamin",
-      "date": "2026-10-03T14:00:00+02:00"
+      "title": "Forfattere spammes av merkelige e-poster",
+      "date": "2026-10-10T14:00:00+02:00"
     }
   },
   {
