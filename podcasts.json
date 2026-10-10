@@ -535,7 +535,7 @@
         "description": "Harald V var konge i Norge fra 1991 til 2026. Her kan du høre viktige lydklipp i forbindelse med tronskiftet. ",
         "image": "https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAg_2RjpYCY3yIAQYqmC-ADQ.jpg",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "hei_nabo",
