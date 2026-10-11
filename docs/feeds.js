@@ -1863,8 +1863,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "2. Valkyrien Allstars «Lyseblått»",
-      "date": "2026-10-04T06:01:00+02:00"
+      "title": "Bendik Giske «Untitled»",
+      "date": "2026-10-11T06:01:00+02:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Else Kåss: Knekke kjærlighetskoden",
-      "date": "2026-10-08T06:00:00+02:00"
+      "title": "Panelet: Rollespill og tungeskrubb",
+      "date": "2026-10-11T06:00:00+02:00"
     }
   },
   {
@@ -2247,8 +2247,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Intelligent liv i MAGA",
-      "date": "2026-10-09T06:00:00+02:00"
+      "title": "Hva betyr ...?: Eksistensen går forut for essensen",
+      "date": "2026-10-11T06:00:00+02:00"
     }
   },
   {

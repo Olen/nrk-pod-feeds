@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 09 Oct 2026 08:59:50 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 11 Oct 2026 15:38:06 +0000</lastBuildDate>
+    <pubDate>Sun, 11 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title>Hva betyr ...?: Eksistensen går forut for essensen</title>
+      <description><![CDATA[Du må selv skape ditt liv]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ded263a4-43ee-45b0-9263-a443ee25b0e4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ded263a4-43ee-45b0-9263-a443ee25b0e4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:40</itunes:duration>
+      <pubDate>Sun, 11 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
     <item>
       <title>Intelligent liv i MAGA</title>
       <description><![CDATA[Om tenkerne og ideene bak den mektige MAGA-bevegelsen]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/98513e48-753b-4066-913e-48753b6066d5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>14:28</itunes:duration>
       <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
-    </item>
-    <item>
-      <title>Venstrevridde journalister</title>
-      <description><![CDATA[- og venstrevridde forskere. Hvordan preger det den offentlige debatten?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/b47d9eb0-ce1a-4189-bd9e-b0ce1a1189ac_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/b47d9eb0-ce1a-4189-bd9e-b0ce1a1189ac_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:11</itunes:duration>
-      <pubDate>Fri, 04 Sep 2026 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
     </item>
   </channel>
