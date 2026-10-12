@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 09 Oct 2026 16:09:40 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Oct 2026 11:30:00 +0200</pubDate>
+    <lastBuildDate>Mon, 12 Oct 2026 05:51:56 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten: Du får bedre helse av å lese</title>
+      <description><![CDATA[Forskere ser at hjernen fysisk styrkes. Dessuten, menneskeceller opereres inn i mus. Og KI har tråkket over en grense]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/b5474e37-ce04-4e64-874e-37ce041e643c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b5474e37-ce04-4e64-874e-37ce041e643c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:35</itunes:duration>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
+    </item>
     <item>
       <title>Tårnet: Hvordan lader du mobilen perfekt?</title>
       <description><![CDATA[Er du lydig og stopper på 80%, eller er du en rebell som lader til 100%? Det kommer kanskje an på om du FØLER deg stor eller liten? Men hva ER du?]]></description>
@@ -95,16 +104,6 @@ Stusser du på alskens bisarre saker? Send inn dine spørsmål til Abels Tårns 
       <itunes:duration>27:34</itunes:duration>
       <pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
-    </item>
-    <item>
-      <title>Tårnet: Hvor vakker er naturen?</title>
-      <description><![CDATA[Om det nå er det den er da.
-Vi setter opp Tårnet på Galleri F15 på Jeløya for å finne ut hvordan vitenskap og kunst henger sammen!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/684cc404-fcd9-4208-8cc4-04fcd9020877_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/684cc404-fcd9-4208-8cc4-04fcd9020877_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:17</itunes:duration>
-      <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/40zlF_B1LuftpK4N-FApSgJ__TB267bGwOaNGJLaWg5A.jpg"/>
     </item>
   </channel>
 </rss>

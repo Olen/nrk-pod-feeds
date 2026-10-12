@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Hvordan lader du mobilen perfekt?",
-      "date": "2026-10-09T11:30:00+02:00"
+      "title": "Forskningsfronten: Du får bedre helse av å lese",
+      "date": "2026-10-12T06:00:00+02:00"
     }
   },
   {
@@ -69,8 +69,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Intellektuell kullosforgiftning",
-      "date": "2026-10-05T06:00:00+02:00"
+      "title": "Hele hjernen i Norge",
+      "date": "2026-10-12T06:00:00+02:00"
     }
   },
   {
@@ -823,8 +823,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nesespray",
-      "date": "2026-10-05T06:00:00+02:00"
+      "title": "Latterkrampe",
+      "date": "2026-10-12T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvem får fredsprisen?",
-      "date": "2026-10-09T05:59:00+02:00"
+      "title": "Togstreiken fortsetter i dag",
+      "date": "2026-10-12T05:59:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Manchester City-dommen: Juksa de seg til topps?",
-      "date": "2026-10-09T15:00:00+02:00"
+      "title": "Mystisk innbruddsbølge: Står fremmed makt bak?",
+      "date": "2026-10-12T05:59:00+02:00"
     }
   },
   {
@@ -2107,8 +2107,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "KI-søl",
-      "date": "2026-10-05T06:00:00+02:00"
+      "title": "Droner, dagligliv og dødsforakt",
+      "date": "2026-10-12T06:00:00+02:00"
     }
   },
   {
