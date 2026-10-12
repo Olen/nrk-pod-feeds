@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tre strake tap og kniven på strupen",
-      "date": "2026-10-05T03:21:00+02:00"
+      "title": "Nærmer det seg slutten i City?",
+      "date": "2026-10-12T13:22:00+02:00"
     }
   },
   {
@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dag Simastuen",
-      "date": "2026-10-08T13:00:00+02:00"
+      "title": "Halvar Ellingsen",
+      "date": "2026-10-12T13:28:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps USA: På friarferd igjen",
-      "date": "2026-10-08T13:30:00+02:00"
+      "title": "- Menn må ta samtalen",
+      "date": "2026-10-12T14:00:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Rip Ensomhetspartiet, lenge leve Else!",
-      "date": "2026-10-09T10:00:00+02:00"
+      "title": "Sinnsyke sparetips",
+      "date": "2026-10-12T09:40:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tok hun over et konkursbo? ",
-      "date": "2026-10-09T08:00:00+02:00"
+      "title": "Borgerlig krangel",
+      "date": "2026-10-12T08:00:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Markus intervjuer Espen Nakstad",
-      "date": "2026-10-09T06:00:00+02:00"
+      "title": "Toll-Steffen fingrer oss i øret",
+      "date": "2026-10-12T06:00:00+02:00"
     }
   },
   {
