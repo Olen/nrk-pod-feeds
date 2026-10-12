@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fredsprisen til Navi Pillay",
-      "date": "2026-10-09T19:00:00+02:00"
+      "title": "Norge undertegnet avtale med Polen",
+      "date": "2026-10-12T19:00:00+02:00"
     }
   },
   {
