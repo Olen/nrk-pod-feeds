@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Påstått gruppevoldtekt setter sinnene i kok også i Norge",
-      "date": "2026-10-09T10:35:00+02:00"
+      "title": "Har lederne i statlige selskaper en lønnsfest?",
+      "date": "2026-10-13T22:05:00+02:00"
     }
   },
   {
