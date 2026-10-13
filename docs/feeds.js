@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norge undertegnet avtale med Polen",
-      "date": "2026-10-12T19:00:00+02:00"
+      "title": "Kinesiske biler overvåker",
+      "date": "2026-10-13T19:00:00+02:00"
     }
   },
   {
@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Halvar Ellingsen",
-      "date": "2026-10-12T13:28:00+02:00"
+      "title": "Marie Blokhus ",
+      "date": "2026-10-13T14:25:00+02:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Statsbudsjettet: Hvor lenge har Norge råd til dette?",
-      "date": "2026-10-08T15:55:00+02:00"
+      "title": "Er Donald Trump på Putins side i krigen?",
+      "date": "2026-10-13T15:57:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Toll-Steffen fingrer oss i øret",
-      "date": "2026-10-12T06:00:00+02:00"
+      "title": "Tror vi på astrologi?",
+      "date": "2026-10-13T06:00:00+02:00"
     }
   },
   {
