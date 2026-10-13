@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Eskil Flem, småprat og bedazzled nabolag",
-      "date": "2026-10-09T12:00:00+02:00"
+      "title": "Katten med hatten, liggelappen og bok-valget",
+      "date": "2026-10-13T06:00:00+02:00"
     }
   },
   {
@@ -164,8 +164,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jeg kommer ikke inn i jenta mi",
-      "date": "2026-10-06T06:00:00+02:00"
+      "title": "Et farlig møte i borettslaget",
+      "date": "2026-10-13T06:00:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "- Menn må ta samtalen",
-      "date": "2026-10-12T14:00:00+02:00"
+      "title": "Straumsvoltne datasenter",
+      "date": "2026-10-13T12:00:00+02:00"
     }
   },
   {
@@ -778,8 +778,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sivva manen viessop",
-      "date": "2026-10-06T06:00:00+02:00"
+      "title": "Dahkojiermme válldá badjel væráldav?",
+      "date": "2026-10-13T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Togstreiken fortsetter i dag",
-      "date": "2026-10-12T05:59:00+02:00"
+      "title": "Ny forsvarsavtale mellom Norge og Polen",
+      "date": "2026-10-13T05:59:00+02:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kontakt Kveldstanker",
-      "date": "2026-10-08T06:00:00+02:00"
+      "title": "Enkelt - med Julie Killingberg",
+      "date": "2026-10-13T06:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Digital uthenging",
-      "date": "2026-10-09T06:00:00+02:00"
+      "title": "Bart på barneskolen",
+      "date": "2026-10-13T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mystisk innbruddsbølge: Står fremmed makt bak?",
-      "date": "2026-10-12T05:59:00+02:00"
+      "title": "100 kokaindoser i kroppen: Hva skjedde med Amanda?",
+      "date": "2026-10-13T05:59:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sinnsyke sparetips",
-      "date": "2026-10-12T09:40:00+02:00"
+      "title": "Vi lukter på Arin",
+      "date": "2026-10-13T10:00:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Borgerlig krangel",
-      "date": "2026-10-12T08:00:00+02:00"
+      "title": "Billig månadskort",
+      "date": "2026-10-13T08:00:00+02:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Rollespill og tungeskrubb",
-      "date": "2026-10-11T06:00:00+02:00"
+      "title": "Eva B. Ragde: Rikt liv alene",
+      "date": "2026-10-13T06:00:00+02:00"
     }
   },
   {
