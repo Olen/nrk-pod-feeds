@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kinesiske biler overvåker",
-      "date": "2026-10-13T19:00:00+02:00"
+      "title": "Drapsoppdrag på Instagram",
+      "date": "2026-10-14T19:00:00+02:00"
     }
   },
   {
