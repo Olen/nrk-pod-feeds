@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Marie Blokhus ",
-      "date": "2026-10-13T14:25:00+02:00"
+      "title": "Linda Eide",
+      "date": "2026-10-14T13:54:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Straumsvoltne datasenter",
-      "date": "2026-10-13T12:00:00+02:00"
+      "title": "Spør Ekko om ungdomskriminalitet",
+      "date": "2026-10-14T13:00:00+02:00"
     }
   },
   {
@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Adelina Ibishi / Jon Martin Henriksen / Janne Rønningen",
-      "date": "2026-10-10T13:30:00+02:00"
+      "title": "Livet, sett i perspektiv",
+      "date": "2026-10-14T15:32:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tror vi på astrologi?",
-      "date": "2026-10-13T06:00:00+02:00"
+      "title": "Daniel elsker excel og hater snø",
+      "date": "2026-10-14T06:00:00+02:00"
     }
   },
   {
