@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi lukter på Arin",
-      "date": "2026-10-13T10:00:00+02:00"
+      "title": "Jonas lever Ole Brumm-drømmen",
+      "date": "2026-10-14T10:00:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Billig månadskort",
-      "date": "2026-10-13T08:00:00+02:00"
+      "title": "Har vi for mange kommuner?",
+      "date": "2026-10-14T08:00:00+02:00"
     }
   },
   {
