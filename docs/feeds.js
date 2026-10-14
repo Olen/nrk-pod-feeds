@@ -116,8 +116,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Apostlenes gjerninger (38:40)",
-      "date": "2026-10-07T06:00:00+02:00"
+      "title": "Paulus – Operasjon helomvending (39:40)",
+      "date": "2026-10-14T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ny forsvarsavtale mellom Norge og Polen",
-      "date": "2026-10-13T05:59:00+02:00"
+      "title": "Cornell tar grep etter voldtektssak",
+      "date": "2026-10-14T05:59:00+02:00"
     }
   },
   {
@@ -967,8 +967,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Cornell: Hva er egentlig sant?",
-      "date": "2026-10-09T06:00:00+02:00"
+      "title": "Clancy (3): «Patrick did it!»",
+      "date": "2026-10-14T06:00:00+02:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Enkelt - med Julie Killingberg",
-      "date": "2026-10-13T06:00:00+02:00"
+      "title": "Midtlivskrise - med Ingelin Røssland",
+      "date": "2026-10-14T06:00:00+02:00"
     }
   },
   {
@@ -1059,8 +1059,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Søskenflokken: Kan rekkefølgen definere deg?",
-      "date": "2026-10-07T05:00:00+02:00"
+      "title": "Medisinerer vi vanlig følelser?",
+      "date": "2026-10-14T05:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bart på barneskolen",
-      "date": "2026-10-13T06:00:00+02:00"
+      "title": "Virtuell kokain ",
+      "date": "2026-10-14T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "100 kokaindoser i kroppen: Hva skjedde med Amanda?",
-      "date": "2026-10-13T05:59:00+02:00"
+      "title": "Flom, tørke og brann: Hva er værfenomenet El Niño?",
+      "date": "2026-10-14T05:59:00+02:00"
     }
   },
   {
@@ -1876,8 +1876,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Oliver Solberg hopper av i svingen",
-      "date": "2026-10-07T06:00:00+02:00"
+      "title": "Fire m-høns",
+      "date": "2026-10-14T06:00:00+02:00"
     }
   },
   {
@@ -2107,8 +2107,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Droner, dagligliv og dødsforakt",
-      "date": "2026-10-12T06:00:00+02:00"
+      "title": "En viktig beskjed til deg!",
+      "date": "2026-10-14T06:00:00+02:00"
     }
   },
   {
