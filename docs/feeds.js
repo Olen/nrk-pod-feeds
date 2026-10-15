@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Linda Eide",
-      "date": "2026-10-14T13:54:00+02:00"
+      "title": "Snorre Klanderud",
+      "date": "2026-10-15T15:00:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Spør Ekko om ungdomskriminalitet",
-      "date": "2026-10-14T13:00:00+02:00"
+      "title": "- Verdens mest slitsomme jobb",
+      "date": "2026-10-15T14:00:00+02:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Er Donald Trump på Putins side i krigen?",
-      "date": "2026-10-13T15:57:00+02:00"
+      "title": "Atomvåpen og oljefondet: – Penger viktigere enn etikk",
+      "date": "2026-10-15T15:00:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jonas lever Ole Brumm-drømmen",
-      "date": "2026-10-14T10:00:00+02:00"
+      "title": "Seksuelt trakassert av en robot",
+      "date": "2026-10-15T10:00:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Daniel elsker excel og hater snø",
-      "date": "2026-10-14T06:00:00+02:00"
+      "title": "Markus redda kvinne med mensen",
+      "date": "2026-10-15T06:00:00+02:00"
     }
   },
   {
