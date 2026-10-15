@@ -293,8 +293,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Har alle vært utro?",
-      "date": "2026-10-08T06:00:00+02:00"
+      "title": "Pupp i friluft på Oslo City",
+      "date": "2026-10-15T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Cornell tar grep etter voldtektssak",
-      "date": "2026-10-14T05:59:00+02:00"
+      "title": "Refleksdagen markeres i dag",
+      "date": "2026-10-15T05:59:00+02:00"
     }
   },
   {
@@ -1046,8 +1046,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Boktober: «Fluenes herre» med Oskar Westerlin: – Ble litt småforbanna! (2:5)",
-      "date": "2026-10-08T06:05:00+02:00"
+      "title": "Boktober: «Fluenes herre» med Oskar Westerlin: – Dama, gutta, alle leser den jo! (3:5)",
+      "date": "2026-10-15T06:05:00+02:00"
     }
   },
   {
@@ -1072,8 +1072,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Masseutryddelse på Skillebekk",
-      "date": "2026-10-08T06:00:00+02:00"
+      "title": "Dødens odør og en festglad Bamse",
+      "date": "2026-10-15T06:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Virtuell kokain ",
-      "date": "2026-10-14T06:00:00+02:00"
+      "title": "- Saddam så ut som faren min",
+      "date": "2026-10-15T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Flom, tørke og brann: Hva er værfenomenet El Niño?",
-      "date": "2026-10-14T05:59:00+02:00"
+      "title": "Matgigantene i retten: Ulovlig prissamarbeid?",
+      "date": "2026-10-15T05:59:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Har vi for mange kommuner?",
-      "date": "2026-10-14T08:00:00+02:00"
+      "title": "Grønt lys for midlertidig dumping av gruveavfall i Førdefjorden",
+      "date": "2026-10-15T08:00:00+02:00"
     }
   },
   {
@@ -1715,8 +1715,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Live er ufrivillig Farmen-diva",
-      "date": "2026-10-08T06:00:00+02:00"
+      "title": "Ole Henry cosplayer kriminell",
+      "date": "2026-10-15T06:00:00+02:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Eva B. Ragde: Rikt liv alene",
-      "date": "2026-10-13T06:00:00+02:00"
+      "title": "Nora Svenningsen: Egenkjærlighet",
+      "date": "2026-10-15T06:00:00+02:00"
     }
   },
   {
