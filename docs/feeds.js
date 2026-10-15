@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Drapsoppdrag på Instagram",
-      "date": "2026-10-14T19:00:00+02:00"
+      "title": "Ny rapport om oljefondets etikk",
+      "date": "2026-10-15T19:00:00+02:00"
     }
   },
   {
