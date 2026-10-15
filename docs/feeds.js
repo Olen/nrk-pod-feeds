@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Har lederne i statlige selskaper en lønnsfest?",
-      "date": "2026-10-13T22:05:00+02:00"
+      "title": "Etikk eller butikk i Oljefondet?",
+      "date": "2026-10-15T22:02:00+02:00"
     }
   },
   {
