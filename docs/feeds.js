@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Du får bedre helse av å lese",
-      "date": "2026-10-12T06:00:00+02:00"
+      "title": "Tårnet: Har maneter det gøy?",
+      "date": "2026-10-16T06:00:00+02:00"
     }
   },
   {
@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Katten med hatten, liggelappen og bok-valget",
-      "date": "2026-10-13T06:00:00+02:00"
+      "title": "Halloween, side chicks og «goo goo gaga»",
+      "date": "2026-10-16T12:00:00+02:00"
     }
   },
   {
@@ -479,8 +479,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Strøymetenester, Boktober og Nobels fredspris",
-      "date": "2026-10-09T08:30:00+02:00"
+      "title": "Fotball, leder lønn og tidlig jul",
+      "date": "2026-10-16T08:30:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Seksuelt trakassert av en robot",
-      "date": "2026-10-15T10:00:00+02:00"
+      "title": "Vi samler bøssebærere til TV-aksjonen",
+      "date": "2026-10-16T10:00:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Grønt lys for midlertidig dumping av gruveavfall i Førdefjorden",
-      "date": "2026-10-15T08:00:00+02:00"
+      "title": "Skogen må vike i Østfold",
+      "date": "2026-10-16T08:00:00+02:00"
     }
   },
   {
@@ -1594,8 +1594,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mannen som forsvant: Epilog: Boka (5:5)",
-      "date": "2026-09-17T06:08:00+02:00"
+      "title": "Kommer: Dop fra himmelen",
+      "date": "2026-10-16T12:00:00+02:00"
     }
   },
   {
@@ -2247,8 +2247,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hva betyr ...?: Eksistensen går forut for essensen",
-      "date": "2026-10-11T06:00:00+02:00"
+      "title": "Elon Musk endrer verden",
+      "date": "2026-10-16T12:00:00+02:00"
     }
   },
   {

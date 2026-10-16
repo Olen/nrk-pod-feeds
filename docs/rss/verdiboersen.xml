@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 11 Oct 2026 15:38:06 +0000</lastBuildDate>
-    <pubDate>Sun, 11 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:18:39 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title>Elon Musk endrer verden</title>
+      <description><![CDATA[Hva er Musk et symbol på?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/8b001b39-ad1f-48b5-8887-960d335eab3e_d1d9fa20-d0f2-4ecd-a37a-12ea372a6974_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/8b001b39-ad1f-48b5-8887-960d335eab3e_d1d9fa20-d0f2-4ecd-a37a-12ea372a6974_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:55</itunes:duration>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
     <item>
       <title>Hva betyr ...?: Eksistensen går forut for essensen</title>
       <description><![CDATA[Du må selv skape ditt liv]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/85346aa1-b3e3-4e34-b46a-a1b3e30e3487_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>45:59</itunes:duration>
       <pubDate>Fri, 11 Sep 2026 10:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
-    </item>
-    <item>
-      <title>Perfekte babyer</title>
-      <description><![CDATA[Kontroversiell og i stor grad forbudt teknikk  skaper frykt - og framtidstro]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/98513e48-753b-4066-913e-48753b6066d5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/98513e48-753b-4066-913e-48753b6066d5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:28</itunes:duration>
-      <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
     </item>
   </channel>
