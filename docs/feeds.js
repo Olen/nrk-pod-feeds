@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ny rapport om oljefondets etikk",
-      "date": "2026-10-15T19:00:00+02:00"
+      "title": "Foxtrot-rettssaker",
+      "date": "2026-10-16T19:00:00+02:00"
     }
   },
   {
