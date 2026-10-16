@@ -177,8 +177,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Line Baugstø: Demens og skilsmisse",
-      "date": "2026-10-09T06:00:00+02:00"
+      "title": "Vetle Lid Larsen: – Vi er fortiden",
+      "date": "2026-10-16T06:00:00+02:00"
     }
   },
   {
@@ -272,8 +272,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Helt vanlig amerikansk college-kultur",
-      "date": "2026-10-09T06:00:00+02:00"
+      "title": "En nærhandels død",
+      "date": "2026-10-16T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Refleksdagen markeres i dag",
-      "date": "2026-10-15T05:59:00+02:00"
+      "title": "Flere barn drept i skoleskyting i USA",
+      "date": "2026-10-16T05:59:00+02:00"
     }
   },
   {
@@ -967,8 +967,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Clancy (3): «Patrick did it!»",
-      "date": "2026-10-14T06:00:00+02:00"
+      "title": "Kvinnen som ikke vil dø",
+      "date": "2026-10-16T06:00:00+02:00"
     }
   },
   {
@@ -978,10 +978,10 @@ const feeds = [
     "description": "Kork gir deg musikk for alle stemninger og anledninger.",
     "image": "https://gfx.nrk.no/bUxGv0Sq_Vx0torVqM5tBQ5Rf_EaqOj4iTCVOAsJQaBg.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Til ettertanke: L'Ascension, 1. del",
-      "date": "2026-09-01T14:27:00+02:00"
+      "title": "Echoes of The Lost - spillmusikk med Kork og Helene Bøksle: Field of the Dead",
+      "date": "2026-10-13T06:11:00+02:00"
     }
   },
   {
@@ -1059,8 +1059,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Medisinerer vi vanlig følelser?",
-      "date": "2026-10-14T05:00:00+02:00"
+      "title": "Linnéa leser: «Slutt å la alt gå innpå deg»",
+      "date": "2026-10-16T05:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "- Saddam så ut som faren min",
-      "date": "2026-10-15T06:00:00+02:00"
+      "title": "En sekt uten knulling",
+      "date": "2026-10-16T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Matgigantene i retten: Ulovlig prissamarbeid?",
-      "date": "2026-10-15T05:59:00+02:00"
+      "title": "Hackere og lekkasje: Dette er Playstation-stormen",
+      "date": "2026-10-16T05:59:00+02:00"
     }
   },
   {
@@ -1889,8 +1889,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Medium industripark",
-      "date": "2026-10-09T06:00:00+02:00"
+      "title": "Kakepynta rævgevir",
+      "date": "2026-10-16T06:00:00+02:00"
     }
   },
   {
@@ -2107,8 +2107,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "En viktig beskjed til deg!",
-      "date": "2026-10-14T06:00:00+02:00"
+      "title": "Bråktober!",
+      "date": "2026-10-16T06:00:00+02:00"
     }
   },
   {
@@ -2218,8 +2218,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "USA:  Demokrater kan ta prærien",
-      "date": "2026-10-09T06:00:00+02:00"
+      "title": "USA: Polymarket eller meningsmålinger?",
+      "date": "2026-10-16T06:00:00+02:00"
     }
   },
   {
