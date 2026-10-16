@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Markus redda kvinne med mensen",
-      "date": "2026-10-15T06:00:00+02:00"
+      "title": "Anna intervjuer Ingar Helge Gimle",
+      "date": "2026-10-16T06:00:00+02:00"
     }
   },
   {
