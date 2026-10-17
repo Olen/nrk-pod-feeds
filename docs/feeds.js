@@ -1392,8 +1392,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ukulturuke",
-      "date": "2026-10-10T06:00:00+02:00"
+      "title": "Ubudne gjester",
+      "date": "2026-10-17T06:00:00+02:00"
     }
   },
   {
@@ -1594,8 +1594,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kommer: Dop fra himmelen",
-      "date": "2026-10-16T12:00:00+02:00"
+      "title": "Dop fra himmelen: Med buksa nede (2:2)",
+      "date": "2026-10-17T06:01:00+02:00"
     }
   },
   {
@@ -1728,8 +1728,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "LIS 2: – Joakim er ikke slem (3:4)",
-      "date": "2026-10-10T06:00:00+02:00"
+      "title": "LIS 2: – Petra har mista det (4:4)",
+      "date": "2026-10-17T06:00:00+02:00"
     }
   },
   {
