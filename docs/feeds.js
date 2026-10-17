@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Livet, sett i perspektiv",
-      "date": "2026-10-14T15:32:00+02:00"
+      "title": "Hedda Gullikstad / Jonas Bergland / Kari Slaatsveen",
+      "date": "2026-10-17T15:00:00+02:00"
     }
   },
   {
@@ -2149,8 +2149,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forfattere spammes av merkelige e-poster",
-      "date": "2026-10-10T14:00:00+02:00"
+      "title": "Pent brukt VM-tromme",
+      "date": "2026-10-17T14:00:00+02:00"
     }
   },
   {
