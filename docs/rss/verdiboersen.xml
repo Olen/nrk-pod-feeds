@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 16 Oct 2026 11:18:39 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2026 04:27:34 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title> Gjentar tysk historie seg?</title>
+      <description><![CDATA[AfD stormer fram. Nå trekkes paralleller til Weimar og 1932]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/79f02b65-e67f-4cbf-aea3-1d33a6eb8e2d_0b7b1662-1c1c-4ff5-95ca-01bad3e6e78c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/79f02b65-e67f-4cbf-aea3-1d33a6eb8e2d_0b7b1662-1c1c-4ff5-95ca-01bad3e6e78c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:00</itunes:duration>
+      <pubDate>Sun, 18 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
     <item>
       <title>Elon Musk endrer verden</title>
       <description><![CDATA[Hva er Musk et symbol på?]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>56:10</itunes:duration>
       <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/D5KcsVd8Rr4TmJHLJr-1IgtpwD7AarVB2gSas_1biXUQ.jpg"/>
-    </item>
-    <item>
-      <title>Kupp i USA?</title>
-      <description><![CDATA[Hvordan kan et kupp skje i USA? Og hvor nære er USA et statskupp?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/85346aa1-b3e3-4e34-b46a-a1b3e30e3487_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/85346aa1-b3e3-4e34-b46a-a1b3e30e3487_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:59</itunes:duration>
-      <pubDate>Fri, 11 Sep 2026 10:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
     </item>
   </channel>
 </rss>

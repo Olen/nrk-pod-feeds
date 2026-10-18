@@ -1863,8 +1863,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bendik Giske «Untitled»",
-      "date": "2026-10-11T06:01:00+02:00"
+      "title": "2. Dagny «Somebody»",
+      "date": "2026-10-18T06:01:00+02:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nora Svenningsen: Egenkjærlighet",
-      "date": "2026-10-15T06:00:00+02:00"
+      "title": "Panelet: Mobbehund og eks på Insta",
+      "date": "2026-10-18T06:00:00+02:00"
     }
   },
   {
@@ -2247,8 +2247,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Elon Musk endrer verden",
-      "date": "2026-10-16T12:00:00+02:00"
+      "title": " Gjentar tysk historie seg?",
+      "date": "2026-10-18T06:00:00+02:00"
     }
   },
   {
