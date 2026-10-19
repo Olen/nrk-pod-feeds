@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-10-19  
+- Updated podcast 'Studio 2' (`studio_2`)  
 ### 2026-10-16  
 - Updated podcast 'Kringkastingsorkestret ' (`kringkastingsorkestret_`)  
 ### 2026-10-10  
