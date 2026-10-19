@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Snorre Klanderud",
-      "date": "2026-10-15T15:00:00+02:00"
+      "title": "Marstein",
+      "date": "2026-10-19T13:30:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "- Verdens mest slitsomme jobb",
-      "date": "2026-10-15T14:00:00+02:00"
+      "title": "Partiet som blør",
+      "date": "2026-10-19T12:30:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi samler bøssebærere til TV-aksjonen",
-      "date": "2026-10-16T10:00:00+02:00"
+      "title": "Hva skal til for å tyste på en venn?",
+      "date": "2026-10-19T10:00:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Anna intervjuer Ingar Helge Gimle",
-      "date": "2026-10-16T06:00:00+02:00"
+      "title": "Anna kysser Daniels kjæreste",
+      "date": "2026-10-19T06:00:00+02:00"
     }
   },
   {
