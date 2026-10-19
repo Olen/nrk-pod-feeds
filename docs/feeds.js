@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Har maneter det gøy?",
-      "date": "2026-10-16T06:00:00+02:00"
+      "title": "Forskningsfronten: Kjefter du på KI'en din?",
+      "date": "2026-10-19T06:00:00+02:00"
     }
   },
   {
@@ -69,8 +69,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hele hjernen i Norge",
-      "date": "2026-10-12T06:00:00+02:00"
+      "title": "Kyss, klapp og klem",
+      "date": "2026-10-19T06:00:00+02:00"
     }
   },
   {
@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nærmer det seg slutten i City?",
-      "date": "2026-10-12T13:22:00+02:00"
+      "title": "Hvor viktig er plasten?",
+      "date": "2026-10-19T05:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Flere barn drept i skoleskyting i USA",
-      "date": "2026-10-16T05:59:00+02:00"
+      "title": "Voldelige opptøyer i Frankrike",
+      "date": "2026-10-19T05:59:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hackere og lekkasje: Dette er Playstation-stormen",
-      "date": "2026-10-16T05:59:00+02:00"
+      "title": "Eldrebølgen er her: Slik kan det bli i 2060",
+      "date": "2026-10-19T05:59:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Skogen må vike i Østfold",
-      "date": "2026-10-16T08:00:00+02:00"
+      "title": "Rødgrønn enighet om nær gratis tannhelse",
+      "date": "2026-10-19T08:00:00+02:00"
     }
   },
   {
@@ -1957,7 +1957,7 @@ const feeds = [
     "description": "Kultur og aktualitet rett i lomma? Ida Yasin Andersen, Kristian Bendiksen og Einar Lie Slangsvold gir deg det beste fra Studio 2. \n",
     "image": "https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAylSxsFTsrlWjORt0a4uSTg.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Platedate med Nico & Vinz",
       "date": "2026-09-18T18:00:00+02:00"
