@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Foxtrot-rettssaker",
-      "date": "2026-10-16T19:00:00+02:00"
+      "title": "Opptøyer i Frankrike",
+      "date": "2026-10-19T19:00:00+02:00"
     }
   },
   {
