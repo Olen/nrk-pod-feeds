@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Rødgrønn enighet om nær gratis tannhelse",
-      "date": "2026-10-19T08:00:00+02:00"
+      "title": "Ny AUF-leder spår Frps fall",
+      "date": "2026-10-20T08:00:00+02:00"
     }
   },
   {
