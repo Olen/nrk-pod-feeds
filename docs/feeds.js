@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Etikk eller butikk i Oljefondet?",
-      "date": "2026-10-15T22:02:00+02:00"
+      "title": "Kan vi stole på USA?",
+      "date": "2026-10-20T22:05:00+02:00"
     }
   },
   {
