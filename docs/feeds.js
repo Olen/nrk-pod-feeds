@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Opptøyer i Frankrike",
-      "date": "2026-10-19T19:00:00+02:00"
+      "title": "Ukraina-samtaler i Norge",
+      "date": "2026-10-20T19:00:00+02:00"
     }
   },
   {
