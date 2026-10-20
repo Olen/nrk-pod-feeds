@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Halloween, side chicks og «goo goo gaga»",
-      "date": "2026-10-16T12:00:00+02:00"
+      "title": "Ailo Thomassen, maskulinitet og torpedo-nabo",
+      "date": "2026-10-20T06:00:00+02:00"
     }
   },
   {
@@ -164,8 +164,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Et farlig møte i borettslaget",
-      "date": "2026-10-13T06:00:00+02:00"
+      "title": "En kniv i Olavs hjerte",
+      "date": "2026-10-20T06:00:00+02:00"
     }
   },
   {
@@ -778,8 +778,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dahkojiermme válldá badjel væráldav?",
-      "date": "2026-10-13T06:00:00+02:00"
+      "title": "Mij «fávrro» merkaj?",
+      "date": "2026-10-20T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Voldelige opptøyer i Frankrike",
-      "date": "2026-10-19T05:59:00+02:00"
+      "title": "Zelenskyj: Forhandlinger kan skje i Norge",
+      "date": "2026-10-20T05:59:00+02:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Midtlivskrise - med Ingelin Røssland",
-      "date": "2026-10-14T06:00:00+02:00"
+      "title": "Verdi - med Miriam Våga",
+      "date": "2026-10-20T06:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "En sekt uten knulling",
-      "date": "2026-10-16T06:00:00+02:00"
+      "title": "Å våkne fra narkose",
+      "date": "2026-10-20T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Eldrebølgen er her: Slik kan det bli i 2060",
-      "date": "2026-10-19T05:59:00+02:00"
+      "title": "Kampen om Førdefjorden: Derfor er det bråk igjen",
+      "date": "2026-10-20T05:59:00+02:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Mobbehund og eks på Insta",
-      "date": "2026-10-18T06:00:00+02:00"
+      "title": "Gard Øksendal: Jobbe med seg selv",
+      "date": "2026-10-20T06:00:00+02:00"
     }
   },
   {
