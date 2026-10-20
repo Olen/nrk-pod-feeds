@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Marstein",
-      "date": "2026-10-19T13:30:00+02:00"
+      "title": "Dag-Inge Ulstein",
+      "date": "2026-10-20T13:50:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Partiet som blør",
-      "date": "2026-10-19T12:30:00+02:00"
+      "title": "Regissørar trua etter \"NAZA\"",
+      "date": "2026-10-20T13:00:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hva skal til for å tyste på en venn?",
-      "date": "2026-10-19T10:00:00+02:00"
+      "title": "GTA6 skaper moralske dilemmaer",
+      "date": "2026-10-20T10:00:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Anna kysser Daniels kjæreste",
-      "date": "2026-10-19T06:00:00+02:00"
+      "title": "Anna hater motorsykler",
+      "date": "2026-10-20T06:00:00+02:00"
     }
   },
   {
