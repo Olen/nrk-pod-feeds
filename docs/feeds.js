@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Kjefter du på KI'en din?",
-      "date": "2026-10-19T06:00:00+02:00"
+      "title": "Forskningsfronten: Vasker du hjemmet ditt feil?",
+      "date": "2026-10-21T06:00:00+02:00"
     }
   },
   {
@@ -116,8 +116,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Paulus – Operasjon helomvending (39:40)",
-      "date": "2026-10-14T06:00:00+02:00"
+      "title": "Johannes' åpenbaring (40:40)",
+      "date": "2026-10-21T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Zelenskyj: Forhandlinger kan skje i Norge",
-      "date": "2026-10-20T05:59:00+02:00"
+      "title": "Prosessen mot fred i Ukraina er «back on track»",
+      "date": "2026-10-21T05:59:00+02:00"
     }
   },
   {
@@ -967,8 +967,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kvinnen som ikke vil dø",
-      "date": "2026-10-16T06:00:00+02:00"
+      "title": "Tenåring dømt: Skulle drepe på bestilling",
+      "date": "2026-10-21T06:40:00+02:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Verdi - med Miriam Våga",
-      "date": "2026-10-20T06:00:00+02:00"
+      "title": "Har du fyr - med Ola Bremnes",
+      "date": "2026-10-21T06:00:00+02:00"
     }
   },
   {
@@ -1059,8 +1059,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Linnéa leser: «Slutt å la alt gå innpå deg»",
-      "date": "2026-10-16T05:00:00+02:00"
+      "title": "Matstøy",
+      "date": "2026-10-21T05:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Å våkne fra narkose",
-      "date": "2026-10-20T06:00:00+02:00"
+      "title": "Profetens fall ",
+      "date": "2026-10-21T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kampen om Førdefjorden: Derfor er det bråk igjen",
-      "date": "2026-10-20T05:59:00+02:00"
+      "title": "Frankrike i flammer: Starten på en global protest?",
+      "date": "2026-10-21T05:59:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ny AUF-leder spår Frps fall",
-      "date": "2026-10-20T08:00:00+02:00"
+      "title": "Politiker og aksjonist",
+      "date": "2026-10-21T08:00:00+02:00"
     }
   },
   {
@@ -1876,8 +1876,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fire m-høns",
-      "date": "2026-10-14T06:00:00+02:00"
+      "title": "Et banner må brenne",
+      "date": "2026-10-21T06:00:00+02:00"
     }
   },
   {
