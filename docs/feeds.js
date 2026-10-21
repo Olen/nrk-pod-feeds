@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ukraina-samtaler i Norge",
-      "date": "2026-10-20T19:00:00+02:00"
+      "title": "Russland vil gjenoppta forhandlinger",
+      "date": "2026-10-21T19:00:00+02:00"
     }
   },
   {
@@ -823,8 +823,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Latterkrampe",
-      "date": "2026-10-12T06:00:00+02:00"
+      "title": "Fersk gjær",
+      "date": "2026-10-19T06:00:00+02:00"
     }
   },
   {
@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hedda Gullikstad / Jonas Bergland / Kari Slaatsveen",
-      "date": "2026-10-17T15:00:00+02:00"
+      "title": "Snuskete bøker og vanskelig far",
+      "date": "2026-10-21T06:00:00+02:00"
     }
   },
   {
