@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dag-Inge Ulstein",
-      "date": "2026-10-20T13:50:00+02:00"
+      "title": "Mia Habib",
+      "date": "2026-10-21T14:00:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Regissørar trua etter \"NAZA\"",
-      "date": "2026-10-20T13:00:00+02:00"
+      "title": "Lukkede samfunn med sterke ledere",
+      "date": "2026-10-21T13:45:00+02:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Atomvåpen og oljefondet: – Penger viktigere enn etikk",
-      "date": "2026-10-15T15:00:00+02:00"
+      "title": "Trump og Zelenskyj: Kan Norge redde forholdet?",
+      "date": "2026-10-21T14:41:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "GTA6 skaper moralske dilemmaer",
-      "date": "2026-10-20T10:00:00+02:00"
+      "title": "Den verste versjonen av bursdagssangen?",
+      "date": "2026-10-21T10:00:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Anna hater motorsykler",
-      "date": "2026-10-20T06:00:00+02:00"
+      "title": "Markus fikk rotte på skoen ",
+      "date": "2026-10-21T06:00:00+02:00"
     }
   },
   {
