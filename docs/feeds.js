@@ -293,8 +293,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Pupp i friluft på Oslo City",
-      "date": "2026-10-15T06:00:00+02:00"
+      "title": "KI-vikinglåter fra hælvete ",
+      "date": "2026-10-22T06:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Prosessen mot fred i Ukraina er «back on track»",
-      "date": "2026-10-21T05:59:00+02:00"
+      "title": "Togansatte får kurs i selvforsvar",
+      "date": "2026-10-22T05:59:00+02:00"
     }
   },
   {
@@ -1046,8 +1046,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Boktober: «Fluenes herre» med Oskar Westerlin: – Dama, gutta, alle leser den jo! (3:5)",
-      "date": "2026-10-15T06:05:00+02:00"
+      "title": "Boktober: «Fluenes herre» med Oskar Westerlin: – En grotesk scene! (4:5)",
+      "date": "2026-10-22T06:05:00+02:00"
     }
   },
   {
@@ -1072,8 +1072,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dødens odør og en festglad Bamse",
-      "date": "2026-10-15T06:00:00+02:00"
+      "title": "På tvers av generasjonskløfta",
+      "date": "2026-10-22T06:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Profetens fall ",
-      "date": "2026-10-21T06:00:00+02:00"
+      "title": "Familiehat i arv",
+      "date": "2026-10-22T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Frankrike i flammer: Starten på en global protest?",
-      "date": "2026-10-21T05:59:00+02:00"
+      "title": "Zelenskyj i skvis: Ofrar Trump Ukraina?",
+      "date": "2026-10-22T05:59:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Politiker og aksjonist",
-      "date": "2026-10-21T08:00:00+02:00"
+      "title": "Høyre hevder opptøyene i Frankrike skyldes integreringssvikt",
+      "date": "2026-10-22T08:00:00+02:00"
     }
   },
   {
@@ -1715,8 +1715,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ole Henry cosplayer kriminell",
-      "date": "2026-10-15T06:00:00+02:00"
+      "title": "– Du har en tiss i øret",
+      "date": "2026-10-22T06:00:00+02:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Gard Øksendal: Jobbe med seg selv",
-      "date": "2026-10-20T06:00:00+02:00"
+      "title": "Carina Dahl: Å forsikre seg",
+      "date": "2026-10-22T06:00:00+02:00"
     }
   },
   {
