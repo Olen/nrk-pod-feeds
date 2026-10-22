@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Russland vil gjenoppta forhandlinger",
-      "date": "2026-10-21T19:00:00+02:00"
+      "title": "Ungdomsprotester i Europa",
+      "date": "2026-10-22T19:00:00+02:00"
     }
   },
   {
