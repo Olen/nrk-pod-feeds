@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kan vi stole på USA?",
-      "date": "2026-10-20T22:05:00+02:00"
+      "title": "Duell-spesial: Seks dueller",
+      "date": "2026-10-22T22:02:00+02:00"
     }
   },
   {
