@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mia Habib",
-      "date": "2026-10-21T14:00:00+02:00"
+      "title": "Janne Stigen Drangsholt",
+      "date": "2026-10-22T13:00:00+02:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Lukkede samfunn med sterke ledere",
-      "date": "2026-10-21T13:45:00+02:00"
+      "title": "Trumps USA: Ikke akkurat bestiser",
+      "date": "2026-10-22T13:00:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Den verste versjonen av bursdagssangen?",
-      "date": "2026-10-21T10:00:00+02:00"
+      "title": "Elsparkesykkel-lureri!",
+      "date": "2026-10-22T10:00:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Markus fikk rotte på skoen ",
-      "date": "2026-10-21T06:00:00+02:00"
+      "title": "Er Anna en neandertaler? ",
+      "date": "2026-10-22T14:00:00+02:00"
     }
   },
   {
