@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ungdomsprotester i Europa",
-      "date": "2026-10-22T19:00:00+02:00"
+      "title": "Valgkamp i USA",
+      "date": "2026-10-23T19:00:00+02:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trump og Zelenskyj: Kan Norge redde forholdet?",
-      "date": "2026-10-21T14:41:00+02:00"
+      "title": "Vold og opptøyer: Hvorfor er Europas unge så sinte?",
+      "date": "2026-10-23T15:32:00+02:00"
     }
   },
   {
