@@ -177,8 +177,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vetle Lid Larsen: – Vi er fortiden",
-      "date": "2026-10-16T06:00:00+02:00"
+      "title": "Maria Navarro Skaranger- Emily gjør så godt hun kan",
+      "date": "2026-10-23T06:00:00+02:00"
     }
   },
   {
@@ -272,8 +272,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "En nærhandels død",
-      "date": "2026-10-16T06:00:00+02:00"
+      "title": "Mens vi venter på Putin",
+      "date": "2026-10-23T06:00:00+02:00"
     }
   },
   {
@@ -479,8 +479,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fotball, leder lønn og tidlig jul",
-      "date": "2026-10-16T08:30:00+02:00"
+      "title": "Norskfaget, dårlige tirsdager - og Norge best i alt",
+      "date": "2026-10-23T08:00:00+02:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Togansatte får kurs i selvforsvar",
-      "date": "2026-10-22T05:59:00+02:00"
+      "title": "Venter «krigstilstander» i Frankrike i helga",
+      "date": "2026-10-23T05:59:00+02:00"
     }
   },
   {
@@ -967,8 +967,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tenåring dømt: Skulle drepe på bestilling",
-      "date": "2026-10-21T06:40:00+02:00"
+      "title": "Tilsto drap - er han uskyldig?",
+      "date": "2026-10-23T06:00:00+02:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Familiehat i arv",
-      "date": "2026-10-22T06:00:00+02:00"
+      "title": "Høytiden for MeToo ",
+      "date": "2026-10-23T06:00:00+02:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Zelenskyj i skvis: Ofrar Trump Ukraina?",
-      "date": "2026-10-22T05:59:00+02:00"
+      "title": "Valg i Israel: Generalen som kan velte Netanyahu",
+      "date": "2026-10-23T05:59:00+02:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Høyre hevder opptøyene i Frankrike skyldes integreringssvikt",
-      "date": "2026-10-22T08:00:00+02:00"
+      "title": "EU sier nei til olje i Arktis",
+      "date": "2026-10-23T08:00:00+02:00"
     }
   },
   {
@@ -1889,8 +1889,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kakepynta rævgevir",
-      "date": "2026-10-16T06:00:00+02:00"
+      "title": "Samisk språkuke",
+      "date": "2026-10-23T06:00:00+02:00"
     }
   },
   {
@@ -2107,8 +2107,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bråktober!",
-      "date": "2026-10-16T06:00:00+02:00"
+      "title": "Bråktober: Milliardærenes mellomvalg",
+      "date": "2026-10-23T06:00:00+02:00"
     }
   },
   {
@@ -2218,8 +2218,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "USA: Polymarket eller meningsmålinger?",
-      "date": "2026-10-16T06:00:00+02:00"
+      "title": "USA: Kan Putin vinne valget?",
+      "date": "2026-10-23T06:00:00+02:00"
     }
   },
   {
