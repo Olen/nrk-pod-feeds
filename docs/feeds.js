@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Vasker du hjemmet ditt feil?",
-      "date": "2026-10-21T06:00:00+02:00"
+      "title": "Tårnet: Hvor kjipe virus kan KI lage?",
+      "date": "2026-10-23T06:00:00+02:00"
     }
   },
   {
@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ailo Thomassen, maskulinitet og torpedo-nabo",
-      "date": "2026-10-20T06:00:00+02:00"
+      "title": "Eldre damer, gruppechatter og «å be om det»",
+      "date": "2026-10-23T12:00:00+02:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Elsparkesykkel-lureri!",
-      "date": "2026-10-22T10:00:00+02:00"
+      "title": "Jonas er nervøs før familietur",
+      "date": "2026-10-23T10:00:00+02:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Er Anna en neandertaler? ",
-      "date": "2026-10-22T14:00:00+02:00"
+      "title": "Daniel intervjuer Iselin Guttormsen ",
+      "date": "2026-10-23T14:00:00+02:00"
     }
   },
   {
@@ -2247,8 +2247,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": " Gjentar tysk historie seg?",
-      "date": "2026-10-18T06:00:00+02:00"
+      "title": "Stadig mer vann og mat i boden",
+      "date": "2026-10-23T12:05:00+02:00"
     }
   },
   {
