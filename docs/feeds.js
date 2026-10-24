@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Snuskete bøker og vanskelig far",
-      "date": "2026-10-21T06:00:00+02:00"
+      "title": "Simon Nitsche /  Silje Nordnes / Erik Solbakken",
+      "date": "2026-10-24T13:10:00+02:00"
     }
   },
   {
@@ -2149,8 +2149,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Pent brukt VM-tromme",
-      "date": "2026-10-17T14:00:00+02:00"
+      "title": "Oj, oj, oj - en blå ballong!",
+      "date": "2026-10-24T14:00:00+02:00"
     }
   },
   {
