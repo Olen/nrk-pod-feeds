@@ -1392,8 +1392,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ubudne gjester",
-      "date": "2026-10-17T06:00:00+02:00"
+      "title": "Nepo-Norge",
+      "date": "2026-10-24T06:00:00+02:00"
     }
   },
   {
