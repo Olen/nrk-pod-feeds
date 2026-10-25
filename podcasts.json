@@ -526,7 +526,7 @@
         "description": "Bli med gjengen i Bablo på nye gøyale sprell! På dette biblioteket kan man bable, tulle og gjøre alt som er rart.",
         "image": "https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwzhkgZYH4VC11qPpfxlloNw.jpg",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "harald_v",
@@ -1568,7 +1568,7 @@
         "description": "I sommerhalvåret legger vi bort skiene og tar på oss løpeskoene,  rulleskiene eller  setter oss på sykkelen. Anders Aukland, Silje Nordnes og Sindre Reinholt motiverer deg i til å komme i form og nå dine mål uansett hvilket nivå du er på.",
         "image": "https://gfx.nrk.no/wiCIYwjL9AY91NkrQrx8CgBPyIhdMPLt6WSDzhGS9bmA.jpg",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "skitprat",

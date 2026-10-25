@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-10-25  
+- Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
+- Updated podcast 'Skiklubben' (`skiklubben`)  
 ### 2026-10-19  
 - Updated podcast 'Studio 2' (`studio_2`)  
 ### 2026-10-16  
