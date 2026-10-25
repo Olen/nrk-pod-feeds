@@ -594,7 +594,7 @@ const feeds = [
     "description": "Bli med gjengen i Bablo på nye gøyale sprell! På dette biblioteket kan man bable, tulle og gjøre alt som er rart.",
     "image": "https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwzhkgZYH4VC11qPpfxlloNw.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Jakten på det forsvunne godteriet",
       "date": "2026-09-25T06:00:00+02:00"
@@ -1059,8 +1059,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Matstøy",
-      "date": "2026-10-21T05:00:00+02:00"
+      "title": "Er det snobbete å hate på «Verity»?",
+      "date": "2026-10-25T05:00:00+01:00"
     }
   },
   {
@@ -1776,7 +1776,7 @@ const feeds = [
     "description": "I sommerhalvåret legger vi bort skiene og tar på oss løpeskoene,  rulleskiene eller  setter oss på sykkelen. Anders Aukland, Silje Nordnes og Sindre Reinholt motiverer deg i til å komme i form og nå dine mål uansett hvilket nivå du er på.",
     "image": "https://gfx.nrk.no/wiCIYwjL9AY91NkrQrx8CgBPyIhdMPLt6WSDzhGS9bmA.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Vår aller siste episode",
       "date": "2026-09-25T05:00:00+02:00"
@@ -1863,8 +1863,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "2. Dagny «Somebody»",
-      "date": "2026-10-18T06:01:00+02:00"
+      "title": "2. Mari Boine «Mu Eadni»",
+      "date": "2026-10-25T06:01:00+01:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Carina Dahl: Å forsikre seg",
-      "date": "2026-10-22T06:00:00+02:00"
+      "title": "Panelet: Sugardaddy og dobbeltliv",
+      "date": "2026-10-25T06:00:00+01:00"
     }
   },
   {
