@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Hvor kjipe virus kan KI lage?",
-      "date": "2026-10-23T06:00:00+02:00"
+      "title": "Forskningsfronten: Gen Z som gamle",
+      "date": "2026-10-26T06:00:00+01:00"
     }
   },
   {
@@ -69,8 +69,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kyss, klapp og klem",
-      "date": "2026-10-19T06:00:00+02:00"
+      "title": "Pappa gjør seg klar for apokalypsen",
+      "date": "2026-10-26T06:00:00+01:00"
     }
   },
   {
@@ -823,8 +823,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fersk gjær",
-      "date": "2026-10-19T06:00:00+02:00"
+      "title": "Legekontor",
+      "date": "2026-10-26T06:00:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Venter «krigstilstander» i Frankrike i helga",
-      "date": "2026-10-23T05:59:00+02:00"
+      "title": "I dag begynner egenberedskapsuka",
+      "date": "2026-10-26T05:59:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Valg i Israel: Generalen som kan velte Netanyahu",
-      "date": "2026-10-23T05:59:00+02:00"
+      "title": "Trumps helse: Konspirasjonsteorier eller sannhet?",
+      "date": "2026-10-26T05:59:00+01:00"
     }
   },
   {
@@ -2247,8 +2247,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Stadig mer vann og mat i boden",
-      "date": "2026-10-23T12:05:00+02:00"
+      "title": "Lærdommer  fra 8. april 1940",
+      "date": "2026-10-26T06:00:00+01:00"
     }
   },
   {
