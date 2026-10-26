@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvor viktig er plasten?",
-      "date": "2026-10-19T05:00:00+02:00"
+      "title": "Kåtskap i VM og gullballen-slakt",
+      "date": "2026-10-26T12:59:00+01:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps USA: Ikke akkurat bestiser",
-      "date": "2026-10-22T13:00:00+02:00"
+      "title": "USA: – It's complicated ",
+      "date": "2026-10-26T13:30:00+01:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jonas er nervøs før familietur",
-      "date": "2026-10-23T10:00:00+02:00"
+      "title": "Det store burgerdilemmaet",
+      "date": "2026-10-26T10:00:00+01:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "EU sier nei til olje i Arktis",
-      "date": "2026-10-23T08:00:00+02:00"
+      "title": "Nok for sjukehusa?",
+      "date": "2026-10-26T08:00:00+01:00"
     }
   },
   {
