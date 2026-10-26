@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Valgkamp i USA",
-      "date": "2026-10-23T19:00:00+02:00"
+      "title": "Studentene vant valget i Serbia",
+      "date": "2026-10-26T19:00:00+01:00"
     }
   },
   {
@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Janne Stigen Drangsholt",
-      "date": "2026-10-22T13:00:00+02:00"
+      "title": "Eirik Bergesen",
+      "date": "2026-10-26T14:20:00+01:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Daniel intervjuer Iselin Guttormsen ",
-      "date": "2026-10-23T14:00:00+02:00"
+      "title": "Markus vokser rumpa",
+      "date": "2026-10-26T06:00:00+01:00"
     }
   },
   {
