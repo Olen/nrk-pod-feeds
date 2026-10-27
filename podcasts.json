@@ -1942,6 +1942,15 @@
         "hidden": true
     },
     {
+        "id": "venner_som_moetes_ukentlig",
+        "title": "De 10 siste fra Venner som møtes ukentlig",
+        "name": "Venner som møtes ukentlig",
+        "description": "Martha, Karsten og Annika freser gjennom voksenlivets banale oppturer og festlige nedturer. Heldigvis har de hverandre.",
+        "image": "https://gfx.nrk.no/bWkIt0jcqHmn1nU4VHMgPwjd1mwxtH5SDU-HbAL4Uvtw.jpg",
+        "season": null,
+        "enabled": false
+    },
+    {
         "id": "verden_paa_loerdag",
         "title": "De 10 siste fra Urix",
         "name": "Urix",
