@@ -1948,7 +1948,7 @@
         "description": "Martha, Karsten og Annika freser gjennom voksenlivets banale oppturer og festlige nedturer. Heldigvis har de hverandre.",
         "image": "https://gfx.nrk.no/bWkIt0jcqHmn1nU4VHMgPwjd1mwxtH5SDU-HbAL4Uvtw.jpg",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "verden_paa_loerdag",
