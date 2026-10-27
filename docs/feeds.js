@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Studentene vant valget i Serbia",
-      "date": "2026-10-26T19:00:00+01:00"
+      "title": "Støre og Stubb har snakket med Putin",
+      "date": "2026-10-27T19:00:00+01:00"
     }
   },
   {
