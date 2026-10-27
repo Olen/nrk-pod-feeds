@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Eirik Bergesen",
-      "date": "2026-10-26T14:20:00+01:00"
+      "title": "Øystein Olsen",
+      "date": "2026-10-27T14:00:00+01:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "USA: – It's complicated ",
-      "date": "2026-10-26T13:30:00+01:00"
+      "title": "Tar KI jobben din?",
+      "date": "2026-10-27T13:30:00+01:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vold og opptøyer: Hvorfor er Europas unge så sinte?",
-      "date": "2026-10-23T15:32:00+02:00"
+      "title": "Danskene raser etter Støres Putin-telefon",
+      "date": "2026-10-27T16:56:00+01:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Det store burgerdilemmaet",
-      "date": "2026-10-26T10:00:00+01:00"
+      "title": "Norge er et nisseland!",
+      "date": "2026-10-27T10:00:00+01:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Markus vokser rumpa",
-      "date": "2026-10-26T06:00:00+01:00"
+      "title": "Vi blir hjemsøkt ",
+      "date": "2026-10-27T06:00:00+01:00"
     }
   },
   {
@@ -2216,7 +2216,11 @@ const feeds = [
     "description": "Martha, Karsten og Annika freser gjennom voksenlivets banale oppturer og festlige nedturer. Heldigvis har de hverandre.",
     "image": "https://gfx.nrk.no/bWkIt0jcqHmn1nU4VHMgPwjd1mwxtH5SDU-HbAL4Uvtw.jpg",
     "season": null,
-    "enabled": false
+    "enabled": true,
+    "last_episode": {
+      "title": "Smakebit ",
+      "date": "2026-10-27T06:00:00+01:00"
+    }
   },
   {
     "id": "verden_paa_loerdag",
@@ -2256,8 +2260,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Lærdommer  fra 8. april 1940",
-      "date": "2026-10-26T06:00:00+01:00"
+      "title": "Der tanker møtes: Stadig mer vann og mat i boden",
+      "date": "2026-10-27T14:00:00+01:00"
     }
   },
   {
