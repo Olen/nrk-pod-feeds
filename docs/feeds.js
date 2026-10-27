@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Eldre damer, gruppechatter og «å be om det»",
-      "date": "2026-10-23T12:00:00+02:00"
+      "title": "Crush på stebror, VGS-valg og franske tilstander",
+      "date": "2026-10-27T06:00:00+01:00"
     }
   },
   {
@@ -164,8 +164,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "En kniv i Olavs hjerte",
-      "date": "2026-10-20T06:00:00+02:00"
+      "title": "Emil er en heks",
+      "date": "2026-10-27T06:00:00+01:00"
     }
   },
   {
@@ -778,8 +778,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mij «fávrro» merkaj?",
-      "date": "2026-10-20T06:00:00+02:00"
+      "title": "Hivsikdejvadime",
+      "date": "2026-10-27T06:00:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "I dag begynner egenberedskapsuka",
-      "date": "2026-10-26T05:59:00+01:00"
+      "title": "Skoler merker en vekst i antall elever med spesielle behov",
+      "date": "2026-10-27T05:59:00+01:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Har du fyr - med Ola Bremnes",
-      "date": "2026-10-21T06:00:00+02:00"
+      "title": "Paraply - med Sigrun Loe Sparbo",
+      "date": "2026-10-27T06:00:00+01:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Høytiden for MeToo ",
-      "date": "2026-10-23T06:00:00+02:00"
+      "title": "Den verste dagen i uka",
+      "date": "2026-10-27T06:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps helse: Konspirasjonsteorier eller sannhet?",
-      "date": "2026-10-26T05:59:00+01:00"
+      "title": "Mapuche-folkets kamp mot den norske stat",
+      "date": "2026-10-27T05:59:00+01:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nok for sjukehusa?",
-      "date": "2026-10-26T08:00:00+01:00"
+      "title": "Diagnose-eksplosjon i norsk skole",
+      "date": "2026-10-27T08:00:00+01:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Sugardaddy og dobbeltliv",
-      "date": "2026-10-25T06:00:00+01:00"
+      "title": "Elisabeth Ingebrigtsen: Gift med idretten",
+      "date": "2026-10-27T06:00:00+01:00"
     }
   },
   {
@@ -2208,6 +2208,15 @@ const feeds = [
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "venner_som_moetes_ukentlig",
+    "title": "De 10 siste fra Venner som møtes ukentlig",
+    "name": "Venner som møtes ukentlig",
+    "description": "Martha, Karsten og Annika freser gjennom voksenlivets banale oppturer og festlige nedturer. Heldigvis har de hverandre.",
+    "image": "https://gfx.nrk.no/bWkIt0jcqHmn1nU4VHMgPwjd1mwxtH5SDU-HbAL4Uvtw.jpg",
+    "season": null,
+    "enabled": false
   },
   {
     "id": "verden_paa_loerdag",
