@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Gen Z som gamle",
-      "date": "2026-10-26T06:00:00+01:00"
+      "title": "Forskningsfronten: Finnes egentlig tyngdekraften?",
+      "date": "2026-10-28T06:00:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Skoler merker en vekst i antall elever med spesielle behov",
-      "date": "2026-10-27T05:59:00+01:00"
+      "title": "Flere selskaper må kunne formidle nødsamtaler",
+      "date": "2026-10-28T06:03:00+01:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Paraply - med Sigrun Loe Sparbo",
-      "date": "2026-10-27T06:00:00+01:00"
+      "title": "Allehelgensdag - Ola Bremnes",
+      "date": "2026-10-28T06:00:00+01:00"
     }
   },
   {
@@ -1059,8 +1059,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Er det snobbete å hate på «Verity»?",
-      "date": "2026-10-25T05:00:00+01:00"
+      "title": "Slik hacker du hjernen",
+      "date": "2026-10-28T05:00:00+01:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Den verste dagen i uka",
-      "date": "2026-10-27T06:00:00+01:00"
+      "title": "Baconpølse i helvete",
+      "date": "2026-10-28T06:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mapuche-folkets kamp mot den norske stat",
-      "date": "2026-10-27T05:59:00+01:00"
+      "title": "Historisk val: No skal studentane styre Serbia",
+      "date": "2026-10-28T05:59:00+01:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Diagnose-eksplosjon i norsk skole",
-      "date": "2026-10-27T08:00:00+01:00"
+      "title": "Kva sa Putin, Støre?",
+      "date": "2026-10-28T08:00:00+01:00"
     }
   },
   {
@@ -1876,8 +1876,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Et banner må brenne",
-      "date": "2026-10-21T06:00:00+02:00"
+      "title": "Gullballen, Hitler-logo og Mia naken på buss",
+      "date": "2026-10-28T06:00:00+01:00"
     }
   },
   {
@@ -2218,8 +2218,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Smakebit ",
-      "date": "2026-10-27T06:00:00+01:00"
+      "title": "Hjelp, mister jeg håret?",
+      "date": "2026-10-28T06:00:00+01:00"
     }
   },
   {

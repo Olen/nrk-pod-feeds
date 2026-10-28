@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 26 Oct 2026 06:08:44 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:25:03 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten: Finnes egentlig tyngdekraften?</title>
+      <description><![CDATA[Forskere støtter heller Einsteins teori. Dessuten, leggen din reparerer hjernen. Og rar forskjell funnet mellom mennesker og aper
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/f962e351-8e5b-41b5-8d4b-194e8807ce39_7e10f97e-ef06-43e2-849e-7e6aa257d8ca_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f962e351-8e5b-41b5-8d4b-194e8807ce39_7e10f97e-ef06-43e2-849e-7e6aa257d8ca_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:51</itunes:duration>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    </item>
     <item>
       <title>Forskningsfronten: Gen Z som gamle</title>
       <description><![CDATA[Stor studie bekymrer forskere. Men transplanterte hjerter overrasker positivt. Og vi vet nå hvorfor små hunder lever så lenge
@@ -95,15 +105,6 @@ Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns al
       <itunes:duration>27:13</itunes:duration>
       <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten: Smarttelefon fører til færre fødsler</title>
-      <description><![CDATA[Forskere ser en sammenheng. Dessuten, KI må hallusinere mye mer, og en ny katteart er oppdaget]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/50077ba6-5d3c-48d8-877b-a65d3c98d8db_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/50077ba6-5d3c-48d8-877b-a65d3c98d8db_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:11</itunes:duration>
-      <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
     </item>
   </channel>
 </rss>
