@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Øystein Olsen",
-      "date": "2026-10-27T14:00:00+01:00"
+      "title": "Jon Reichelt ",
+      "date": "2026-10-28T11:30:00+01:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tar KI jobben din?",
-      "date": "2026-10-27T13:30:00+01:00"
+      "title": "En forbanna optimist",
+      "date": "2026-10-28T14:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Historisk val: No skal studentane styre Serbia",
-      "date": "2026-10-28T05:59:00+01:00"
+      "title": "Derfor raser Ungarns statsminister mot NRK",
+      "date": "2026-10-28T15:00:00+01:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norge er et nisseland!",
-      "date": "2026-10-27T10:00:00+01:00"
+      "title": "Herbert Nordrum gjør norske memes posh",
+      "date": "2026-10-28T11:30:00+01:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi blir hjemsøkt ",
-      "date": "2026-10-27T06:00:00+01:00"
+      "title": "Tegna sin egen porno ",
+      "date": "2026-10-28T06:00:00+01:00"
     }
   },
   {
@@ -2260,8 +2260,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Der tanker møtes: Stadig mer vann og mat i boden",
-      "date": "2026-10-27T14:00:00+01:00"
+      "title": "Der tanker møtes: En ny Trump kan komme ",
+      "date": "2026-10-28T10:00:00+01:00"
     }
   },
   {

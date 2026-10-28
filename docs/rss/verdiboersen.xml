@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 27 Oct 2026 16:35:39 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Oct 2026 14:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:59:32 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title>Der tanker møtes: En ny Trump kan komme </title>
+      <description><![CDATA[Normalen er borte, sier historiker. Vi snakker om USA og Europa. Hva truer demokratiet og hvorfor?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ecb8940f-40d0-4412-a1c4-e25a0b4b0672_9f19ffe1-ba60-413b-8e91-a3bc2638e482_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ecb8940f-40d0-4412-a1c4-e25a0b4b0672_9f19ffe1-ba60-413b-8e91-a3bc2638e482_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:05</itunes:duration>
+      <pubDate>Wed, 28 Oct 2026 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
     <item>
       <title>Der tanker møtes: Stadig mer vann og mat i boden</title>
       <description><![CDATA[Før skulle vi greie oss selv i 48 timer. Nå er det en uke. Skjer det en ansvarsforskyvning  fra stat til borger? ]]></description>
@@ -92,15 +101,6 @@ Et bidrag  til P2s beredskapsdag]]></description>
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/9adc8586-7cea-473a-9c85-867cea573a81_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>11:10</itunes:duration>
       <pubDate>Thu, 01 Oct 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
-    </item>
-    <item>
-      <title>Der tanker møtes: Hvorfor velge KI-kjæreste!</title>
-      <description><![CDATA[- og hvorfor ikke!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ccf35a5b-9cad-43e3-b35a-5b9cad53e356_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ccf35a5b-9cad-43e3-b35a-5b9cad53e356_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:57</itunes:duration>
-      <pubDate>Fri, 25 Sep 2026 18:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
     </item>
   </channel>
