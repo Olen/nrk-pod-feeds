@@ -293,8 +293,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "KI-vikinglåter fra hælvete ",
-      "date": "2026-10-22T06:00:00+02:00"
+      "title": "Jeg har blitt «pick me»",
+      "date": "2026-10-29T06:00:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Flere selskaper må kunne formidle nødsamtaler",
-      "date": "2026-10-28T06:03:00+01:00"
+      "title": "Minst 68 døde i togulykke i Spania",
+      "date": "2026-10-29T05:59:00+01:00"
     }
   },
   {
@@ -967,8 +967,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tilsto drap - er han uskyldig?",
-      "date": "2026-10-23T06:00:00+02:00"
+      "title": "Elizabeth Holmes: Blodig svindel",
+      "date": "2026-10-29T06:00:00+01:00"
     }
   },
   {
@@ -1072,8 +1072,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "På tvers av generasjonskløfta",
-      "date": "2026-10-22T06:00:00+02:00"
+      "title": "Urinal ulydighet",
+      "date": "2026-10-29T06:00:00+01:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Baconpølse i helvete",
-      "date": "2026-10-28T06:00:00+01:00"
+      "title": "Vy burde ansette foreldrene våre ",
+      "date": "2026-10-29T06:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Derfor raser Ungarns statsminister mot NRK",
-      "date": "2026-10-28T15:00:00+01:00"
+      "title": "Drap i feeden: Slik gikk journalistene «undercover»",
+      "date": "2026-10-29T05:59:00+01:00"
     }
   },
   {
@@ -1715,8 +1715,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "– Du har en tiss i øret",
-      "date": "2026-10-22T06:00:00+02:00"
+      "title": "Emilies afternoon tea-musikal",
+      "date": "2026-10-29T06:00:00+01:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Elisabeth Ingebrigtsen: Gift med idretten",
-      "date": "2026-10-27T06:00:00+01:00"
+      "title": "Frida Homlung: Forelsket i en annen",
+      "date": "2026-10-29T06:00:00+01:00"
     }
   },
   {
