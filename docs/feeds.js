@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Har integreringen i Norge slått helt feil?",
-      "date": "2026-10-29T14:00:00+01:00"
+      "title": "Holder vi på å miste kontrollen over kraften vår - igjen?",
+      "date": "2026-10-29T22:00:00+01:00"
     }
   },
   {
