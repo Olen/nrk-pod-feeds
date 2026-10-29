@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Valget i Israel er ikke avklart",
-      "date": "2026-10-28T19:00:00+01:00"
+      "title": "Kritiserer barselomsorgen",
+      "date": "2026-10-29T19:00:00+01:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Danskene raser etter Støres Putin-telefon",
-      "date": "2026-10-27T16:56:00+01:00"
+      "title": "TikTok, KI og beredskap: Hvem skal få strømmen vår?",
+      "date": "2026-10-29T16:26:00+01:00"
     }
   },
   {
@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Simon Nitsche /  Silje Nordnes / Erik Solbakken",
-      "date": "2026-10-24T13:10:00+02:00"
+      "title": "5-årsplanen er i gang",
+      "date": "2026-10-29T15:45:00+01:00"
     }
   },
   {
