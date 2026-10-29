@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kåtskap i VM og gullballen-slakt",
-      "date": "2026-10-26T12:59:00+01:00"
+      "title": "Solbakken: Jobbtilbud, Tripic og tapene i høst.",
+      "date": "2026-10-29T13:51:00+01:00"
     }
   },
   {
@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Duell-spesial: Seks dueller",
-      "date": "2026-10-22T22:02:00+02:00"
+      "title": "Har integreringen i Norge slått helt feil?",
+      "date": "2026-10-29T14:00:00+01:00"
     }
   },
   {
@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jon Reichelt ",
-      "date": "2026-10-28T11:30:00+01:00"
+      "title": "Diaz",
+      "date": "2026-10-29T14:00:00+01:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "En forbanna optimist",
-      "date": "2026-10-28T14:00:00+01:00"
+      "title": "Trumps USA: Obamas comeback",
+      "date": "2026-10-29T13:10:00+01:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Herbert Nordrum gjør norske memes posh",
-      "date": "2026-10-28T11:30:00+01:00"
+      "title": "Vi er lei av KI-plakater!",
+      "date": "2026-10-29T10:00:00+01:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kva sa Putin, Støre?",
-      "date": "2026-10-28T08:00:00+01:00"
+      "title": "Er det for mange små kommuner i Norge?",
+      "date": "2026-10-29T08:00:00+01:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tegna sin egen porno ",
-      "date": "2026-10-28T06:00:00+01:00"
+      "title": "Daniel spruter vann på Anna",
+      "date": "2026-10-29T06:00:00+01:00"
     }
   },
   {
