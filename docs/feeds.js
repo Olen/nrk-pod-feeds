@@ -980,8 +980,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Echoes of The Lost - spillmusikk med Kork og Helene Bøksle: Field of the Dead",
-      "date": "2026-10-13T06:11:00+02:00"
+      "title": "Kork feirer Miles Davis: Little Church",
+      "date": "2026-10-30T19:11:00+01:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Markus intervjuer Desta Beeder",
-      "date": "2026-10-30T06:00:00+01:00"
+      "title": "Stem her på Norges beste pub",
+      "date": "2026-10-30T16:00:00+01:00"
     }
   },
   {
