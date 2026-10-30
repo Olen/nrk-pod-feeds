@@ -177,8 +177,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Maria Navarro Skaranger- Emily gjør så godt hun kan",
-      "date": "2026-10-23T06:00:00+02:00"
+      "title": "Kjartan Fløgstad-Vender tilbake til en oppvekst i Sauda",
+      "date": "2026-10-30T06:00:00+01:00"
     }
   },
   {
@@ -272,8 +272,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mens vi venter på Putin",
-      "date": "2026-10-23T06:00:00+02:00"
+      "title": "Vive la generell politisk misnøye!",
+      "date": "2026-10-30T06:00:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Minst 68 døde i togulykke i Spania",
-      "date": "2026-10-29T05:59:00+01:00"
+      "title": "Europas unge protesterer",
+      "date": "2026-10-30T05:59:00+01:00"
     }
   },
   {
@@ -1059,8 +1059,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Slik hacker du hjernen",
-      "date": "2026-10-28T05:00:00+01:00"
+      "title": "På hjertet: Monster-sprekk",
+      "date": "2026-10-30T05:00:00+01:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vy burde ansette foreldrene våre ",
-      "date": "2026-10-29T06:00:00+01:00"
+      "title": "Debatten: Skaper jo fremmedfrykt!",
+      "date": "2026-10-30T06:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Drap i feeden: Slik gikk journalistene «undercover»",
-      "date": "2026-10-29T05:59:00+01:00"
+      "title": "Transkamp i Kongressen: Slik ble hun historisk",
+      "date": "2026-10-30T05:59:00+01:00"
     }
   },
   {
@@ -1889,8 +1889,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Samisk språkuke",
-      "date": "2026-10-23T06:00:00+02:00"
+      "title": "Trøndersk vegetarpølse",
+      "date": "2026-10-30T06:00:00+01:00"
     }
   },
   {
@@ -2107,8 +2107,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bråktober: Milliardærenes mellomvalg",
-      "date": "2026-10-23T06:00:00+02:00"
+      "title": "Bråktober: Kulturkrigen",
+      "date": "2026-10-30T06:00:00+01:00"
     }
   },
   {
@@ -2231,8 +2231,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "USA: Kan Putin vinne valget?",
-      "date": "2026-10-23T06:00:00+02:00"
+      "title": "USA: Her avgjøres mellomvalget",
+      "date": "2026-10-30T06:00:00+01:00"
     }
   },
   {
