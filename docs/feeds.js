@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Døden spesial",
-      "date": "2026-10-30T06:00:00+01:00"
+      "title": "Forskningsfronten: Vampyrgrav funnet i Polen",
+      "date": "2026-10-30T22:00:00+01:00"
     }
   },
   {
@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kritiserer barselomsorgen",
-      "date": "2026-10-29T19:00:00+01:00"
+      "title": "Sju personer fengslet for fiskerijuks",
+      "date": "2026-10-30T19:00:00+01:00"
     }
   },
   {
