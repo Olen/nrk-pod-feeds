@@ -577,7 +577,7 @@
         "description": "Idealister, genier og maktgale gærninger; Alexandra Gjerpen vekker historiens største personer til live igjen.",
         "image": "https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqAysbXP4OOjvmFfCXLwIIGNg.jpg",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "hoera",
@@ -2004,10 +2004,12 @@
         "id": "vittig",
         "title": "De 10 siste fra Vittig",
         "name": "Vittig",
-        "description": "To tøysekopper byr på ukas vittigste saker. Med komiker Maria Stavang og hennes helt vanlige, dødelige bestevenn – Ingrid Mikkelsen. ",
+        "description": "To tøysekopper byr på ukas vittigste saker. Med komiker Maria Stavang og hennes helt vanlige, dødelige bestevenn – Ingrid Mikkelsen.",
         "image": "https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAP0gAgLgk8ioUDYQ9yK42Ag.jpg",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "westworld-podden",
