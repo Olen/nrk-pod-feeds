@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Finnes egentlig tyngdekraften?",
-      "date": "2026-10-28T06:00:00+01:00"
+      "title": "Tårnet: Døden spesial",
+      "date": "2026-10-30T06:00:00+01:00"
     }
   },
   {
@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Crush på stebror, VGS-valg og franske tilstander",
-      "date": "2026-10-27T06:00:00+01:00"
+      "title": "Utestenging, frieri og stein, saks, papir-VM",
+      "date": "2026-10-30T12:00:00+01:00"
     }
   },
   {
@@ -479,8 +479,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norskfaget, dårlige tirsdager - og Norge best i alt",
-      "date": "2026-10-23T08:00:00+02:00"
+      "title": "Shithouses, stygge bokhandler og Mbappé",
+      "date": "2026-10-30T08:00:00+01:00"
     }
   },
   {
@@ -657,7 +657,7 @@ const feeds = [
     "description": "Idealister, genier og maktgale gærninger; Alexandra Gjerpen vekker historiens største personer til live igjen.",
     "image": "https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqAysbXP4OOjvmFfCXLwIIGNg.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Edvard Grieg – Norges toneskaper",
       "date": "2026-09-30T06:00:00+02:00"
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi er lei av KI-plakater!",
-      "date": "2026-10-29T10:00:00+01:00"
+      "title": "Vi må etablere noen halloweenregler",
+      "date": "2026-10-30T10:00:00+01:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Er det for mange små kommuner i Norge?",
-      "date": "2026-10-29T08:00:00+01:00"
+      "title": "Norge - et ødelagt land? ",
+      "date": "2026-10-30T08:00:00+01:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Daniel spruter vann på Anna",
-      "date": "2026-10-29T06:00:00+01:00"
+      "title": "Markus intervjuer Desta Beeder",
+      "date": "2026-10-30T06:00:00+01:00"
     }
   },
   {
@@ -2284,14 +2284,12 @@ const feeds = [
     "id": "vittig",
     "title": "De 10 siste fra Vittig",
     "name": "Vittig",
-    "description": "To tøysekopper byr på ukas vittigste saker. Med komiker Maria Stavang og hennes helt vanlige, dødelige bestevenn – Ingrid Mikkelsen. ",
+    "description": "To tøysekopper byr på ukas vittigste saker. Med komiker Maria Stavang og hennes helt vanlige, dødelige bestevenn – Ingrid Mikkelsen.",
     "image": "https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAP0gAgLgk8ioUDYQ9yK42Ag.jpg",
     "season": null,
     "enabled": false,
-    "last_episode": {
-      "title": "På gjensyn, Gomper!",
-      "date": "2025-12-29T06:00:00+01:00"
-    }
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "westworld-podden",
