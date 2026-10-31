@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Vampyrgrav funnet i Polen",
-      "date": "2026-10-30T22:00:00+01:00"
+      "title": "Forskningsfronten: Ikke spis kompisen din!",
+      "date": "2026-10-31T06:00:00+01:00"
     }
   },
   {
@@ -1046,8 +1046,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Boktober: «Fluenes herre» med Oskar Westerlin: – En grotesk scene! (4:5)",
-      "date": "2026-10-22T06:05:00+02:00"
+      "title": "Boktober: «Fluenes herre» med Oskar Westerlin: —Jeg tok en Darth Vader (5:5)",
+      "date": "2026-10-31T06:05:00+01:00"
     }
   },
   {
@@ -1392,8 +1392,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nepo-Norge",
-      "date": "2026-10-24T06:00:00+02:00"
+      "title": "Idyllen sprekker",
+      "date": "2026-10-31T06:00:00+01:00"
     }
   },
   {
