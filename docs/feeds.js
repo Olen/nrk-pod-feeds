@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "5-årsplanen er i gang",
-      "date": "2026-10-29T15:45:00+01:00"
+      "title": "Arian Engebø / Jo Marstein / Cathrine Frost",
+      "date": "2026-10-31T13:01:00+01:00"
     }
   },
   {
@@ -2149,8 +2149,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Oj, oj, oj - en blå ballong!",
-      "date": "2026-10-24T14:00:00+02:00"
+      "title": "Korleis blei Halloween norsk?",
+      "date": "2026-10-31T14:30:00+01:00"
     }
   },
   {
