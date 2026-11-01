@@ -1863,8 +1863,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "2. Mari Boine «Mu Eadni»",
-      "date": "2026-10-25T06:01:00+01:00"
+      "title": "2. Susanne Sundfør «alyosha»",
+      "date": "2026-11-01T06:01:00+01:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Frida Homlung: Forelsket i en annen",
-      "date": "2026-10-29T06:00:00+01:00"
+      "title": "Panelet: Kansellering og BankID-porno",
+      "date": "2026-11-01T06:00:00+01:00"
     }
   },
   {
