@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Solbakken: Jobbtilbud, Tripic og tapene i høst.",
-      "date": "2026-10-29T13:51:00+01:00"
+      "title": "Koket etter seriefinalen",
+      "date": "2026-11-02T18:08:00+01:00"
     }
   },
   {
@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sju personer fengslet for fiskerijuks",
-      "date": "2026-10-30T19:00:00+01:00"
+      "title": "Færre helseforetak og større kommuner",
+      "date": "2026-11-02T19:00:00+01:00"
     }
   },
   {
@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Diaz",
-      "date": "2026-10-29T14:00:00+01:00"
+      "title": "Dora Thorhallsdottir",
+      "date": "2026-11-02T14:35:00+01:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps USA: Obamas comeback",
-      "date": "2026-10-29T13:10:00+01:00"
+      "title": "USA og arven fra Romerriket",
+      "date": "2026-11-02T13:15:00+01:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Stem her på Norges beste pub",
-      "date": "2026-10-30T16:00:00+01:00"
+      "title": "Vi får kjeft på andre språk ",
+      "date": "2026-11-02T06:00:00+01:00"
     }
   },
   {
