@@ -560,7 +560,7 @@
         "description": "Sterke historier fra norsk virkelighet. Fortalt av de som opplevde dem. Dokumentarer om hendelser som har gjort inntrykk.",
         "image": "https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwcVmADfwGq0tbeWeecSLORw.jpg",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "herreavdelingen",
