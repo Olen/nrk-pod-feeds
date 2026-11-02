@@ -69,8 +69,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Pappa gjør seg klar for apokalypsen",
-      "date": "2026-10-26T06:00:00+01:00"
+      "title": "Helt robot",
+      "date": "2026-11-02T06:00:00+01:00"
     }
   },
   {
@@ -636,7 +636,7 @@ const feeds = [
     "description": "Sterke historier fra norsk virkelighet. Fortalt av de som opplevde dem. Dokumentarer om hendelser som har gjort inntrykk.",
     "image": "https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwcVmADfwGq0tbeWeecSLORw.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Bueskytteren: Kniver i Hyttegata (2:2)",
       "date": "2026-10-03T06:02:00+02:00"
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Europas unge protesterer",
-      "date": "2026-10-30T05:59:00+01:00"
+      "title": "Dette må du vite om valget i USA",
+      "date": "2026-11-02T06:03:00+01:00"
     }
   },
   {
@@ -1059,8 +1059,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "På hjertet: Monster-sprekk",
-      "date": "2026-10-30T05:00:00+01:00"
+      "title": "Verity: Er filmen bedre enn boka?",
+      "date": "2026-11-02T05:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Transkamp i Kongressen: Slik ble hun historisk",
-      "date": "2026-10-30T05:59:00+01:00"
+      "title": "MAGAs far: Oppskriften som endret USA",
+      "date": "2026-11-02T05:59:00+01:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi må etablere noen halloweenregler",
-      "date": "2026-10-30T10:00:00+01:00"
+      "title": "Arin er på detox",
+      "date": "2026-11-02T10:00:00+01:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norge - et ødelagt land? ",
-      "date": "2026-10-30T08:00:00+01:00"
+      "title": "SV krever kraftige skatteøkninger",
+      "date": "2026-11-02T08:00:00+01:00"
     }
   },
   {
