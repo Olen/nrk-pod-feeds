@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Færre helseforetak og større kommuner",
-      "date": "2026-11-02T19:00:00+01:00"
+      "title": "Valgdag i USA",
+      "date": "2026-11-03T19:00:00+01:00"
     }
   },
   {
@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Holder vi på å miste kontrollen over kraften vår - igjen?",
-      "date": "2026-10-29T22:00:00+01:00"
+      "title": "Vil Maga fortsette uten Trump?",
+      "date": "2026-11-03T22:10:00+01:00"
     }
   },
   {
