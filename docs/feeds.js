@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Utestenging, frieri og stein, saks, papir-VM",
-      "date": "2026-10-30T12:00:00+01:00"
+      "title": "Julefinger, keratinbehandling og stein i skoen",
+      "date": "2026-11-03T06:00:00+01:00"
     }
   },
   {
@@ -164,8 +164,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Emil er en heks",
-      "date": "2026-10-27T06:00:00+01:00"
+      "title": "Maskiner som overtenker",
+      "date": "2026-11-03T06:00:00+01:00"
     }
   },
   {
@@ -778,8 +778,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hivsikdejvadime",
-      "date": "2026-10-27T06:00:00+01:00"
+      "title": "Sieradusá julevsáme ja ietjáj gaskan",
+      "date": "2026-11-03T06:00:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dette må du vite om valget i USA",
-      "date": "2026-11-02T06:03:00+01:00"
+      "title": "Kritiske til helsereform-forslag",
+      "date": "2026-11-03T05:59:00+01:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Allehelgensdag - Ola Bremnes",
-      "date": "2026-10-28T06:00:00+01:00"
+      "title": "Stillasfilosofi - med Terje Torkildsen",
+      "date": "2026-11-03T06:00:00+01:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Debatten: Skaper jo fremmedfrykt!",
-      "date": "2026-10-30T06:00:00+01:00"
+      "title": "– Jeg tror jeg vil i fengsel",
+      "date": "2026-11-03T06:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "MAGAs far: Oppskriften som endret USA",
-      "date": "2026-11-02T05:59:00+01:00"
+      "title": "Resident Evil: Slik ble Hollywood hekta på spill",
+      "date": "2026-11-03T05:59:00+01:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Arin er på detox",
-      "date": "2026-11-02T10:00:00+01:00"
+      "title": "Annika Momrak har møtt en fremmedkriger",
+      "date": "2026-11-03T10:00:00+01:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "SV krever kraftige skatteøkninger",
-      "date": "2026-11-02T08:00:00+01:00"
+      "title": "Avgiftskutt eller ingenting!",
+      "date": "2026-11-03T08:00:00+01:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi får kjeft på andre språk ",
-      "date": "2026-11-02T06:00:00+01:00"
+      "title": "Stem på Norges beste pub her!",
+      "date": "2026-11-03T06:00:00+01:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Kansellering og BankID-porno",
-      "date": "2026-11-01T06:00:00+01:00"
+      "title": "Silya Nymoen: Fikk tilbake troen",
+      "date": "2026-11-03T06:00:00+01:00"
     }
   },
   {
