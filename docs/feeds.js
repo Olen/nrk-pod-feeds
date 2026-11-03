@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dora Thorhallsdottir",
-      "date": "2026-11-02T14:35:00+01:00"
+      "title": "Gard Steiro",
+      "date": "2026-11-03T14:20:00+01:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "TikTok, KI og beredskap: Hvem skal få strømmen vår?",
-      "date": "2026-10-29T16:26:00+01:00"
+      "title": "Donald Trump: Korrupt pengemaskin eller president?",
+      "date": "2026-11-03T17:16:00+01:00"
     }
   },
   {
