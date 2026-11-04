@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kritiske til helsereform-forslag",
-      "date": "2026-11-03T05:59:00+01:00"
+      "title": "Demokratene har vunnet Senatet",
+      "date": "2026-11-04T06:03:00+01:00"
     }
   },
   {
@@ -967,8 +967,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Elizabeth Holmes: Blodig svindel",
-      "date": "2026-10-29T06:00:00+01:00"
+      "title": "Halloween-drapet: Flukten",
+      "date": "2026-11-04T06:00:00+01:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Stillasfilosofi - med Terje Torkildsen",
-      "date": "2026-11-03T06:00:00+01:00"
+      "title": "Tradwives - med Gunn Marit Nisja",
+      "date": "2026-11-04T06:00:00+01:00"
     }
   },
   {
@@ -1059,8 +1059,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Verity: Er filmen bedre enn boka?",
-      "date": "2026-11-02T05:00:00+01:00"
+      "title": "Fertilitet: Når er det for sent? ",
+      "date": "2026-11-04T05:00:00+01:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "– Jeg tror jeg vil i fengsel",
-      "date": "2026-11-03T06:00:00+01:00"
+      "title": "Nordens Paris - noe å hige etter?",
+      "date": "2026-11-04T06:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Resident Evil: Slik ble Hollywood hekta på spill",
-      "date": "2026-11-03T05:59:00+01:00"
+      "title": "Isabel Raad: Slår influenser-imperiet sprekker?",
+      "date": "2026-11-04T05:59:00+01:00"
     }
   },
   {
@@ -1876,8 +1876,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Gullballen, Hitler-logo og Mia naken på buss",
-      "date": "2026-10-28T06:00:00+01:00"
+      "title": "– Du rører ikke capsen!",
+      "date": "2026-11-04T06:00:00+01:00"
     }
   },
   {
@@ -2218,8 +2218,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hjelp, mister jeg håret?",
-      "date": "2026-10-28T06:00:00+01:00"
+      "title": "Prosjektilspy i oppgangen",
+      "date": "2026-11-04T06:00:00+01:00"
     }
   },
   {
