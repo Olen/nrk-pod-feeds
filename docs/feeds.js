@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Koket etter seriefinalen",
-      "date": "2026-11-02T18:08:00+01:00"
+      "title": "Dette syns vi om Norges tropp",
+      "date": "2026-11-04T17:30:00+01:00"
     }
   },
   {
@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Valgdag i USA",
-      "date": "2026-11-03T19:00:00+01:00"
+      "title": "Blå bølge over USA",
+      "date": "2026-11-04T19:00:00+01:00"
     }
   },
   {
@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Arian Engebø / Jo Marstein / Cathrine Frost",
-      "date": "2026-10-31T13:01:00+01:00"
+      "title": "Foreldre er (bare) mennesker?",
+      "date": "2026-11-04T16:05:00+01:00"
     }
   },
   {
