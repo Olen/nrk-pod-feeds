@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Gard Steiro",
-      "date": "2026-11-03T14:20:00+01:00"
+      "title": "Per Christian Ellefsen",
+      "date": "2026-11-04T14:00:00+01:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "USA og arven fra Romerriket",
-      "date": "2026-11-02T13:15:00+01:00"
+      "title": "Når folket reiser seg for demokratiet",
+      "date": "2026-11-04T14:00:00+01:00"
     }
   },
   {
@@ -458,8 +458,8 @@ const feeds = [
     "enabled": true,
     "ignore": true,
     "last_episode": {
-      "title": "«Affeksjonsverdi»: – Det kiler på de rette stedene (4:4)",
-      "date": "2026-03-13T06:00:00+01:00"
+      "title": "Takk for alt!",
+      "date": "2026-11-04T15:00:00+01:00"
     }
   },
   {
@@ -823,8 +823,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Legekontor",
-      "date": "2026-10-26T06:00:00+01:00"
+      "title": "Pistasjnøtt",
+      "date": "2026-11-02T06:00:00+01:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Annika Momrak har møtt en fremmedkriger",
-      "date": "2026-11-03T10:00:00+01:00"
+      "title": "Man skal ikke synge med på konsert",
+      "date": "2026-11-04T10:00:00+01:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Avgiftskutt eller ingenting!",
-      "date": "2026-11-03T08:00:00+01:00"
+      "title": "Folkeavstemning om Trump",
+      "date": "2026-11-04T08:00:00+01:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Stem på Norges beste pub her!",
-      "date": "2026-11-03T06:00:00+01:00"
+      "title": "Finn Glede debriefer valget",
+      "date": "2026-11-04T06:00:00+01:00"
     }
   },
   {

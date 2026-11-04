@@ -2,18 +2,27 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>De 10 siste fra Filmpolitiets podkast </title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
+    <link>https://olen.github.io/nrk-pod-feeds</link>
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Filmpolitiets podkast . Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/filmpolitiet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 13 Mar 2026 06:04:42 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2026 14:28:41 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2026 15:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/N7qd3pQrkRXc7WkHxVC3hQOAar6BX8rott1ydSAu9uNg.jpg"/>
+    <itunes:image href="https://gfx.nrk.no/zsc9T95MW0C8PXLzZ5wEwAaWveum9n42UivuRALUOxyA.jpg"/>
     <item>
-      <title>«Affeksjonsverdi»: – Det kiler på de rette stedene (4:4)</title>
+      <title>Takk for alt!</title>
+      <description><![CDATA[Sigurd og Marte sier tusen takk for følget, med en farvel-episode for Filmpolitiets podkast.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/f6a5170e-f3d3-442b-9d9e-69e2f3413280_83d89cce-2625-4a15-9e60-7aa4b0c58834_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/f6a5170e-f3d3-442b-9d9e-69e2f3413280_83d89cce-2625-4a15-9e60-7aa4b0c58834_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:24</itunes:duration>
+      <pubDate>Wed, 04 Nov 2026 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SL7YhKmIKFcZHX3n3kPkzwgxhNSc8IibJHuLPNAkDGag.jpg"/>
+    </item>
+    <item>
+      <title>Joachim Trier-spesial med Martha Leivestad: «Affeksjonsverdi»: – Det kiler på de rette stedene (4:4)</title>
       <description><![CDATA[Martha griner, podden setter rekord og Sigurd ser rom og paralleller.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/12b1bbf7-cc76-4474-b1bb-f7cc76147437_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/12b1bbf7-cc76-4474-b1bb-f7cc76147437_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -22,7 +31,7 @@
       <itunes:image href="https://gfx.nrk.no/rw1OEJDvxFt-oWPvmIRmJA0KYaAh-KwjaK5J634iTUWQ.jpg"/>
     </item>
     <item>
-      <title>«Verdens verste menneske»: – Nå mener jeg ikke å runke denne filmen (3:4)</title>
+      <title>Joachim Trier-spesial med Martha Leivestad: «Verdens verste menneske»: – Nå mener jeg ikke å runke denne filmen (3:4)</title>
       <description><![CDATA[Martha blir rystet, Sigurd finner «Mot i brøstet»-likhet og Ingvill ber om flere lubne damer.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/69df2e1c-690a-4eb9-9f2e-1c690aeeb9a1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/69df2e1c-690a-4eb9-9f2e-1c690aeeb9a1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -31,7 +40,7 @@
       <itunes:image href="https://gfx.nrk.no/efodUf1bJIhEvIjb2rwWNAsuzgWMAMAazZUVKTsYj4hg.jpg"/>
     </item>
     <item>
-      <title>«Oslo, 31. august»: – 90 minutter med filmmagi (2:4)</title>
+      <title>Joachim Trier-spesial med Martha Leivestad: «Oslo, 31. august»: – 90 minutter med filmmagi (2:4)</title>
       <description><![CDATA[Martha klikker på kjedelige meninger, Sigurd har håp, mens Ingvill er både rørt og sint.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/cc84c73f-e0c4-4dc9-84c7-3fe0c43dc98a_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/cc84c73f-e0c4-4dc9-84c7-3fe0c43dc98a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -40,7 +49,7 @@
       <itunes:image href="https://gfx.nrk.no/3EFsfNfcGZixwZm12HKqxA5ejjl5Kp1c0nXPrEzbD2Bw.jpg"/>
     </item>
     <item>
-      <title>«Reprise»: – Du er han som puler på dass! (1:4)</title>
+      <title>Joachim Trier-spesial med Martha Leivestad: «Reprise»: – Du er han som puler på dass! (1:4)</title>
       <description><![CDATA[Martha Leivestad finner ut hvorfor «Reprise» heter «Reprise», Ingvill blir sinna og Sigurd får høre hvem han er.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/d855b4f5-a4a8-4b93-95b4-f5a4a8fb9371_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/d855b4f5-a4a8-4b93-95b4-f5a4a8fb9371_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -49,7 +58,7 @@
       <itunes:image href="https://gfx.nrk.no/hC9-1oP2iwwq4ZmE6WW_7w7LRfQrJzwki_c_Q00NUYmw.jpg"/>
     </item>
     <item>
-      <title>KOMMER: – Skal høvle over Joachim Trier</title>
+      <title>Joachim Trier-spesial med Martha Leivestad: KOMMER: – Skal høvle over Joachim Trier</title>
       <description><![CDATA[Filmpolitiets podkast er på vei inn i Joachim Trier Spring. Sigurd og Ingvill har fått med  den filmgale komikeren Martha Leivestad til å se fire filmer. De inviterer alle lyttere til å bli med på Trier-titting i oppkjøring til Oscar.
 
 Titteoppskrift:
@@ -98,15 +107,6 @@ Se «Affeksjonsverdi»: Hør episode 4]]></description>
       <itunes:duration>01:12</itunes:duration>
       <pubDate>Sun, 09 Nov 2025 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/s5nJGZWW0k4mHRE7yUiyMQ_6ni_UMrQf0NfEq4vueWNA.jpg"/>
-    </item>
-    <item>
-      <title>Tips til seriesommeren!</title>
-      <description><![CDATA[Filmpolitiets podkast tar sommerferie, men først får du noen tips til hvilke serier du kan kose deg med, og hvilke du kan droppe i sommer!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/c1142c9e-a407-4409-9e33-ca752a21ad33_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/c1142c9e-a407-4409-9e33-ca752a21ad33_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:37</itunes:duration>
-      <pubDate>Thu, 03 Jul 2025 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zL7-pryKbMxNo5uYte_NfwKTW6PStRVql6rmgZBApSwg.jpg"/>
     </item>
   </channel>
 </rss>
