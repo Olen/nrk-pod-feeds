@@ -293,8 +293,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jeg har blitt «pick me»",
-      "date": "2026-10-29T06:00:00+01:00"
+      "title": "Rock din lettkledde kropp",
+      "date": "2026-11-05T06:00:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Demokratene har vunnet Senatet",
-      "date": "2026-11-04T06:03:00+01:00"
+      "title": "Foxtrot har blitt mer aktive i Norge",
+      "date": "2026-11-05T05:59:00+01:00"
     }
   },
   {
@@ -912,7 +912,7 @@ const feeds = [
     "description": "Pål Plassen utforskar trua, livssynet og verdiane vi navigerer etter i samfunnet.",
     "image": "https://gfx.nrk.no/oRq5i_gA9ar2PEwFR5tG1Q8bhlezjUrmCu1qGi1vMgSw.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Åndelighet på Granka",
       "date": "2026-10-06T06:03:00+02:00"
@@ -1072,8 +1072,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Urinal ulydighet",
-      "date": "2026-10-29T06:00:00+01:00"
+      "title": "Rave for eldre",
+      "date": "2026-11-05T06:00:00+01:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nordens Paris - noe å hige etter?",
-      "date": "2026-11-04T06:00:00+01:00"
+      "title": "Don´t fuck with cats",
+      "date": "2026-11-05T06:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Isabel Raad: Slår influenser-imperiet sprekker?",
-      "date": "2026-11-04T05:59:00+01:00"
+      "title": "Maxxing-skandalen: Inspirert av to helsearbeidere?",
+      "date": "2026-11-05T05:59:00+01:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Man skal ikke synge med på konsert",
-      "date": "2026-11-04T10:00:00+01:00"
+      "title": "Aslak Maurstads nye catchphrase",
+      "date": "2026-11-05T10:00:00+01:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Folkeavstemning om Trump",
-      "date": "2026-11-04T08:00:00+01:00"
+      "title": "Mer i lomma til folk flest",
+      "date": "2026-11-05T08:00:00+01:00"
     }
   },
   {
@@ -1715,8 +1715,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Emilies afternoon tea-musikal",
-      "date": "2026-10-29T06:00:00+01:00"
+      "title": "– Hører du gekkoen?",
+      "date": "2026-11-05T06:00:00+01:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Silya Nymoen: Fikk tilbake troen",
-      "date": "2026-11-03T06:00:00+01:00"
+      "title": "Adrian Sellevoll: Dårlig selvtillit",
+      "date": "2026-11-05T06:00:00+01:00"
     }
   },
   {
@@ -2260,8 +2260,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Der tanker møtes: En ny Trump kan komme ",
-      "date": "2026-10-28T10:00:00+01:00"
+      "title": "Putin - et førmoderne menneske",
+      "date": "2026-11-05T11:00:00+01:00"
     }
   },
   {
