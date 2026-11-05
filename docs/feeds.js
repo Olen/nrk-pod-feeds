@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Blå bølge over USA",
-      "date": "2026-11-04T19:00:00+01:00"
+      "title": "Erna Solbergs nye bok:",
+      "date": "2026-11-05T19:00:00+01:00"
     }
   },
   {
@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Per Christian Ellefsen",
-      "date": "2026-11-04T14:00:00+01:00"
+      "title": "Birgitte Lange",
+      "date": "2026-11-05T12:05:00+01:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Når folket reiser seg for demokratiet",
-      "date": "2026-11-04T14:00:00+01:00"
+      "title": "Trumps USA: Presidentens skjebne",
+      "date": "2026-11-05T13:30:00+01:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Donald Trump: Korrupt pengemaskin eller president?",
-      "date": "2026-11-03T17:16:00+01:00"
+      "title": "JD Vance med Trump-oppgjør: Hvem får skylda?",
+      "date": "2026-11-05T17:23:00+01:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Finn Glede debriefer valget",
-      "date": "2026-11-04T06:00:00+01:00"
+      "title": "Hvem er best i å snakke simsk",
+      "date": "2026-11-05T06:00:00+01:00"
     }
   },
   {
