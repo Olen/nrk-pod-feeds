@@ -177,8 +177,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kjartan Fløgstad-Vender tilbake til en oppvekst i Sauda",
-      "date": "2026-10-30T06:00:00+01:00"
+      "title": "Herbjørg Wassmo- Det handler først og fremst om overlevelse..",
+      "date": "2026-11-06T06:00:00+01:00"
     }
   },
   {
@@ -272,8 +272,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vive la generell politisk misnøye!",
-      "date": "2026-10-30T06:00:00+01:00"
+      "title": "Ingen elsker Rasmus",
+      "date": "2026-11-06T06:00:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Foxtrot har blitt mer aktive i Norge",
-      "date": "2026-11-05T05:59:00+01:00"
+      "title": "Snart kan det bli 16-årsgrense for elsparkesykkel",
+      "date": "2026-11-06T05:59:00+01:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Don´t fuck with cats",
-      "date": "2026-11-05T06:00:00+01:00"
+      "title": "Vi trenger ikke å slåss!",
+      "date": "2026-11-06T06:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Maxxing-skandalen: Inspirert av to helsearbeidere?",
-      "date": "2026-11-05T05:59:00+01:00"
+      "title": "Fanget av «764»: Fra internettsekt til terrorskole",
+      "date": "2026-11-06T05:59:00+01:00"
     }
   },
   {
@@ -1889,8 +1889,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trøndersk vegetarpølse",
-      "date": "2026-10-30T06:00:00+01:00"
+      "title": "Politisk tåkeprat",
+      "date": "2026-11-06T06:00:00+01:00"
     }
   },
   {
@@ -2107,8 +2107,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bråktober: Kulturkrigen",
-      "date": "2026-10-30T06:00:00+01:00"
+      "title": "Bråktober: MAGA-plask",
+      "date": "2026-11-06T06:00:00+01:00"
     }
   },
   {
