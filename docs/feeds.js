@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vil Maga fortsette uten Trump?",
-      "date": "2026-11-03T22:10:00+01:00"
+      "title": "Er det blitt for lett å få ADHD?",
+      "date": "2026-11-05T22:10:00+01:00"
     }
   },
   {
