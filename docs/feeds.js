@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Ikke spis kompisen din!",
-      "date": "2026-10-31T06:00:00+01:00"
+      "title": "Tårnet: Kan straffespark drepe?",
+      "date": "2026-11-06T06:00:00+01:00"
     }
   },
   {
@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Julefinger, keratinbehandling og stein i skoen",
-      "date": "2026-11-03T06:00:00+01:00"
+      "title": "Boktober, eksen har fått dame og julepynt",
+      "date": "2026-11-06T12:00:00+01:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Aslak Maurstads nye catchphrase",
-      "date": "2026-11-05T10:00:00+01:00"
+      "title": "Ernas strenge side",
+      "date": "2026-11-06T10:00:00+01:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mer i lomma til folk flest",
-      "date": "2026-11-05T08:00:00+01:00"
+      "title": "Simen Velle hevder demonstrasjoner ikke har noen politisk effekt",
+      "date": "2026-11-06T08:00:00+01:00"
     }
   },
   {
@@ -1594,8 +1594,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dop fra himmelen: Med buksa nede (2:2)",
-      "date": "2026-10-17T06:01:00+02:00"
+      "title": "Kommer: Rottefangeren",
+      "date": "2026-11-06T12:00:00+01:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvem er best i å snakke simsk",
-      "date": "2026-11-05T06:00:00+01:00"
+      "title": "Anna intervjuer Ole Soo ",
+      "date": "2026-11-06T06:00:00+01:00"
     }
   },
   {
@@ -2231,8 +2231,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "USA: Her avgjøres mellomvalget",
-      "date": "2026-10-30T06:00:00+01:00"
+      "title": "USA: En seier for demokratiet",
+      "date": "2026-11-06T06:00:00+01:00"
     }
   },
   {
@@ -2260,8 +2260,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Putin - et førmoderne menneske",
-      "date": "2026-11-05T11:00:00+01:00"
+      "title": " Er vi mennesker eller koder?",
+      "date": "2026-11-06T13:00:00+01:00"
     }
   },
   {

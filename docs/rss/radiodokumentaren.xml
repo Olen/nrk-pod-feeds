@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 17 Oct 2026 06:54:12 +0000</lastBuildDate>
-    <pubDate>Sat, 17 Oct 2026 06:01:00 +0200</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 14:59:20 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 12:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
+    <item>
+      <title>Kommer: Rottefangeren</title>
+      <description><![CDATA[Under andre verdenskrig får Edvard Tallaksen i oppdrag å drepe nordmenn som samarbeider med nazistene. De kaller det «å jakte rotter». ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/8deaf474-3004-4f15-9c98-460edc8beb90_30bc572a-73b9-46de-bda0-e8a84b7e6467_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/8deaf474-3004-4f15-9c98-460edc8beb90_30bc572a-73b9-46de-bda0-e8a84b7e6467_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:28</itunes:duration>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/urILPw1hcre0CZDNvxa9lQLcQYBCxJzVzkSxQN6WV8wA.jpg"/>
+    </item>
     <item>
       <title>Dop fra himmelen: Med buksa nede (2:2)</title>
       <description><![CDATA[Det virker som om superspaner Eirik Jensen har full kontroll på alt Nordlandsmafiaen foretar seg. ]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/d85a01c8-c5a1-44c0-9a01-c8c5a184c06d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:23</itunes:duration>
       <pubDate>Sat, 08 Aug 2026 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/InIMnPNV-8UffH4a2PBakg1uLTe74cxYo4LfxUMMPDxA.jpg"/>
-    </item>
-    <item>
-      <title>Glimtkoden: Bønda fra nord (2:3)</title>
-      <description><![CDATA[Glimt dominerer i Norge, men settes på større prøver når de møter på europeiske tjuvtriks.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/c9d128f0-a7ac-493a-9128-f0a7acd93a59_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/c9d128f0-a7ac-493a-9128-f0a7acd93a59_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:34</itunes:duration>
-      <pubDate>Sat, 08 Aug 2026 06:01:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/InIMnPNV-8UffH4a2PBakg1uLTe74cxYo4LfxUMMPDxA.jpg"/>
     </item>
   </channel>

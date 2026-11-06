@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 31 Oct 2026 09:33:47 +0000</lastBuildDate>
-    <pubDate>Sat, 31 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 14:58:58 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Tårnet: Kan straffespark drepe?</title>
+      <description><![CDATA[Det vil i så fall gi uttrykket "dødball" en helt ny betydning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/15830a5b-73d1-416c-a9c8-153f4fd5e3fa_59e8d176-8019-4da2-abb6-af6354733e8c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/15830a5b-73d1-416c-a9c8-153f4fd5e3fa_59e8d176-8019-4da2-abb6-af6354733e8c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:32</itunes:duration>
+      <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QgG9FS44dyZcl4stJqM64QRr8MT6UW61Zh0t-M97JJSg.jpg"/>
+    </item>
     <item>
       <title>Forskningsfronten: Ikke spis kompisen din!</title>
       <description><![CDATA[Kannibalisme er en dårlig idé, har forskere funnet ut. Dessuten, DNA'et ditt er fullt av feil, og glasstriks er endelig avslørt]]></description>
@@ -97,15 +106,6 @@ Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns al
       <itunes:duration>57:30</itunes:duration>
       <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/TNVVmByORxGCwOHVQ5rHQA_-IZWHCAUhF_Ewp0S743KQ.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten: Du får bedre helse av å lese</title>
-      <description><![CDATA[Forskere ser at hjernen fysisk styrkes. Dessuten, menneskeceller opereres inn i mus. Og KI har tråkket over en grense]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/b5474e37-ce04-4e64-874e-37ce041e643c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b5474e37-ce04-4e64-874e-37ce041e643c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:35</itunes:duration>
-      <pubDate>Mon, 12 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
     </item>
   </channel>
 </rss>
