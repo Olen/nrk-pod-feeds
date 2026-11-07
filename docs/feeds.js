@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Foreldre er (bare) mennesker?",
-      "date": "2026-11-04T16:05:00+01:00"
+      "title": "Sigrid Sollund / Henrik Farley / Helle Ryg Eia",
+      "date": "2026-11-07T15:03:00+01:00"
     }
   },
   {
@@ -2149,8 +2149,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Korleis blei Halloween norsk?",
-      "date": "2026-10-31T14:30:00+01:00"
+      "title": "Når spøken dras for langt",
+      "date": "2026-11-07T14:00:00+01:00"
     }
   },
   {
