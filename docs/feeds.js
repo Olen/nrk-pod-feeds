@@ -1392,8 +1392,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Idyllen sprekker",
-      "date": "2026-10-31T06:00:00+01:00"
+      "title": "Absolut svensk",
+      "date": "2026-11-07T06:00:00+01:00"
     }
   },
   {
@@ -1594,8 +1594,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kommer: Rottefangeren",
-      "date": "2026-11-06T12:00:00+01:00"
+      "title": "Rottefangeren: Dobbeltspill (3:3) ",
+      "date": "2026-11-07T06:02:00+01:00"
     }
   },
   {
@@ -2128,8 +2128,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Macías(3:3)",
-      "date": "2026-10-10T06:02:00+02:00"
+      "title": "Tyrann - viktig beskjed!",
+      "date": "2026-11-07T06:00:00+01:00"
     }
   },
   {
