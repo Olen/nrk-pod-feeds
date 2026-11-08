@@ -1863,8 +1863,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "2. Susanne Sundfør «alyosha»",
-      "date": "2026-11-01T06:01:00+01:00"
+      "title": "2. Arif Murakami «Alene»",
+      "date": "2026-11-08T06:01:00+01:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Adrian Sellevoll: Dårlig selvtillit",
-      "date": "2026-11-05T06:00:00+01:00"
+      "title": "Panelet: Herpes og 40-årsdag",
+      "date": "2026-11-08T06:00:00+01:00"
     }
   },
   {
