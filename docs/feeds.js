@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dette syns vi om Norges tropp",
-      "date": "2026-11-04T17:30:00+01:00"
+      "title": "Endelig landslagsfotball igjen!",
+      "date": "2026-11-09T12:33:00+01:00"
     }
   },
   {
@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Uro på verdens børser",
-      "date": "2026-11-06T19:00:00+01:00"
+      "title": "Stanser ny kraft til datasentre",
+      "date": "2026-11-09T19:00:00+01:00"
     }
   },
   {
@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Birgitte Lange",
-      "date": "2026-11-05T12:05:00+01:00"
+      "title": "Knut Høibraaten",
+      "date": "2026-11-09T14:30:00+01:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps USA: Presidentens skjebne",
-      "date": "2026-11-05T13:30:00+01:00"
+      "title": "Verden er bedre enn du tror",
+      "date": "2026-11-09T14:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sviktet Norge: Slik vervet nazistene massemorderen",
-      "date": "2026-11-09T05:59:00+01:00"
+      "title": "Trumps nye sjef: Derfor er Miller kontroversiell",
+      "date": "2026-11-09T16:00:00+01:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ernas strenge side",
-      "date": "2026-11-06T10:00:00+01:00"
+      "title": "Peder Elias mener du kan hysje på konsert",
+      "date": "2026-11-09T10:00:00+01:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Anna intervjuer Ole Soo ",
-      "date": "2026-11-06T06:00:00+01:00"
+      "title": "Kva er det motsette av nynorsk?",
+      "date": "2026-11-09T06:00:00+01:00"
     }
   },
   {
