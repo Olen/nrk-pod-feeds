@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 06 Nov 2026 14:58:58 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:55:16 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten: Demokrati er en umulighet</title>
+      <description><![CDATA[Formelen går ikke opp. Dessuten, Hitlers DNA er analysert, og Van Goghs "Stjernenatt"
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/0258e404-5a58-424c-861d-fc0cbf6f0905_f9cc13c5-cce9-4f42-8577-ae7106c15fc3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/0258e404-5a58-424c-861d-fc0cbf6f0905_f9cc13c5-cce9-4f42-8577-ae7106c15fc3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:17</itunes:duration>
+      <pubDate>Mon, 09 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
+    </item>
     <item>
       <title>Tårnet: Kan straffespark drepe?</title>
       <description><![CDATA[Det vil i så fall gi uttrykket "dødball" en helt ny betydning.]]></description>
@@ -96,16 +106,6 @@ Går du rundt og lurer på merkelige saker? Få svar fra Abels Tårns eksperter!
       <itunes:duration>28:46</itunes:duration>
       <pubDate>Mon, 19 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
-    </item>
-    <item>
-      <title>Tårnet: Har maneter det gøy?</title>
-      <description><![CDATA[Mange mener humor krever ryggrad.
-Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns allvitende ekspertise!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/4115f770-e95c-45d4-95f7-70e95c55d42b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4115f770-e95c-45d4-95f7-70e95c55d42b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:30</itunes:duration>
-      <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TNVVmByORxGCwOHVQ5rHQA_-IZWHCAUhF_Ewp0S743KQ.jpg"/>
     </item>
   </channel>
 </rss>

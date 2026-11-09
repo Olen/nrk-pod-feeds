@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Kan straffespark drepe?",
-      "date": "2026-11-06T06:00:00+01:00"
+      "title": "Forskningsfronten: Demokrati er en umulighet",
+      "date": "2026-11-09T06:00:00+01:00"
     }
   },
   {
@@ -69,8 +69,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Helt robot",
-      "date": "2026-11-02T06:00:00+01:00"
+      "title": "Må døden på død og liv være lik?",
+      "date": "2026-11-09T06:00:00+01:00"
     }
   },
   {
@@ -823,8 +823,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Pistasjnøtt",
-      "date": "2026-11-02T06:00:00+01:00"
+      "title": "Vott",
+      "date": "2026-11-09T06:00:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Snart kan det bli 16-årsgrense for elsparkesykkel",
-      "date": "2026-11-06T05:59:00+01:00"
+      "title": "Hedda og Solveig ble skutt mot under masseskyting i Krakow ",
+      "date": "2026-11-09T05:59:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fanget av «764»: Fra internettsekt til terrorskole",
-      "date": "2026-11-06T05:59:00+01:00"
+      "title": "Sviktet Norge: Slik vervet nazistene massemorderen",
+      "date": "2026-11-09T05:59:00+01:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Simen Velle hevder demonstrasjoner ikke har noen politisk effekt",
-      "date": "2026-11-06T08:00:00+01:00"
+      "title": "Et karakterdrap fra Erna Solberg?",
+      "date": "2026-11-09T08:00:00+01:00"
     }
   },
   {
@@ -2107,8 +2107,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bråktober: MAGA-plask",
-      "date": "2026-11-06T06:00:00+01:00"
+      "title": "En amerikansk overgrepshistorie",
+      "date": "2026-11-09T06:00:00+01:00"
     }
   },
   {
