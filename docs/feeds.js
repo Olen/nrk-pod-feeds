@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Boktober, eksen har fått dame og julepynt",
-      "date": "2026-11-06T12:00:00+01:00"
+      "title": "Stalking, innestemme og mensen i svømmehallen",
+      "date": "2026-11-10T06:00:00+01:00"
     }
   },
   {
@@ -164,8 +164,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Maskiner som overtenker",
-      "date": "2026-11-03T06:00:00+01:00"
+      "title": "Meditasjonspanikk ",
+      "date": "2026-11-10T06:00:00+01:00"
     }
   },
   {
@@ -778,8 +778,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sieradusá julevsáme ja ietjáj gaskan",
-      "date": "2026-11-03T06:00:00+01:00"
+      "title": "Hazara, låjes sábme ja sjæjkka",
+      "date": "2026-11-10T06:00:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hedda og Solveig ble skutt mot under masseskyting i Krakow ",
-      "date": "2026-11-09T05:59:00+01:00"
+      "title": "Rødt sier nei til «Sexy sosialister»",
+      "date": "2026-11-10T06:01:00+01:00"
     }
   },
   {
@@ -967,8 +967,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Halloween-drapet: Flukten",
-      "date": "2026-11-04T06:00:00+01:00"
+      "title": "Høiby (23): En mann på døra ",
+      "date": "2026-11-10T06:00:00+01:00"
     }
   },
   {
@@ -980,8 +980,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kork feirer Miles Davis: Little Church",
-      "date": "2026-10-30T19:11:00+01:00"
+      "title": "Jul med Kork: Den sanne jul",
+      "date": "2026-11-10T10:10:00+01:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tradwives - med Gunn Marit Nisja",
-      "date": "2026-11-04T06:00:00+01:00"
+      "title": "Godhet - med Lena Lindahl",
+      "date": "2026-11-10T06:00:00+01:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi trenger ikke å slåss!",
-      "date": "2026-11-06T06:00:00+01:00"
+      "title": "Mus i hus",
+      "date": "2026-11-10T06:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps nye sjef: Derfor er Miller kontroversiell",
-      "date": "2026-11-09T16:00:00+01:00"
+      "title": "Flybase-mysteriet: Utenlandsk angrep på England?",
+      "date": "2026-11-10T05:59:00+01:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Et karakterdrap fra Erna Solberg?",
-      "date": "2026-11-09T08:00:00+01:00"
+      "title": "Vil Putin ha fred?",
+      "date": "2026-11-10T06:00:00+01:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Herpes og 40-årsdag",
-      "date": "2026-11-08T06:00:00+01:00"
+      "title": "Ragnhild Margrethe: Å kjempe for kjærligheten",
+      "date": "2026-11-10T06:00:00+01:00"
     }
   },
   {

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 30 Oct 2026 18:35:14 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 19:11:00 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:44:18 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2026 10:10:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bUxGv0Sq_Vx0torVqM5tBQW5fFXrNoL3STCVOAsJQaBg.jpg"/>
+    <item>
+      <title>Jul med Kork: Den sanne jul</title>
+      <description><![CDATA[Sondre Lerche og Kork]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/2dc1fb39-8d54-463d-962b-af6a0b12581f_5aff6f36-8d11-40c6-8da6-19a12ffd9a07_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/2dc1fb39-8d54-463d-962b-af6a0b12581f_5aff6f36-8d11-40c6-8da6-19a12ffd9a07_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:34</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 10:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
     <item>
       <title>Kork feirer Miles Davis: Little Church</title>
       <description><![CDATA[Med Kork, Miho Hazama (dir.), NIls Petter Molvær, Eivind Lønning, Kristina Fransson, Anja Lauvdal, Ellen Andrea Wang, Veslemøy Narvesen.]]></description>
@@ -91,15 +100,6 @@
       <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/841b5ff4-cf03-456d-ad83-42a4eb92884c_2e2a9468-ab57-4649-9317-776b3fd4de54_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>07:12</itunes:duration>
       <pubDate>Fri, 30 Oct 2026 19:03:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qtX0bBgIu7_gQR9eVZeSPQwRmGyleg_010ieU9pp7mTQ.jpg"/>
-    </item>
-    <item>
-      <title>Kork feirer Miles Davis: Summertime</title>
-      <description><![CDATA[Med Kork, Miho Hazama (dir.), NIls Petter Molvær, Eivind Lønning, Kristina Fransson, Anja Lauvdal, Ellen Andrea Wang, Veslemøy Narvesen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/9c52d6bb-3611-41f7-b71d-f2b9b18eea69_af2338ed-48ad-4408-a67b-8f140f1189c4_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/9c52d6bb-3611-41f7-b71d-f2b9b18eea69_af2338ed-48ad-4408-a67b-8f140f1189c4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:31</itunes:duration>
-      <pubDate>Fri, 30 Oct 2026 19:02:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/qtX0bBgIu7_gQR9eVZeSPQwRmGyleg_010ieU9pp7mTQ.jpg"/>
     </item>
   </channel>
