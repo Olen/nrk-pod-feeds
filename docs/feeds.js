@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Stanser ny kraft til datasentre",
-      "date": "2026-11-09T19:00:00+01:00"
+      "title": "Fredsforhandlinger i Abu Dhabi",
+      "date": "2026-11-10T19:00:00+01:00"
     }
   },
   {
@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Er det blitt for lett å få ADHD?",
-      "date": "2026-11-05T22:10:00+01:00"
+      "title": "Viser Ukraina at krig fortsatt lønner seg?",
+      "date": "2026-11-10T22:05:00+01:00"
     }
   },
   {
