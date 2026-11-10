@@ -8,99 +8,100 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 10 Nov 2026 09:44:18 +0000</lastBuildDate>
-    <pubDate>Tue, 10 Nov 2026 10:10:00 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2026 17:46:27 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2026 16:15:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bUxGv0Sq_Vx0torVqM5tBQW5fFXrNoL3STCVOAsJQaBg.jpg"/>
     <item>
-      <title>Jul med Kork: Den sanne jul</title>
-      <description><![CDATA[Sondre Lerche og Kork]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/2dc1fb39-8d54-463d-962b-af6a0b12581f_5aff6f36-8d11-40c6-8da6-19a12ffd9a07_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/2dc1fb39-8d54-463d-962b-af6a0b12581f_5aff6f36-8d11-40c6-8da6-19a12ffd9a07_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:34</itunes:duration>
-      <pubDate>Tue, 10 Nov 2026 10:10:00 +0100</pubDate>
+      <title>Jul med Kork: I'll Be Home For Christmas</title>
+      <description><![CDATA[Ane Brun]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/eff709dd-7aa1-4688-a790-02c213bb2262_0c94a2b0-a021-4422-b9e1-207e0e425abf_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/eff709dd-7aa1-4688-a790-02c213bb2262_0c94a2b0-a021-4422-b9e1-207e0e425abf_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:24</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 16:15:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
     </item>
     <item>
-      <title>Kork feirer Miles Davis: Little Church</title>
-      <description><![CDATA[Med Kork, Miho Hazama (dir.), NIls Petter Molvær, Eivind Lønning, Kristina Fransson, Anja Lauvdal, Ellen Andrea Wang, Veslemøy Narvesen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/8ff12ded-1de2-4e0f-b946-7b5b678b30f2_d0e77611-f226-42f8-92bb-4f4ecd5300b9_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/8ff12ded-1de2-4e0f-b946-7b5b678b30f2_d0e77611-f226-42f8-92bb-4f4ecd5300b9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:18</itunes:duration>
-      <pubDate>Fri, 30 Oct 2026 19:11:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qtX0bBgIu7_gQR9eVZeSPQwRmGyleg_010ieU9pp7mTQ.jpg"/>
+      <title>Jul med Kork: Når snøen smelter</title>
+      <description><![CDATA[Astrid S]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/d83ada53-4c56-41ab-b3c3-da4bcdd01bfd_ab2445fa-6706-46a5-8993-0e4dba3322bb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/d83ada53-4c56-41ab-b3c3-da4bcdd01bfd_ab2445fa-6706-46a5-8993-0e4dba3322bb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:59</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 16:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
     </item>
     <item>
-      <title>Kork feirer Miles Davis: Black Satin</title>
-      <description><![CDATA[Med Kork, Miho Hazama (dir.), NIls Petter Molvær, Eivind Lønning, Kristina Fransson, Anja Lauvdal, Ellen Andrea Wang, Veslemøy Narvesen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/705c50e7-bd3a-483c-ab0c-a92e786c7c37_5d76a8c8-d9a7-44f0-a265-c1005686ce41_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/705c50e7-bd3a-483c-ab0c-a92e786c7c37_5d76a8c8-d9a7-44f0-a265-c1005686ce41_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>09:09</itunes:duration>
-      <pubDate>Fri, 30 Oct 2026 19:10:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qtX0bBgIu7_gQR9eVZeSPQwRmGyleg_010ieU9pp7mTQ.jpg"/>
+      <title>Jul med Kork: Når himmelen faller ned</title>
+      <description><![CDATA[Alejandro Fuentes, Espen Lind, Askil Holm, Nick Davies, Kurt Nilsen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/a54074ce-5df0-4842-be43-ffa334f6fe1a_9b1f8845-75c3-4050-8ff4-375175714e3d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/a54074ce-5df0-4842-be43-ffa334f6fe1a_9b1f8845-75c3-4050-8ff4-375175714e3d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:49</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 15:55:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
     </item>
     <item>
-      <title>Kork feirer Miles Davis: All Blues</title>
-      <description><![CDATA[Med Kork, Miho Hazama (dir.), NIls Petter Molvær, Eivind Lønning, Kristina Fransson, Anja Lauvdal, Ellen Andrea Wang, Veslemøy Narvesen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/2a8b4669-f91c-4770-91fb-9a6d79ea33b5_64c26c9e-44b0-412c-8434-ecf7174cdc17_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/2a8b4669-f91c-4770-91fb-9a6d79ea33b5_64c26c9e-44b0-412c-8434-ecf7174cdc17_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>07:12</itunes:duration>
-      <pubDate>Fri, 30 Oct 2026 19:09:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qtX0bBgIu7_gQR9eVZeSPQwRmGyleg_010ieU9pp7mTQ.jpg"/>
+      <title>Jul med Kork: Selmas sang</title>
+      <description><![CDATA[Eva Weel Skram]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/7745ecba-51fb-4997-ba14-bbef73925afc_3480d1b7-656d-47e7-8b07-3747dfa4e5f7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/7745ecba-51fb-4997-ba14-bbef73925afc_3480d1b7-656d-47e7-8b07-3747dfa4e5f7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:52</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 15:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
     </item>
     <item>
-      <title>Kork feirer Miles Davis: Sivad</title>
-      <description><![CDATA[NIls Petter Molvær, Eivind Lønning, Kristina Fransson, Anja Lauvdal, Ellen Andrea Wang, Veslemøy Narvesen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/605277e5-12e7-4b96-8e68-6d10725753d6_285a2d55-dc4c-411c-8753-03c97f6dd32b_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/605277e5-12e7-4b96-8e68-6d10725753d6_285a2d55-dc4c-411c-8753-03c97f6dd32b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:36</itunes:duration>
-      <pubDate>Fri, 30 Oct 2026 19:08:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qtX0bBgIu7_gQR9eVZeSPQwRmGyleg_010ieU9pp7mTQ.jpg"/>
+      <title>Jul med Kork: Hallelujah</title>
+      <description><![CDATA[Det Norske Solistkor 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/d744349c-521b-49e3-b171-48d0ee3e4c4f_1017ef06-38e5-419c-a027-b5972f473243_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/d744349c-521b-49e3-b171-48d0ee3e4c4f_1017ef06-38e5-419c-a027-b5972f473243_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:36</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 15:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
     </item>
     <item>
-      <title>Kork feirer Miles Davis: Nefertiti</title>
-      <description><![CDATA[Med Kork, Miho Hazama (dir.), NIls Petter Molvær, Eivind Lønning, Kristina Fransson, Anja Lauvdal, Ellen Andrea Wang, Veslemøy Narvesen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/ebb1f645-4139-495e-b059-0c31ec2fbb14_c15fef01-de16-4b90-b75a-3b25402e6679_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/ebb1f645-4139-495e-b059-0c31ec2fbb14_c15fef01-de16-4b90-b75a-3b25402e6679_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>07:29</itunes:duration>
-      <pubDate>Fri, 30 Oct 2026 19:07:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qtX0bBgIu7_gQR9eVZeSPQwRmGyleg_010ieU9pp7mTQ.jpg"/>
+      <title>Jul med Kork: Julens gåte</title>
+      <description><![CDATA[Espen Beranek Holm ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/87586120-d1c1-4cb4-af56-a8248a737105_364bad76-9d3a-4275-b69c-2e67f009b024_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/87586120-d1c1-4cb4-af56-a8248a737105_364bad76-9d3a-4275-b69c-2e67f009b024_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:12</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
     </item>
     <item>
-      <title>Kork feirer Miles Davis: Blue in Green</title>
-      <description><![CDATA[Med Kork, Miho Hazama (dir.), NIls Petter Molvær, Eivind Lønning, Kristina Fransson, Anja Lauvdal, Ellen Andrea Wang, Veslemøy Narvesen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/8d54b157-cae8-45ef-bb5f-6a4988fd46b5_d76da6f1-d1f7-4498-abd8-ace8ae8a6fd1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/8d54b157-cae8-45ef-bb5f-6a4988fd46b5_d76da6f1-d1f7-4498-abd8-ace8ae8a6fd1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>08:39</itunes:duration>
-      <pubDate>Fri, 30 Oct 2026 19:06:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qtX0bBgIu7_gQR9eVZeSPQwRmGyleg_010ieU9pp7mTQ.jpg"/>
+      <title>Jul med Kork: Jon Blund</title>
+      <description><![CDATA[Nils Bech]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/fbcd9d71-f779-42e0-9727-6a858fa4f8f4_c95000ff-efbb-4dc0-ad9e-94e8709f3e26_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/fbcd9d71-f779-42e0-9727-6a858fa4f8f4_c95000ff-efbb-4dc0-ad9e-94e8709f3e26_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:00</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 14:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
     </item>
     <item>
-      <title>Kork feirer Miles Davis: impro into Blue in Green</title>
-      <description><![CDATA[NIis Petter Molvær, Eivind Lønning, Kristina Fransson, Anja Lauvdal, Ellen Andrea Wang, Veslemøy Narvesen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/8818bd84-aad3-43b3-90ae-f988bcb98655_3d89fdad-e5a0-44eb-b6b9-24ed9620478d_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/8818bd84-aad3-43b3-90ae-f988bcb98655_3d89fdad-e5a0-44eb-b6b9-24ed9620478d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:21</itunes:duration>
-      <pubDate>Fri, 30 Oct 2026 19:05:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qtX0bBgIu7_gQR9eVZeSPQwRmGyleg_010ieU9pp7mTQ.jpg"/>
+      <title>Jul med Kork: Fairytale Of New York</title>
+      <description><![CDATA[Tuva Syvertsen og Amund Maarud]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/58de0338-a4a7-49e3-bbe1-a4d1b16a6d35_5f37a41b-12e1-4dae-a8b1-858e60ae3790_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/58de0338-a4a7-49e3-bbe1-a4d1b16a6d35_5f37a41b-12e1-4dae-a8b1-858e60ae3790_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:13</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 14:24:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
     </item>
     <item>
-      <title>Kork feirer Miles Davis: Directions</title>
-      <description><![CDATA[Med Kork, Miho Hazama (dir.), NIls Petter Molvær, Eivind Lønning, Kristina Fransson, Anja Lauvdal, Ellen Andrea Wang, Veslemøy Narvesen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/f36c3c8d-1ee2-47a4-adeb-2c778120008b_67667377-56a9-4842-9429-dcefe47d0b9b_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/f36c3c8d-1ee2-47a4-adeb-2c778120008b_67667377-56a9-4842-9429-dcefe47d0b9b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:46</itunes:duration>
-      <pubDate>Fri, 30 Oct 2026 19:04:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qtX0bBgIu7_gQR9eVZeSPQwRmGyleg_010ieU9pp7mTQ.jpg"/>
+      <title>Jul med Kork: Vi tenner våre lykter</title>
+      <description><![CDATA[Marit Larsen og Kråkesølv]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/06c76dc7-c933-4675-b940-e7dcad73e62f_2c5bb87f-69b4-43d6-afc1-2696cf87540d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/06c76dc7-c933-4675-b940-e7dcad73e62f_2c5bb87f-69b4-43d6-afc1-2696cf87540d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:43</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 14:14:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
     </item>
     <item>
-      <title>Kork feirer Miles Davis: Nem Um Talvez (Not Even a Maybe)</title>
-      <description><![CDATA[Med Kork, Miho Hazama (dir.), NIls Petter Molvær, Eivind Lønning, Kristina Fransson, Anja Lauvdal, Ellen Andrea Wang, Veslemøy Narvesen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/841b5ff4-cf03-456d-ad83-42a4eb92884c_2e2a9468-ab57-4649-9317-776b3fd4de54_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/841b5ff4-cf03-456d-ad83-42a4eb92884c_2e2a9468-ab57-4649-9317-776b3fd4de54_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>07:12</itunes:duration>
-      <pubDate>Fri, 30 Oct 2026 19:03:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qtX0bBgIu7_gQR9eVZeSPQwRmGyleg_010ieU9pp7mTQ.jpg"/>
+      <title>Jul med Kork: Siste dans</title>
+      <description><![CDATA[Delara]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/6cc12730-6a83-495c-ba3e-a79121de839c_cac85c70-2b8e-4d33-b30c-f49ca8b300b1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/6cc12730-6a83-495c-ba3e-a79121de839c_cac85c70-2b8e-4d33-b30c-f49ca8b300b1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:00</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 13:48:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
     </item>
   </channel>
 </rss>

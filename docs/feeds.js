@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Verden er bedre enn du tror",
-      "date": "2026-11-09T14:00:00+01:00"
+      "title": "Franske tilstandar i Noreg?",
+      "date": "2026-11-10T13:15:00+01:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "JD Vance med Trump-oppgjør: Hvem får skylda?",
-      "date": "2026-11-05T17:23:00+01:00"
+      "title": "Sex, spioner og Nvidia: Jensen Huang-skandalen",
+      "date": "2026-11-10T16:54:00+01:00"
     }
   },
   {
@@ -980,8 +980,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jul med Kork: Den sanne jul",
-      "date": "2026-11-10T10:10:00+01:00"
+      "title": "Jul med Kork: I'll Be Home For Christmas",
+      "date": "2026-11-10T16:15:00+01:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Peder Elias mener du kan hysje på konsert",
-      "date": "2026-11-09T10:00:00+01:00"
+      "title": "Det er kjempelett å hacke en fryser!",
+      "date": "2026-11-10T10:00:00+01:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kva er det motsette av nynorsk?",
-      "date": "2026-11-09T06:00:00+01:00"
+      "title": "Kald middag er ekkelt ",
+      "date": "2026-11-10T06:00:00+01:00"
     }
   },
   {
