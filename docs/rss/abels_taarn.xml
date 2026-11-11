@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 09 Nov 2026 07:55:16 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:07:56 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten: Kjipt med jetlag?</title>
+      <description><![CDATA[Da vet du hvordan trekkfuglene har det. Dessuten, Edderkopper har rem-søvn, og noe rart skjer med transplanterte eggstokker
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/fd39fb7f-aa41-47d8-9df6-22f178e840ad_dc80720b-d874-4f52-8892-bb029d505152_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fd39fb7f-aa41-47d8-9df6-22f178e840ad_dc80720b-d874-4f52-8892-bb029d505152_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:07</itunes:duration>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
+    </item>
     <item>
       <title>Forskningsfronten: Demokrati er en umulighet</title>
       <description><![CDATA[Formelen går ikke opp. Dessuten, Hitlers DNA er analysert, og Van Goghs "Stjernenatt"
@@ -97,15 +107,6 @@ Går du rundt og lurer på merkelige saker? Få svar fra Abels Tårns eksperter!
       <itunes:duration>30:09</itunes:duration>
       <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten: Kjefter du på KI'en din?</title>
-      <description><![CDATA[Nå blir du utestengt hvis du er for slem. Dessuten, Jorda snurrer fortere. India har testet mobilforbud. Og verdens mest bråkete fugl er kåra]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/e5eaa410-cb54-4c8c-aaa4-10cb543c8c99_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e5eaa410-cb54-4c8c-aaa4-10cb543c8c99_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:46</itunes:duration>
-      <pubDate>Mon, 19 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
     </item>
   </channel>
 </rss>

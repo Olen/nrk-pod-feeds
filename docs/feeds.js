@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Demokrati er en umulighet",
-      "date": "2026-11-09T06:00:00+01:00"
+      "title": "Forskningsfronten: Kjipt med jetlag?",
+      "date": "2026-11-11T06:00:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Rødt sier nei til «Sexy sosialister»",
-      "date": "2026-11-10T06:01:00+01:00"
+      "title": "Forhandlingene mellom Russland og Ukraina fortsetter",
+      "date": "2026-11-11T05:59:00+01:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Godhet - med Lena Lindahl",
-      "date": "2026-11-10T06:00:00+01:00"
+      "title": "Puls - med  Elin Sofye Rabbevåg",
+      "date": "2026-11-11T06:00:00+01:00"
     }
   },
   {
@@ -1059,8 +1059,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fertilitet: Når er det for sent? ",
-      "date": "2026-11-04T05:00:00+01:00"
+      "title": "Hvordan være en god pårørende? (2:2)",
+      "date": "2026-11-11T05:00:00+01:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mus i hus",
-      "date": "2026-11-10T06:00:00+01:00"
+      "title": "– Shortskings er litt psykopater",
+      "date": "2026-11-11T06:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Flybase-mysteriet: Utenlandsk angrep på England?",
-      "date": "2026-11-10T05:59:00+01:00"
+      "title": "«Alle» lurte Rasmus: TV-stuntet som ryster Danmark",
+      "date": "2026-11-11T05:59:00+01:00"
     }
   },
   {
@@ -1876,8 +1876,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "– Du rører ikke capsen!",
-      "date": "2026-11-04T06:00:00+01:00"
+      "title": "Tribunequiz: Hvem har falt i hullet?",
+      "date": "2026-11-11T06:00:00+01:00"
     }
   },
   {
@@ -2218,8 +2218,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Prosjektilspy i oppgangen",
-      "date": "2026-11-04T06:00:00+01:00"
+      "title": "– Eg les ei knullebok!",
+      "date": "2026-11-11T06:00:00+01:00"
     }
   },
   {
