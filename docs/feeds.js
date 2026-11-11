@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Knut Høibraaten",
-      "date": "2026-11-09T14:30:00+01:00"
+      "title": "Izabella Dantas Løvstad",
+      "date": "2026-11-11T13:45:00+01:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Franske tilstandar i Noreg?",
-      "date": "2026-11-10T13:15:00+01:00"
+      "title": "Når spøk blir alvor",
+      "date": "2026-11-11T13:15:00+01:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Det er kjempelett å hacke en fryser!",
-      "date": "2026-11-10T10:00:00+01:00"
+      "title": "Vi konfronterer Flytoget",
+      "date": "2026-11-11T10:00:00+01:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vil Putin ha fred?",
-      "date": "2026-11-10T06:00:00+01:00"
+      "title": "Frp vil ha ny Parisavtale",
+      "date": "2026-11-11T08:00:00+01:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kald middag er ekkelt ",
-      "date": "2026-11-10T06:00:00+01:00"
+      "title": "Daniel er frisk!",
+      "date": "2026-11-11T06:00:00+01:00"
     }
   },
   {
