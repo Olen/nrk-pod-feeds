@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Endelig landslagsfotball igjen!",
-      "date": "2026-11-09T12:33:00+01:00"
+      "title": "Ståles angrep og Heggem om nedturen",
+      "date": "2026-11-11T15:26:00+01:00"
     }
   },
   {
@@ -239,7 +239,7 @@ const feeds = [
     "enabled": true,
     "last_episode": {
       "title": "Fredsforhandlinger i Abu Dhabi",
-      "date": "2026-11-10T19:00:00+01:00"
+      "date": "2026-11-11T19:00:00+01:00"
     }
   },
   {
@@ -1046,8 +1046,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Boktober: «Fluenes herre» med Oskar Westerlin: —Jeg tok en Darth Vader (5:5)",
-      "date": "2026-10-31T06:05:00+01:00"
+      "title": "Leseklubben: «Søsterklokkene» med Anne Lindmo: KOMMER 12. november: To sagnomsuste kirkeklokker og en prestedatter!",
+      "date": "2026-11-11T15:30:00+01:00"
     }
   },
   {
@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sigrid Sollund / Henrik Farley / Helle Ryg Eia",
-      "date": "2026-11-07T15:03:00+01:00"
+      "title": "Julekalendertilbudet vårt + halvbrornytt",
+      "date": "2026-11-11T17:02:00+01:00"
     }
   },
   {

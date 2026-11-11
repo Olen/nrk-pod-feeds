@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 31 Oct 2026 09:34:01 +0000</lastBuildDate>
-    <pubDate>Sat, 31 Oct 2026 06:05:00 +0100</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 21:26:23 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 15:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
+    <item>
+      <title>Leseklubben: «Søsterklokkene» med Anne Lindmo: KOMMER 12. november: To sagnomsuste kirkeklokker og en prestedatter!</title>
+      <description><![CDATA[Bli med inn i Lars Myttings storslåtte romanunivers i «Søsterklokkene» sammen med Anne Lindmo og Leseklubben - og hør lydboka!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/6a1409b0-b088-4acf-9b90-d6992eef1e17_54e77c53-e0be-4555-8f41-593a92a79c74_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/6a1409b0-b088-4acf-9b90-d6992eef1e17_54e77c53-e0be-4555-8f41-593a92a79c74_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:12</itunes:duration>
+      <pubDate>Wed, 11 Nov 2026 15:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eC9_fVbLBavayIx8PRgNTgUxe8GnGW88SvlpmLnsy55w.jpg"/>
+    </item>
     <item>
       <title>Boktober: «Fluenes herre» med Oskar Westerlin: —Jeg tok en Darth Vader (5:5)</title>
       <description><![CDATA[Oskar mener at Fluenes herre er alt for pessimistisk. Støre drar linjer til Ukraina. Alle tror på kjærlighetens kraft. Boktober er ferdig, hva nå? Lydboka er dessverre ikke tilgjengelig lenger.]]></description>
@@ -93,15 +102,6 @@
       <itunes:duration>22:19</itunes:duration>
       <pubDate>Thu, 22 Oct 2026 06:02:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Q4NmZ4EBTV8_fUUu1Bu41Qfh5Z4shHfqVTJFDTfVf8Zg.jpg"/>
-    </item>
-    <item>
-      <title>Boktober: «Pelsjegerliv» med Jens Kvernmo: – Noen setninger har jeg hoppet over (4:5)</title>
-      <description><![CDATA[Jens reagerer på behandling av både kvinner og dyr. Christine og Kristoffer lærer nye ord som ruff. Og vi har funnet Ingstad-gull i arkivet, fra 1938!  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/c52811e6-d452-4c96-984b-aaed14c36451_4dba70c4-82a9-408f-89f0-7279d83a1463_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/c52811e6-d452-4c96-984b-aaed14c36451_4dba70c4-82a9-408f-89f0-7279d83a1463_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:24</itunes:duration>
-      <pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/C7ijbqqn6bplxBv7PWZRvAYkCLoE6N3Bw_zJP9anHu7w.jpg"/>
     </item>
   </channel>
 </rss>
