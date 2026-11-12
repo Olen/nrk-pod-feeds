@@ -293,8 +293,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Rock din lettkledde kropp",
-      "date": "2026-11-05T06:00:00+01:00"
+      "title": "En ny Mariah Carey er født",
+      "date": "2026-11-12T06:00:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forhandlingene mellom Russland og Ukraina fortsetter",
-      "date": "2026-11-11T05:59:00+01:00"
+      "title": "– Har du sommerdekk må du la bilen stå",
+      "date": "2026-11-12T06:01:00+01:00"
     }
   },
   {
@@ -1046,8 +1046,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Leseklubben: «Søsterklokkene» med Anne Lindmo: KOMMER 12. november: To sagnomsuste kirkeklokker og en prestedatter!",
-      "date": "2026-11-11T15:30:00+01:00"
+      "title": "Lydboka: «Søsterklokkene»: Søsterklokkene: En gissen båt på stritt hav (4/63)",
+      "date": "2026-11-12T06:04:00+01:00"
     }
   },
   {
@@ -1072,8 +1072,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Rave for eldre",
-      "date": "2026-11-05T06:00:00+01:00"
+      "title": "Sokkesalg",
+      "date": "2026-11-12T06:00:00+01:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "– Shortskings er litt psykopater",
-      "date": "2026-11-11T06:00:00+01:00"
+      "title": "Tilsynelatende muslim",
+      "date": "2026-11-12T06:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "«Alle» lurte Rasmus: TV-stuntet som ryster Danmark",
-      "date": "2026-11-11T05:59:00+01:00"
+      "title": "Ørjan Håskjold Nyland: Fra helt til syndebukk?",
+      "date": "2026-11-12T05:59:00+01:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi konfronterer Flytoget",
-      "date": "2026-11-11T10:00:00+01:00"
+      "title": "Denne kjendisen må ikke kanselleres!",
+      "date": "2026-11-12T10:00:00+01:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Frp vil ha ny Parisavtale",
-      "date": "2026-11-11T08:00:00+01:00"
+      "title": "Strid om fremtidens nasjonale prøver",
+      "date": "2026-11-12T08:00:00+01:00"
     }
   },
   {
@@ -1715,8 +1715,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "– Hører du gekkoen?",
-      "date": "2026-11-05T06:00:00+01:00"
+      "title": "Lives musikaldebut",
+      "date": "2026-11-12T06:00:00+01:00"
     }
   },
   {
@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ragnhild Margrethe: Å kjempe for kjærligheten",
-      "date": "2026-11-10T06:00:00+01:00"
+      "title": "Vendela Kirsebom: Uventet kjærlighet",
+      "date": "2026-11-12T06:00:00+01:00"
     }
   },
   {
@@ -2231,8 +2231,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "USA: En seier for demokratiet",
-      "date": "2026-11-06T06:00:00+01:00"
+      "title": "Nvidia: Verdens dyreste sidesprang",
+      "date": "2026-11-12T07:50:00+01:00"
     }
   },
   {
