@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ståles angrep og Heggem om nedturen",
-      "date": "2026-11-11T15:26:00+01:00"
+      "title": "Kritiske til avlyst trening. Visste at snøen kom!",
+      "date": "2026-11-12T16:33:00+01:00"
     }
   },
   {
@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fredsforhandlinger i Abu Dhabi",
-      "date": "2026-11-11T19:00:00+01:00"
+      "title": "PST: Sabotasjetrusselen i Norge er skjerpet",
+      "date": "2026-11-12T19:00:00+01:00"
     }
   },
   {
@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Izabella Dantas Løvstad",
-      "date": "2026-11-11T13:45:00+01:00"
+      "title": "Itonje Søimer Guttormsen",
+      "date": "2026-11-12T13:10:00+01:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Når spøk blir alvor",
-      "date": "2026-11-11T13:15:00+01:00"
+      "title": "Trumps USA: Vil ikke snakke miljø",
+      "date": "2026-11-12T13:30:00+01:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sex, spioner og Nvidia: Jensen Huang-skandalen",
-      "date": "2026-11-10T16:54:00+01:00"
+      "title": "Droner, trusler og fryserhacking: Europa under angrep",
+      "date": "2026-11-12T16:00:00+01:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Daniel er frisk!",
-      "date": "2026-11-11T06:00:00+01:00"
+      "title": "Anna og Daniel krangler ",
+      "date": "2026-11-12T06:00:00+01:00"
     }
   },
   {
