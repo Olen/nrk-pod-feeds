@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "PST: Sabotasjetrusselen i Norge er skjerpet",
-      "date": "2026-11-12T19:00:00+01:00"
+      "title": "Staten tapte klimasøksmål",
+      "date": "2026-11-13T19:00:00+01:00"
     }
   },
   {
