@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 11 Nov 2026 06:07:56 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:17:24 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2026 06:01:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Tårnet: KI-spørretime 2:2 - Dommedag</title>
+      <description><![CDATA[Kremen av norsk KI-kompetanse er samlet i TO timer for å besvare lytternes spørsmål om den samfunnsomveltende, nye teknologien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/f151d565-52d0-4eb5-8054-e98bf0ba8b3e_e98c94fc-2bef-44a8-bec1-0936906df422_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f151d565-52d0-4eb5-8054-e98bf0ba8b3e_e98c94fc-2bef-44a8-bec1-0936906df422_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:27</itunes:duration>
+      <pubDate>Fri, 13 Nov 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ss-3OrQElyfFRJ5HZCCPEQNaX4mhJ9qt47rwNCUwycDg.jpg"/>
+    </item>
+    <item>
+      <title>Tårnet: KI-spørretime 1:2 - Skapelsen</title>
+      <description><![CDATA[Kremen av norsk KI-kompetanse er samlet i TO timer for å besvare lytternes spørsmål om den samfunnsomveltende, nye teknologien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/22e3d97f-1486-4fb1-b399-b5fefad1a571_72805d47-725b-4e0b-afcb-80dbeac5fe78_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/22e3d97f-1486-4fb1-b399-b5fefad1a571_72805d47-725b-4e0b-afcb-80dbeac5fe78_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:20</itunes:duration>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AtHLis9dbE8oXykpzf9drAH71d9MRcXFxVQ0r601YIAA.jpg"/>
+    </item>
     <item>
       <title>Forskningsfronten: Kjipt med jetlag?</title>
       <description><![CDATA[Da vet du hvordan trekkfuglene har det. Dessuten, Edderkopper har rem-søvn, og noe rart skjer med transplanterte eggstokker
@@ -23,7 +41,7 @@
       <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
     </item>
     <item>
-      <title>Forskningsfronten: Demokrati er en umulighet</title>
+      <title>Forskningsfronten: Demokrati er umulig</title>
       <description><![CDATA[Formelen går ikke opp. Dessuten, Hitlers DNA er analysert, og Van Goghs "Stjernenatt"
 ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/0258e404-5a58-424c-861d-fc0cbf6f0905_f9cc13c5-cce9-4f42-8577-ae7106c15fc3_ID192MP3.mp3</guid>
@@ -88,25 +106,6 @@ Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns al
       <itunes:duration>29:36</itunes:duration>
       <pubDate>Mon, 26 Oct 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
-    </item>
-    <item>
-      <title>Tårnet: Hvor kjipe virus kan KI lage?</title>
-      <description><![CDATA[Ønsket om å ødelegge kan være et tegn på intelligens.
-Går du rundt og lurer på merkelige saker? Få svar fra Abels Tårns eksperter!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/f20f9cec-f0d8-4a7e-9e9c-a33e209acdd2_31845ad1-3286-4ec0-8213-58921bc9b0a6_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f20f9cec-f0d8-4a7e-9e9c-a33e209acdd2_31845ad1-3286-4ec0-8213-58921bc9b0a6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:34</itunes:duration>
-      <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Wx2syOvBm-49CjZs_yMQ_gaVids7u85Eu_3Gp1yAWbEg.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten: Vasker du hjemmet ditt feil?</title>
-      <description><![CDATA[Det lukter friskt men er egentlig helsefarlig. Dessuten, atomkjerneuret er snart her, og minilunger kan brukes i neste pandemi]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/1a4fb855-4dec-4b1f-8fb8-554dec5b1f10_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1a4fb855-4dec-4b1f-8fb8-554dec5b1f10_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:09</itunes:duration>
-      <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
     </item>
   </channel>
 </rss>

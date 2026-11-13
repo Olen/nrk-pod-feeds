@@ -8,12 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 06 Nov 2026 14:59:31 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Nov 2026 13:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:17:57 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2026 11:50:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
     <item>
-      <title> Er vi mennesker eller koder?</title>
+      <title>Et demokrati på prøve</title>
+      <description><![CDATA[Et valg mot Trump - men var det et valg for demokratiet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/1bf8cb50-f19d-424f-b94c-042bfa6c843e_e7382b9a-b622-471c-8a11-5dd8625377de_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/1bf8cb50-f19d-424f-b94c-042bfa6c843e_e7382b9a-b622-471c-8a11-5dd8625377de_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:34</itunes:duration>
+      <pubDate>Fri, 13 Nov 2026 11:50:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
+    <item>
+      <title>Der tanker møtes:  Er vi mennesker eller koder?</title>
       <description><![CDATA[ Simuleringstargumentet er underlig innflytelsesrikt.
 Særlig liker tech-eliten teorien. Men hvorfor det?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/dab75334-8d77-4838-877c-097d9d15b008_c01389b0-1c97-41a8-b91d-e9c98839ef05_ID192MP3.mp3</guid>
@@ -23,7 +32,7 @@ Særlig liker tech-eliten teorien. Men hvorfor det?]]></description>
       <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
     </item>
     <item>
-      <title>Putin - et førmoderne menneske</title>
+      <title>Der tanker møtes: Putin - et førmoderne menneske</title>
       <description><![CDATA[- Han lever i en verden  der demokratiet, menneskerettene og  det personlige
 ansvaret ikke er oppfunnet, sier historiker.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/194cfe36-a77c-4123-bd03-fbf41de85715_518657e4-72ac-42fb-b34d-1de9ff47a4c6_ID192MP3.mp3</guid>
@@ -94,15 +103,6 @@ Et bidrag  til P2s beredskapsdag]]></description>
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ac4cdf9f-c981-4bf0-8cdf-9fc9811bf026_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>38:26</itunes:duration>
       <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
-    </item>
-    <item>
-      <title>Der tanker møtes: Hvorfor er noen imot vaksine?</title>
-      <description><![CDATA[Det handler ikke alltid om manglende kunnskap.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/86ce7dc0-d6c6-4f14-8e7d-c0d6c61f1484_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/86ce7dc0-d6c6-4f14-8e7d-c0d6c61f1484_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:37</itunes:duration>
-      <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
     </item>
   </channel>

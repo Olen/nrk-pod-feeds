@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 07 Nov 2026 07:05:19 +0000</lastBuildDate>
-    <pubDate>Sat, 07 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:17:53 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2026 12:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
+    <item>
+      <title>Leopold II</title>
+      <description><![CDATA[Kong Leopold II drømmer om å gjøre Belgia stort og mektig - og seg selv søkkrik. Ambisjonene skal koste millioner av menneskeliv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/c78b3a27-a92b-402c-aee9-7cf7775b094a_de0bb06b-1047-454c-acab-7a3d94c3014e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/c78b3a27-a92b-402c-aee9-7cf7775b094a_de0bb06b-1047-454c-acab-7a3d94c3014e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:36</itunes:duration>
+      <pubDate>Fri, 13 Nov 2026 12:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_v7zTDvr4OYCnKi8DU-cBAmLLzG73JtV0_-uRniQvm8g.jpg"/>
+    </item>
     <item>
       <title>Tyrann - viktig beskjed!</title>
       <description><![CDATA[OBS! Fra og med 14. november publiserer vi våre Tyrann-episoder ukentlig. Første fæle fyr ut er Belgias brutale kong Leopold II.]]></description>
@@ -99,15 +108,6 @@ The Trial of Macías in Equatorial Guinea: The Story of a Dictatorship - Alejand
       <itunes:duration>24:15</itunes:duration>
       <pubDate>Sat, 05 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/W5bM4maq2U-OwYgLuQhlOQcHq6RPZ4MOSRa3TsfvGtOg.jpg"/>
-    </item>
-    <item>
-      <title>Enver Hoxha (4:4)</title>
-      <description><![CDATA[I 40 år har Hoxha ventet en invasjon, men ennå har ikke noen fiende vist seg. Helt til Mustafa og hans bande går i land i Albania.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/8b6b1353-7411-49cd-ab13-53741129cd24_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/8b6b1353-7411-49cd-ab13-53741129cd24_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:36</itunes:duration>
-      <pubDate>Sat, 27 Jun 2026 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aLvs8uZtbTm3E8cL3rVQgw9awsf6XQaqY5JrqGOl7OWw.jpg"/>
     </item>
   </channel>
 </rss>

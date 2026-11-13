@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Kjipt med jetlag?",
-      "date": "2026-11-11T06:00:00+01:00"
+      "title": "Tårnet: KI-spørretime 2:2 - Dommedag",
+      "date": "2026-11-13T06:01:00+01:00"
     }
   },
   {
@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kritiske til avlyst trening. Visste at snøen kom!",
-      "date": "2026-11-12T16:33:00+01:00"
+      "title": "Mener Haaland må stille opp",
+      "date": "2026-11-13T15:10:00+01:00"
     }
   },
   {
@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Stalking, innestemme og mensen i svømmehallen",
-      "date": "2026-11-10T06:00:00+01:00"
+      "title": "Dyskalkuli, lommepenger og KI-loggen",
+      "date": "2026-11-13T12:00:00+01:00"
     }
   },
   {
@@ -479,8 +479,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Shithouses, stygge bokhandler og Mbappé",
-      "date": "2026-10-30T08:00:00+01:00"
+      "title": "Kroningsvarsel, seiltur og ligging - samt sexy sosialister",
+      "date": "2026-11-13T08:00:00+01:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Denne kjendisen må ikke kanselleres!",
-      "date": "2026-11-12T10:00:00+01:00"
+      "title": "Aftur Nerdrum har flyttet til storbyen",
+      "date": "2026-11-13T10:00:00+01:00"
     }
   },
   {
@@ -1749,8 +1749,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Anna og Daniel krangler ",
-      "date": "2026-11-12T06:00:00+01:00"
+      "title": "Daniel intervjuer Alex Rosén",
+      "date": "2026-11-13T06:00:00+01:00"
     }
   },
   {
@@ -2128,8 +2128,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tyrann - viktig beskjed!",
-      "date": "2026-11-07T06:00:00+01:00"
+      "title": "Leopold II",
+      "date": "2026-11-13T12:30:00+01:00"
     }
   },
   {
@@ -2260,8 +2260,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": " Er vi mennesker eller koder?",
-      "date": "2026-11-06T13:00:00+01:00"
+      "title": "Et demokrati på prøve",
+      "date": "2026-11-13T11:50:00+01:00"
     }
   },
   {
