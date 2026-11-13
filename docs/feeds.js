@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Viser Ukraina at krig fortsatt lønner seg?",
-      "date": "2026-11-10T22:05:00+01:00"
+      "title": "Sexy sosialister",
+      "date": "2026-11-12T22:05:00+01:00"
     }
   },
   {
