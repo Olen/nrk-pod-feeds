@@ -177,8 +177,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Herbjørg Wassmo- Det handler først og fremst om overlevelse..",
-      "date": "2026-11-06T06:00:00+01:00"
+      "title": "Erlend O.Nødtvedt-Denne historien om Bergen måtte fortelles",
+      "date": "2026-11-13T06:00:00+01:00"
     }
   },
   {
@@ -272,8 +272,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ingen elsker Rasmus",
-      "date": "2026-11-06T06:00:00+01:00"
+      "title": "Livin’ La Nvidia Loca",
+      "date": "2026-11-13T06:00:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "– Har du sommerdekk må du la bilen stå",
-      "date": "2026-11-12T06:01:00+01:00"
+      "title": "Full stans i togtrafikken på Oslo S",
+      "date": "2026-11-13T05:59:00+01:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tilsynelatende muslim",
-      "date": "2026-11-12T06:00:00+01:00"
+      "title": "Runkesirkel",
+      "date": "2026-11-13T06:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ørjan Håskjold Nyland: Fra helt til syndebukk?",
-      "date": "2026-11-12T05:59:00+01:00"
+      "title": "Angrepsbølge: Slik hackes blodbanker og kjøleskap",
+      "date": "2026-11-13T05:59:00+01:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Strid om fremtidens nasjonale prøver",
-      "date": "2026-11-12T08:00:00+01:00"
+      "title": "Høgre på skattejakt",
+      "date": "2026-11-13T08:00:00+01:00"
     }
   },
   {
@@ -1889,8 +1889,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Politisk tåkeprat",
-      "date": "2026-11-06T06:00:00+01:00"
+      "title": "Saliggjort gangfelt",
+      "date": "2026-11-13T06:00:00+01:00"
     }
   },
   {
