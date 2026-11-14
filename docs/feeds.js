@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Julekalendertilbudet vårt + halvbrornytt",
-      "date": "2026-11-11T17:02:00+01:00"
+      "title": "Ingrid Gjessing Linhave / Tete Lidbom / Hilde Skaar",
+      "date": "2026-11-14T14:00:00+01:00"
     }
   },
   {
@@ -2149,8 +2149,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Når spøken dras for langt",
-      "date": "2026-11-07T14:00:00+01:00"
+      "title": "Var tidenes dyreste sidesprang en honningfelle?",
+      "date": "2026-11-14T14:00:00+01:00"
     }
   },
   {
