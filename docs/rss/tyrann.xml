@@ -8,10 +8,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 13 Nov 2026 16:17:53 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Nov 2026 12:30:00 +0100</pubDate>
+    <lastBuildDate>Sat, 14 Nov 2026 10:20:27 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
+    <item>
+      <title>Leopold II (1:6)</title>
+      <description><![CDATA[Kong Leopold II av Belgia studerer kart, planlegger kolonier og leter febrilsk etter et sted i verden han kan gjøre til sitt eget.
+
+Kilder:
+Kong Leopolds arv; Adam Hochschild (Pax, 2005)
+Kongo - Historien om Afrikas hjerte; David Van Reybrouck (Font forlag, 2011)
+Historienet.dk: “Belgiens konge dræbte 10 millioner” og “Deres styre står for svindel, røveri og mord”]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/d430b3ae-4434-4346-90ba-3436339cc9b9_e64d8d2b-e24f-4c82-9d6f-455432bd270c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/d430b3ae-4434-4346-90ba-3436339cc9b9_e64d8d2b-e24f-4c82-9d6f-455432bd270c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:50</itunes:duration>
+      <pubDate>Sat, 14 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_v7zTDvr4OYCnKi8DU-cBAmLLzG73JtV0_-uRniQvm8g.jpg"/>
+    </item>
     <item>
       <title>Leopold II</title>
       <description><![CDATA[Kong Leopold II drømmer om å gjøre Belgia stort og mektig - og seg selv søkkrik. Ambisjonene skal koste millioner av menneskeliv.]]></description>
@@ -98,15 +112,6 @@ The Trial of Macías in Equatorial Guinea: The Story of a Dictatorship - Alejand
       <enclosure url="https://podkast.nrk.no/fil/tyrann/49636cf6-8680-470b-a36c-f68680a70b69_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>29:21</itunes:duration>
       <pubDate>Sat, 05 Sep 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/W5bM4maq2U-OwYgLuQhlOQcHq6RPZ4MOSRa3TsfvGtOg.jpg"/>
-    </item>
-    <item>
-      <title>Gaddafi (1:5)</title>
-      <description><![CDATA[Opprørere jager Gaddafi og hans få tilhengere ut i ørkenen. Snart regner NATO-bomber ned fra himmelen og over diktatorens kolonne.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/35d5f8eb-24dc-485c-95f8-eb24dc585c9e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/35d5f8eb-24dc-485c-95f8-eb24dc585c9e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:15</itunes:duration>
-      <pubDate>Sat, 05 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/W5bM4maq2U-OwYgLuQhlOQcHq6RPZ4MOSRa3TsfvGtOg.jpg"/>
     </item>
   </channel>

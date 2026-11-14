@@ -1392,8 +1392,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Absolut svensk",
-      "date": "2026-11-07T06:00:00+01:00"
+      "title": "Moralsk panikk",
+      "date": "2026-11-14T06:00:00+01:00"
     }
   },
   {
@@ -2128,8 +2128,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Leopold II",
-      "date": "2026-11-13T12:30:00+01:00"
+      "title": "Leopold II (1:6)",
+      "date": "2026-11-14T06:00:00+01:00"
     }
   },
   {
