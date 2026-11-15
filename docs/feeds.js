@@ -2186,8 +2186,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vendela Kirsebom: Uventet kjærlighet",
-      "date": "2026-11-12T06:00:00+01:00"
+      "title": "Panelet: \"Dickmatized\" og aldersforskjell ",
+      "date": "2026-11-15T06:00:00+01:00"
     }
   },
   {
