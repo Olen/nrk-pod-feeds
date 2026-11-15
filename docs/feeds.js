@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mener Haaland må stille opp",
-      "date": "2026-11-13T15:10:00+01:00"
+      "title": "Wales-sjefen hyller Nusa: – Verdensklasse!",
+      "date": "2026-11-15T00:23:00+01:00"
     }
   },
   {
