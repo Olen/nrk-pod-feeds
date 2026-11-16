@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: KI-spørretime 2:2 - Dommedag",
-      "date": "2026-11-13T06:01:00+01:00"
+      "title": "Forskningsfronten: Slik nailer du smalltalk",
+      "date": "2026-11-16T06:00:00+01:00"
     }
   },
   {
@@ -69,8 +69,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Må døden på død og liv være lik?",
-      "date": "2026-11-09T06:00:00+01:00"
+      "title": "Hallerts knapp",
+      "date": "2026-11-16T06:00:00+01:00"
     }
   },
   {
@@ -823,8 +823,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vott",
-      "date": "2026-11-09T06:00:00+01:00"
+      "title": "Å gå kveldstur under en landskamp",
+      "date": "2026-11-16T06:00:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Full stans i togtrafikken på Oslo S",
-      "date": "2026-11-13T05:59:00+01:00"
+      "title": "I dag streikes det for Posten",
+      "date": "2026-11-16T06:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Angrepsbølge: Slik hackes blodbanker og kjøleskap",
-      "date": "2026-11-13T05:59:00+01:00"
+      "title": "Datasenter-bråket: Fra norsk boom til bråstopp",
+      "date": "2026-11-16T05:59:00+01:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Aftur Nerdrum har flyttet til storbyen",
-      "date": "2026-11-13T10:00:00+01:00"
+      "title": "Odd-Magnus typecastet som nazi",
+      "date": "2026-11-16T10:00:00+01:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Høgre på skattejakt",
-      "date": "2026-11-13T08:00:00+01:00"
+      "title": "Protest mot post-kutt",
+      "date": "2026-11-16T08:00:00+01:00"
     }
   },
   {
@@ -1726,11 +1726,9 @@ const feeds = [
     "description": "Podkasten for deg som bare må ha litt mer av seriene du har sett i NRK TV. ",
     "image": "https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5A06jLW7lH3QqxNwJnD5jFtw.jpg",
     "season": null,
-    "enabled": true,
-    "last_episode": {
-      "title": "LIS 2: – Petra har mista det (4:4)",
-      "date": "2026-10-17T06:00:00+02:00"
-    }
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "sex_over_60",
@@ -2107,8 +2105,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "En amerikansk overgrepshistorie",
-      "date": "2026-11-09T06:00:00+01:00"
+      "title": "Nyrike nordmenn",
+      "date": "2026-11-16T06:00:00+01:00"
     }
   },
   {
