@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Staten tapte klimasøksmål",
-      "date": "2026-11-13T19:00:00+01:00"
+      "title": "Advarer mot atomulykke",
+      "date": "2026-11-16T19:00:00+01:00"
     }
   },
   {
@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Itonje Søimer Guttormsen",
-      "date": "2026-11-12T13:10:00+01:00"
+      "title": "Are Sende Osen",
+      "date": "2026-11-16T13:25:00+01:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps USA: Vil ikke snakke miljø",
-      "date": "2026-11-12T13:30:00+01:00"
+      "title": "Gløym dommedag og klimaskam",
+      "date": "2026-11-16T14:00:00+01:00"
     }
   },
   {
@@ -1747,8 +1747,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Daniel intervjuer Alex Rosén",
-      "date": "2026-11-13T06:00:00+01:00"
+      "title": "Daniel kjører bil i Oslo sentrum",
+      "date": "2026-11-16T06:00:00+01:00"
     }
   },
   {
