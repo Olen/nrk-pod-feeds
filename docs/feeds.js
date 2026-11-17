@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Wales-sjefen hyller Nusa: – Verdensklasse!",
-      "date": "2026-11-15T00:23:00+01:00"
+      "title": "Kampen om Skandinavia: Slik slår vi danskene",
+      "date": "2026-11-16T22:30:00+01:00"
     }
   },
   {
