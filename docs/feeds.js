@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dyskalkuli, lommepenger og KI-loggen",
-      "date": "2026-11-13T12:00:00+01:00"
+      "title": "Bifobi, pranking og aldersangst",
+      "date": "2026-11-17T06:00:00+01:00"
     }
   },
   {
@@ -164,8 +164,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Meditasjonspanikk ",
-      "date": "2026-11-10T06:00:00+01:00"
+      "title": "Juleverkstedtanta",
+      "date": "2026-11-17T06:00:00+01:00"
     }
   },
   {
@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Are Sende Osen",
-      "date": "2026-11-16T13:25:00+01:00"
+      "title": "Julie Brodtkorb",
+      "date": "2026-11-17T13:35:00+01:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Gløym dommedag og klimaskam",
-      "date": "2026-11-16T14:00:00+01:00"
+      "title": "Europa vs. Elon Musk",
+      "date": "2026-11-17T14:00:00+01:00"
     }
   },
   {
@@ -778,8 +778,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hazara, låjes sábme ja sjæjkka",
-      "date": "2026-11-10T06:00:00+01:00"
+      "title": "Dån gatjáda –  mij vásstedip!",
+      "date": "2026-11-17T06:00:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "I dag streikes det for Posten",
-      "date": "2026-11-16T06:00:00+01:00"
+      "title": "Får Nvidia-sjefen jobben tilbake?",
+      "date": "2026-11-17T06:04:00+01:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Puls - med  Elin Sofye Rabbevåg",
-      "date": "2026-11-11T06:00:00+01:00"
+      "title": "Dagbok - med Ingelin Røssland",
+      "date": "2026-11-17T06:00:00+01:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Runkesirkel",
-      "date": "2026-11-13T06:00:00+01:00"
+      "title": "Oppkjøring i rushtrafikk",
+      "date": "2026-11-17T06:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Datasenter-bråket: Fra norsk boom til bråstopp",
-      "date": "2026-11-16T05:59:00+01:00"
+      "title": "Kampen mot utsendelse: Derfor angrer støttegruppen",
+      "date": "2026-11-17T05:59:00+01:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Odd-Magnus typecastet som nazi",
-      "date": "2026-11-16T10:00:00+01:00"
+      "title": "Vi har fått GTA-dilla",
+      "date": "2026-11-17T10:00:00+01:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Protest mot post-kutt",
-      "date": "2026-11-16T08:00:00+01:00"
+      "title": "Nato-medlemskap til Ukraina?",
+      "date": "2026-11-17T08:00:00+01:00"
     }
   },
   {
@@ -1747,8 +1747,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Daniel kjører bil i Oslo sentrum",
-      "date": "2026-11-16T06:00:00+01:00"
+      "title": "Kjøleskapsdøra knakk ",
+      "date": "2026-11-17T06:00:00+01:00"
     }
   },
   {
@@ -2184,8 +2184,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: \"Dickmatized\" og aldersforskjell ",
-      "date": "2026-11-15T06:00:00+01:00"
+      "title": "Nils-Ingar Aadne: Kjærlighet etter sorg",
+      "date": "2026-11-17T06:00:00+01:00"
     }
   },
   {
