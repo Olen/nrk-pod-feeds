@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Advarer mot atomulykke",
-      "date": "2026-11-16T19:00:00+01:00"
+      "title": "Ny meningsmåling",
+      "date": "2026-11-17T08:00:00+01:00"
     }
   },
   {
@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sexy sosialister",
-      "date": "2026-11-12T22:05:00+01:00"
+      "title": "2000 kan miste jobben i Posten",
+      "date": "2026-11-17T22:05:00+01:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Droner, trusler og fryserhacking: Europa under angrep",
-      "date": "2026-11-12T16:00:00+01:00"
+      "title": "Sylvi Listhaug: Fra lik og del til statsminister?",
+      "date": "2026-11-17T17:55:00+01:00"
     }
   },
   {
