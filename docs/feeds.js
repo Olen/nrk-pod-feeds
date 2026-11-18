@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ny meningsmåling",
-      "date": "2026-11-17T08:00:00+01:00"
+      "title": "Historisk møte",
+      "date": "2026-11-18T19:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tekmilliardærens fall: Sex, spionanklage og børsras",
-      "date": "2026-11-18T05:59:00+01:00"
+      "title": "GTA: Dette er historien og kontroversene",
+      "date": "2026-11-18T17:00:00+01:00"
     }
   },
   {
