@@ -82,8 +82,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kampen om Skandinavia: Slik slår vi danskene",
-      "date": "2026-11-16T22:30:00+01:00"
+      "title": "Norge til kvartfinalen i Nasjonsligaen",
+      "date": "2026-11-18T03:38:00+01:00"
     }
   },
   {
@@ -1059,8 +1059,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hvordan være en god pårørende? (2:2)",
-      "date": "2026-11-11T05:00:00+01:00"
+      "title": "Hva gjør scrolling med barna?",
+      "date": "2026-11-18T05:00:00+01:00"
     }
   },
   {
