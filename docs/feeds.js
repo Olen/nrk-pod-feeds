@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Slik nailer du smalltalk",
-      "date": "2026-11-16T06:00:00+01:00"
+      "title": "Forskningsfronten: Vil du til månen?",
+      "date": "2026-11-18T06:00:00+01:00"
     }
   },
   {
@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Julie Brodtkorb",
-      "date": "2026-11-17T13:35:00+01:00"
+      "title": "Pedro Carmona-Alvarez",
+      "date": "2026-11-18T14:00:00+01:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Europa vs. Elon Musk",
-      "date": "2026-11-17T14:00:00+01:00"
+      "title": "Spillenes konge 6.0",
+      "date": "2026-11-18T13:00:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Får Nvidia-sjefen jobben tilbake?",
-      "date": "2026-11-17T06:04:00+01:00"
+      "title": "Fra og med i dag jobber kvinner «gratis»",
+      "date": "2026-11-18T05:59:00+01:00"
     }
   },
   {
@@ -967,8 +967,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Høiby (23): En mann på døra ",
-      "date": "2026-11-10T06:00:00+01:00"
+      "title": "Russell Brand: «Et seksuelt rovdyr»",
+      "date": "2026-11-18T06:00:00+01:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dagbok - med Ingelin Røssland",
-      "date": "2026-11-17T06:00:00+01:00"
+      "title": "Skole - med Terje Torkildsen",
+      "date": "2026-11-18T06:00:00+01:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Oppkjøring i rushtrafikk",
-      "date": "2026-11-17T06:00:00+01:00"
+      "title": "Et retro ran",
+      "date": "2026-11-18T06:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kampen mot utsendelse: Derfor angrer støttegruppen",
-      "date": "2026-11-17T05:59:00+01:00"
+      "title": "Tekmilliardærens fall: Sex, spionanklage og børsras",
+      "date": "2026-11-18T05:59:00+01:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vi har fått GTA-dilla",
-      "date": "2026-11-17T10:00:00+01:00"
+      "title": "2013-spesial!",
+      "date": "2026-11-18T10:00:00+01:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nato-medlemskap til Ukraina?",
-      "date": "2026-11-17T08:00:00+01:00"
+      "title": "KI-boble for oljefondet?",
+      "date": "2026-11-18T08:00:00+01:00"
     }
   },
   {
@@ -1747,8 +1747,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kjøleskapsdøra knakk ",
-      "date": "2026-11-17T06:00:00+01:00"
+      "title": "Jakten på julefingeren",
+      "date": "2026-11-18T06:00:00+01:00"
     }
   },
   {
@@ -1874,8 +1874,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tribunequiz: Hvem har falt i hullet?",
-      "date": "2026-11-11T06:00:00+01:00"
+      "title": "Haaland vil ha ribbe. Nå! ",
+      "date": "2026-11-18T06:00:00+01:00"
     }
   },
   {
@@ -2216,8 +2216,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "– Eg les ei knullebok!",
-      "date": "2026-11-11T06:00:00+01:00"
+      "title": "Et sju minutters karaokemareritt",
+      "date": "2026-11-18T06:00:00+01:00"
     }
   },
   {

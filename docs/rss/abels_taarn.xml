@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 16 Nov 2026 09:35:12 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2026 13:07:23 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten: Vil du til månen?</title>
+      <description><![CDATA[Nasa trenger flere astronauter. Dessuten, endelig er dinosaurblod funnet. Og urskogen er ikke sånn vi trodde
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/1d0a3d6a-52ac-4d08-a03c-be0af08ce3f6_07d66d80-d870-4700-9c03-61df1fe52ed2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1d0a3d6a-52ac-4d08-a03c-be0af08ce3f6_07d66d80-d870-4700-9c03-61df1fe52ed2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:10</itunes:duration>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
+    </item>
     <item>
       <title>Forskningsfronten: Slik nailer du smalltalk</title>
       <description><![CDATA[Forskere fant trikset. Dessuten, flaks løste kjemigåte. Og periodisk faste hjelper Huntington-pasienter]]></description>
@@ -95,16 +105,6 @@ Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns al
       <itunes:duration>57:33</itunes:duration>
       <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/u_0hro9rP2BygwYA21PL8gQ9dJ4-egSWUWvro8oiV9Hg.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten: Finnes egentlig tyngdekraften?</title>
-      <description><![CDATA[Forskere støtter heller Einsteins teori. Dessuten, leggen din reparerer hjernen. Og rar forskjell funnet mellom mennesker og aper
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/f962e351-8e5b-41b5-8d4b-194e8807ce39_7e10f97e-ef06-43e2-849e-7e6aa257d8ca_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f962e351-8e5b-41b5-8d4b-194e8807ce39_7e10f97e-ef06-43e2-849e-7e6aa257d8ca_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:51</itunes:duration>
-      <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
     </item>
   </channel>
 </rss>
