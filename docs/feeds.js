@@ -293,8 +293,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "En ny Mariah Carey er født",
-      "date": "2026-11-12T06:00:00+01:00"
+      "title": "Mitt første møte med Afrika",
+      "date": "2026-11-19T06:00:00+01:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Spillenes konge 6.0",
-      "date": "2026-11-18T13:00:00+01:00"
+      "title": "Trumps USA: Mektige menn samla",
+      "date": "2026-11-19T13:30:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fra og med i dag jobber kvinner «gratis»",
-      "date": "2026-11-18T05:59:00+01:00"
+      "title": "GTA VI hylles",
+      "date": "2026-11-19T05:59:00+01:00"
     }
   },
   {
@@ -1046,8 +1046,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Lydboka: «Søsterklokkene»: Søsterklokkene: En gissen båt på stritt hav (4/63)",
-      "date": "2026-11-12T06:04:00+01:00"
+      "title": "Lydboka: «Søsterklokkene»: Søsterklokkene: To ekorn var alt (13/63)",
+      "date": "2026-11-19T06:09:00+01:00"
     }
   },
   {
@@ -1072,8 +1072,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sokkesalg",
-      "date": "2026-11-12T06:00:00+01:00"
+      "title": "Kroppskavalkade",
+      "date": "2026-11-19T06:00:00+01:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Et retro ran",
-      "date": "2026-11-18T06:00:00+01:00"
+      "title": "Dum toer!",
+      "date": "2026-11-19T06:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "GTA: Dette er historien og kontroversene",
-      "date": "2026-11-18T17:00:00+01:00"
+      "title": "Sexy kalender: Fra bildekk til politikk",
+      "date": "2026-11-19T05:59:00+01:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "2013-spesial!",
-      "date": "2026-11-18T10:00:00+01:00"
+      "title": "Fød en baby, få GTA 6 gratis!",
+      "date": "2026-11-19T10:00:00+01:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "KI-boble for oljefondet?",
-      "date": "2026-11-18T08:00:00+01:00"
+      "title": "Look to Denmark?",
+      "date": "2026-11-19T08:00:00+01:00"
     }
   },
   {
@@ -1715,8 +1715,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Lives musikaldebut",
-      "date": "2026-11-12T06:00:00+01:00"
+      "title": "Rap og Country-spesial",
+      "date": "2026-11-19T06:00:00+01:00"
     }
   },
   {
@@ -2184,8 +2184,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nils-Ingar Aadne: Kjærlighet etter sorg",
-      "date": "2026-11-17T06:00:00+01:00"
+      "title": "Julie Bergan: Å tørre å bli avvist",
+      "date": "2026-11-19T06:00:00+01:00"
     }
   },
   {
