@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Historisk møte",
-      "date": "2026-11-18T19:00:00+01:00"
+      "title": "Putin, Xi og Trump på toppmøte",
+      "date": "2026-11-19T19:00:00+01:00"
     }
   },
   {
@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "2000 kan miste jobben i Posten",
-      "date": "2026-11-17T22:05:00+01:00"
+      "title": "Er det skamfullt å ha dialekt?",
+      "date": "2026-11-19T22:00:00+01:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sylvi Listhaug: Fra lik og del til statsminister?",
-      "date": "2026-11-17T17:55:00+01:00"
+      "title": "Trump, Putin og Xi: – Forstår Trump hva som skjer?",
+      "date": "2026-11-19T16:20:00+01:00"
     }
   },
   {
@@ -1747,8 +1747,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jakten på julefingeren",
-      "date": "2026-11-18T06:00:00+01:00"
+      "title": "Anna har en idé (not)",
+      "date": "2026-11-19T06:00:00+01:00"
     }
   },
   {
