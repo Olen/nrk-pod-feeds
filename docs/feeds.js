@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Vil du til månen?",
-      "date": "2026-11-18T06:00:00+01:00"
+      "title": "Tårnet: Hvilket dyr fløy først?",
+      "date": "2026-11-20T06:00:00+01:00"
     }
   },
   {
@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Bifobi, pranking og aldersangst",
-      "date": "2026-11-17T06:00:00+01:00"
+      "title": "Svettelukt, sexlyder og date på glattcelle",
+      "date": "2026-11-20T12:00:00+01:00"
     }
   },
   {
@@ -114,7 +114,7 @@ const feeds = [
     "description": "Intriger, sex og brodermord – undere, undergang og oppstandelse. Ingen bok har påvirket vår verden mer enn Bibelen. Men vet du hva som står i den? Are Sende Osen forteller. \n\n",
     "image": "https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQ-UL0nNNKKblUjSMabQ15yw.jpg",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "last_episode": {
       "title": "Johannes' åpenbaring (40:40)",
       "date": "2026-10-21T06:00:00+02:00"
@@ -177,8 +177,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Erlend O.Nødtvedt-Denne historien om Bergen måtte fortelles",
-      "date": "2026-11-13T06:00:00+01:00"
+      "title": "Mona Høvring- Vanessa, den lille jenta som vakler, leter og tviler.",
+      "date": "2026-11-20T06:00:00+01:00"
     }
   },
   {
@@ -272,8 +272,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Livin’ La Nvidia Loca",
-      "date": "2026-11-13T06:00:00+01:00"
+      "title": "Urix x GTA",
+      "date": "2026-11-20T06:00:00+01:00"
     }
   },
   {
@@ -479,8 +479,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kroningsvarsel, seiltur og ligging - samt sexy sosialister",
-      "date": "2026-11-13T08:00:00+01:00"
+      "title": "Årets ord, Jeff Bezos og dialektskam",
+      "date": "2026-11-20T08:00:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "GTA VI hylles",
-      "date": "2026-11-19T05:59:00+01:00"
+      "title": "Får vi parkpils neste sommer?",
+      "date": "2026-11-20T05:59:00+01:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dum toer!",
-      "date": "2026-11-19T06:00:00+01:00"
+      "title": "Dialektdebatten - hot or not?",
+      "date": "2026-11-20T06:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sexy kalender: Fra bildekk til politikk",
-      "date": "2026-11-19T05:59:00+01:00"
+      "title": "Mannen «alle» burde hørt på: Nå spår han ny krise",
+      "date": "2026-11-20T05:59:00+01:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fød en baby, få GTA 6 gratis!",
-      "date": "2026-11-19T10:00:00+01:00"
+      "title": "P3morgen taxiservice",
+      "date": "2026-11-20T10:00:00+01:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Look to Denmark?",
-      "date": "2026-11-19T08:00:00+01:00"
+      "title": "Den umulige Fosen-løsningen ",
+      "date": "2026-11-20T08:00:00+01:00"
     }
   },
   {
@@ -1887,8 +1887,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Saliggjort gangfelt",
-      "date": "2026-11-13T06:00:00+01:00"
+      "title": "Gullforgylt kladeis ",
+      "date": "2026-11-20T06:00:00+01:00"
     }
   },
   {
@@ -2229,8 +2229,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nvidia: Verdens dyreste sidesprang",
-      "date": "2026-11-12T07:50:00+01:00"
+      "title": "Kamerun: Terrorist eller frigjøringshelt?",
+      "date": "2026-11-20T06:00:00+01:00"
     }
   },
   {
@@ -2258,8 +2258,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Et demokrati på prøve",
-      "date": "2026-11-13T11:50:00+01:00"
+      "title": "Norges historie: Norge før \"Norge\"  1:4",
+      "date": "2026-11-20T12:30:00+01:00"
     }
   },
   {

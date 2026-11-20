@@ -8,12 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 13 Nov 2026 16:17:57 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Nov 2026 11:50:00 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:30:42 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2026 12:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
     <item>
-      <title>Et demokrati på prøve</title>
+      <title>Norges historie: Norge før "Norge"  1:4</title>
+      <description><![CDATA[Et land av vann og jern.
+Med historiker Terje Tvedt]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/0508d620-6927-4cc3-984e-9694475866ea_ba8c711d-1ab7-48c8-b786-86f213140e1b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/0508d620-6927-4cc3-984e-9694475866ea_ba8c711d-1ab7-48c8-b786-86f213140e1b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:24</itunes:duration>
+      <pubDate>Fri, 20 Nov 2026 12:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VR-rKL-iA12fs3-Zhp8nhQdl-KsIpwfe_gWxGA8zo3OA.jpg"/>
+    </item>
+    <item>
+      <title>Der tanker møtes: Et demokrati på prøve</title>
       <description><![CDATA[Et valg mot Trump - men var det et valg for demokratiet?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/1bf8cb50-f19d-424f-b94c-042bfa6c843e_e7382b9a-b622-471c-8a11-5dd8625377de_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/1bf8cb50-f19d-424f-b94c-042bfa6c843e_e7382b9a-b622-471c-8a11-5dd8625377de_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -94,15 +104,6 @@ Et bidrag  til P2s beredskapsdag]]></description>
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ded263a4-43ee-45b0-9263-a443ee25b0e4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>13:40</itunes:duration>
       <pubDate>Sun, 11 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
-    </item>
-    <item>
-      <title>Der tanker møtes: Intelligent liv i MAGA</title>
-      <description><![CDATA[Om tenkerne og ideene bak den mektige MAGA-bevegelsen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ac4cdf9f-c981-4bf0-8cdf-9fc9811bf026_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ac4cdf9f-c981-4bf0-8cdf-9fc9811bf026_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:26</itunes:duration>
-      <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
     </item>
   </channel>

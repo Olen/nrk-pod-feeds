@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Nov 2026 13:07:23 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:29:41 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Tårnet: Hvilket dyr fløy først?</title>
+      <description><![CDATA[Bør få tittelen Tidenes Tøffeste!
+Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns allvitende ekspertise!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/275b7e90-51fb-4c04-afdc-264cb956f986_35ce5fb9-8dbd-497e-b96b-f50e85043785_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/275b7e90-51fb-4c04-afdc-264cb956f986_35ce5fb9-8dbd-497e-b96b-f50e85043785_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:34</itunes:duration>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ojYKXrABrHczLlL8p8_lNQ0EpBr76LSMGg-tLAQFDVow.jpg"/>
+    </item>
     <item>
       <title>Forskningsfronten: Vil du til månen?</title>
       <description><![CDATA[Nasa trenger flere astronauter. Dessuten, endelig er dinosaurblod funnet. Og urskogen er ikke sånn vi trodde
@@ -95,16 +105,6 @@
       <itunes:duration>28:27</itunes:duration>
       <pubDate>Fri, 30 Oct 2026 22:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
-    </item>
-    <item>
-      <title>Tårnet: Døden spesial</title>
-      <description><![CDATA[Hva skjer egentlig når vi dør?
-Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns allvitende ekspertpanel!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/8ae40133-a647-48f3-9831-ce0e73afa645_8711e0ea-bfa4-4a2e-ac98-20973c8902c6_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/8ae40133-a647-48f3-9831-ce0e73afa645_8711e0ea-bfa4-4a2e-ac98-20973c8902c6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:33</itunes:duration>
-      <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/u_0hro9rP2BygwYA21PL8gQ9dJ4-egSWUWvro8oiV9Hg.jpg"/>
     </item>
   </channel>
 </rss>
