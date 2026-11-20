@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Putin, Xi og Trump på toppmøte",
-      "date": "2026-11-19T19:00:00+01:00"
+      "title": "Norge møter England",
+      "date": "2026-11-20T19:00:00+01:00"
     }
   },
   {
@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ingrid Gjessing Linhave / Tete Lidbom / Hilde Skaar",
-      "date": "2026-11-14T14:00:00+01:00"
+      "title": "Sykepleier Sara har en plan for julaften",
+      "date": "2026-11-20T14:46:00+01:00"
     }
   },
   {
@@ -1747,8 +1747,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Anna har en idé (not)",
-      "date": "2026-11-19T06:00:00+01:00"
+      "title": "Markus intervjuer Anders Giæver",
+      "date": "2026-11-20T06:00:00+01:00"
     }
   },
   {
