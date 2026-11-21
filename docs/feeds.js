@@ -1392,8 +1392,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Moralsk panikk",
-      "date": "2026-11-14T06:00:00+01:00"
+      "title": "Satans verk",
+      "date": "2026-11-21T06:00:00+01:00"
     }
   },
   {
@@ -1594,8 +1594,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Rottefangeren: Dobbeltspill (3:3) ",
-      "date": "2026-11-07T06:02:00+01:00"
+      "title": "Kim blir vanlig: Sønnen",
+      "date": "2026-11-21T06:02:00+01:00"
     }
   },
   {
@@ -2126,8 +2126,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Leopold II (1:6)",
-      "date": "2026-11-14T06:00:00+01:00"
+      "title": "Leopold II (2:6)",
+      "date": "2026-11-21T06:00:00+01:00"
     }
   },
   {
