@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Sykepleier Sara har en plan for julaften",
-      "date": "2026-11-20T14:46:00+01:00"
+      "title": "Mathea Josefsen / Nils-Ingar Aadne / Vivild Falk Berg",
+      "date": "2026-11-21T13:15:00+01:00"
     }
   },
   {
@@ -2147,8 +2147,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Var tidenes dyreste sidesprang en honningfelle?",
-      "date": "2026-11-14T14:00:00+01:00"
+      "title": "Fillers eller ikke?",
+      "date": "2026-11-21T14:00:00+01:00"
     }
   },
   {
