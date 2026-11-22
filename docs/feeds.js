@@ -2184,8 +2184,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Julie Bergan: Å tørre å bli avvist",
-      "date": "2026-11-19T06:00:00+01:00"
+      "title": "Panelet: Tradwife og danske menn",
+      "date": "2026-11-22T06:00:00+01:00"
     }
   },
   {
