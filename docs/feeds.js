@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Sliten av å bruke KI?",
-      "date": "2026-11-23T06:00:00+01:00"
+      "title": "Forskningsfronten: Det største i matematikkhistorien",
+      "date": "2026-11-23T20:48:00+01:00"
     }
   },
   {
@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norge møter England",
-      "date": "2026-11-20T19:00:00+01:00"
+      "title": "Fraråder dronningen å snakke med Epstein-kommisjon",
+      "date": "2026-11-23T19:00:00+01:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trumps USA: Mektige menn samla",
-      "date": "2026-11-19T13:30:00+01:00"
+      "title": "Terror uten mål og mening?",
+      "date": "2026-11-23T13:30:00+01:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "P3morgen taxiservice",
-      "date": "2026-11-20T10:00:00+01:00"
+      "title": "Se trash-TV med stolthet!",
+      "date": "2026-11-23T10:00:00+01:00"
     }
   },
   {
@@ -1747,8 +1747,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Markus intervjuer Anders Giæver",
-      "date": "2026-11-20T06:00:00+01:00"
+      "title": "Dynkes i softis",
+      "date": "2026-11-23T06:00:00+01:00"
     }
   },
   {

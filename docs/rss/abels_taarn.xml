@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 23 Nov 2026 08:58:35 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:16:35 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 20:48:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Forskningsfronten: Det største i matematikkhistorien</title>
+      <description><![CDATA[BONUS: Riemannhypotesen har falt! Matematikkens hellige gral. Kanskje det viktigste øyeblikket i mattehistorien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/bbfc50c3-86bf-486a-8168-2e7c6b7bc53c_ce86a246-cd55-449c-9a86-b7d914e607c9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/bbfc50c3-86bf-486a-8168-2e7c6b7bc53c_ce86a246-cd55-449c-9a86-b7d914e607c9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:23</itunes:duration>
+      <pubDate>Mon, 23 Nov 2026 20:48:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uXcEIhhEo-Qyhgz2HULQXQbidazCjbsQa4Ybnnfp4HLg.jpg"/>
+    </item>
     <item>
       <title>Forskningsfronten: Sliten av å bruke KI?</title>
       <description><![CDATA[Du er ikke alene. Dessuten, mystisk mattebok er dekodet. Og elefanter lærer oss noe nytt]]></description>
@@ -96,15 +105,6 @@ Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns al
       <itunes:duration>57:32</itunes:duration>
       <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/QgG9FS44dyZcl4stJqM64QRr8MT6UW61Zh0t-M97JJSg.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten: Ikke spis kompisen din!</title>
-      <description><![CDATA[Kannibalisme er en dårlig idé, har forskere funnet ut. Dessuten, DNA'et ditt er fullt av feil, og glasstriks er endelig avslørt]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/e6514a40-be92-46af-8648-9feac7afdaa6_b5fd9c0b-6bdc-4084-8299-f20670480060_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e6514a40-be92-46af-8648-9feac7afdaa6_b5fd9c0b-6bdc-4084-8299-f20670480060_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:48</itunes:duration>
-      <pubDate>Sat, 31 Oct 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
     </item>
   </channel>
 </rss>
