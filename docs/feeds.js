@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tårnet: Hvilket dyr fløy først?",
-      "date": "2026-11-20T06:00:00+01:00"
+      "title": "Forskningsfronten: Sliten av å bruke KI?",
+      "date": "2026-11-23T06:00:00+01:00"
     }
   },
   {
@@ -69,8 +69,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hallerts knapp",
-      "date": "2026-11-16T06:00:00+01:00"
+      "title": "Mentalitetsmonster",
+      "date": "2026-11-23T06:00:00+01:00"
     }
   },
   {
@@ -823,8 +823,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Å gå kveldstur under en landskamp",
-      "date": "2026-11-16T06:00:00+01:00"
+      "title": "Pastilleske",
+      "date": "2026-11-23T06:00:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Får vi parkpils neste sommer?",
-      "date": "2026-11-20T05:59:00+01:00"
+      "title": "Vil ha like abortregler i hele landet",
+      "date": "2026-11-23T06:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mannen «alle» burde hørt på: Nå spår han ny krise",
-      "date": "2026-11-20T05:59:00+01:00"
+      "title": "Taiwans databrikker: Kan de forhindre storkrig?",
+      "date": "2026-11-23T05:59:00+01:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Den umulige Fosen-løsningen ",
-      "date": "2026-11-20T08:00:00+01:00"
+      "title": "KrF vil doble kontantstøtten",
+      "date": "2026-11-23T08:00:00+01:00"
     }
   },
   {
@@ -2105,8 +2105,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Nyrike nordmenn",
-      "date": "2026-11-16T06:00:00+01:00"
+      "title": "Kunsten å leve i villmarka",
+      "date": "2026-11-23T06:00:00+01:00"
     }
   },
   {
