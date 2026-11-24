@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Pedro Carmona-Alvarez",
-      "date": "2026-11-18T14:00:00+01:00"
+      "title": "Ole Asbjørn Ness",
+      "date": "2026-11-24T14:35:00+01:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Terror uten mål og mening?",
-      "date": "2026-11-23T13:30:00+01:00"
+      "title": "Superkraften",
+      "date": "2026-11-24T13:00:00+01:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trump, Putin og Xi: – Forstår Trump hva som skjer?",
-      "date": "2026-11-19T16:20:00+01:00"
+      "title": "Atomvåpen-satelitt og Libya-angrep: – Ingen har kontroll",
+      "date": "2026-11-24T17:58:00+01:00"
     }
   },
   {
@@ -1493,8 +1493,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Se trash-TV med stolthet!",
-      "date": "2026-11-23T10:00:00+01:00"
+      "title": "Jul med Kevin Lauren",
+      "date": "2026-11-24T10:00:00+01:00"
     }
   },
   {
@@ -1533,8 +1533,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "KrF vil doble kontantstøtten",
-      "date": "2026-11-23T08:00:00+01:00"
+      "title": "Norge på feil klimaside?",
+      "date": "2026-11-24T08:00:00+01:00"
     }
   },
   {
@@ -1747,8 +1747,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dynkes i softis",
-      "date": "2026-11-23T06:00:00+01:00"
+      "title": "Tørr kylling er godt ",
+      "date": "2026-11-24T06:00:00+01:00"
     }
   },
   {
