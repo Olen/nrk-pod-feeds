@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Svettelukt, sexlyder og date på glattcelle",
-      "date": "2026-11-20T12:00:00+01:00"
+      "title": "OnlyFans, trøndersk og sokker i senga",
+      "date": "2026-11-24T06:00:00+01:00"
     }
   },
   {
@@ -164,8 +164,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Juleverkstedtanta",
-      "date": "2026-11-17T06:00:00+01:00"
+      "title": "Dyrekiropraktoren",
+      "date": "2026-11-24T06:00:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vil ha like abortregler i hele landet",
-      "date": "2026-11-23T06:00:00+01:00"
+      "title": "Trump tar æren for Nvidia-sjefens comeback",
+      "date": "2026-11-24T05:59:00+01:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Skole - med Terje Torkildsen",
-      "date": "2026-11-18T06:00:00+01:00"
+      "title": "Velg deg selv - med Oda Gravdal Ulriksen",
+      "date": "2026-11-24T06:00:00+01:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dialektdebatten - hot or not?",
-      "date": "2026-11-20T06:00:00+01:00"
+      "title": "Politikerenes feil?",
+      "date": "2026-11-24T06:00:00+01:00"
     }
   },
   {
@@ -1464,8 +1464,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Taiwans databrikker: Kan de forhindre storkrig?",
-      "date": "2026-11-23T05:59:00+01:00"
+      "title": "Maricarmens kamp: Slik blei bustadkrise til nyval",
+      "date": "2026-11-24T05:59:00+01:00"
     }
   },
   {
@@ -2184,8 +2184,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Panelet: Tradwife og danske menn",
-      "date": "2026-11-22T06:00:00+01:00"
+      "title": "Vegard Harm: Evig singel",
+      "date": "2026-11-24T06:00:00+01:00"
     }
   },
   {
