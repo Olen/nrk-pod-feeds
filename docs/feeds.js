@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Det største i matematikkhistorien",
-      "date": "2026-11-23T20:48:00+01:00"
+      "title": "Forskningsfronten: Billig strøm til deg",
+      "date": "2026-11-25T06:00:00+01:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Superkraften",
-      "date": "2026-11-24T13:00:00+01:00"
+      "title": "Når eit «hei» kan redde liv",
+      "date": "2026-11-25T13:15:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Trump tar æren for Nvidia-sjefens comeback",
-      "date": "2026-11-24T05:59:00+01:00"
+      "title": "Flere rektorer slår alarm om grenseløse elever",
+      "date": "2026-11-25T05:59:00+01:00"
     }
   },
   {
@@ -967,8 +967,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Russell Brand: «Et seksuelt rovdyr»",
-      "date": "2026-11-18T06:00:00+01:00"
+      "title": "Babyfabrikken (1): Hemmeligheten",
+      "date": "2026-11-25T06:00:00+01:00"
     }
   },
   {
@@ -1017,8 +1017,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Velg deg selv - med Oda Gravdal Ulriksen",
-      "date": "2026-11-24T06:00:00+01:00"
+      "title": "Kvile augo - med Marie Tveiten",
+      "date": "2026-11-25T06:00:00+01:00"
     }
   },
   {
@@ -1059,8 +1059,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Hva gjør scrolling med barna?",
-      "date": "2026-11-18T05:00:00+01:00"
+      "title": "Julestress: De beste rådene",
+      "date": "2026-11-25T05:00:00+01:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Politikerenes feil?",
-      "date": "2026-11-24T06:00:00+01:00"
+      "title": "GTA 6 er klin likt GTA 5",
+      "date": "2026-11-25T06:00:00+01:00"
     }
   },
   {
@@ -1248,10 +1248,8 @@ const feeds = [
     "image": "https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygvC2jVWVmVBqsE0MXWtVdgg.jpg",
     "season": null,
     "enabled": false,
-    "last_episode": {
-      "title": "La de si n-ordet",
-      "date": "2026-01-27T06:00:00+01:00"
-    }
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "mitt_liv_med_hund",
@@ -1464,8 +1462,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Maricarmens kamp: Slik blei bustadkrise til nyval",
-      "date": "2026-11-24T05:59:00+01:00"
+      "title": "Frykter atomkatastrofe: Bør Europa være bekymret?",
+      "date": "2026-11-25T05:59:00+01:00"
     }
   },
   {
@@ -1493,8 +1491,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Jul med Kevin Lauren",
-      "date": "2026-11-24T10:00:00+01:00"
+      "title": "Arin er grinch fram til 22. desember!",
+      "date": "2026-11-25T10:00:00+01:00"
     }
   },
   {
@@ -1533,8 +1531,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norge på feil klimaside?",
-      "date": "2026-11-24T08:00:00+01:00"
+      "title": "Likelønnsdagen",
+      "date": "2026-11-25T08:00:00+01:00"
     }
   },
   {
@@ -1874,8 +1872,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Haaland vil ha ribbe. Nå! ",
-      "date": "2026-11-18T06:00:00+01:00"
+      "title": "God sportsånd er for tapere",
+      "date": "2026-11-25T06:00:00+01:00"
     }
   },
   {
@@ -2216,8 +2214,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Et sju minutters karaokemareritt",
-      "date": "2026-11-18T06:00:00+01:00"
+      "title": "Martha ber om hjelp",
+      "date": "2026-11-25T06:00:00+01:00"
     }
   },
   {
