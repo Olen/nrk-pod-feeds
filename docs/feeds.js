@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fraråder dronningen å snakke med Epstein-kommisjon",
-      "date": "2026-11-23T19:00:00+01:00"
+      "title": "Regjeringskaos i Sverige",
+      "date": "2026-11-24T19:00:00+01:00"
     }
   },
   {
@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Er det skamfullt å ha dialekt?",
-      "date": "2026-11-19T22:00:00+01:00"
+      "title": "Milliardsprekk på vei og bane",
+      "date": "2026-11-24T22:05:00+01:00"
     }
   },
   {
