@@ -1091,7 +1091,9 @@
         "description": "Komikerne Martha Leivestad og Galvan Mehidi gjør sitt beste for å ta sterke meninger på alvor. Litt på alvor, i hvert fall.",
         "image": "https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygvC2jVWVmVBqsE0MXWtVdgg.jpg",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "mitt_liv_med_hund",
