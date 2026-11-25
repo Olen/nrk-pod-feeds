@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Regjeringskaos i Sverige",
-      "date": "2026-11-24T19:00:00+01:00"
+      "title": "Budsjettavtale uten MDG",
+      "date": "2026-11-25T19:00:00+01:00"
     }
   },
   {
@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mathea Josefsen / Nils-Ingar Aadne / Vivild Falk Berg",
-      "date": "2026-11-21T13:15:00+01:00"
+      "title": "Dro Karoline på julebord eller jobb?",
+      "date": "2026-11-25T16:20:00+01:00"
     }
   },
   {
@@ -1745,8 +1745,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Tørr kylling er godt ",
-      "date": "2026-11-24T06:00:00+01:00"
+      "title": "Det kom en kråke i studio",
+      "date": "2026-11-25T06:00:00+01:00"
     }
   },
   {
