@@ -293,8 +293,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mitt første møte med Afrika",
-      "date": "2026-11-19T06:00:00+01:00"
+      "title": "Drømmen om gallamiddag",
+      "date": "2026-11-26T06:00:00+01:00"
     }
   },
   {
@@ -330,8 +330,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Ole Asbjørn Ness",
-      "date": "2026-11-24T14:35:00+01:00"
+      "title": "Tore Renberg",
+      "date": "2026-11-26T14:00:00+01:00"
     }
   },
   {
@@ -359,8 +359,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Når eit «hei» kan redde liv",
-      "date": "2026-11-25T13:15:00+01:00"
+      "title": "Trumps USA: Venner & fiender",
+      "date": "2026-11-26T14:00:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Flere rektorer slår alarm om grenseløse elever",
-      "date": "2026-11-25T05:59:00+01:00"
+      "title": "Mange frykter de ikke har råd til jul",
+      "date": "2026-11-26T05:59:00+01:00"
     }
   },
   {
@@ -1046,8 +1046,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Lydboka: «Søsterklokkene»: Søsterklokkene: To ekorn var alt (13/63)",
-      "date": "2026-11-19T06:09:00+01:00"
+      "title": "Lydboka: «Søsterklokkene»: Søsterklokkene: Kjærligheten skulle samme vei (35/63)",
+      "date": "2026-11-26T06:22:00+01:00"
     }
   },
   {
@@ -1072,8 +1072,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kroppskavalkade",
-      "date": "2026-11-19T06:00:00+01:00"
+      "title": "Trusefest",
+      "date": "2026-11-26T06:00:00+01:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "GTA 6 er klin likt GTA 5",
-      "date": "2026-11-25T06:00:00+01:00"
+      "title": "- Pakkiser elsker jul!",
+      "date": "2026-11-26T06:00:00+01:00"
     }
   },
   {
@@ -1462,8 +1462,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Frykter atomkatastrofe: Bør Europa være bekymret?",
-      "date": "2026-11-25T05:59:00+01:00"
+      "title": "Rwanda: Danmarks nye dumpingplass for asylsøkere?",
+      "date": "2026-11-26T05:59:00+01:00"
     }
   },
   {
@@ -1491,8 +1491,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Arin er grinch fram til 22. desember!",
-      "date": "2026-11-25T10:00:00+01:00"
+      "title": "Dette er de vanligste passordene i Norge!",
+      "date": "2026-11-26T10:00:00+01:00"
     }
   },
   {
@@ -1531,8 +1531,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Likelønnsdagen",
-      "date": "2026-11-25T08:00:00+01:00"
+      "title": "Kan grenseløse barn stoppes?",
+      "date": "2026-11-26T08:00:00+01:00"
     }
   },
   {
@@ -1713,8 +1713,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Rap og Country-spesial",
-      "date": "2026-11-19T06:00:00+01:00"
+      "title": "Fire venner og en telefon på telttur",
+      "date": "2026-11-26T06:00:00+01:00"
     }
   },
   {
@@ -1745,8 +1745,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Det kom en kråke i studio",
-      "date": "2026-11-25T06:00:00+01:00"
+      "title": "Kjøpte sokker på McDonalds",
+      "date": "2026-11-26T06:00:00+01:00"
     }
   },
   {
@@ -2182,8 +2182,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Vegard Harm: Evig singel",
-      "date": "2026-11-24T06:00:00+01:00"
+      "title": "Cecilie Fjellhøy: Kjærlighetssvindel",
+      "date": "2026-11-26T06:00:00+01:00"
     }
   },
   {
