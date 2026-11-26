@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Budsjettavtale uten MDG",
-      "date": "2026-11-25T19:00:00+01:00"
+      "title": "Skattelette til de høytlønnede",
+      "date": "2026-11-26T19:00:00+01:00"
     }
   },
   {
@@ -251,8 +251,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Milliardsprekk på vei og bane",
-      "date": "2026-11-24T22:05:00+01:00"
+      "title": "Politisk toppmøte",
+      "date": "2026-11-26T22:05:00+01:00"
     }
   },
   {
@@ -901,8 +901,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Atomvåpen-satelitt og Libya-angrep: – Ingen har kontroll",
-      "date": "2026-11-24T17:58:00+01:00"
+      "title": "Vold og våpen i skolen: Hvordan får vi kontroll?",
+      "date": "2026-11-26T16:56:00+01:00"
     }
   },
   {
