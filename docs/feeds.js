@@ -24,8 +24,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Forskningsfronten: Billig strøm til deg",
-      "date": "2026-11-25T06:00:00+01:00"
+      "title": "Tårnet: Kan vin lukte kun drue?",
+      "date": "2026-11-27T06:00:00+01:00"
     }
   },
   {
@@ -95,8 +95,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "OnlyFans, trøndersk og sokker i senga",
-      "date": "2026-11-24T06:00:00+01:00"
+      "title": "Baksnakk live fra Demokratifestivalen",
+      "date": "2026-11-27T12:00:00+01:00"
     }
   },
   {
@@ -238,8 +238,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Skattelette til de høytlønnede",
-      "date": "2026-11-26T19:00:00+01:00"
+      "title": "Frps alternative budsjett",
+      "date": "2026-11-27T19:00:00+01:00"
     }
   },
   {
@@ -594,10 +594,10 @@ const feeds = [
     "description": "Bli med gjengen i Bablo på nye gøyale sprell! På dette biblioteket kan man bable, tulle og gjøre alt som er rart.",
     "image": "https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwzhkgZYH4VC11qPpfxlloNw.jpg",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "last_episode": {
-      "title": "Jakten på det forsvunne godteriet",
-      "date": "2026-09-25T06:00:00+02:00"
+      "title": "Evens drømmekjæreste?",
+      "date": "2026-11-27T06:01:00+01:00"
     }
   },
   {
@@ -1491,8 +1491,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dette er de vanligste passordene i Norge!",
-      "date": "2026-11-26T10:00:00+01:00"
+      "title": "Arin har aldri skjønt juletreprosessen",
+      "date": "2026-11-27T10:00:00+01:00"
     }
   },
   {
@@ -1745,8 +1745,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kjøpte sokker på McDonalds",
-      "date": "2026-11-26T06:00:00+01:00"
+      "title": "Anna intervjuer Chris Holsten",
+      "date": "2026-11-27T06:00:00+01:00"
     }
   },
   {
@@ -2256,8 +2256,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Norges historie: Norge før \"Norge\"  1:4",
-      "date": "2026-11-20T12:30:00+01:00"
+      "title": "Norges historie:  Vikingtid og dansketid",
+      "date": "2026-11-27T12:00:00+01:00"
     }
   },
   {

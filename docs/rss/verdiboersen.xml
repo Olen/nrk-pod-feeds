@@ -8,14 +8,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 20 Nov 2026 11:30:42 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Nov 2026 12:30:00 +0100</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:55:59 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
     <item>
-      <title>Norges historie: Norge før "Norge"  1:4</title>
-      <description><![CDATA[Et land av vann og jern.
-Med historiker Terje Tvedt]]></description>
+      <title>Norges historie:  Vikingtid og dansketid</title>
+      <description><![CDATA[Fra imperium til koloni
+Med Terje Tvedt]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/f3356acc-9267-44d2-b646-23e8125ec190_e2a9ee76-91ef-430c-a6bf-cf65bc95bcac_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/f3356acc-9267-44d2-b646-23e8125ec190_e2a9ee76-91ef-430c-a6bf-cf65bc95bcac_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:02</itunes:duration>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
+    <item>
+      <title>Norges historie: Norge før "Norge" (1:4)</title>
+      <description><![CDATA[Et land av vann og jern. Med historiker Terje Tvedt.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/0508d620-6927-4cc3-984e-9694475866ea_ba8c711d-1ab7-48c8-b786-86f213140e1b_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/0508d620-6927-4cc3-984e-9694475866ea_ba8c711d-1ab7-48c8-b786-86f213140e1b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>48:24</itunes:duration>
@@ -95,15 +104,6 @@ Et bidrag  til P2s beredskapsdag]]></description>
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/8b001b39-ad1f-48b5-8887-960d335eab3e_d1d9fa20-d0f2-4ecd-a37a-12ea372a6974_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>21:55</itunes:duration>
       <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
-    </item>
-    <item>
-      <title>Hva betyr ...?: Eksistensen går forut for essensen</title>
-      <description><![CDATA[Du må selv skape ditt liv]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ded263a4-43ee-45b0-9263-a443ee25b0e4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ded263a4-43ee-45b0-9263-a443ee25b0e4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:40</itunes:duration>
-      <pubDate>Sun, 11 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
     </item>
   </channel>
