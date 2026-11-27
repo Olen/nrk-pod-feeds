@@ -177,8 +177,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mona Høvring- Vanessa, den lille jenta som vakler, leter og tviler.",
-      "date": "2026-11-20T06:00:00+01:00"
+      "title": "Karl Ove Knausgård - Livet kan være uforsonlig",
+      "date": "2026-11-27T06:00:00+01:00"
     }
   },
   {
@@ -272,8 +272,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Urix x GTA",
-      "date": "2026-11-20T06:00:00+01:00"
+      "title": "Vi må snakke om Epstein (unntatt Mette-Marit)",
+      "date": "2026-11-27T06:00:00+01:00"
     }
   },
   {
@@ -479,8 +479,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Årets ord, Jeff Bezos og dialektskam",
-      "date": "2026-11-20T08:00:00+01:00"
+      "title": "Vikingtidsmuseet, julefeiring og arkitekturopprør",
+      "date": "2026-11-27T08:00:00+01:00"
     }
   },
   {
@@ -836,8 +836,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Mange frykter de ikke har råd til jul",
-      "date": "2026-11-26T05:59:00+01:00"
+      "title": "Julebordene endrer seg",
+      "date": "2026-11-27T05:59:00+01:00"
     }
   },
   {
@@ -1059,8 +1059,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Julestress: De beste rådene",
-      "date": "2026-11-25T05:00:00+01:00"
+      "title": "På hjertet: Matfokuset i julen",
+      "date": "2026-11-27T05:00:00+01:00"
     }
   },
   {
@@ -1180,8 +1180,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "- Pakkiser elsker jul!",
-      "date": "2026-11-26T06:00:00+01:00"
+      "title": "–Om du dør, jeg gaver deg opp! ",
+      "date": "2026-11-27T06:00:00+01:00"
     }
   },
   {
@@ -1462,8 +1462,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Rwanda: Danmarks nye dumpingplass for asylsøkere?",
-      "date": "2026-11-26T05:59:00+01:00"
+      "title": "Historiens største bankran: Står atommakt bak?",
+      "date": "2026-11-27T05:59:00+01:00"
     }
   },
   {
@@ -1531,8 +1531,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kan grenseløse barn stoppes?",
-      "date": "2026-11-26T08:00:00+01:00"
+      "title": "Eit grønt nei og eit grønt ja",
+      "date": "2026-11-27T08:00:00+01:00"
     }
   },
   {
@@ -1885,8 +1885,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Gullforgylt kladeis ",
-      "date": "2026-11-20T06:00:00+01:00"
+      "title": "En kveld på MONS",
+      "date": "2026-11-27T06:00:00+01:00"
     }
   },
   {
@@ -2227,8 +2227,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Kamerun: Terrorist eller frigjøringshelt?",
-      "date": "2026-11-20T06:00:00+01:00"
+      "title": "Spania: Kan ytre høyre vinne på boligkrisa",
+      "date": "2026-11-27T06:00:00+01:00"
     }
   },
   {
