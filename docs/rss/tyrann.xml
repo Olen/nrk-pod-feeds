@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 21 Nov 2026 09:44:29 +0000</lastBuildDate>
-    <pubDate>Sat, 21 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 28 Nov 2026 10:19:36 +0000</lastBuildDate>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
+    <item>
+      <title>Leopold II (3:6)</title>
+      <description><![CDATA[Mens Stanley erobrer Kongo for kongen, overbeviser Leopold verdens stormakter om at han er i landet for å beskytte de innfødte.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/1f008480-2dcb-47ae-9438-914ba4b7ef1e_dcc34f0a-ea9a-43fa-93ea-ee5c52a9c481_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/1f008480-2dcb-47ae-9438-914ba4b7ef1e_dcc34f0a-ea9a-43fa-93ea-ee5c52a9c481_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:21</itunes:duration>
+      <pubDate>Sat, 28 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_v7zTDvr4OYCnKi8DU-cBAmLLzG73JtV0_-uRniQvm8g.jpg"/>
+    </item>
     <item>
       <title>Leopold II (2:6)</title>
       <description><![CDATA[Henry Morton Stanley er eventyrer, kjendis, brutal og hensynsløs. Akkurat en sånn type kong Leopold II trenger for å kuppe Kongo.]]></description>
@@ -103,15 +113,6 @@ The Trial of Macías in Equatorial Guinea: The Story of a Dictatorship - Alejand
       <enclosure url="https://podkast.nrk.no/fil/tyrann/5a3ceae2-8aa8-4924-bcea-e28aa8492487_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>32:28</itunes:duration>
       <pubDate>Sat, 05 Sep 2026 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/W5bM4maq2U-OwYgLuQhlOQcHq6RPZ4MOSRa3TsfvGtOg.jpg"/>
-    </item>
-    <item>
-      <title>Gaddafi (2:5)</title>
-      <description><![CDATA[Muammar Gaddafi vokser opp i ruinene av verdenskrigen. I det ødelagte Libya gjør landets nye konge minimalt for å løse problemene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/49636cf6-8680-470b-a36c-f68680a70b69_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/49636cf6-8680-470b-a36c-f68680a70b69_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:21</itunes:duration>
-      <pubDate>Sat, 05 Sep 2026 06:01:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/W5bM4maq2U-OwYgLuQhlOQcHq6RPZ4MOSRa3TsfvGtOg.jpg"/>
     </item>
   </channel>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 21 Nov 2026 09:44:18 +0000</lastBuildDate>
-    <pubDate>Sat, 21 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 28 Nov 2026 10:19:29 +0000</lastBuildDate>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    <item>
+      <title>Woke jul</title>
+      <description><![CDATA[Dansk film om pedofil mann er rystende god, dårlig tannpuss kan sende foreldre i fengsel, og er de antiwoke mest woke av alle?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/a4b76293-eac4-4336-837c-dc71daf49e25_e3a86295-4d28-4786-959e-e19de87bad71_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/a4b76293-eac4-4336-837c-dc71daf49e25_e3a86295-4d28-4786-959e-e19de87bad71_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Sat, 28 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
     <item>
       <title>Satans verk</title>
       <description><![CDATA[Datasentre – snyltegjester eller redningsmenn? 
@@ -96,15 +105,6 @@ Er det norsken, svensken eller dansken?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/1a22aabe-1b61-4a62-a2aa-be1b61ba62d8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:02</itunes:duration>
       <pubDate>Sat, 26 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
-    </item>
-    <item>
-      <title>Vanskelige venner</title>
-      <description><![CDATA[Hvorfor gjorde Sosialdemokratene tidenes dårligste valg i Sverige? Truer ukrainsk korrupsjon Vesten? Og kan jenter egentlig ha guttevenner?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/3fb3c06e-27f5-4582-b3c0-6e27f5f5822c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/3fb3c06e-27f5-4582-b3c0-6e27f5f5822c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:03</itunes:duration>
-      <pubDate>Sat, 19 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
     </item>
   </channel>

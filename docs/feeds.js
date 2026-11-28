@@ -1390,8 +1390,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Satans verk",
-      "date": "2026-11-21T06:00:00+01:00"
+      "title": "Woke jul",
+      "date": "2026-11-28T06:00:00+01:00"
     }
   },
   {
@@ -2124,8 +2124,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Leopold II (2:6)",
-      "date": "2026-11-21T06:00:00+01:00"
+      "title": "Leopold II (3:6)",
+      "date": "2026-11-28T06:00:00+01:00"
     }
   },
   {
