@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 25 Nov 2026 22:29:02 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Nov 2026 16:20:00 +0100</pubDate>
+    <lastBuildDate>Sat, 28 Nov 2026 18:54:05 +0000</lastBuildDate>
+    <pubDate>Sat, 28 Nov 2026 13:15:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Torbjørn Røe Isaksen / Andrea Berntzen / Jon Ranes</title>
+      <description><![CDATA[TILBAKEMELDING: Hvordan har det gått med svigermor og Trine? PROBLMER: Har verdens beste kjæreste, men stalker fortsatt eksen / Snekkeren som aldri kom ut av do / Familien Mellom barken og veden / Hva er Herrenes Tale i 2026? / Kan det bli koslig å være arbeidsledig? / Kurrere ubalansen i vennskapet / Tanker om tvangstanker / Nostalgisk hamster trenger mere plass!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/2be9b7ba-4f34-4da1-ae92-bdc35d957b4e_73a6fb56-ca46-48a5-9452-2e8d7059ac2f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/2be9b7ba-4f34-4da1-ae92-bdc35d957b4e_73a6fb56-ca46-48a5-9452-2e8d7059ac2f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:24:53</itunes:duration>
+      <pubDate>Sat, 28 Nov 2026 13:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/q98tIm-AVbfEdgKS6D7qYADz-ZTI50YPdGBf6mkp_fNw.jpg"/>
+    </item>
     <item>
       <title>Dro Karoline på julebord eller jobb?</title>
       <description><![CDATA[Live er tilbake fra sykdom og vi hører tilbake fra Karoline og Linni som vi hjalp forrige uke!]]></description>
@@ -92,15 +101,6 @@
       <itunes:duration>22:56</itunes:duration>
       <pubDate>Thu, 29 Oct 2026 15:45:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA.jpg"/>
-    </item>
-    <item>
-      <title>Simon Nitsche /  Silje Nordnes / Erik Solbakken</title>
-      <description><![CDATA[TILBAKEMELDING: Hvordan går det med fråtsinga til Ester? / PROBLEMER: Fortapt mann / Flørteopplevelsen er ulik / Foreldrene våre har aldri møttes / Samtalene jeg kunne vært foruten / Vanskelig å få, begge veier / Jeg har begynt å ta avstand / Svigers pisser med døra åpen / Relasjoner, invitasjoner og selskap]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/fa2a8a51-16f3-46a6-848e-f53e2f8622e6_3cc0e849-187f-460d-8992-02ff29a0ae51_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/fa2a8a51-16f3-46a6-848e-f53e2f8622e6_3cc0e849-187f-460d-8992-02ff29a0ae51_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:09:27</itunes:duration>
-      <pubDate>Sat, 24 Oct 2026 13:10:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SRKr2JVbygI2p1J2RthVjA3hPewOBVE8r6y0Pzk7qhKg.jpg"/>
     </item>
   </channel>
 </rss>

@@ -1093,8 +1093,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Dro Karoline på julebord eller jobb?",
-      "date": "2026-11-25T16:20:00+01:00"
+      "title": "Torbjørn Røe Isaksen / Andrea Berntzen / Jon Ranes",
+      "date": "2026-11-28T13:15:00+01:00"
     }
   },
   {
@@ -2145,8 +2145,8 @@ const feeds = [
     "season": null,
     "enabled": true,
     "last_episode": {
-      "title": "Fillers eller ikke?",
-      "date": "2026-11-21T14:00:00+01:00"
+      "title": "Ei varm jakke før jul",
+      "date": "2026-11-28T15:00:00+01:00"
     }
   },
   {
